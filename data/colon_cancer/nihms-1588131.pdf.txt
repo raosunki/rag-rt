@@ -1,0 +1,1663 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An RCT to Increase Breast and Colorectal Cancer Screening
+
+
+An RCT to Increase Breast and Colorectal Cancer Screening
+
+Victoria L. Champion, PhD1,2, Shannon M. Christy, PhD3,4, William Rakowski, PhD5, David 
+R. Lairson, PhD6, Patrick O. Monahan, PhD7, Wambui G. Gathirua-Mwangi, PhD1, Timothy 
+E. Stump, MA7,8, Erika Biederman, BSN1, Carla D. Kettler, BS7, Susan M. Rawl, PhD9
+
+1Department of Community and Health Systems, Indiana University School of Nursing, 
+Indianapolis, Indiana
+
+2Indiana University Simon Cancer Center, Indianapolis, Indiana
+
+3Department of Health Outcomes and Behavior, Division of Population Science, H. Lee Moffitt 
+Cancer Center and Research Institute, Tampa, Florida
+
+4Department of Oncologic Sciences, Morsani College of Medicine, University of South Florida, 
+Tampa, Florida
+
+5Professor Emeritus, Brown University, Providence, Rhode Island
+
+6School of Public Health, University of Texas Health Science Center at Houston, Houston, Texas
+
+7Department of Biostatistics, Indiana University School of Medicine, Richard M. Fairbanks School 
+of Public Health, Indianapolis, Indiana
+
+8Department of Psychology, Purdue School of Science, Indianapolis, Indiana
+
+9Department of Science of Nursing Care, Indiana University School of Nursing, Indianapolis, 
+Indiana
+
+Abstract
+
+Introduction: Adherence to breast and colorectal cancer screening reduce mortality from these 
+
+cancers, yet screening rates remain suboptimal. This 2 X 2 RCT compared three theory-based 
+
+interventions to usual care to simultaneously increase breast and colon cancer screening in women 
+
+who were non adherent to both at study entry.
+
+Study design: RCT.
+
+Setting/participants: Women (N=692) who were non-adherent to both breast and colon cancer 
+
+screening and aged 51–75 years were recruited. Enrollment, intervention delivery, and data 
+
+collection were completed between 2013 and 2017 and data analyzed in 2018.
+
+Address correspondence to: Victoria L. Champion, PhD, Indiana University School of Nursing, 600 Barnhill Drive, NU 317D, 
+Indianapolis IN 46202. vchampio@iu.edu. 
+
+Trial registration: This study is registered with the clinical trials identifier NCT03279198 at www.clinicaltrials.gov.
+
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our 
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review 
+of the resulting proof before it is published in its final form. Please note that during the production process errors may be discovered 
+which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+HHS Public Access
+Author manuscript
+Am J Prev Med. Author manuscript; available in PMC 2022 February 24.
+
+Published in final edited form as:
+Am J Prev Med. 2020 August ; 59(2): e69–e78. doi:10.1016/j.amepre.2020.03.008.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+https://clinicaltrials.gov/ct2/show/NCT03279198
+http://www.clinicaltrials.gov/
+
+
+Intervention: The randomized intervention included four groups: three intervention arms 
+
+(personally tailored messages using a web-based intervention, phone delivery by a trained 
+
+navigator, or both) compared to usual care. Women at average risk for colon cancer were allowed 
+
+to select either colonoscopy or stool test as their preferred colon cancer screening. Mammography 
+
+was promoted for breast cancer screening.
+
+Main outcome measures: Outcome data at 6 months included self-report and medical records 
+
+for screening activity.
+
+Results: All intervention arms significantly increased receipt of either a mammogram or 
+
+stool test compared with control (web: p<0.0249, phone: p<0.0001, web + phone: p<0.0001). 
+
+When considering receipt of both mammogram and stool test, all intervention arms were 
+
+significantly different from usual care (web: p<0.0249, phone: p<0.0003, web + phone: p<0.0001). 
+
+Additionally, women who were adherent to mammography had a 4.5 times greater odds of 
+
+becoming adherent to colonoscopy.
+
+Conclusions: The tailored intervention simultaneously supporting both breast and colon cancer 
+
+screening significantly improved rates of obtaining one of the screenings and increased receipt of 
+
+both tests.
+
+INTRODUCTION
+
+Breast cancer (BC) and colorectal cancer (CRC) together account for 22% of all 
+
+cancer deaths among U.S. women, despite the fact that guideline-based screening could 
+
+significantly reduce mortality from both cancers.1 Both BC and CRC screening rates are 
+
+low among U.S. women, with 64% adherent to BC screening and 62.2% adherent to CRC 
+
+guidelines.2 Current recommendations for average-risk women include mammography either 
+
+annually (screening can start at age 40 years) or biannually (for those aged 55 years and 
+
+older), and the choice of multiple CRC screening tests (e.g., fecal immunochemical test 
+
+[FIT] annually or colonoscopy every 10 years) for individuals aged 50–75 years.1,2
+
+In the last 2 decades, tailored interventions to increase either BC or CRC screening alone 
+
+have been tested using a variety of media.3–10 Most studies have found that tailored 
+
+messages significantly increased screening and that interventions with several points of 
+
+contact (e.g., print and telephone) were generally more effective than a single contact.
+
+Although interventions targeting only one screening have dominated the research literature, 
+
+a few researchers have investigated interventions to simultaneously increase BC and 
+
+CRC screening. For instance, low-income participants were randomized to mailed letters, 
+
+automated telephone messaging, mailed stool blood kits, and point-of-care prompts 
+
+compared to usual care. Both BC screening and CRC screening were increased with the 
+
+biggest increase realized in CRC screening after mailed receipt of a stool blood kit.11 
+
+A second study randomized primary care patients to either personalized mailed letters, 
+
+automated telephone calls, or a combination of both that included messages for the needed 
+
+screening (mammography, CRC screening, or both).
+
+Researchers found a significant intervention effect for combining a personalized letter 
+
+and automated call compared with an intervention using either alone.12 Most recently, a 
+
+Champion et al. Page 2
+
+Am J Prev Med. Author manuscript; available in PMC 2022 February 24.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+two-group delayed treatment trial randomized 116,407 Medicaid participants who were 
+
+overdue for one or both screenings to a persuasive messaging letter for either mammography 
+
+or colonoscopy with telephone support coupled with a $20 incentive if screening was 
+
+completed. Separate letters were sent as prompts for encouraging mammography or CRC 
+
+screening depending on need. Both receipt of a mammogram and colonoscopy were 
+
+significantly higher in the treatment group than control.13
+
+Both breast and colon cancer share common risk factors such as age and family history, 
+
+and not surprisingly, research has demonstrated that screening behaviors for BC and CRC 
+
+are positively correlated.14,15 Although some interventions have included both BC and CRC 
+
+screening messages simultaneously, most have delivered separate messages, not capitalizing 
+
+on the potential that increasing one screening may enhance the intervention effect on 
+
+the other. In a combined intervention delivered simultaneously, women from federally 
+
+qualified health clinics in rural Louisiana who were non-adherent to both breast and colon 
+
+cancer screening were randomized to enhanced care, health literacy–informed education, or 
+
+health literacy–informed education with nurse support. The combination of health literacy 
+
+education and nurse support was more than two times more effective in increasing both 
+
+screenings than health literacy–informed education only.16
+
+The current randomized prospective trial supported by the National Cancer Institute sought 
+
+to simultaneously increase both BC and CRC screening in women who were non-adherent to 
+
+both screening behaviors. A 2 X 2 factorial design was used to test tailored content delivered 
+
+by a web intervention, a phone intervention, or a combination of both the web and phone 
+
+intervention compared to usual care. Tailored intervention content included messages for 
+
+perceived and actual risk, knowledge, benefits and barriers to screening, self-efficacy, test 
+
+preference, and access to obtaining a stool blood test or information promoting scheduling 
+
+mammography or colonoscopy. If women had a strong family history of CRC, as defined by 
+
+the American Cancer Society, the intervention focused on colonoscopy as the recommended 
+
+CRC screening modality.17,18 Women were identified as higher than average risk if they had 
+
+one first-degree relative who was diagnosed with colorectal cancer before age 60 years or 
+
+two first-degree relatives diagnosed after age 60 years. If the woman was at average risk, she 
+
+was allowed to choose either a stool test or colonoscopy as a preferred screening. Although 
+
+the desired outcome was receipt of both a mammogram and CRC screening test, obtaining at 
+
+least one of the tests was also a desirable outcome. Therefore, research questions that guided 
+
+the study for this dual outcome intervention were:
+
+1. Is there a difference between usual care and the intervention arms (web, phone, 
+
+or web + phone intervention) on adherence to obtaining either a mammogram 
+
+or CRC screening, or both a mammogram and CRC (stool test or colonoscopy) 
+
+screening?
+
+2. Did women who became adherent to mammography by 6 months post-
+
+intervention (atTime 3 [T3]) have greater odds of becoming adherent to any 
+
+CRC screening (stool test or colonoscopy) at T3?
+
+Champion et al. Page 3
+
+Am J Prev Med. Author manuscript; available in PMC 2022 February 24.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+METHODS
+
+This study was a subset analysis of an RCT reported in another manuscript.19 About half 
+
+of women accrued to the parent study were adherent to BC screening but not adherent to 
+
+CRC screening, and half were non-adherent to both CRC and BC screening. This manuscript 
+
+details the intervention and outcomes delivered to this subset of women non-adherent to both 
+
+screenings. Figure 1 illustrates the consort diagram for the women who were non-adherent 
+
+to both CRC and BC screening.
+
+Study Sample
+
+Two healthcare systems that included primary care practices participated. Medical records 
+
+from each healthcare system identified women non-adherent to both BC and CRC screening. 
+
+An encrypted file of women identified as non-adherent was sent to a Survey Center 
+
+supported through Indiana University. The Survey Center sent mailed letters explaining 
+
+the study with a postage paid opt-out postcard or an 800 opt-out number if they did not 
+
+want to be contacted. Women who had not opted out by 2 weeks were called by the Survey 
+
+Center and if they expressed interest, verbal confirmation of breast and colorectal cancer 
+
+screening status was obtained by trained interviewers. Following verbal consent, women 
+
+were randomized to one of four groups: (1) usual care, (2) tailored web-based program, 
+
+(3) tailored phone counseling, or (4) a web-based and phone counseling intervention. 
+
+Randomization to study arm was performed in a Microsoft SQL database, using SQL 
+
+random ordering functions without stratification. Women were interviewed at baseline 
+
+followed by an intervention that simultaneously encouraged being screened for BC and 
+
+CRC. Women were again interviewed at 4 weeks and 6 months post-intervention. Following 
+
+verbal consent and baseline interview, a Health Portability and Accountability Form was 
+
+mailed to enrolled participants to allow investigators to access medical records at 6 months. 
+
+Participants also had the opportunity to complete the medical records release form online. 
+
+Medical records were abstracted at 6 months to confirm self-reported screening data. A 
+
+$20 gift certificate was mailed to participants following each data collection. Women were 
+
+enrolled, intervention delivered, and all data collected between 2013 and 2017. The study 
+
+was approved by the IRB at Indiana University and at the health system level. This study is 
+
+registered with the clinical trials identifier NCT03279198 at www.clinicaltrials.gov.
+
+Women aged 51–75 years who were non-adherent to CRC and BC screening guidelines 
+
+and had access to the Internet were eligible to participate. Non-adherence was defined by 
+
+not having: either a fecal occult blood test or a FIT in the last 15 months, sigmoidoscopy 
+
+>5 years ago, or colonoscopy >10 years ago and a mammogram in the last 15 months. 
+
+Although guidelines for both mammogram and FIT called for annual testing, a 15-month 
+
+window for FIT and mammogram allowed a grace period for annual screening before 
+
+women were considered non-adherent. Women were excluded from the study if they had: a 
+
+personal history of CRC, colorectal polyps, or inflammatory bowel disease and any medical 
+
+conditions that would prohibit CRC screening. At baseline, information on family history of 
+
+CRC and BC was obtained.
+
+Champion et al. Page 4
+
+Am J Prev Med. Author manuscript; available in PMC 2022 February 24.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+https://clinicaltrials.gov/ct2/show/NCT03279198
+http://www.clinicaltrials.gov/
+
+
+Intervention
+
+The tailored messages supporting the interventions were developed based on the Theory 
+
+of Planned Behavior, Health Belief Model, and Transtheoretical Model, which identified 
+
+demographic variables, knowledge and beliefs, and past experiences to predict behavior 
+
+change.20–25
+
+The web-based program was built to provide tailored messages based on the individual’s 
+
+knowledge; perceived and actual risk of BC and CRC; and benefits, barriers, and self-
+
+efficacy for both BC and CRC screening. The web-based program first queried women about 
+
+demographics and cancer/screening-related beliefs. After women entered answers to queries, 
+
+tailored messages were delivered in real time via an algorithm built into the interactive 
+
+program. Because women were non-adherent to both BC and CRC screenings, intervention 
+
+messages simultaneously addressed the need to become adherent to both screenings. Women 
+
+at higher-than-average risk for CRC received an intervention that encouraged colonoscopy 
+
+for CRC screening, whereas women at average risk could select either stool test or 
+
+colonoscopy followed by program content consistent with their preferred test. Video clips 
+
+illustrated the screening procedures of mammography, stool tests, and colonoscopy. Audio 
+
+dialogue accompanied each question, allowing women with low literacy to use the program. 
+
+The web-based program had a talk show format. Women who had not completed the 
+
+intervention by 4 weeks were sent a reminder e-mail.
+
+A single phone-based tailored intervention (average time of 19 minutes) delivered tailored 
+
+messages consistent with algorithms used in the web-based programing. Participants were 
+
+asked if they wanted a mailed FIT or scheduling of an appointment. Phone interventionists 
+
+were trained during a 2-day program with role playing. With the consent of the participant, 
+
+all telephone interventions were audio recorded for quality control, and the audio tapes were 
+
+later reviewed for appropriate delivery of content using a fidelity checklist.
+
+The combined intervention prompted women to first complete the web program followed by 
+
+the phone intervention that was delivered 2–4 weeks later. The average time for delivery of 
+
+the phone intervention in this arm was similar to the average time used to deliver the phone 
+
+intervention alone (19 minutes).
+
+Women received usual care from their healthcare providers and depending on the provider 
+
+may have received a postcard reminder for cancer screenings.
+
+Measures
+
+Demographic variables, family history, and cancer screening history were assessed using 
+
+standard questions at baseline and at 6 months. Screening beliefs were assessed with scales 
+
+that have been developed and tested for validity and reliability in past research.26–28 The 
+
+belief scales assessed perceived risk, self-efficacy, fatalism, fear, as well as benefits of and 
+
+barriers to BC and CRC screening. Intent to screen for BC and CRC were assessed by 
+
+questions used in past research.29
+
+The outcomes of interest were defined as either: receipt of either a mammogram or 
+
+CRC screening (stool test or colonoscopy) or receipt of both a CRC screening test and 
+
+Champion et al. Page 5
+
+Am J Prev Med. Author manuscript; available in PMC 2022 February 24.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+mammogram. The outcomes were assessed with a combination of a 6-month self-report and 
+
+medical records audit (Figure 2). Use of both self-report and medical record data served to 
+
+decrease potential bias due to missing data in either interview or medical record information. 
+
+The κ coefficient of chance-corrected agreement between self-report and medical records 
+
+among those who had both sources of data was 0.71 for mammography, 0.76 for stool test, 
+
+and 0.85 for colonoscopy. If either self-report or medical records indicated that a screening 
+
+test was received, the outcome variable was scored as “yes.”
+
+Statistical Analysis
+
+Statistical analyses were conducted in 2018. All groups were compared for distributional 
+
+properties on baseline characteristics using the general linear model omnibus F-test for 
+
+continuous variables and Pearson chi-square test for categorical variables. A binary logistic 
+
+regression was used for analyses of intervention effect. Demographic and other theoretically 
+
+based variables were entered as potential confounders of the relationship between the 
+
+interventions and mammography or CRC screening.30 Wald chi-square tests, AORs, and 
+
+95% CIs were used to test independent variables and covariates in the logistic regression 
+
+models. Interactions between the intervention and baseline covariates were tested for 
+
+potential moderating effects. All tests were two-sided, using α=0.05, except moderating 
+
+effects, which were tested using α=0.01 because they were considered exploratory. The 
+
+study was designed to achieve a sample size of ≥100 in each of the three groups at 6 months, 
+
+considering attrition, to insure ≥80% power to detect 20% differences in 6-month screening 
+
+between any pair of randomized groups. Table 2 shows the total and group sample sizes 
+
+unadjusted for covariates. The Table 3 footnote provides analysis sample sizes for models 
+
+adjusted for covariates which was slightly greater on average than 100 per arm. An intent-to-
+
+treat analysis was used (i.e., participants were analyzed according to randomized groups 
+
+regardless of behavioral dosage of intervention received and the study team attempted to 
+
+obtain medical record-based screening outcomes for all women including for participants 
+
+who were missing their follow-up interviews).
+
+RESULTS
+
+A total of 692 women met eligibility, signed a written consent form, and were randomized 
+
+to one of the four groups (Figure 1). Although groups were randomized, a few baseline 
+
+characteristics are expected to differ by chance. Randomized groups were significantly 
+
+different at the 0.05 level for the number the times they saw a healthcare provider in 
+
+the past year, total number of self-reported health problems, limitation of activities due 
+
+to depression (yes versus no), and BMI. These were included as covariates along with 
+
+other theoretically identified variables, all of which are known to be least moderately 
+
+associated with the screening outcomes (Table 1). Furthermore, estimated SEs were similar 
+
+for adjusted and unadjusted models, and Hosmer–Lemeshow goodness-of-fit tests were not 
+
+significant (α=0.05) for any models, demonstrating absence of overfitting and model misfit, 
+
+respectively. The average age for women across intervention groups was 58.7 (SD=6.0) 
+
+years. More than 28% completed ≥4 years of college, 43% completed some college, and 
+
+29% completed high school or less. Most women were Caucasian (85%). Of note, only 26% 
+
+Champion et al. Page 6
+
+Am J Prev Med. Author manuscript; available in PMC 2022 February 24.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+were included in the normal BMI category; 27% were considered overweight and 47% were 
+
+obese.
+
+Research Question 1: Is there a difference, while controlling for baseline characteristics, 
+
+between usual care and the intervention arms (web, phone, or web + phone intervention) 
+
+on adherence to obtaining either a mammogram or CRC screening, or both a mammogram 
+
+and CRC screening? Unadjusted rates are shown in Table 2; results are emphasized while 
+
+controlling for baseline-imbalanced variables and theoretically potentially confounding 
+
+covariates. In Table 3, AORs are listed by intervention groups for receipt of either 
+
+mammogram or stool test or both, and receipt of either mammogram or colonoscopy or 
+
+both. Tests for receipt of either mammogram or stool test indicated that all intervention 
+
+arms were significantly more efficacious than usual care: (web: p<0.0249, phone: p<0.0001, 
+
+web + phone: p<0.0001). Receipt of either mammogram or colonoscopy did not differ by 
+
+intervention arms and usual care (Table 3).
+
+The second part of Research Question 1 was to determine if intervention groups differed 
+
+when the outcome was receipt of both BC and CRC screening (either stool test or 
+
+colonoscopy). When considering the outcome of receiving both mammogram and stool test, 
+
+all intervention arms were significantly different from usual care: (web: p<0.0249, phone: 
+
+p=0.0003, web + phone: p<0.0001) (Table 3). When considering both a mammogram and 
+
+colonoscopy, intervention groups did not differ from usual care. No moderation effect was 
+
+found for analyses of Research Question 1. A sensitivity analysis was run for participants 
+
+missing both medical record and interview for T3 screening outcome. When it was assumed 
+
+missing data be “no” for the screening outcomes, results were similar to findings reported in 
+
+Table 3.
+
+Research Question 2: Did women who became adherent to mammography by 6 months 
+
+post-intervention (at T3) have a greater odds of becoming adherent to any CRC screening 
+
+(stool test or colonoscopy) at T3? A binary logistic regression model was used to test 
+
+the association between adherence to BC screening and CRC screening, with stool test 
+
+or colonoscopy as dependent variables. The independent variable of interest was T3 
+
+mammography screening, and the baseline characteristics were adjusted for as in the 
+
+earlier models. There was not a significant interaction between the association of T3 
+
+mammography screening, and either T3 stool screening or T3 colonoscopy screening, by 
+
+randomized groups. Therefore, results are shown for all groups combined (Table 4). Women 
+
+who became adherent to a mammogram at 6 months post-intervention did not have a greater 
+
+odds to complete a stool test (p<0.1574) but had a 4.5 times greater odds to complete 
+
+a colonoscopy (p<0.001) while controlling for demographic and theoretically important 
+
+variables.
+
+DISCUSSION
+
+When testing an intervention that was designed to simultaneously increase adherence to both 
+
+BC and CRC screening, all three intervention arms significantly increased women getting 
+
+either a mammogram or a stool test and also increased the receipt of obtaining both a 
+
+mammogram and stool test. However, the intervention arms varied in effectiveness. Women 
+
+Champion et al. Page 7
+
+Am J Prev Med. Author manuscript; available in PMC 2022 February 24.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+in the web-only intervention had more than two times greater odds of receiving at least one 
+
+screening (mammogram or stool test), whereas women in an intervention arm who received 
+
+a phone call had five to six times greater odds of receiving at least one of the screenings. The 
+
+obvious efficacy of the phone component in promoting either BC screening or stool testing 
+
+over usual care, with effect sizes larger than that for web over usual care, was probably 
+
+influenced by the telephone interventionist offering a mailed stool kit to be returned in 
+
+a postage-paid envelope. A smaller effect size in the web-only group could be related to 
+
+intervention uptake, which was less for women in the web-only group (n=81) compared 
+
+with the phone group (n=26) and phone + web group (n=33). The web intervention required 
+
+participants to call a toll-free number and actively request a stool test be mailed to their 
+
+home. By contrast, there was not a significant effect for any intervention when considering 
+
+uptake of mammography and colonoscopy.
+
+Two issues may be relevant to the significant intervention effect on stool test. First, average-
+
+risk women comprised 95% of the sample, and these women were allowed to select either 
+
+a stool test or colonoscopy to complete CRC screening. Most women (66%) selected stool 
+
+testing as their preferred screening test. Myers et al.31 found that those with a personal 
+
+preference for stool test compared with colonoscopy were more likely to be screened 
+
+following a personal navigation, which was essentially the active component of this study’s 
+
+phone intervention. Other research has found that directly mailing stool test kits significantly 
+
+increased CRC screening rates.32 By contrast, a multimodal intervention in a safety net 
+
+primary care practice found a significant increase in CRC screening intervention compared 
+
+with control (37.7% vs 16.7%) when participants were allowed to select type of CRC 
+
+screening.33 Therefore, when the preferred CRC screening test was a stool test, interventions 
+
+significantly increased receipt of either breast or CRC screening compared with controls.
+
+In this study, the overall purpose of developing interventions targeting dual screenings was 
+
+to simultaneously increase screening for both BC and CRC. The authors did not adjust α 
+for multiple pairwise comparisons between randomized intervention and usual care arms on 
+
+outcomes because these were pre-planned comparisons; however, this write-up emphasizes 
+
+that the findings for any CRC screening were largely driven by the stool screening outcome. 
+
+All intervention arms were significant in increasing the likelihood of a woman receiving 
+
+both a mammogram and stool test. The intervention arms which included a phone contact 
+
+had more than twice the effect of the web intervention alone.
+
+It is interesting to note that in all intervention arms, the intervention effect for increasing 
+
+both mammogram and stool test simultaneously had greater ORs than those associated with 
+
+increasing only one screening. Women in the web intervention arm had more than five 
+
+times greater odds of receiving both a mammogram and stool test compared with usual 
+
+care. Based on these data, the authors are 95% confident that women in the population 
+
+receiving a phone intervention have at least three times greater odds than usual care and 
+
+women in the web + phone intervention have at least four times greater odds of receiving 
+
+both screenings, and that the true population ORs are likely much larger than this (i.e., the 
+
+best estimates from the data are ORs of 13 and 18). It is noted, however, that their 95% 
+
+CIs are wide, and therefore the authors emphasize the lower limit of their 95% CI instead 
+
+of their particular point estimates. In a study in underserved counties in South Carolina, 
+
+Champion et al. Page 8
+
+Am J Prev Med. Author manuscript; available in PMC 2022 February 24.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+Davis and colleagues16 studied the effect of an intervention to simultaneously increase both 
+
+mammography and stool testing comparing educational materials delivered in clinic with 
+
+and without adding nurse navigation. All patients received a stool kit at clinic visit. The 
+
+nurse supported arm showed a significantly greater increase in obtaining both screenings 
+
+than either of the compared intervention arms, although all groups received a stool kit. As 
+
+the intervention arms in this study that included personal navigation via phone also included 
+
+automatic mailing of a stool test, the authors cannot unravel the effect that personal contact 
+
+had compared to automatic receipt of a stool kit. Their prior analyses demonstrated that 
+
+significant interventions effects were probably due to mailing a stool kit.19
+
+An underlying assumption of this study was that promoting screening simultaneously for 
+
+BC and CRC would increase the likelihood that both tests would be completed. When 
+
+considering all groups, this study found that when women received a mammogram, they had 
+
+4.5 times greater odds of receiving a colonoscopy but did not have significantly greater odds 
+
+of receiving a stool test. Perhaps the fact that receiving both a mammogram and colonoscopy 
+
+required making an appointment outside of the normal healthcare visit accounted for the 
+
+association between these two behaviors.
+
+To the authors’ knowledge, this is the only simultaneous intervention supporting both BC 
+
+and CRC screening that assessed the intervention effect of obtaining both screenings. 
+
+The intervention effect for obtaining both screenings was significant only for women 
+
+who selected a stool test instead of colonoscopy. However, when considering all groups 
+
+irrespective of intervention, there was not an association between obtaining a mammogram 
+
+and stool test, whereas there was an association between receiving a mammogram and 
+
+colonoscopy.
+
+Limitations
+
+Results may not be generalizable to populations outside of a healthcare system. Women 
+
+enrolled in this study were insured members of two healthcare systems who were non-
+
+adherent to both BC and CRC screening and who consented to be in this randomized trial. 
+
+The majority of participants were Caucasian. Additionally, although all women who were 
+
+enrolled had access to a web-based program, some women assigned to the computer group 
+
+may have been more comfortable with technology than others. It is also possible that some 
+
+women did not have a computer within their home and had to use public facilities such 
+
+as a library. However, as technology and Internet access increase, problems with access 
+
+will decrease. With the advent and penetration of smartphones, programs such as the one 
+
+reported here could be used on personal devices, making interactive programs easier and 
+
+more compelling to use.
+
+CONCLUSIONS
+
+The tailored intervention simultaneously supporting both BC and CRC screening 
+
+significantly improved rates of obtaining one of the screenings (either mammogram or 
+
+stool test) and increased receipt of both tests in women for whom a high percentage (66%) 
+
+selected stool testing as their screening test of choice for colorectal cancer. A second 
+
+question sought to determine the association of becoming adherent to CRC screening 
+
+Champion et al. Page 9
+
+Am J Prev Med. Author manuscript; available in PMC 2022 February 24.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+if a mammogram was received regardless of intervention effect. A strong association 
+
+existed between receiving a mammogram and obtaining a colonoscopy, but no association 
+
+between receiving a mammogram and stool blood test. Intervention arms did not affect this 
+
+association.
+
+Supplementary Material
+
+Refer to Web version on PubMed Central for supplementary material.
+
+ACKNOWLEDGMENTS
+
+Research reported in this publication was supported by NIH (R01CA136940–5). The efforts of Shannon 
+M. Christy were supported by the National Cancer Institute while she was a predoctoral fellow at Indiana 
+University (R25CA117865; Principal Investigator: VL Champion) and while she was postdoctoral fellow at Moffitt 
+Cancer Center (R25CA090314; Principal Investigator: T H Brandon). The efforts of Wambui Gahtirua-Mwangi 
+were supported by the National Cancer Institute while she was a postdoctoral fellow at Indiana University 
+(3R01CA196243–02S1 and K05CA175048). The content is solely the responsibility of the authors and does not 
+necessarily represent the official views of the NIH. This study is registered with the clinicaltrials.gov identifier 
+NCT03279198.
+
+No financial disclosures were reported by the authors of this paper.
+
+REFERENCES
+
+1. American Cancer Society. Cancer Facts and Figures 2018. www.cancer.org/research/cancer-facts-
+statistics/all-cancer-facts-figures/cancer-facts-figures-2018.html. Accessed March 30, 2020.
+
+2. American Cancer Society. Cancer Screening Guidelines. www.cancer.org/healthy/find-cancer-early/
+cancer-screening-guidelines.html. Accessed February 25, 2019.
+
+3. Noar SM, Benac CN, Harris MS. Does tailoring matter? Meta-analytic review of tailoredprint health 
+behavior change interventions. Psychol Bull. 2007;133(4):673–693. 10.1037/0033-2909.133.4.673. 
+[PubMed: 17592961] 
+
+4. Champion VL, Rawl SM, Bourff SA, et al. Randomized trial of DVD, telephone, and 
+usual care for increasing mammography adherence. J Health Psychol. 2014;21(6):916–926. 
+10.1177/1359105314542817. [PubMed: 25070967] 
+
+5. Myers RE, Sifri R, Daskalakis C, et al. Increasing colon cancer screening in primary care among 
+African Americans. J Natl Cancer Inst. 2014;106(12):dju344. 10.1093/jnci/dju344.
+
+6. Menon U, Belue R, Wahab S, et al. A randomized trial comparing the effect of two phone-based 
+interventions on colorectal cancer screening adherence. Ann Behav Med. 2011;42(3):294–303. 
+10.1007/s12160-011-9291-z. [PubMed: 21826576] 
+
+7. Kinney AY, Boonyasiriwat W, Walters ST, et al. Telehealth personalized cancer risk communication 
+to motivate colonoscopy in relatives of patients with colorectal cancer: the family CARE 
+randomized controlled trial. J Clin Oncol. 2014;32(7):654–662. 10.1200/jco.2013.51.6765. 
+[PubMed: 24449229] 
+
+8. Walsh JM, Salazar R, Nguyen TT, et al. Healthy colon, healthy life: a novel colorectal cancer 
+screening intervention. Am J Prev Med. 2010;39(1):1–14. 10.1016/j.amepre.2010.02.020. [PubMed: 
+20547275] 
+
+9. Rawl SM, Christy SM, Monahan PO, et al. Tailored telephone counseling increases 
+colorectal cancer screening. Health Educ Res. 2015;30(4):622–637. 10.1093/her/cyv021. [PubMed: 
+26025212] 
+
+10. Manne SL, Coups EJ, Markowitz A, et al. A randomized trial of generic versus tailored 
+interventions to increase colorectal cancer screening among intermediate risk siblings. Ann Behav 
+Med. 2009;37(2):207–217. 10.1007/s12160-009-9103-x. [PubMed: 19418107] 
+
+Champion et al. Page 10
+
+Am J Prev Med. Author manuscript; available in PMC 2022 February 24.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+http://www.clinicaltrials.gov
+https://clinicaltrials.gov/ct2/show/NCT03279198
+http://www.cancer.org/research/cancer-facts-statistics/all-cancer-facts-figures/cancer-facts-figures-2018.html
+http://www.cancer.org/research/cancer-facts-statistics/all-cancer-facts-figures/cancer-facts-figures-2018.html
+http://www.cancer.org/healthy/find-cancer-early/cancer-screening-guidelines.html
+http://www.cancer.org/healthy/find-cancer-early/cancer-screening-guidelines.html
+
+
+11. Hendren S, Winters P, Humiston S, et al. Randomized, controlled trial of a multimodal intervention 
+to improve cancer screening rates in a safety-net primary care practice. J Gen Intern Med. 
+2014;29(1):41–49. 10.1007/s11606-013-2506-1. [PubMed: 23818159] 
+
+12. Phillips L, Hendren S, Humiston S, Winters P, Fiscella K. Improving breast and colon cancer 
+screening rates: a comparison of letters, automated phone calls, or both. J Am Board Fam Med. 
+2015;28(1):46–54. 10.3122/jabfm.2015.01.140174. [PubMed: 25567822] 
+
+13. Slater JS, Parks MJ, Nelson CL, Hughes KD. The efficacy of direct mail, patient navigation, 
+and incentives for increasing mammography and colonoscopy in the Medicaid population: 
+a randomized controlled trial. Cancer Epidemiol Biomarkers Prev. 2018;27(9):1047–1056. 
+10.1158/1055-9965.epi-18-0038. [PubMed: 29891726] 
+
+14. Paiva AL, Prochaska JO, Yin HQ, et al. Treated individuals who progress to action or 
+maintenance for one behavior are more likely to make similar progress on another behavior: 
+coaction results of a pooled data analysis of three trials. Prev Med. 2012;54(5):331–334. 10.1016/
+j.ypmed.2012.02.017. [PubMed: 22425936] 
+
+15. Prochaska JO. Multiple health behavior research represents the future of preventive medicine. Prev 
+Med. 2008;46(3):281–285. 10.1016/j.ypmed.2008.01.015. [PubMed: 18319100] 
+
+16. Davis TC, Arnold CL, Wolf MS, Bennett CL, Liu D, Rademaker A. Joint breast and colorectal 
+cancer screenings in medically underserved women. J Community Support Oncol. 2015;13(2):47–
+54. 10.12788/jcso.0108. [PubMed: 26918252] 
+
+17. Levin B, Lieberman DA, McFarland B, et al. Screening and surveillance for the early detection 
+of colorectal cancer and adenomatous polyps, 2008: a joint guideline from the American Cancer 
+Society, the US Multi-Society Task Force on Colorectal Cancer, and the American College of 
+Radiology. CA Cancer J Clin. 2008;58(3):130–160. 10.3322/ca.2007.0018. [PubMed: 18322143] 
+
+18. Lairson DR, Dicarlo M, Deshmuk AA, et al. Cost-effectiveness of a standard intervention 
+versus a navigated intervention on colorectal cancer screening use in primary care. Cancer. 
+2014;120(7):1042–1049. 10.1002/cncr.28535. [PubMed: 24435411] 
+
+19. Champion VL, Christy SM, Rakowski W, et al. A randomized trial to compare a 
+tailored web-based intervention and tailored phone counseling to usual care for increasing 
+colorectal cancer screening. Cancer Epidemiol Biomarkers Prev. 2018;27(12):1433–1441. 
+10.1158/1055-9965.epi-18-0180. [PubMed: 30181203] 
+
+20. Rosenstock IM, Strecher VJ, Becker MH. Social learning theory and the Health Belief Model. 
+Health Educ Q. 1988;15(2):175–183. 10.1177/109019818801500203. [PubMed: 3378902] 
+
+21. Prochaska JO, Redding CA, Evers KE. The transtheoretical model and stages of change. In: Glanz 
+K, Rimer BK, Viswanath K, eds. Health Behavior and Health Education: Theory, Research, and 
+Practice. 4th ed. San Francisco, CA: Jossey-Bass; 2008:97–121.
+
+22. Montano DE, Kasprzyk D. Theory of reasoned action, theory of planned behavior, and the 
+integrated behavioral model. In: Glanz K, Rimer BK, Viswanath K, ed. Health Behavior and 
+Health Education: Theory, Research, and Practice. 4th ed. San Francisco, CA: Jossey-Bass; 
+2008:67–96.
+
+23. Ajzen I. The theory of planned behavior. Organ Behav Hum Decis Process. 1991;50(2):179–211. 
+10.1016/0749-5978(91)90020-t.
+
+24. Janz NK, Becker MH. The health belief model: a decade later. Health Educ Q. 1984;11(1):1–47. 
+10.1177/109019818401100101. [PubMed: 6392204] 
+
+25. Becker MH. The Health Belief Model and personal health behavior. San Francisco, CA: Society 
+for Public Health Education; 1974.
+
+26. Champion VL, Skinner CS, Menon U, Rawl S, et al. A breast cancer fear scale: psychometric 
+development. J Health Psychol. 2004;9(6):753–762. 10.1177/1359105304045383. [PubMed: 
+15367754] 
+
+27. Champion VL, Monahan PO, Springston JK, Zollinger TW, Saywell RM Jr., Maraj M. Measuring 
+mammography and breast cancer beliefs in African American Women. J Health Psychol. 
+2008;13(6):827–837. 10.1177/1359105308093867. [PubMed: 18697896] 
+
+28. Powe BD. Fatalism among elderly African Americans: effects on colorectal cancer screening. 
+Cancer Nurs. 1995;18(5):385–392. 10.1097/00002820-199510000-00008. [PubMed: 7585493] 
+
+Champion et al. Page 11
+
+Am J Prev Med. Author manuscript; available in PMC 2022 February 24.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+29. Champion VL, Wagner LI, Monahan PO, et al. Comparison of younger and older breast cancer 
+survivors and age-matched controls on specific and overall quality of life domains. Cancer. 
+2014;120(15):2237–2246. 10.1002/cncr.28737. [PubMed: 24891116] 
+
+30. Saslow D, Solomon D, Lawson HW, et al. American Cancer Society, American Society for 
+Colposcopy and Cervical Pathology, and American Society for Clinical Pathology screening 
+guidelines for the prevention and early detection of cervical cancer. CA Cancer J Clin. 
+2012;62(3):147–172. 10.3322/caac.21139. [PubMed: 22422631] 
+
+31. Myers RE, Sifri R, Hyslop T, et al. A randomized controlled trial of the impact of targeted and 
+tailored interventions on colorectal cancer screening. Cancer. 2007;110(9):2083–2091. 10.1002/
+cncr.23022. [PubMed: 17893869] 
+
+32. Singal AG, Gupta S, Tiro JA, et al. Outreach invitations for FIT and colonoscopy improve 
+colorectal cancer screening rates: a randomized controlled trial in a safety-net health system. 
+Cancer. 2016;122(3):456–463. 10.1002/cncr.29770. [PubMed: 26535565] 
+
+33. Hendren SK, Morris AM. Evaluating patients undergoing colorectal surgery to estimate 
+and minimize morbidity and mortality. Surg Clin North Am. 2013;93(1):1–20. 10.1016/
+j.suc.2012.09.005. [PubMed: 23177062] 
+
+Champion et al. Page 12
+
+Am J Prev Med. Author manuscript; available in PMC 2022 February 24.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+Figure 1. 
+CONSORT diagram.
+
+Champion et al. Page 13
+
+Am J Prev Med. Author manuscript; available in PMC 2022 February 24.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+Champion et al. Page 14
+
+Table 1.
+
+Baseline Characteristics by Randomized Group
+
+Baseline characteristics Total sample Web Phone Web + phone Usual care p-value
+
+(n=692) (n=180) (n=168) (n=167) (n=177)
+
+n (%) n (%) n (%) n (%) n (%)
+
+Age, mean (SD) 58.7 (6.0) 59.5 (6.2) 58.6 (6.0) 58.0 (5.8) 58.6 (6.1) 0.1243
+
+Health site 0.6089
+
+ Regenstrief 134 (19.4) 31 (17.2) 32(19.1) 38 (22.8) 33 (18.6)
+
+ Community 558 (80.6) 149 (82.8) 136 (80.9) 129 (77.2) 144 (81.4)
+
+Highest education 0.6182
+
+ High school graduate or less 199 (28.8) 51 (28.3) 45 (26.8) 56 (33.5) 47 (26.7)
+
+ Some college 297 (43.0) 83 (46.1) 69 (41.1) 68 (40.7) 77 (43.8)
+
+ 4 year college graduate to graduate degree 195 (28.2) 46 (25.6) 54 (32.1) 43 (25.8) 52 (29.6)
+
+Race 0.1495
+
+ Black or African American 78 (11.3) 23 (12.8) 16 (9.5) 22 (13.2) 17 (9.6)
+
+ White or Caucasian 587 (84.8) 153 (85.0) 149 (88.7) 134 (80.2) 151 (85.3)
+
+ Asian, Pacific Islander, or Other 27 (3.9) 4 (2.2) 3 (1.8) 11 (6.6) 9 (5.1)
+
+Married or living with a partner 384 (55.7) 91 (50.6) 106 (63.1) 91 (54.5) 96 (54.9) 0.1217
+
+Total combined yearly household income before taxes 0.1501
+
+ ≤$30,000 243 (36.4) 72 (41.6) 51 (30.9) 66 (40.5) 54 (32.3)
+
+ $30,001-$75,000 262 (39.2) 66 (38.2) 75 (45.5) 56 (34.4) 65 (38.9)
+
+ ≥$75,001 163 (24.4) 35 (20.2) 39 (23.6) 41 (25.2) 48 (28.7)
+
+In the past year, how many times have you seen your 
+doctor or other HCP? (not counting dentist or eye 
+doctor)
+
+ ≥3 times 293 (42.8) 92 (51.4) 65 (38.7) 71 (42.8) 65 (37.8) 0.0397
+
+BMI 0.0091
+
+ Underweight/Normal 171 (25.8) 37 (21.4) 47 (29.4) 41 (25.6) 46 (27.2)
+
+ Overweight 180 (27.2) 47 (27.2) 47 (29.4) 29 (18.1) 57 (33.7)
+
+ Obese 311 (47.0) 89 (51.5) 66 (41.3) 90 (56.3) 66 (39.1)
+
+Total number of self-reported health problems, mean 
+(SD)
+
+1.9 (1.8) 2.1 (1.8) 1.7 (1.7) 1.8 (1.6) 1.7 (1.6) 0.0250
+
+Does depression limit your activities? (Yes) 61 (9.0) 19 (10.7) 11 (6.8) 24 (14.5) 7 (4.0) 0.0048
+
+Perceived age-adjusted risk for breast cancer 0.7415
+
+ About the same or not sure 424 (61.4) 109 (60.6) 102 (60.7) 109 (65.7) 104 (58.8)
+
+ Higher risk 54 (7.8) 15 (8.3) 15 (8.9) 8 (4.8) 16 (9.0)
+
+ Lower risk 213 (30.8) 56 (31.1) 51 (30.4) 49 (29.5) 57 (32.2)
+
+Mammography stage 0.6352
+
+ Pre-contemplation 356 (51.5) 90 (50.0) 82 (48.8) 86 (51.5) 98 (55.4)
+
+ Contemplation 336 (48.5) 90 (50.0) 86 (51.2) 81 (48.5) 79 (44.6)
+
+Has doctor or HCP suggested you get a mammogram? 
+(Yes)
+
+622 (90.5) 158 (88.8) 158 (94.1) 143 (86.7) 163 (92.6) 0.0771
+
+Have any of your close blood relatives (parents, sisters, 
+brothers, children) had breast cancer? (Yes)
+
+120 (17.3) 25 (13.9) 32 (19.1) 36 (21.6) 27 (15.3) 0.2171
+
+Am J Prev Med. Author manuscript; available in PMC 2022 February 24.
+
+
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+Champion et al. Page 15
+
+Baseline characteristics Total sample Web Phone Web + phone Usual care p-value
+
+(n=692) (n=180) (n=168) (n=167) (n=177)
+
+n (%) n (%) n (%) n (%) n (%)
+
+Have 1 or more close blood relatives (parents, sisters, 
+brothers, children) had colon cancer? (Yes)
+Cancer and cancer screening beliefs
+
+79 (11.4) 13 (7.2) 17 (10.1) 21 (12.6) 28 (15.8) 0.0711
+
+ Fatalism 20.9 (7.0) 20.6 (6.4) 21.2 (7.6) 21.2 (7.1) 20.9 (6.9) 0.8944
+
+ Fear 22.7 (7.0) 22.7 (7.5) 22.5 (7.5) 23.5 (7.8) 22.2 (7.6) 0.5026
+
+ Susceptibility to breast cancer 6.3 (2.3) 6.4 (2.3) 6.1 (2.4) 6.3 (2.4) 6.3 (2.2) 0.5675
+
+ Benefits of mammography 13.3 (3.0) 13.7 (2.8) 13.2 (3.1) 13.0 (3.2) 13.3 (2.9) 0.1797
+
+ Barriers to mammography 27.6 (7.3) 27.6 (6.7) 27.4 (7.9) 28.2 (7.4) 27.3 (7.0) 0.6518
+
+ Self-efficacy for mammography 41.0 (5.6) 40.9 (5.6) 41.6 (5.6) 40.5 (5.3) 40.9 (5.8) 0.3346
+
+ Knowledge for mammography 4.9 (1.7) 5.1 (1.7) 4.9 (1.7) 4.6 (1.6) 5.0 (1.7) 0.0689
+
+Mammography outcome indicators
+
+ Has self-report data 404 (58.4) 97 (53.9) 109 (64.9) 86 (51.5) 112 (63.3) 0.0242
+
+ Has medical record data 412 (59.5) 97 (53.9) 107 (63.7) 106 (63.5) 102 (57.6) 0.1771
+
+ Has either self-report or medical record (best 
+estimate)
+
+515 (74.4) 126 (70.0) 133 (79.2) 123 (73.7) 133 (75.1) 0.2685
+
+Note: Boldface indicates statistical significance (p<0.05). The p-values for continuous variables are from the general linear model omnibus F test, 
+and for categorical variables are from the omnibus Pearson chi-square test.
+
+HCP, healthcare provider; CRC, colorectal cancer.
+
+Am J Prev Med. Author manuscript; available in PMC 2022 February 24.
+
+
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+Champion et al. Page 16
+
+Table 2.
+
+Unadjusted T3 Screening Outcomes Between Randomized Group (N=507)
+
+Screening outcomes Web Phone Web + Phone Usual care
+
+(N=125) (N=133) (N=118) (N=131)
+
+n (%) OR n (%) OR n (%) OR n (%)
+
+(95% CI) (95% CI) (95% CI)
+
+Separate screening outcomes
+
+ Stool test 17 (13.6) 3.28 53 (39.9) 13.80 38 (32.2) 9.89 6 (4.6)
+
+(1.25, 8.61) (5.70, 33.59) (4.00, 24.47)
+
+ Colonoscopy 13 (10.4) 0.78 17 (12.8) 0.98 15 (13.6) 1.05 17 (13.0)
+
+(0.36, 1.68) (0.48, 2.02) (0.51, 2.19)
+
+ Any CRC screening 29 (23.2) 1.42 63 (47.4) 4.23 47 (39.8) 3.11 23 (17.6)
+
+(0.77, 2.62) (2.40, 7.43) (1.74, 5.56)
+
+ Mammogram 39 (31.2) 1.40 41 (30.8) 1.38 34 (28.8) 1.25 32 (24.4)
+
+(0.81, 2.43) (0.80, 2.37) (0.71, 2.20)
+
+Synergistic screening outcomes
+
+ Mammogram or any CRC 34 (27.2) 1.67 60 (45.1) 4.28 41 (34.8) 2.62 25 (19.1)
+
+(0.92, 3.05) (2.40, 7.64) (1.44, 4.76)
+
+ Both Mammogram and any CRC 17 (13.6) 1.39 22 (16.5) 2.62 20 (17.0) 2.13 15 (11.5)
+
+(0.65, 2.98) (1.25, 5.49) (1.01, 4.49)
+
+ Mammogram or stool test 40 (32.0) 1.68 58 (43.6) 3.29 44 (37.3) 2.37 30 (22.9)
+
+(0.96, 2.94) (1.90, 5.70) (1.35, 4.17)
+
+ Both mammogram and stool test 8 (6.4) 2.52 18 (13.5) 7.66 14 (11.9) 5.66 4 (3.1)
+
+(0.73, 8.68) (2.47, 23.75) (1.78, 17.99)
+
+ Mammogram or colonoscopy 32 (25.6) 1.33 38 (28.6) 1.54 28 (23.7) 1.22 27 (20.6)
+
+(0.74, 2.40) (0.87, 2.74) (0.67, 2.24)
+
+ Both mammogram and colonoscopy 10 (8.0) 1.02 10 (7.5) 0.99 11 (9.3) 1.18 11 (8.4)
+
+(0.41, 2.52) (0.40, 2.46) (0.48, 2.86)
+
+Note: The authors thank a reviewer for suggesting reporting this table of unadjusted percentages and unadjusted ORs (95% CI) compared to Usual 
+Care. The multivariable p-values and AORs (95% CI) are reported in Tables 3 and 4, where results have been adjusted for potentially confounding 
+covariates.
+
+CRC, colorectal cancer.
+
+Am J Prev Med. Author manuscript; available in PMC 2022 February 24.
+
+
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+Champion et al. Page 17
+
+Table 3.
+
+Models of 6 (T3) Month Outcomes - Either Breast or Colon or Both Breast and Colon
+
+Outcomes and randomized groups Best-estimate data (medical records and self-report)
+a, b
+
+T3 Mammogram or CRC screening T3 Both mammogram and CRC screening
+
+Coeff (SE) AOR (95% Cl) p-value Coeff (SE) AOR (95% Cl) p-value
+
+Mammogram or any CRC or both (N=471)
+
+ Web only 0.77 (0.36) 2.15 (1.07,4.33) 0.0320 1.02 (0.48) 2.77 (1.08, 7.11) 0.0341
+
+ Phone only 1.78 (0.35) 5.92 (2.96, 11.82) <0.0001 1.56 (0.49) 4.77 (1.84, 12.40) 0.0013
+
+ Web + phone 1.56 (0.37) 4.78 (2.30, 9.94) <0.0001 1.76 (0.50) 5.79 (2.16, 15.51) 0.0005
+
+Mammogram or stool or both (N=470)
+
+ Web only 0.76 (0.34) 2.14 (1.10,4.15) 0.0249 1.68 (0.75) 5.37 (1.24,23.32) 0.0249
+
+ Phone only 1.50 (0.34) 4.50 (2.32, 8.75) <0.0001 2.61 (0.71) 13.56 (3.36, 54.75) 0.0003
+
+ Web + phone 1.44 (0.36) 4.20 (2.07, 8.55) <0.0001 2.88 (0.74) 17.82 (4.22, 75.26) <0.0001
+
+Mammogram or colonoscopy or both (N=474)
+c
+
+ Web only 0.54 (0.34) 1.72 (0.88,3.38) 0.1161 0.20 (0.57) 1.22 (0.40, 3.73) 0.7282
+
+ Phone only 0.55 (0.34) 1.73 (0.89,3.37) 0.1047 −0.10(0.60) 0.91 (0.28,2.93) 0.8674
+
+ Web + phone 0.38(0.36) 1.47 (0.73,2.96) 0.2874 0.25 (0.57) 1.29 (0.42, 3.94) 0.6566
+
+Note: Boldface indicates statistical significance (p<0.05).
+
+a
+Models were adjusted for baseline characteristics including mammography medical record indicator, health site, age, race (African American 
+
+vs Other), education, income, marital status, BMI, whether depression limits patient’s activities (yes/no), family history of 1or more blood 
+relatives with colon cancer (yes/no), family history of 1 or more blood relatives with breast cancer (yes/no), perceivedrisk of breast cancer, 
+doctor recommendation for mammography (yes/no), number of past-year primary care visits excluding eye care and dentistry (≥3), number 
+of self-reported health problems, baseline stage of readiness, and scale scores measuring knowledge, susceptibility, benefits, fear, fatalism, 
+self-efficacy, and barriers. Self-efficacy and barriers that were specific for mammography and CRC screening were used in all models.
+
+b
+Multinomial Logistic Regression Model (reference category = T3 Neither Mammogram nor CRC).
+
+c
+Removed doctor recommendation for mammography (yes/no) and mammography medical record indicator from baseline covariates due to 
+
+quasi-complete separation if included.
+
+CRC, colorectal cancer.
+
+Am J Prev Med. Author manuscript; available in PMC 2022 February 24.
+
+
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+Champion et al. Page 18
+
+Table 4.
+
+AORs for Having vs Not Having T3 CRC Screening for Women Who had T3 Mammography Screening
+a
+
+Variable Obtained T3 mammography AOR (95% Cl) p-value
+
+Yes n (column %) No n (column %)
+
+T3 stool (Model 1; N=470) 1.52 (0.85,2.73) 0.1574
+
+ Yes 44(30.1) 70(19.4)
+
+ No 102 (69.9) 291 (80.6)
+
+T3 colonoscopy (Model 2; N=471) 4.59(2.24,9.42) <0.0001
+
+ Yes 42 (28.8) 22 (6.1)
+
+ No 104(71.2) 340 (93.9)
+
+Note: Boldface indicates statistical significance (p<0.05).
+
+a
+Models were adjusted for baseline characteristics including intervention group, mammography medical record indicator, health site, age, race 
+
+(African American vs Other), education, income, marital status, BMI, whether depression limits patient’s activities (yes/no), family history of 
+1 or more blood relatives with colon cancer (yes/no), family history of 1 or more blood relatives with breast cancer (yes/no), perceived risk of 
+breast cancer, doctor recommendation for mammography (yes/no), number of past-year primary care visits excluding eye care and dentistry (≥3), 
+number of self-reported health problems, baseline stage of readiness for mammography, and scale scores measuring knowledge, susceptibility, 
+benefits, fear, fatalism, self-efficacy, and barriers. Self-efficacy and barriers that were specific for mammography and CRC screening were used in 
+all models.
+
+CRC, colorectal cancer.
+
+Am J Prev Med. Author manuscript; available in PMC 2022 February 24.
+
+
+	Abstract
+	INTRODUCTION
+	METHODS
+	Study Sample
+	Intervention
+	Measures
+	Statistical Analysis
+
+	RESULTS
+	DISCUSSION
+	Limitations
+
+	CONCLUSIONS
+	References
+	Figure 1.
+	Table 1.
+	Table 2.
+	Table 3.
+	Table 4.
+

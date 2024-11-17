@@ -1,0 +1,3192 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Glycolysis/gluconeogenesis- and tricarboxylic acid cycle–related metabolites, Mediterranean diet, and type 2 diabetes
+
+
+Glycolysis/gluconeogenesis- and tricarboxylic acid cycle–related
+metabolites, Mediterranean diet, and type 2 diabetes
+
+Marta Guasch-Ferré,1,2,3 José L Santos,4 Miguel A Martínez-González,1,5,6 Clary B Clish,7 Cristina Razquin,5,6 Dong Wang,1
+
+Liming Liang,8 Jun Li,1 Courtney Dennis,7 Dolores Corella,6,9 Carlos Muñoz-Bravo,10 Dora Romaguera,6,11
+
+Ramón Estruch,6,12 José Manuel Santos-Lozano,6,13 Olga Castañer,6,14 Angel Alonso-Gómez,6,15 Luis Serra-Majem,6,16
+
+Emilio Ros,6,17 Sílvia Canudas,2,6 Eva M Asensio,9 Montserrat Fitó,6,14 Kerry Pierce,7 J Alfredo Martínez,6,18
+
+Jordi Salas-Salvadó,2,6 Estefanía Toledo,5,6 Frank B Hu,1,3 and Miguel Ruiz-Canela5,6
+
+1Department of Nutrition, Harvard TH Chan School of Public Health, Boston, MA, USA; 2Human Nutrition Unit, Faculty of Medicine and Health Sciences,
+Pere Virgili Health Research Institute, Rovira i Virgili University, Reus, Spain; 3Channing Division of Network Medicine, Department of Medicine, Brigham
+and Women’s Hospital and Harvard Medical School, Boston, MA, USA; 4Department of Nutrition, Diabetes and Metabolism, School of Medicine, Pontificia
+Universidad Católica de Chile, Santiago, Chile; 5Department of Preventive Medicine and Public Health, IdiSNA (Health Research Institute of Navarra),
+University of Navarra, Pamplona, Spain; 6The Spanish Biomedical Research Center in Physiopathology of Obesity and Nutrition, Health Institute Carlos III,
+Madrid, Spain; 7Broad Institute of MIT and Harvard University, Cambridge, MA, USA; 8Department of Biostatistics, Harvard TH Chan School of Public Health,
+Boston, MA, USA; 9Department of Preventive Medicine, University of Valencia, Valencia, Spain; 10Department of Public Health and Psychiatry, University
+of Málaga, Málaga, Spain; 11Health Research Institute of the Balearic Islands (IdISBa), University Hospital Son Espases, Mallorca, Spain; 12Department of
+Internal Medicine, Department of Endocrinology and Nutrition Biomedical Research Institute August Pi Sunyer (IDI-BAPS), Hospital Clinic, University of
+Barcelona, Barcelona, Spain; 13Department of Family Medicine, Primary Care Division of Sevilla, San Pablo Health Center, Sevilla, Spain; 14Cardiovascular
+and Nutrition Research Group, Hospital del Mar Research Institute (IMIM), Barcelona, Spain; 15Bioaraba Health Research Institute; Osakidetza Baseque
+Health Service, Araba University Hospital; Unibersity of the Basque Country UPV/EHU; Vitoria-Gasteiz, Spain; 16Research Institute of Biomedical and
+Health Sciences (IUIBS), University of Las Palmas de Gran Canaria and Service of Preventive Medicine, Complejo Hospitalario Universitario Insular Materno
+Infantil (CHUIMI), Canary Health Service, Las Palmas de Gran Canaria, Spain; 17Lipid Clinic, Department of Endocrinology and Nutrition Biomedical
+Research Institute August Pi Sunyer (IDI-BAPS), Hospital Clinic, University of Barcelona, Barcelona, Spain; and 18Department of Nutrition, Food Sciences,
+and Physiology, Center for Nutrition Research, University of Navarra, Pamplona, IMDEA Food, Madrid, Spain
+
+ABSTRACT
+Background: Glycolysis/gluconeogenesis and tricarboxylic acid
+(TCA) cycle metabolites have been associated with type 2 diabetes
+(T2D). However, the associations of these metabolites with T2D
+incidence and the potential effect of dietary interventions remain
+unclear.
+Objectives: We aimed to evaluate the association of baseline and 1-
+y changes in glycolysis/gluconeogenesis and TCA cycle metabolites
+with insulin resistance and T2D incidence, and the potential
+modifying effect of Mediterranean diet (MedDiet) interventions.
+Methods: We included 251 incident T2D cases and 638 noncases
+in a nested case-cohort study within the PREDIMED Study
+during median follow-up of 3.8 y. Participants were allocated to
+MedDiet + extra-virgin olive oil, MedDiet + nuts, or control diet.
+Plasma metabolites were measured using a targeted approach by
+LC–tandem MS. We tested the associations of baseline and 1-y
+changes in glycolysis/gluconeogenesis and TCA cycle metabolites
+with subsequent T2D risk using weighted Cox regression models
+and adjusting for potential confounders. We designed a weighted
+score combining all these metabolites and applying the leave-one-
+out cross-validation approach.
+Results: Baseline circulating concentrations of hexose monophos-
+phate, pyruvate, lactate, alanine, glycerol-3 phosphate, and isocitrate
+were significantly associated with higher T2D risk (17–44% higher
+risk for each 1-SD increment). The weighted score including all
+
+metabolites was associated with a 30% (95% CI: 1.12, 1.51)
+higher relative risk of T2D for each 1-SD increment. Baseline
+lactate and alanine were associated with baseline and 1-y changes
+of homeostasis model assessment of insulin resistance. One-year
+increases in most metabolites and in the weighted score were
+associated with higher relative risk of T2D after 1 y of follow-up.
+Lower risks were observed in the MedDiet groups than in the control
+group although no significant interactions were found after adjusting
+for multiple comparisons.
+Conclusions: We identified a panel of glycolysis/gluconeogenesis-
+related metabolites that was significantly associated with T2D
+risk in a Mediterranean population at high cardiovascular disease
+risk. A MedDiet could counteract the detrimental effects of these
+metabolites. This trial was registered at controlled-trials.com as
+ISRCTN35739639. Am J Clin Nutr 2020;111:835–844.
+
+Keywords: glycolysis metabolites, tricarboxylic acid cycle metabo-
+lites, metabolomics, type 2 diabetes, insulin resistance
+
+Introduction
+Metabolomics is a rapidly evolving discipline that offers a
+
+new avenue for identifying novel biomarkers before the onset
+of diabetes beyond classical risk factors (1). Metabolomic
+
+Am J Clin Nutr 2020;111:835–844. Printed in USA. Copyright © The Author(s) 2020. 835
+
+controlled-trials.com
+
+
+836 Guasch-Ferré et al.
+
+studies have revealed that several blood sugars, sugar-related
+metabolites, components of the glycolysis/gluconeogenesis path-
+way, and tricarboxylic acid (TCA) cycle intermediates have
+been associated with insulin resistance, prediabetes, and dia-
+betes in case-control, cross-sectional, and prospective studies
+(2–8). Interestingly, several metabolites belonging to the gly-
+colysis/gluconeogenesis pathway and TCA cycle show relevant
+changes in plasma concentrations after oral glucose challenges
+(9, 10). Among them, lactate (the end product of anaerobic
+glycolysis) also showed differential changes in its circulating
+concentrations during the oral-glucose-tolerance test (OGTT)
+by insulin resistance status (9). Moreover, circulating lactate
+is a relevant predictor of subsequent T2D incidence in several
+epidemiologic studies (11–13). However, these studies only
+assessed plasma lactate at baseline and did not perform a
+
+Supported by NIH research grant NIDDK-R01DK 102896 (to FBH).
+The PREDIMED trial was supported by the official funding agency for
+biomedical research of the Spanish government, Instituto de Salud Carlos
+III, through grants provided to research networks specifically developed
+for the trial (RTIC G03/140, to RE during 2003–2005; RTIC RD 06/0045,
+to MAM-G during 2006–2013; and through Centro de Investigación
+Biomédica en Red de Fisiopatología de la Obesidad y Nutrición); by Centro
+Nacional de Investigaciones Cardiovasculares grant CNIC 06/2007; Fondo
+de Investigación Sanitaria—Fondo Europeo de Desarrollo Regional grants
+PI04–2239, PI 05/2584, CP06/00100, PI07/0240, PI07/1138, PI07/0954, PI
+07/0473, PI10/01407, PI10/02658, PI11/01647, P11/02505, PI13/00462, and
+JR17/00022; Ministerio de Ciencia e Innovación grants AGL-2009–13906-
+C02, AGL2010–22319-C03, and SAF2016–80532-R; Fundación Mapfre
+2010; Consejería de Salud de la Junta de Andalucía grant PI0105/2007;
+Public Health Division of the Department of Health of the Autonomous
+Government of Catalonia, Generalitat Valenciana grants ACOMP06109,
+GVA-COMP2010–181, GVACOMP2011–151, CS2010-AP-111, PROME-
+TEO 17/2017, and CS2011-AP-042; Fundació La Marató-TV3 grants
+294/C/2015 and 538/U/2016; and by Regional Government of Navarra grant
+P27/2011. MG-F was supported by American Diabetes Association grant #1-
+18-PMF-029. JLS was supported by Fondo Nacional de Desarrollo Científico
+y Tecnológico (FONDECYT) grant 1150416 .
+
+None of the funding sources played a role in the design, collection, analysis,
+or interpretation of the data or in the decision to submit the manuscript for
+publication.
+
+Supplemental Tables 1 and 2 and Supplemental Figures 1 and 2 are
+available from the “Supplementary data” link in the online posting of the
+article and from the same link in the online table of contents at https://acad
+emic.oup.com/ajcn/.
+
+The data sets generated and analyzed during the current study are not
+publicly available owing to national data regulations and for ethical reasons,
+including the possibility that sharing some information might compromise
+research participants’ consent because our participants only gave their
+consent for the use of their data by the original team of investigators. However,
+investigators interested in analyzing the PREDIMED data set used for the
+present article may submit a brief proposal and statistical analysis plan to
+the corresponding author. Upon approval from the PREDIMED Steering
+Committee, data analysis will be made available to them using an onsite
+secure access data enclave.
+
+MG-F and JLS equally contributed to this work.
+Address correspondence to MR-C (e-mail: mcanela@unav.es).
+Abbreviations used: CVD, cardiovascular disease; FDR, false discovery
+
+rate; MCT1, monocarboxylate transporter 1; MedDiet, Mediterranean diet;
+OGTT, oral-glucose-tolerance test; TCA, tricarboxylic acid; T2D, type 2
+diabetes.
+
+Received March 21, 2019. Accepted for publication January 23, 2020.
+First published online February 14, 2020; doi: https://doi.org/10.1093/ajcn/
+
+nqaa016.
+
+broader assessment of other lactate-related metabolites involved
+in glucose homeostasis.
+
+Although available literature has pointed to a link between
+some glycolysis/gluconeogenesis or TCA cycle plasma metabo-
+lites and prediabetes or T2D, to our knowledge no previous
+longitudinal study has assessed the association of these metabo-
+lites with future T2D incidence in initially nondiabetic subjects.
+Importantly, existing studies have not integrated longitudinal
+data with the potential effect of dietary interventions. This
+integration is needed to evaluate the associations of interest in
+a comprehensive manner and to provide support for public health
+actions. In this context, no large, long-term study has assessed
+whether dietary interventions can modify the relation between
+metabolomic profiles composed of gluconeogenesis-pathway
+metabolites and T2D risk. Therefore, the aim of the present study
+was to evaluate the association of baseline and 1-y changes in
+plasma glycolysis/gluconeogenesis-related metabolites and TCA
+cycle intermediates with insulin resistance and T2D risk; and to
+examine whether these associations might be mitigated by dietary
+interventions based on the Mediterranean diet (MedDiet) among
+participants at high cardiovascular disease (CVD) risk.
+
+Methods
+
+Study design and participants
+
+The present study was a nested case-cohort study within the
+PREDIMED trial (ISRCTN35739639). Briefly, the PREDIMED
+trial (www.predimed.es) was conducted from 2003 through 2010
+in Spain and aimed to evaluate the effects of the MedDiet for
+the primary prevention of CVD. At baseline, 7447 participants
+aged 55–80 y with high CVD risk, but initially free from
+diagnosed CVD, were allocated to 1 of 3 dietary interventions:
+1) MedDiet supplemented with extra-virgin olive oil (provided to
+participants for free); 2) MedDiet supplemented with mixed tree
+nuts (provided to participants for free); or 3) a control group that
+received advice to follow a low-fat diet (and participants received
+nonfood gifts). Detailed information about the PREDIMED trial
+has been published elsewhere (14, 15).
+
+In the present case-cohort study, we have included all the
+available incident T2D cases diagnosed during a median follow-
+up of 3.8 y and a random subsample of 20% of participants
+free of T2D at baseline and who had available EDTA plasma
+samples (16). Among all participants free of diabetes at baseline
+(n = 3541), we selected for the present analysis 889 participants
+(Supplemental Figure 1), including 251 incident T2D cases
+with available plasma samples and a subcohort of 691 randomly
+selected participants (638 noncases and 53 overlapping cases).
+Among the total selected subset of 889 participants, 656 had
+available blood samples after 1 y of follow-up (499 noncases and
+157 cases that occurred after 1 y of follow-up) and they were
+included in the 1-y change analyses. The protocol was approved
+by the research ethics committees at all study locations, and all
+participants provided written informed consent.
+
+Ascertainment of T2D cases
+
+The PREDIMED protocol included T2D as a prespecified
+secondary endpoint of the trial among participants initially free
+of diabetes. At baseline, prevalent T2D was identified by clinical
+
+https://academic.oup.com/ajcn/
+mailto:mcanela@unav.es
+http://www.predimed.es
+
+
+Glucose-related metabolites and type 2 diabetes 837
+
+diagnosis and/or use of antidiabetic medication. The diagnosis of
+incident T2D during follow-up has been described elsewhere (17)
+and followed the American Diabetes Association criteria (18),
+namely 2 confirmations of fasting plasma glucose ≥7.0 mmol/L
+or 2-h plasma glucose ≥11.1 mmol/L, after a standard 2-h 75-
+g OGTT. Blinded study physicians collected information on the
+outcomes. Blinded to the intervention assignment, the Clinical
+End-Point Ascertainment Committee adjudicated the T2D events
+according to standard criteria. Information on incident cases of
+T2D was collected from continuous contact with participants and
+primary health care physicians, annual follow-up visits, yearly
+ad hoc reviews of medical charts, and annual consultation of the
+National Death Index.
+
+Covariate assessment
+
+At baseline and at yearly follow-up visits, questionnaires
+assessing medical conditions, family history of disease, and risk
+factors were collected. Trained personnel measured participants’
+body weight, height, waist circumference, and blood pressure (in
+triplicate) according to the study protocol. BMI was calculated
+as kg/m2. Physical activity was assessed using the validated
+Spanish version of the Minnesota Leisure-Time Physical Ac-
+tivity questionnaire (19). Participants were considered to have
+hypercholesterolemia or hypertension if they had previously
+been medically diagnosed, and/or they were being treated with
+cholesterol-lowering or antihypertensive agents, respectively.
+
+Study samples and metabolomics profiling
+
+All analyses used fasting (≥8 h) plasma EDTA samples
+collected at baseline and at year 1 of intervention. Samples
+were processed at each recruiting center no later than 2 h
+after collection and stored at −80◦C. Pairs of samples (baseline
+and first-year visit) from cases and subcohort participants were
+randomly distributed before being shipped to the Broad Institute
+in Cambridge, MA, for metabolomics assays. Using a targeted
+approach, LC–tandem MS was used to quantitatively profile polar
+metabolites including organic acids, sugar phosphates, purines,
+pyrimidines, bile acids, and anionic (carboxylate-containing)
+metabolites. Internal standard peak areas were monitored for
+quality control and to ensure system performance throughout
+analyses. Pooled plasma reference samples were also inserted
+every 20 samples as an additional quality control. The raw
+data were processed using MultiQuant software (AB SCIEX)
+to integrate chromatographic peaks and the data were visually
+inspected to ensure the quality of signal integration. Details of
+the LC–tandem MS platform can be found elsewhere (20).
+
+For this analysis we used plasma concentrations of metabolites
+involved in the pathways of glycolysis, gluconeogenesis, and
+the TCA cycle, namely fructose 6-phosphate, fructose 1,6-bis
+phosphate, 3-phosphoglycerate, phosphoenolpyruvate, pyruvate,
+lactate, alanine, glycerol-3-phosphate, citrate, aconitate, isoci-
+trate, fumarate, malate, and succinate (for Human Metabolome
+Database numbers see Supplemental Figure 2; http://ww
+w.hmdb.ca/). These products were considered representative
+metabolites because the method could not chromatographically
+solve the isomers and therefore did not have unique multiple
+reaction monitoring transitions in MS. For this reason, in this
+
+article we have used the general names for these molecules,
+i.e., hexose monophosphate for fructose-6-phosphate, hexose
+diphosphate for fructose 1,6-bis phosphate, and fumarate/maleate
+for fumarate. We observed 2 missing values in the measurement
+of 3-phosphoglycerate, 4 missing values in phosphoenolpyruvate,
+109 in pyruvate, and 319 in hexose diphosphate.
+
+Participants’ triglyceride, total cholesterol, LDL cholesterol,
+and HDL cholesterol were measured using fasting plasma
+samples at baseline. Serum glucose, triglyceride, total choles-
+terol, and HDL-cholesterol concentrations were measured using
+standard enzymatic methods and LDL-cholesterol concentrations
+were calculated with the Friedewald formula. Plasma glucose
+was measured using an enzymatic method to convert glucose
+to 6-phosphogluconate (ADVIA Chemistry Systems). The intra-
+and interassay CVs were 1.2% and 1.6%, respectively. Insulin
+concentrations were measured using an immunoenzymometric
+assay (ADVIA Chemistry Systems) with intra- and interassay
+CVs equal to 3.7 and 4.4, respectively. Insulin resistance was
+calculated by using the HOMA-IR index [HOMA-IR = fasting
+insulin (μU/mL) × fasting glucose (mmol/L)/22.5].
+
+Statistics
+
+Individual glycolysis/gluconeogenesis-related metabolite con-
+centrations were normalized and scaled to multiples of 1 SD using
+the rank-based inverse normal transformation. Weighted propor-
+tional hazards Cox regression models using Barlow weights to
+account for the overrepresentation of cases, as recommended for
+case-cohort designs (21), were applied to estimate HRs and the
+95% CIs of T2D, comparing participants in each quartile with
+the lowest quartile as well as per 1-SD increment in individual
+metabolites. Follow-up time was calculated from the date of
+enrollment to the date of diagnosis of T2D for cases, and to
+the date of the last visit or the end of the follow-up period for
+noncases. Models were adjusted for age, sex, intervention group,
+smoking, BMI, physical activity, hypertension, dyslipidemia,
+and baseline plasma glucose (centered on the sample mean
+and adding a quadratic term). All models were stratified by
+recruitment center with the option “strata” from Stata, thus equal
+coefficients are calculated across strata but with a baseline hazard
+unique to each stratum. We adjusted P values of the multivariable-
+adjusted associations between 1-SD increments in concentration
+of individual metabolites and T2D risk using the false discovery
+rate (FDR)-adjusted procedure to account for the multiple testing
+(22). To quantify a linear trend, we assigned the median value of
+each metabolite concentration within each quartile and modeled
+this variable continuously.
+
+We created a weighted metabolite score combining the
+glycolysis/gluconeogenesis-related metabolites using the respec-
+tive coefficients from the multivariable Cox regression model
+fitted for each individual metabolite (23). We applied the leave-
+one-out cross-validation approach to obtain unbiased estimates
+of these models and to avoid overfitting when creating the
+score (24). In each run, Cox regression models were applied
+to the all-but-one sample (i.e., the training data set), and the
+regression coefficient obtained was the weight applied to the
+remaining 1 sample (i.e., the testing data set) to calculate the
+score. For metabolites with missing values (hexose diphosphate,
+3-phosphoglycerate, phosphoenolpyruvate, and pyruvate) we
+imputed the values by using the minimum observed value
+
+http://www.hmdb.ca/
+
+
+838 Guasch-Ferré et al.
+
+divided by 2. We also repeated this analysis using a new score
+with all metabolites except pyruvate and hexose diphosphate
+to assess the possible influence of the replacement of missing
+values from these metabolites. We adjusted for the same
+covariates as previously mentioned. In addition, we adjusted
+for other metabolites related to glycolysis/gluconeogenesis or
+the TCA cycle and previously associated with T2D (25–27).
+Specifically, we adjusted for a branched-chain amino acid score
+(leucine + isoleucine + valine), aromatic amino acid score
+(phenylalanine + tyrosine), ratio of glutamine to glutamate, and
+global arginine bioavailability ratio [arginine/(ornithine + cit-
+rulline)].
+
+Some departures from the individual random assignment
+protocol in a small subset of participants have been reported in
+the PREDIMED trial (15). As ancillary analyses, we repeated
+the analyses using robust variance estimators to account for
+intracluster correlation and we also adjusted for propensity scores
+predicting randomization to account for small between-group
+imbalances at baseline.
+
+Using the aforementioned models but with further adjustments
+for baseline metabolite concentrations of the corresponding
+metabolite, we also examined the associations between 1-y
+changes in individual glycolysis/gluconeogenesis- or TCA cycle–
+related metabolites and T2D risk (using as outcome only cases
+of T2D occurring after 1 y follow-up). We first calculated the
+difference between baseline and 1-y concentrations, then nor-
+malized this difference using the inverse normal transformation.
+We applied the same aforementioned procedure to obtain the
+1-y weighted metabolite score using the coefficients from Cox
+regressions for 1-y changes.
+
+In addition, we stratified the analyses by intervention group
+(control group compared with both MedDiet groups merged
+together). The likelihood ratio test was used to assess the
+significance of the 1-df interaction product-term (effect modifi-
+cation in multiplicative scale) between the intervention (MedDiet
+groups compared with control) and the individual metabolites
+(continuous).
+
+Finally, we applied multiple linear regression models to exam-
+ine the associations of quartiles of glycolysis/gluconeogenesis-
+related metabolites at baseline and 1-y changes with HOMA-IR
+adjusting for age, sex, intervention group, smoking status, BMI,
+leisure-time physical activity, hypertension, dyslipidemia, and
+baseline plasma glucose. Only metabolites previously associated
+with T2D incidence were included in the analyses.
+
+All statistical analyses were performed using Stata version 15
+(Stata Corp), at a 2-tailed α of 0.05.
+
+Results
+The CVs were 4.6% for fructose 6-phosphate, 4.5% for
+
+fructose 1,6-bis phosphate, 4.0% for 3-phosphoglycerate, 6.3%
+for phosphoenolpyruvate, 11.5% for pyruvate, 2.9% for lactate,
+2.6% for alanine, 3.3% for glycerol-3-phosphate, 1.2% for citrate,
+2.5% for aconitate, 1.9% for isocitrate, 2.2% for fumarate, 0.9%
+for malate, and 2.7% for succinate.
+
+Table 1 shows the baseline characteristics of the subset
+of PREDIMED participants included in our analysis by T2D
+incidence. Participants who developed T2D were more likely to
+smoke, had a higher baseline waist circumference and BMI, as
+
+well as higher concentrations of fasting glucose at baseline than
+participants who did not develop T2D during follow-up.
+
+Table 2 shows the HRs and 95% CIs for incident
+T2D risk according to individual baseline glycolysis/
+gluconeogenesis-related metabolites. In the multivariable-
+adjusted models, plasma hexose monophosphate, pyruvate,
+lactate, alanine, glycerol-3 phosphate, and isocitrate were
+significantly associated with a higher risk of T2D (23–44%
+relatively higher risk for each 1-SD increment).
+
+Each 1-SD increment in the weighted score including all
+metabolites was associated with a 30% (95% CI: 1.12, 1.51)
+relatively higher risk of T2D (Table 2). Results remained
+significant when we also adjusted for propensity scores predicting
+randomization to account for small between-group imbalances at
+baseline and when we used robust variance estimators to account
+for intracluster correlations (29%; 95% CI: 3%, 61%). The
+association became stronger (37%; 95% CI: 18%, 58% per 1-SD
+increment) when we repeated the analyses with a metabolite score
+without pyruvate and hexose diphosphate [P < 0.001 after FDR
+correction]. T2D risk was slightly attenuated but still significant
+when we also adjusted for other T2D-associated metabolites: we
+calculated a 22% (95% CI: 4%, 44%) higher risk for each 1-SD
+increment in the score when we also adjusted for branched-chain
+and aromatic amino acids, ratio of glutamine to glutamate, and
+the global arginine bioavailability ratio.
+
+Supplemental Table 1 shows the stratified analysis by inter-
+vention group for only those metabolites that were significantly
+associated with T2D. We observed a positive association of
+hexose monophosphate (as a continuous variable) with T2D in the
+control group (HR: 1.46; 95% CI: 1.13, 1.87), but no significant
+association was observed in the MedDiet intervention groups.
+The P for interaction for the intervention (both MedDiet groups
+merged compared with the control group) was 0.049 (1 df), but
+it was nonsignificant after the FDR correction. A nonsignificant
+trend for an interaction suggesting an increased risk of T2D for
+higher baseline pyruvate in the MedDiet group but not in the
+control group was observed, but it became nonsignificant after
+the FDR correction (P-interaction after FDR correction = 0.076,
+1 df).
+
+Baseline HOMA-IR was positively associated with plasma
+pyruvate, lactate, and alanine (P-trend for quartiles of these
+metabolites: <0.001, <0.001, and 0.003, respectively). In
+addition, plasma lactate and alanine were significantly and
+positively associated as well with 1-y changes in HOMA-IR (P-
+trend = 0.015 and 0.027, respectively) (Table 3).
+
+Our results also indicated a significantly increased risk
+of T2D associated with 1-y changes in hexose monophos-
+phate, 3-phosphoglycerate, lactate, aconitate, isocitrate, fu-
+marate/maleate, and malate (Supplemental Table 2). The
+strongest associations were observed for lactate and aconitate.
+Those participants in the upper quartile of 1-y changes in lactate
+had 3.87-fold higher risk of T2D, and those in the upper quartile
+of aconitate had 3.16-fold higher risk, than those in the first
+quartile (HR: 3.87; 95% CI: 2.05, 7.30 and HR: 3.16; 95% CI:
+1.76, 5.68, respectively).
+
+A significant association was also found for the 1-y change
+weighted score of all these metabolites (60% higher risk for each
+1-SD increment, HR: 1.60; 95% CI: 1.31, 1.97) (Supplemental
+Table 2). A consistent association was found when we also
+adjusted for baseline and 1-y changes in other metabolites
+
+
+
+Glucose-related metabolites and type 2 diabetes 839
+
+TABLE 1 Baseline participant characteristics according to diabetes status and baseline scores of metabolites1
+
+By diabetes incidence during follow-up By extreme quartiles of the baseline metabolite score
+
+Subcohort2 Incident cases Quartile 1 Quartile 4
+
+n 691 251 204 252
+Age, y 66.5 ± 5.7 66.4 ± 5.7 65.7 ± 5.4 66.8 ± 5.7
+Women 62.8 55.0 59.8 60.3
+Intervention group
+
+MedDiet + EVOO 30.4 29.9 33.3 27.0
+MedDiet + nuts 37.3 33.9 39.7 32.1
+Control 32.3 36.3 27.0 40.9
+
+Hypertension 90.9 96.0 90.2 94.4
+Dyslipidemia 85.0 79.7 84.3 85.7
+Smoking
+
+Never 60.9 52.6 55.9 57.5
+Former 22.6 22.3 20.6 18.3
+Current 16.5 25.1 23.5 24.2
+
+Waist circumference, cm 99.5 ± 10.7 103.4 ± 10.0 97.9 ± 11.0 103.3 ± 10.1
+BMI, kg/m2 29.9 ± 3.6 30.8 ± 3.3 29.5 ± 3.8 30.8 ± 3.5
+Physical activity, METs-min/d 239 ± 238 249 ± 232 257 ± 249 220 ± 231
+Education
+
+Elementary or lower 75.5 76.5 69.1 75.8
+Secondary or higher 24.5 23.5 30.9 24.2
+
+Total energy intake, kcal/d 2277 ± 564 2327 ± 622 2316 ± 593 2268 ± 581
+MedDiet score3 8.6 ± 1.9 8.5 ± 1.8 8.8 ± 1.7 8.5 ± 2.2
+Fasting glucose, mg/dL 99.6 ± 15.2 117.2 ± 17.6 100.2 ± 15.4 108.4 ± 19.2
+
+1Values are means ± SDs or percentages unless indicated otherwise. EVOO, extra-virgin olive oil; MedDiet, Mediterranean diet; MET, metabolic
+equivalent task.
+
+2Thirty-seven cases are included in the randomly selected subcohort.
+3This score is based on the 14-item PREDIMED screener of adherence to the MedDiet.
+
+including branched-chain amino and aromatic amino acids, ratio
+of glutamine to glutamate, and global arginine availability score
+(HR: 1.61; 95% CI: 1.29, 2.01 per 1-SD increment) and when we
+repeated the analyses with a metabolite score without pyruvate
+and hexose diphosphate (HR: 1.63; 95% CI: 1.36, 1.96 per 1-SD
+increment).
+
+When these models were stratified by intervention group
+(Table 4), 1-y changes in several metabolites including hexose
+monophosphate, 3-phosphoglycerate, lactate, and aconitate were
+also associated with higher T2D risk both in the control and in
+the MedDiet groups. Citrate, isocitrate, and malate were only
+associated with higher risk of T2D in the control group, not in
+the MedDiet intervention groups. The test for interaction was
+significant for isocitrate and malate, but no longer significant
+after the FDR correction. One-year changes in the metabolite
+score were associated with 3.57-fold relatively higher risk of
+T2D in the control group (95% CI: 1.54, 4.27), whereas no
+significant associations were observed in the MedDiet groups.
+However, the interaction was not statistically significant (P-
+interaction = 0.071).
+
+Discussion
+In this prospective nested case-cohort study, we observed
+
+that baseline and 1-y changes in fasting plasma concentrations
+of several glycolysis/gluconeogenesis- and TCA cycle–related
+metabolites and a global score were associated with higher risk of
+T2D among participants at high CVD risk. Moreover, 1-y change
+of this score and some individual metabolites was associated with
+
+T2D risk in the control group but not in the MedDiet group,
+although interactions were not statistically significant after FDR
+correction. In addition, baseline plasma concentrations of lactate
+and alanine were associated with increases in HOMA-IR after
+1 y.
+
+Because T2D is itself defined by hyperglycemia (28–30), our
+results may be partly explained by the fact that early dysglycemia
+usually precedes changes in metabolite concentrations. Sugar-
+related circulating metabolites were correlated with prediabetes
+and/or T2D in observational studies (25). The Cooperative Health
+Research in the Region of Augsburg (KORA) case-control
+study reported that plasma glucose, mannose, desoxyhexose, and
+dihexose were higher in T2D cases than in the control group
+(7). In the Framingham Heart Study Offspring Cohort, glycolysis
+products increased after a 75-g OGTT (9, 10). That study also
+reported very modest reductions in circulating concentrations of
+glucose 1-phosphate, glucose 6-phosphate, fructose 1-phosphate,
+and fructose 6-phosphate after glucose loads (9).
+
+In our study, both baseline and 1-y changes of plasma lactate
+concentrations were strongly associated with T2D risk. Previous
+studies have shown that fasting plasma lactate concentrations
+are associated with surrogates of insulin resistance and T2D
+risk (11, 12). Although pancreatic β-cell lines have shown
+alterations in the glycolytic pathway and TCA metabolism (31),
+it is unlikely that circulating lactate or pyruvate may have a
+direct effect in insulin secretion given that the lactate/pyruvate
+transporter monocarboxylate transporter 1 (MCT1) is specifically
+disallowed in β-cells (32). However, fasting plasma lactate has
+been reported as one of the circulating metabolites involved
+
+
+
+840 Guasch-Ferré et al.
+
+T
+A
+
+B
+L
+
+E
+2
+
+In
+ci
+
+de
+nt
+
+ty
+pe
+
+2
+di
+
+ab
+et
+
+es
+by
+
+ba
+se
+
+lin
+e
+
+gl
+yc
+
+ol
+ys
+
+is
+/g
+
+lu
+co
+
+ne
+og
+
+en
+es
+
+is
+an
+
+d
+T
+
+C
+A
+
+cy
+cl
+
+e
+fa
+
+st
+in
+
+g
+pl
+
+as
+m
+
+a
+m
+
+et
+ab
+
+ol
+ite
+
+s
+in
+
+th
+e
+
+PR
+E
+
+D
+IM
+
+E
+D
+
+tr
+ia
+
+l,
+20
+
+03
+–2
+
+01
+01
+
+Ty
+pe
+
+2
+di
+
+ab
+et
+
+es
+ca
+
+se
+s
+
+A
+dj
+
+us
+te
+
+d
+H
+
+R
+pe
+
+r
+1-
+
+SD
+in
+
+cr
+em
+
+en
+t2
+
+(9
+5%
+
+C
+I)
+
+A
+dj
+
+us
+te
+
+d
+H
+
+R
+(9
+
+5%
+C
+
+I)
+
+n
+Q
+
+ua
+rt
+
+ile
+1
+
+Q
+ua
+
+rt
+ile
+
+2
+Q
+
+ua
+rt
+
+ile
+3
+
+Q
+ua
+
+rt
+ile
+
+4
+P
+
+-t
+re
+
+nd
+P
+
+-t
+re
+
+nd
+3
+
+H
+ex
+
+os
+e
+
+m
+on
+
+op
+ho
+
+sp
+ha
+
+te
+4
+
+88
+9
+
+25
+1
+
+1.
+23
+
+(1
+.0
+
+7,
+1.
+
+41
+)
+
+1.
+00
+
+(r
+ef
+
+)
+2.
+
+45
+(1
+
+.6
+2,
+
+3.
+69
+
+)
+1.
+
+12
+(0
+
+.7
+3,
+
+1.
+71
+
+)
+2.
+
+37
+(1
+
+.5
+8,
+
+3.
+54
+
+)
+0.
+
+21
+4
+
+0.
+33
+
+3
+H
+
+ex
+os
+
+e
+di
+
+ph
+os
+
+ph
+at
+
+e4
+57
+
+0
+16
+
+6
+1.
+
+12
+(0
+
+.9
+3,
+
+1.
+33
+
+)
+1.
+
+00
+(r
+
+ef
+)
+
+0.
+65
+
+(0
+.4
+
+1,
+1.
+
+03
+)
+
+1.
+74
+
+(1
+.2
+
+0,
+2.
+
+54
+)
+
+0.
+89
+
+(0
+.5
+
+7,
+1.
+
+41
+)
+
+0.
+53
+
+0
+0.
+
+61
+9
+
+3-
+Ph
+
+os
+ph
+
+og
+ly
+
+ce
+ra
+
+te
+88
+
+7
+25
+
+1
+1.
+
+13
+(0
+
+.9
+7,
+
+1.
+32
+
+)
+1.
+
+00
+(r
+
+ef
+)
+
+1.
+24
+
+(0
+.8
+
+5,
+1.
+
+82
+)
+
+1.
+28
+
+(0
+.8
+
+4,
+1.
+
+94
+)
+
+1.
+27
+
+(0
+.8
+
+4,
+1.
+
+92
+)
+
+0.
+47
+
+5
+0.
+
+61
+9
+
+Ph
+os
+
+ph
+oe
+
+no
+lp
+
+yr
+uv
+
+at
+e
+
+88
+5
+
+25
+0
+
+1.
+13
+
+(0
+.9
+
+6,
+1.
+
+32
+)
+
+1.
+00
+
+(r
+ef
+
+)
+0.
+
+87
+(0
+
+.5
+8,
+
+1.
+30
+
+)
+0.
+
+77
+(0
+
+.5
+1,
+
+1.
+16
+
+)
+1.
+
+40
+(0
+
+.9
+4,
+
+2.
+10
+
+)
+0.
+
+04
+5
+
+0.
+10
+
+4
+Py
+
+ru
+va
+
+te
+78
+
+0
+23
+
+8
+1.
+
+31
+(1
+
+.1
+1,
+
+1.
+54
+
+)
+1.
+
+00
+(r
+
+ef
+)
+
+1.
+84
+
+(1
+.2
+
+1,
+2.
+
+82
+)
+
+1.
+36
+
+(0
+.8
+
+8,
+2.
+
+09
+)
+
+2.
+12
+
+(1
+.3
+
+7,
+3.
+
+28
+)
+
+0.
+03
+
+4
+0.
+
+09
+6
+
+L
+ac
+
+ta
+te
+
+88
+9
+
+25
+1
+
+1.
+26
+
+(1
+.0
+
+7,
+1.
+
+48
+)
+
+1.
+00
+
+(r
+ef
+
+)
+0.
+
+92
+(0
+
+.5
+8,
+
+1.
+44
+
+)
+1.
+
+70
+(1
+
+.1
+1,
+
+2.
+61
+
+)
+1.
+
+66
+(1
+
+.0
+6,
+
+2.
+59
+
+)
+<
+
+0.
+00
+
+1
+<
+
+0.
+00
+
+1
+A
+
+la
+ni
+
+ne
+88
+
+9
+25
+
+1
+1.
+
+25
+(1
+
+.0
+8,
+
+1.
+45
+
+)
+1.
+
+00
+(r
+
+ef
+)
+
+0.
+58
+
+(0
+.3
+
+7,
+0.
+
+92
+)
+
+1.
+16
+
+(0
+.7
+
+8,
+1.
+
+72
+)
+
+1.
+23
+
+(0
+.8
+
+3,
+1.
+
+83
+)
+
+<
+0.
+
+00
+1
+
+0.
+00
+
+1
+G
+
+ly
+ce
+
+ro
+l3
+
+-p
+ho
+
+sp
+ha
+
+te
+88
+
+9
+25
+
+1
+1.
+
+44
+(1
+
+.2
+4,
+
+1.
+67
+
+)
+1.
+
+00
+(r
+
+ef
+)
+
+1.
+18
+
+(0
+.8
+
+0,
+1.
+
+74
+)
+
+1.
+29
+
+(0
+.8
+
+4,
+1.
+
+96
+)
+
+2.
+74
+
+(1
+.8
+
+3,
+4.
+
+09
+)
+
+0.
+00
+
+2
+0.
+
+00
+7
+
+C
+itr
+
+at
+e
+
+88
+9
+
+25
+1
+
+1.
+00
+
+(0
+.8
+
+6,
+1.
+
+17
+)
+
+1.
+00
+
+(r
+ef
+
+)
+0.
+
+89
+(0
+
+.6
+2,
+
+1.
+27
+
+)
+0.
+
+81
+(0
+
+.5
+4,
+
+1.
+22
+
+)
+0.
+
+93
+(0
+
+.6
+2,
+
+1.
+40
+
+)
+0.
+
+86
+6
+
+0.
+86
+
+6
+A
+
+co
+ni
+
+ta
+te
+
+88
+9
+
+25
+1
+
+1.
+14
+
+(0
+.9
+
+8,
+1.
+
+33
+)
+
+1.
+00
+
+(r
+ef
+
+)
+1.
+
+08
+(0
+
+.7
+0,
+
+1.
+68
+
+)
+1.
+
+11
+(0
+
+.7
+5,
+
+1.
+65
+
+)
+1.
+
+48
+(0
+
+.9
+8,
+
+2.
+23
+
+)
+0.
+
+06
+9
+
+0.
+13
+
+8
+Is
+
+oc
+itr
+
+at
+e
+
+88
+9
+
+25
+1
+
+1.
+17
+
+(1
+.0
+
+1,
+1.
+
+36
+)
+
+1.
+00
+
+(r
+ef
+
+)
+1.
+
+36
+(0
+
+.8
+9,
+
+2.
+08
+
+)
+0.
+
+95
+(0
+
+.6
+0,
+
+1.
+50
+
+)
+1.
+
+58
+(1
+
+.0
+4,
+
+2.
+40
+
+)
+0.
+
+02
+3
+
+0.
+08
+
+0
+Fu
+
+m
+ar
+
+at
+e/
+
+m
+al
+
+ea
+te
+
+4
+88
+
+9
+25
+
+1
+1.
+
+02
+(0
+
+.8
+8,
+
+1.
+18
+
+)
+1.
+
+00
+(r
+
+ef
+)
+
+0.
+67
+
+(0
+.4
+
+3,
+1.
+
+03
+)
+
+0.
+75
+
+(0
+.5
+
+1,
+1.
+
+10
+)
+
+0.
+96
+
+(0
+.6
+
+4,
+1.
+
+45
+)
+
+0.
+20
+
+4
+0.
+
+33
+3
+
+M
+al
+
+at
+e
+
+88
+9
+
+25
+1
+
+1.
+04
+
+(0
+.9
+
+1,
+1.
+
+19
+)
+
+1.
+00
+
+(r
+ef
+
+)
+0.
+
+94
+(0
+
+.6
+4,
+
+1.
+39
+
+)
+1.
+
+23
+(0
+
+.8
+2,
+
+1.
+85
+
+)
+1.
+
+14
+(0
+
+.7
+9,
+
+1.
+65
+
+)
+0.
+
+77
+8
+
+0.
+83
+
+7
+Su
+
+cc
+in
+
+at
+e
+
+88
+9
+
+25
+1
+
+1.
+07
+
+(0
+.9
+
+3,
+1.
+
+25
+)
+
+1.
+00
+
+(r
+ef
+
+)
+1.
+
+48
+(1
+
+.0
+3,
+
+2.
+13
+
+)
+1.
+
+38
+(0
+
+.9
+6,
+
+2.
+00
+
+)
+0.
+
+94
+(0
+
+.6
+0,
+
+1.
+49
+
+)
+0.
+
+51
+6
+
+0.
+61
+
+9
+M
+
+et
+ab
+
+ol
+ite
+
+sc
+or
+
+e5
+88
+
+9
+25
+
+1
+1.
+
+30
+(1
+
+.1
+2,
+
+1.
+51
+
+)
+1.
+
+00
+(r
+
+ef
+)
+
+1.
+11
+
+(0
+.7
+
+0,
+1.
+
+75
+)
+
+1.
+32
+
+(0
+.8
+
+6,
+2.
+
+01
+)
+
+1.
+88
+
+(1
+.2
+
+5,
+2.
+
+83
+)
+
+0.
+00
+
+1
+
+1
+M
+
+od
+el
+
+s
+ad
+
+ju
+st
+
+ed
+fo
+
+r
+ag
+
+e
+(y
+
+ea
+rs
+
+),
+se
+
+x
+(m
+
+al
+e,
+
+fe
+m
+
+al
+e)
+
+,i
+nt
+
+er
+ve
+
+nt
+io
+
+n
+gr
+
+ou
+p
+
+(M
+ed
+
+D
+ie
+
+t+
+ex
+
+tr
+a-
+
+vi
+rg
+
+in
+ol
+
+iv
+e
+
+oi
+l,
+
+M
+ed
+
+D
+ie
+
+t+
+nu
+
+ts
+),
+
+B
+M
+
+I
+(k
+
+g/
+m
+
+2
+),
+
+sm
+ok
+
+in
+g
+
+(n
+ev
+
+er
+,c
+
+ur
+re
+
+nt
+,f
+
+or
+m
+
+er
+),
+
+le
+is
+
+ur
+e-
+
+tim
+e
+
+ph
+ys
+
+ic
+al
+
+ac
+tiv
+
+ity
+(m
+
+et
+ab
+
+ol
+ic
+
+eq
+ui
+
+va
+le
+
+nt
+ta
+
+sk
+s
+
+in
+m
+
+in
+ut
+
+es
+pe
+
+r
+da
+
+y)
+,d
+
+ys
+lip
+
+id
+em
+
+ia
+,h
+
+yp
+er
+
+te
+ns
+
+io
+n,
+
+an
+d
+
+ba
+se
+
+lin
+e
+
+fa
+st
+
+in
+g
+
+gl
+uc
+
+os
+e
+
+(m
+ea
+
+n
++
+
+qu
+ad
+
+ra
+tic
+
+te
+rm
+
+of
+ce
+
+nt
+er
+
+ed
+m
+
+ea
+n)
+
+an
+d
+
+st
+ra
+
+tifi
+ed
+
+by
+re
+
+cr
+ui
+
+tm
+en
+
+tc
+en
+
+te
+r.
+
+T
+C
+
+A
+,t
+
+ri
+ca
+
+rb
+ox
+
+yl
+ic
+
+ac
+id
+
+cy
+cl
+
+e. 2
+A
+
+n
+in
+
+ve
+rs
+
+e
+no
+
+rm
+al
+
+tr
+an
+
+sf
+or
+
+m
+at
+
+io
+n
+
+w
+as
+
+ap
+pl
+
+ie
+d
+
+to
+ra
+
+w
+va
+
+lu
+es
+
+.
+3
+Fa
+
+ls
+e
+
+di
+sc
+
+ov
+er
+
+y
+ra
+
+te
+–c
+
+or
+re
+
+ct
+ed
+
+P
+va
+
+lu
+e.
+
+4
+T
+
+he
+se
+
+m
+et
+
+ab
+ol
+
+ite
+s
+
+w
+er
+
+e
+no
+
+tc
+hr
+
+om
+at
+
+og
+ra
+
+ph
+ic
+
+al
+ly
+
+re
+so
+
+lv
+ed
+
+an
+d
+
+do
+no
+
+th
+av
+
+e
+un
+
+iq
+ue
+
+m
+ul
+
+tip
+le
+
+re
+ac
+
+tio
+n
+
+m
+on
+
+ito
+ri
+
+ng
+tr
+
+an
+si
+
+tio
+ns
+
+in
+M
+
+S.
+5
+W
+
+ei
+gh
+
+te
+d
+
+su
+m
+
+of
+al
+
+lm
+et
+
+ab
+ol
+
+ite
+s
+
+(u
+si
+
+ng
+re
+
+gr
+es
+
+si
+on
+
+co
+ef
+
+fic
+ie
+
+nt
+s
+
+as
+w
+
+ei
+gh
+
+ts
+af
+
+te
+r
+
+ap
+pl
+
+yi
+ng
+
+th
+e
+
+le
+av
+
+e-
+on
+
+e-
+ou
+
+tc
+ro
+
+ss
+-v
+
+al
+id
+
+at
+io
+
+n
+ap
+
+pr
+oa
+
+ch
+).
+
+W
+ei
+
+gh
+te
+
+d
+pr
+
+op
+or
+
+tio
+na
+
+lh
+az
+
+ar
+ds
+
+C
+ox
+
+re
+gr
+
+es
+si
+
+on
+m
+
+od
+el
+
+s
+w
+
+er
+e
+
+us
+ed
+
+.
+
+
+
+Glucose-related metabolites and type 2 diabetes 841
+
+TABLE 3 Baseline and 1-y changes in HOMA-IR index (95% CIs) by quartiles of baseline
+glycolysis/gluconeogenesis and TCA cycle metabolites in the PREDIMED trial, 2003–20101
+
+Baseline HOMA-IR 1-y change of HOMA-IR
+
+Adjusted mean difference
+(95% CI) P-trend
+
+Adjusted mean difference
+(95% CI) P-trend
+
+Hexose monophosphate
+Quartile 1 0 (ref.) 0.431 0 (ref.) 0.575
+Quartile 2 − 0.12 (−0.52, 0.28) − 0.40 (−0.91, 0.12)
+Quartile 3 − 0.41 (−0.82, 0.01) − 0.26 (−0.80, 0.28)
+Quartile 4 0.10 (−0.30, 0.49) − 0.16 (−0.68, 0.37)
+
+Pyruvate
+Quartile 1 0 (ref.) <0.001 0 (ref.) 0.502
+Quartile 2 0.12 (−0.35, 0.58) 0.09 (−0.52, 0.69)
+Quartile 3 0.37 (−0.09, 0.83) 0.27 (−0.32, 0.87)
+Quartile 4 0.61 (0.15, 1.07) 0.36 (−0.25, 0.97)
+
+Lactate
+Quartile 1 0 (ref.) <0.001 0 (ref.) 0.015
+Quartile 2 0.16 (−0.23, 0.56) 0.55 (0.02, 1.09)
+Quartile 3 0.94 (0.55, 1.34) 0.68 (0.14, 1.22)
+Quartile 4 1.03 (0.62, 1.43) 0.70 (0.17, 1.24)
+
+Alanine
+Quartile 1 0 (ref.) 0.003 0 (ref.) 0.027
+Quartile 2 0.24 (−0.18, 0.66) 0.19 (−0.37, 0.75)
+Quartile 3 0.61 (0.20, 1.02) 0.27 (−0.27, 0.80)
+Quartile 4 0.57 (0.16, 0.98) 0.69 (0.15, 1.23)
+
+Glycerol 3-phosphate
+Quartile 1 0 (ref.) 0.075 0 (ref.) 0.075
+Quartile 2 0.31 (−0.10, 0.72) 0.49 (−0.05, 1.04)
+Quartile 3 0.11 (−0.29, 0.52) 0.74 (0.21, 1.28)
+Quartile 4 0.27 (−0.14, 0.67) 0.58 (0.03, 1.12)
+
+1Models adjusted for age (years), sex (male, female), intervention group (MedDiet + extra-virgin olive oil,
+MedDiet + nuts), BMI (kg/m2), smoking (never, current, former), leisure-time physical activity (metabolic equivalent
+tasks in minutes per day), dyslipidemia, hypertension, and baseline fasting glucose. Multivariable linear regression
+models were used. TCA, tricarboxylic acid.
+
+in insulin resistance and metabolic syndrome phenotypes (6).
+Increased plasma lactate concentrations have also been reported
+after the standard 75-g OGTT and hyperinsulinemic-euglycemic
+clamps, showing differential postchallenge lactatemia in insulin-
+resistant compared with insulin-sensitive subjects (8, 9, 33–35).
+Moreover, the increased insulin sensitivity observed after weight
+loss programs has also been accompanied by reductions in plasma
+lactate concentrations (36). There is a well-known link between
+circulating lactate and glucose homeostasis because lactate is
+a precursor of hepatic gluconeogenesis, potentially enhancing
+the endogenous glucose production. It has also been shown
+that plasma lactate transported through MCT1 in the adipose
+tissue (37) may interfere with insulin action in skeletal muscle
+(38) and mediate inhibition of lipolysis through the activation
+of hydroxycarboxylic acid receptor 1 (HCAR1/GPR81) in
+adipocytes (39). The importance of plasma lactate in metabolism
+has been reinforced after the observation that this metabolite is
+the major carbon source to mitochondrial TCA in most of the
+peripheral tissues (40, 41).
+
+We found that both baseline selected TCA cycle–related
+metabolites and their 1-y changes were associated with higher
+T2D risk. Impaired TCA flux in insulin-resistant human skeletal
+muscle has been suggested as one of the characteristics of the
+diabetic phenotype (42, 43). Mitochondrial aconitase converts
+citrate to isocitrate via aconitate, which is a highly sensitive
+
+enzyme biomarker of age-related oxidative damage, a process
+widely linked to hyperglycemia (44). Interestingly, the TCA cycle
+metabolites isocitrate, aconitate, and malate have been reported
+to be involved in the metabolomic signature of human aging
+(45). Both malate and isocitrate are involved in the pyruvate–
+citrate cycle through malic enzyme oxidizing malate to pyruvate
+or through the cytosolic isocitrate dehydrogenase converting
+isocitrate to α-ketoglutarate, and such reactions participate in
+NAD(P)H production which is critical in the cellular antioxidant
+defense system. In our study, we found that 1-y changes of
+isocitrate and malate were only associated with a higher risk of
+T2D in the control group but not in the MedDiet intervention
+groups. This finding suggests that the MedDiet could counteract
+the detrimental effects associated with an increase in these
+metabolites. In fact, the MedDiet is an antioxidant-rich diet
+that may prevent cellular aging through a reduced intracellular
+oxidative stress (46).
+
+Gluconeogenesis from amino acids (mainly via the glucose–
+alanine cycle) contributes ≤40% of the non-glycogen-derived
+hepatic glucose production (47–49). Alanine showed the
+strongest association with HOMA-IR index among 285 candidate
+metabolites in prepubertal children (50). Alanine is directly
+connected to pyruvate through a reaction of amino transference
+catalyzed by alanine aminotransferase (pyruvate is the 2-oxoacid
+of alanine) and circulating alanine has been proposed as an
+
+
+
+842 Guasch-Ferré et al.
+
+TABLE 4 Incident T2D by 1-y changes in glycolysis/gluconeogenesis and TCA cycle metabolites stratified by intervention group in the PREDIMED trial,
+2003–20101
+
+Control group Mediterranean diet groups (2 groups)
+
+n T2D cases
+Adjusted HR per 1-SD
+increment2 (95% CI) n T2D cases
+
+Adjusted HR per 1-SD
+increment2 (95% CI) P-interaction P-interaction3
+
+Hexose monophosphate 210 58 1.62 (1.15, 2.28) 446 99 1.47 (1.13, 1.90) 0.821 0.945
+3-Phosphoglycerate 210 58 2.01 (1.39, 2.91) 445 99 1.44 (1.03, 2.00) 0.876 0.945
+Lactate 210 58 2.18 (1.31, 3.63) 446 99 1.63 (1.22, 2.17) 0.899 0.945
+Citrate 210 58 1.53 (1.11, 2.11) 446 99 1.14 (0.90, 1.45) 0.118 0.314
+Aconitate 210 58 2.14 (1.45, 3.17) 446 99 1.54 (1.15, 2.06) 0.945 0.945
+Isocitrate 210 58 2.96 (1.87, 4.68) 446 99 1.13 (0.89, 1.44) 0.025 0.169
+Fumarate 209 58 1.33 (0.94, 1.88) 446 99 1.35 (1.05, 1.73) 0.429 0.857
+Malate 210 58 1.51 (1.06, 2.17) 446 99 1.03 (0.79, 1.33) 0.042 0.169
+Metabolite score4 210 58 3.57 (1.54, 4.27) 446 99 1.10 (0.84, 1.44) 0.071
+
+1Models adjusted for baseline metabolites (or metabolite score), age (years), sex (male, female), intervention group (MedDiet + extra-virgin olive oil,
+MedDiet + nuts), BMI (kg/m2), smoking (never, current, former), leisure-time physical activity (metabolic equivalent tasks in minutes per day),
+dyslipidemia, hypertension, and baseline fasting glucose (mean + quadratic term of centered mean) and stratified by recruitment center. TCA, tricarboxylic
+acid; T2D, type 2 diabetes.
+
+2An inverse normal transformation was applied to raw values.
+3False discovery rate–corrected P values.
+4Weighted sum of all metabolites (using regression coefficients as weights after applying the leave-one-out cross-validation approach). Weighted
+
+proportional hazards Cox regression models were used.
+
+indicator of pyruvate (the 2-oxoacid of alanine) production
+(51). As it is well known, pyruvate is the precursor of lactate
+through the lactate dehydrogenase reaction. Malate can also be
+derived from pyruvate through the anaplerotic reaction canalized
+via oxalacetate through the pyruvate–malate shuttle. One study
+showed synchronous increments of circulating lactate, pyruvate,
+alanine, and malate after glucose loads (10). Our results did not
+show an association between baseline plasma malate and T2D
+risk but we found an association between 1-y increase of malate
+and T2D risk in the control group.
+
+Glycerol-3-phosphate, involved in the gluconeogenesis from
+glycerol, is part of the glycerol-3-phosphate shuttle and a critical
+intermediate in the synthesis of glycerolipids. The importance of
+glycerol-3-phosphate in glucose homeostasis is proposed given
+the observation that overexpression of the glycerol-3 phosphate
+acyltransferase 1 enzyme converting glycerol-3-phosphate to
+lysophosphatidic acid causes hepatic insulin resistance (52).
+In addition, inhibition of glycerol-3-phosphate dehydrogenase
+by metformin may reduce gluconeogenesis from glycerol and
+disrupt the cytosolic NAD(H):NAD+ ratio, blocking the use of
+lactate as a gluconeogenic precursor (53).
+
+Several strengths and limitations of the present study deserve
+comment. First, we used an efficient case-cohort design nested
+in a large long-term intervention trial to study a hard clinical
+endpoint and its association with multiple plasma metabolites
+quantified by a validated LC–tandem MS platform. Second,
+the main novelty and uniqueness of the present study is the
+use of repeated measurements of metabolites after 1 y and
+the possibility to appraise the effect modification by a well-
+defined dietary intervention. Third, this is a longitudinal analysis
+with a relatively long follow-up, a well-characterized population,
+and we used blinded assessment of incident T2D cases by a
+clinical adjudication committee. Although the analyses were
+adjusted for several potential confounders, the possibility of
+residual or unmeasured confounding cannot be discounted and
+
+reduces our ability to draw causal conclusions. Moreover,
+departures from individual random assignment in a subset
+of the trial participants could affect our results related with
+differences between the intervention and control groups (15,
+54). However, our results were very similar after using robust
+estimates of the variance to correct for potential intracluster
+correlations and adjusting for propensity scores to account for
+small imbalances in baseline covariables. We acknowledge the
+limitation derived from the reduced sample size used for pyruvate
+and hexose diphosphate due to missing values. In addition,
+a potential technical limitation might be related to possible
+spurious elevations of lactate or pyruvate (and less likely for other
+metabolites) because of recent physical activity, the procedure
+for blood drawing, or preanalytical treatments (51). However,
+there is no reason to think that these procedures may have
+differentially affected participants who years later developed
+T2D and when we repeated the analyses with a metabolite
+score without pyruvate and hexose diphosphate, the association
+between the metabolite score and T2D became even stronger. Our
+findings may not be generalizable to other populations and T2D
+was a defined secondary endpoint and not the primary endpoint
+of the PREDIMED trial.
+
+Our results provide a deeper understanding of specific
+metabolic pathways related to circulating glycolysis/
+gluconeogenesis and TCA cycle metabolites in relation with
+insulin resistance and T2D, and how a MedDiet might modulate
+the association of these metabolites with T2D risk. In addition,
+it may shed light into the biological interconnections between
+Mediterranean dietary interventions, changes in metabolomics
+profiles, and the risk of T2D. Altogether, it may facilitate the
+development of preventive and early diagnostic strategies for
+curbing the T2D epidemic and the adverse consequences of
+diabetes.
+
+In conclusion, we have identified a panel of glycolysis/
+gluconeogenesis- and TCA cycle–related metabolites that was
+
+
+
+Glucose-related metabolites and type 2 diabetes 843
+
+significantly associated with T2D risk in a Mediterranean
+population at high CVD risk
+
+The authors’ responsibilities were as follows—MG-F, JLS, MAM-G, ET,
+FHB, and MR-C: conceived and designed the work; MAM-G, RE, DC, ER,
+MF, JL, AA-G, CM-B, LS-M, and JS-S: coordinated the subject recruitment
+at the outpatient clinics and clinical data collection; CBC, CD, and KP:
+conducted the metabolomics data analysis; MR-C: conducted the statistical
+analysis and is the guarantor of this work and, as such, takes responsibility
+for the integrity of the data and the accuracy of the data analysis; MG-F and
+MR-C: had access to all the data in the study; MG-F, JLS, MAM-G, CB,
+DW, CR, LL, JL, JS-S, ET, and MR-C: interpreted the data; MG-F, JLS, and
+MR-C: drafted the manuscript; and all authors : made critical revisions to the
+manuscript for key intellectual content. All authors read and aproved the final
+manuscript. The authors report no conflicts of interest.
+
+References
+1. Gonzalez-Franquesa A, Burkart AM, Isganaitis E, Patti M-E. What have
+
+metabolomics approaches taught us about type 2 diabetes? Curr Diab
+Rep 2016;16:74.
+
+2. Würtz P, Tiainen M, Mäkinen V-P, Kangas AJ, Soininen P, Saltevo J,
+Keinänen-Kiukaanniemi S, Mäntyselkä P, Lehtimäki T, Laakso M, et al.
+Circulating metabolite predictors of glycemia in middle-aged men and
+women. Diabetes Care 2012;35:1749–56.
+
+3. Floegel A, Stefan N, Yu Z, Mühlenbruch K, Drogan D, Joost
+H-G, Fritsche A, Häring H-U, Hrabě de Angelis M, Peters A,
+et al. Identification of serum metabolites associated with risk of
+type 2 diabetes using a targeted metabolomic approach. Diabetes
+2013;62:639–48.
+
+4. Padberg I, Peter E, González-Maldonado S, Witt H, Mueller M,
+Weis T, Bethan B, Liebenberg V, Wiemer J, Katus HA, et al.
+A new metabolomic signature in type-2 diabetes mellitus and its
+pathophysiology. PLoS One 2014;9:e85082.
+
+5. Drogan D, Dunn WB, Lin W, Buijsse B, Schulze MB, Langenberg
+C, Brown M, Floegel A, Dietrich S, Rolandsson O, et al. Untargeted
+metabolic profiling identifies altered serum metabolites of type 2
+diabetes mellitus in a prospective, nested case control study. Clin Chem
+2015;61:487–97.
+
+6. Menni C, Fauman E, Erte I, Perry JRB, Kastenmuller G, Shin S-
+Y, Petersen A-K, Hyde C, Psatha M, Ward KJ, et al. Biomarkers
+for type 2 diabetes and impaired fasting glucose using a nontargeted
+metabolomics approach. Diabetes 2013;62:4270–6.
+
+7. Suhre K, Meisinger C, Döring A, Altmaier E, Belcredi P, Gieger C,
+Chang D, Milburn MV, Gall WE, Weinberger KM, et al. Metabolic
+footprint of diabetes: a multiplatform metabolomics study in an
+epidemiological setting. PLoS One 2010;5:e13953.
+
+8. Mardinoglu A, Stančáková A, Lotta LA, Kuusisto J, Boren J, Blüher M,
+Wareham NJ, Ferrannini E, Groop PH, Laakso M, et al. Plasma mannose
+levels are associated with incident type 2 diabetes and cardiovascular
+disease. Cell Metab 2017;26:281–3.
+
+9. Ho JE, Larson MG, Vasan RS, Ghorbani A, Cheng S, Rhee EP, Florez
+JC, Clish CB, Gerszten RE, Wang TJ. Metabolite profiles during oral
+glucose challenge. Diabetes 2013;62:2689–98.
+
+10. Shaham O, Wei R, Wang TJ, Ricciardi C, Lewis GD, Vasan RS, Carr
+SA, Thadhani R, Gerszten RE, Mootha VK. Metabolic profiling of the
+human response to a glucose challenge reveals distinct axes of insulin
+sensitivity. Mol Syst Biol 2008;4:214.
+
+11. Juraschek SP, Shantha GPS, Chu AY, Miller ER, Guallar E, Hoogeveen
+RC, Ballantyne CM, Brancati FL, Schmidt MI, Pankow JS, et al. Lactate
+and risk of incident diabetes in a case-cohort of the Atherosclerosis Risk
+in Communities (ARIC) study. PLoS One 2013;8:e55113.
+
+12. Juraschek SP, Selvin E, Miller ER, Brancati FL, Young JH. Plasma
+lactate and diabetes risk in 8045 participants of the Atherosclerosis Risk
+in Communities Study. Ann Epidemiol 2013;23:791–6.e4.
+
+13. Crawford SO, Hoogeveen RC, Brancati FL, Astor BC, Ballantyne
+CM, Schmidt MI, Young JH. Association of blood lactate with type 2
+diabetes: the Atherosclerosis Risk in Communities Carotid MRI Study.
+Int J Epidemiol 2010;39:1647–55.
+
+14. Martínez-González MÁ, Corella D, Salas-Salvadó J, Ros E, Covas MI,
+Fiol M, Wärnberg J, Arós F, Ruíz-Gutiérrez V, Lamuela-Raventós RM,
+
+et al. Cohort profile: design and methods of the PREDIMED study. Int
+J Epidemiol 2012;41:377–85.
+
+15. Estruch R, Ros E, Salas-Salvadó J, Covas M-I, Corella D, Arós
+F, Gómez-Gracia E, Ruiz-Gutiérrez V, Fiol M, Lapetra J, et al.
+Primary prevention of cardiovascular disease with a Mediterranean
+diet supplemented with extra-virgin olive oil or nuts. N Engl J Med
+2018;378:e34.
+
+16. Prentice RL. On the design of synthetic case-control studies. Biometrics
+1986;42:301–10.
+
+17. Salas-Salvadó J, Bulló M, Estruch R, Ros E, Covas M-I, Ibarrola-
+Jurado N, Corella D, Arós F, Gómez-Gracia E, Ruiz-Gutiérrez V, et al.
+Prevention of diabetes with Mediterranean diets: a subgroup analysis
+of a randomized trial. Ann Intern Med 2014;160:1–10. Erratum in: Ann
+Intern Med 2018;169:271–2.
+
+18. American Diabetes Association. Diagnosis and classification of
+diabetes mellitus. Diabetes Care 2011;34(Suppl 1):S62–9.
+
+19. Elosua R, Marrugat J, Molina L, Pons S, Pujol E. Validation of the
+Minnesota Leisure Time Physical Activity Questionnaire in Spanish
+men. Am J Epidemiol 1994;139:1197–209.
+
+20. Wang TJ, Larson MG, Vasan RS, Cheng S, Rhee EP, McCabe E, Lewis
+GD, Fox CS, Jacques PF, Fernandez C, et al. Metabolite profiles and
+the risk of developing diabetes. Nat Med 2011;17:448–53.
+
+21. Barlow WE, Ichikawa L, Rosner D, Izumi S. Analysis of case-cohort
+designs. J Clin Epidemiol 1999;52:1165–72.
+
+22. Simes RJ. An improved Bonferroni procedure for multiple tests of
+significance. Biometrika 1986;73:751–4.
+
+23. Wang TJ, Larson MG, Vasan RS, Cheng S, Rhee EP, McCabe E, Lewis
+GD, Fox CS, Jacques PF, Fernandez C, et al. Metabolite profiles and
+the risk of developing diabetes. Nat Med 2011;17:448–53.
+
+24. Ng AY. Preventing “overfitting” of cross-validation data. In: Proceeding
+ICML ’97 Proceedings of the Fourteenth International Conference
+on Machine Learning. San Francisco CA, United States, Morgan
+Kaufmann Publishers Inc. 1997. pp. 245–53.
+
+25. Guasch-Ferré M, Hruby A, Toledo E, Clish CB, Martínez-González
+MA, Salas-Salvadó J, Hu FB. Metabolomics in prediabetes and
+diabetes: a systematic review and meta-analysis. Diabetes Care
+2016;39:833–46.
+
+26. Ruiz-Canela M, Guasch-Ferré M, Toledo E, Clish CB, Razquin C,
+Liang L, Wang DD, Corella D, Estruch R, Hernáez Á, et al. Plasma
+branched chain/aromatic amino acids, enriched Mediterranean diet and
+risk of type 2 diabetes: case-cohort study within the PREDIMED Trial.
+Diabetologia 2018;61:1560–71.
+
+27. Yu E, Ruiz-Canela M, Razquin C, Guasch-Ferré M, Toledo E, Wang
+DD, Papandreou C, Dennis C, Clish C, Liang L, et al. Changes in
+arginine are inversely associated with type 2 diabetes: a case-cohort
+study in the PREDIMED trial. Diabetes Obes Metab 2019;21(2):397–
+401.
+
+28. Kahn BB. Type 2 diabetes: when insulin secretion fails to compensate
+for insulin resistance. Cell 1998;92:593–6.
+
+29. American Diabetes Association. 2. Classification and diagnosis of
+diabetes: Standards of Medical Care in Diabetes — 2018. Diabetes Care
+2018;41:S13–27.
+
+30. Merino J, Leong A, Liu C-T, Porneala B, Walford GA, von Grotthuss
+M, Wang TJ, Flannick J, Dupuis J, Levy D, et al. Metabolomics insights
+into early type 2 diabetes pathogenesis and detection in individuals with
+normal fasting glucose. Diabetologia 2018;61:1315–24.
+
+31. Spégel P, Malmgren S, Sharoyko VV, Newsholme P, Koeck T,
+Mulder H. Metabolomic analyses reveal profound differences in
+glycolytic and tricarboxylic acid cycle metabolism in glucose-
+responsive and -unresponsive clonal β-cell lines. Biochem J 2011;435:
+277–84.
+
+32. Pullen TJ, Khan AM, Barton G, Butcher SA, Sun G, Rutter GA.
+Identification of genes selectively disallowed in the pancreatic islet.
+Islets 2010;2:89–95.
+
+33. Lovejoy J, Newby FD, Gebhart SS, DiGirolamo M. Insulin resistance
+in obesity is associated with elevated basal lactate levels and diminished
+lactate appearance following intravenous glucose and insulin. Metab
+Clin Exp 1992;41:22–7.
+
+34. Berhane F, Fite A, Daboul N, Al-Janabi W, Msallaty Z, Caruso M,
+Lewis MK, Yi Z, Diamond MP, Abou-Samra A-B, et al. Plasma lactate
+levels increase during hyperinsulinemic euglycemic clamp and oral
+glucose tolerance test. J Diabetes Res 2015:102054.
+
+35. Galgani JE, Gómez C, Mizgier ML, Gutierrez J, Santos JL, Olmos
+P, Mari A. Assessment of the role of metabolic determinants on
+
+
+
+844 Guasch-Ferré et al.
+
+the relationship between insulin sensitivity and secretion. PLoS One
+2016;11:e0168352.
+
+36. Chondronikola M, Magkos F, Yoshino J, Okunade AL, Patterson BW,
+Muehlbauer MJ, Newgard CB, Klein S. Effect of progressive weight
+loss on lactate metabolism: a randomized controlled trial. Obesity
+(Silver Spring) 2018;26:683–8.
+
+37. Carneiro L, Pellerin L. Monocarboxylate transporters: new players in
+body weight regulation. Obes Rev 2015;16(Suppl 1):55–66.
+
+38. Choi CS, Kim Y-B, Lee FN, Zabolotny JM, Kahn BB, Youn JH.
+Lactate induces insulin resistance in skeletal muscle by suppressing
+glycolysis and impairing insulin signaling. Am J Physiol Endocrinol
+Metab 2002;283:E233–40.
+
+39. Ahmed K, Tunaru S, Tang C, Müller M, Gille A, Sassmann A,
+Hanson J, Offermanns S. An autocrine lactate loop mediates insulin-
+dependent inhibition of lipolysis through GPR81. Cell Metab 2010;11:
+311–19.
+
+40. Hui S, Ghergurovich JM, Morscher RJ, Jang C, Teng X, Lu W, Esparza
+LA, Reya T, Zhan L, Yanxiang Guo J, et al. Glucose feeds the TCA
+cycle via circulating lactate. Nature 2017;551:115–18.
+
+41. Brooks GA. The science and translation of lactate shuttle theory. Cell
+Metab 2018;27:757–85.
+
+42. Gaster M, Nehlin JO, Minet AD. Impaired TCA cycle flux in
+mitochondria in skeletal muscle from type 2 diabetic subjects:
+marker or maker of the diabetic phenotype? Arch Physiol Biochem
+2012;118:156–89.
+
+43. Montgomery MK, Turner N. Mitochondrial dysfunction and insulin
+resistance: an update. Endocr Connect 2015;4:R1–15.
+
+44. Yan LJ, Levine RL, Sohal RS. Oxidative damage during aging targets
+mitochondrial aconitase. Proc Natl Acad Sci U S A 1997;94:11168–72.
+
+45. Cheng S, Larson MG, McCabe EL, Murabito JM, Rhee EP, Ho JE,
+Jacques PF, Ghorbani A, Magnusson M, Souza AL, et al. Distinct
+
+metabolomic signatures are associated with longevity in humans. Nat
+Commun 2015;6:6791.
+
+46. Marín C, Yubero-Serrano EM, López-Miranda J, Pérez-Jiménez F.
+Endothelial aging associated with oxidative stress can be modulated by
+a healthy Mediterranean diet. Int J Mol Sci 2013;14:8869–89.
+
+47. Sarabhai T, Roden M. Hungry for your alanine: when liver depends on
+muscle proteolysis. J Clin Invest 2019;129(11):4563–6.
+
+48. Petersen KF, Dufour S, Cline GW, Shulman GI. Regulation of hepatic
+mitochondrial oxidation by glucose-alanine cycling during starvation in
+humans. J Clin Invest 2019;129(11):4671–5.
+
+49. Felig P. Amino acid metabolism in man. Annu Rev Biochem
+1975;44:933–55.
+
+50. Hellmuth C, Kirchberg FF, Brandt S, Moß A, Walter V, Rothenbacher
+D, Brenner H, Grote V, Gruszfeld D, Socha P, et al. An individual
+participant data meta-analysis on metabolomics profiles for obesity and
+insulin resistance in European children. Sci Rep 2019;9:5053.
+
+51. Mitochondrial Medicine Society’s Committee on Diagnosis, Haas RH,
+Parikh S, Falk MJ, Saneto RP, Wolf NI, Darin N, Wong LJ, Cohen
+BH, Naviaux RK. The in-depth evaluation of suspected mitochondrial
+disease. Mol Genet Metab 2008;94:16–37.
+
+52. Nagle CA, An J, Shiota M, Torres TP, Cline GW, Liu ZX, Wang S,
+Catlin RL, Shulman GI, Newgard CB, et al. Hepatic overexpression
+of glycerol-sn-3-phosphate acyltransferase 1 in rats causes insulin
+resistance. J Biol Chem 2007;282:14807–15.
+
+53. Foretz M, Guigas B, Viollet B. Understanding the glucoregulatory
+mechanisms of metformin in type 2 diabetes mellitus. Nat Rev
+Endocrinol 2019;15:569–89.
+
+54. Yu E, Hu FB, Martinez-Gonzalez MA, Salas-Salvadó J. Regarding the
+robustness of results for “Association of tryptophan metabolites with
+incident type 2 diabetes in the PREDIMED trial: a case-cohort study.”
+Clin Chem 2018;64:1541–2.
+
+

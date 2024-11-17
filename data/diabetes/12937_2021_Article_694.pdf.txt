@@ -1,0 +1,1308 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Effects of supplementation with main coffee components including caffeine and/or chlorogenic acid on hepatic, metabolic, and inflammatory indices in patients with non-alcoholic fatty liver disease and type 2 diabetes: a randomized, double-blind, placebo-controlled, clinical trial
+
+
+RESEARCH Open Access
+
+Effects of supplementation with main
+coffee components including caffeine and/
+or chlorogenic acid on hepatic, metabolic,
+and inflammatory indices in patients with
+non-alcoholic fatty liver disease and type 2
+diabetes: a randomized, double-blind,
+placebo-controlled, clinical trial
+Asieh Mansour1, Mohammad Reza Mohajeri-Tehrani2, Majid Samadi3, Mostafa Qorbani4,5, Shahin Merat6,
+Hossein Adibi7, Hossein Poustchi6 and Azita Hekmatdoost1*
+
+Abstract
+
+Background: Non-alcoholic fatty liver disease (NAFLD) is much more frequent and more severe, including cirrhosis,
+hepatocellular carcinoma in patients with type 2 diabetes. Coffee is a complex beverage with hundreds of
+compounds whereas caffeine and chlorogenic acid are the most abundant bioactive compounds. The published
+epidemiological data demonstrating beneficial associations between all categories of coffee exposure and ranges of
+liver outcomes are rapidly growing; however, the main contributors and cause-effect relationships have not yet
+been elucidated. To address existing knowledge gaps, we sought to determine the efficacy and safety of 6 months
+chlorogenic acid and/or caffeine supplementation in patients with type 2 diabetes affected by NAFLD.
+
+Methods: This trial was carried out at two Diabetes Centers to assess the effects of supplementation with daily
+doses of 200 mg chlorogenic acid, 200 mg caffeine, 200 mg chlorogenic acid plus 200 mg caffeine or placebo
+(starch) in patients with type 2 diabetes and NAFLD. The primary endpoint was reduction of hepatic fat and
+stiffness measured by FibroScan, and changes in serum hepatic enzymes and cytokeratin − 18 (CK-18) levels.
+Secondary endpoints were improvements in metabolic (including fasting glucose, homeostasis model assessment-
+estimated insulin resistance (HOMA-IR), hemoglobin A1c (HBA1C), C-peptide, insulin and lipid profiles) and
+inflammatory (including nuclear factor k-B (NF-KB), tumor necrosis factor (TNF-α), high sensitive- C reactive
+protein(hs-CRP)) parameters from baseline to the end of treatment.
+(Continued on next page)
+
+© The Author(s). 2021 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.
+
+* Correspondence: a_hekmat2000@yahoo.com
+1Department of Clinical Nutrition & Dietetics, Faculty of Nutrition Sciences
+and Food Technology, National Nutrition and Food Technology Research
+Institute, Shahid Beheshti University of Medical Sciences, Tehran, Iran
+Full list of author information is available at the end of the article
+
+Mansour et al. Nutrition Journal           (2021) 20:35 
+https://doi.org/10.1186/s12937-021-00694-5
+
+http://crossmark.crossref.org/dialog/?doi=10.1186/s12937-021-00694-5&domain=pdf
+http://orcid.org/0000-0002-1944-0052
+http://creativecommons.org/licenses/by/4.0/
+http://creativecommons.org/publicdomain/zero/1.0/
+mailto:a_hekmat2000@yahoo.com
+
+
+(Continued from previous page)
+
+Results: Neither chlorogenic acid nor caffeine was superior to placebo in attenuation of the hepatic fat and
+stiffness and other hepatic outcomes in patients with diabetes and NAFLD. Except for the lower level of total
+cholesterol in caffeine group (p = 0.04), and higher level of insulin in chlorogenic acid plus caffeine group (p = 0.01)
+compared with placebo, there were no significant differences among the treatment groups.
+
+Conclusion: These findings do not recommend caffeine and/or chlorogenic acid to treat NAFLD in type 2 diabetes
+patients.
+
+Trial registration: IRCT201707024010N21. Registered 14 September 2017.
+
+Keywords: Coffee, Caffeine, chlorogenic acid, Type 2 diabetes, Non-alcoholic fatty liver disease, Clinical trial
+
+Introduction
+Patients with type 2 diabetes have a risk of developing
+serious liver related complications including non-
+alcoholic fatty liver disease (NAFLD), hepatic cirrhosis,
+and hepatocellular carcinoma that is two to four times
+higher than those without diabetes [1].
+Observational studies in different populations have
+
+suggested that coffee consumption is associated with a
+reduced risk of NAFLD [2, 3], liver fibrosis [4], type 2
+diabetes [5], and hepatocellular carcinoma [6]. It is well
+established that coffee is a mixture of various chemical
+compounds; among the identified constituents, caffeine,
+chlorogenic acids, and two diterpenes (cafestol and kah-
+weol) are the main compounds [7]. Caffeine is thought
+to prevent or reverse hepatic fibrosis by several mecha-
+nisms including acting as an A2A receptor antagonist
+which affect the activation of hepatic stellate cells [8].
+Recent meta -analysis suggests that this association may
+be explained by caffeine and not by the decaffeinated
+coffee. Caffeine is thought to inhibit the proliferation of
+hepatocellular carcinoma cell [9]. Data from the Na-
+tional Health and Nutrition Examination Surveys
+(NHANES) that collected between 2001 and 2008 indi-
+cated caffeine intake as one of the five independent pre-
+dictors of NAFLD, suggesting that caffeine may have a
+potential protective effect [10]. However, a meta- ana-
+lysis has shown that regular coffee caffeine consumption,
+but not total caffeine intake, is associated with a lower
+levels of fibrosis severity [7]. This finding might suggest
+other ingredients in regular coffee, rather than caffeine,
+could be responsible for its antifibrotic effects [11].
+Chlorogenic acid (a major polyphenol in coffee) plays an
+important role on modulating glucose intolerance and
+hyperlipidemia [12], might also play an important role in
+hepatoprotection. Diterpenes are found in coffee as es-
+ters of fatty acid and are known to have a cholesterol
+raising properties [13]. It is remained unknown what
+bioactive component in coffee contributes its part more
+significantly for the reported effects [14].
+Although recent meta-analysis of observational studies
+
+have shown the beneficial association of coffee
+
+consumption with risk reduction of NAFLD and liver
+fibrosis [15], observational studies can only show associ-
+ation, but cannot provide evidence of causal relationship.
+The relationship between coffee consumption and liver fi-
+brosis might be due to other factors in frequent coffee
+drinkers behavior. The hepatoprotective benefits of coffee
+have not been studied in randomized controlled trials. So,
+it could not be included in evidence based treatment rec-
+ommendations. Thus, clinical trials are necessary to find a
+possible cause-effect relationship, while finding the main
+effective components of coffee, and their mechanism of
+action. Therefore, we performed this randomized clinical
+trial to assess the efficacy and safety of two main compo-
+nents of coffee including caffeine and/or chlorogenic acid
+at a dose of 200mg daily in patients who had type 2
+diabetes accompanied with NAFLD.
+
+Methods
+Enrollment occurred at two clinics of diabetes in Endo-
+crinology and Metabolism Research Center (Tehran
+University of Medical Sciences, Tehran, Iran), from
+September 29, 2017 through March 19, 2018 and the
+final date of follow up was October 10, 2018. The proto-
+col (available at nimad.ac.ir) was approved by the Na-
+tional Institute for Medical Research Developments
+Ethics Committee (IR.NIMAD.REC.1396.028), and all
+participants provided written informed consent.
+Capsules containing the caffeine and/ or chlorogenic
+acid and matching placeboes were provided by Arjuna
+Natural Extracts, India.
+
+Study population
+Men and women aged 30–53 years with type 2 diabetes
+(based on 1999 World Health Organization (WHO) cri-
+teria) and NAFLD (controlled attenuation parameter
+(CAP) score of 260 or more) were eligible for enroll-
+ment. Exclusion criteria were current use of insulin,
+current pregnancy or breastfeeding, alcohol intake as de-
+fined by an average daily consumption of alcohol > 20 g/
+day within the previous year, evidence of other forms of
+liver diseases (such as viral hepatitis, autoimmune
+
+Mansour et al. Nutrition Journal           (2021) 20:35 Page 2 of 11
+
+http://www.irct/IRCT201707024010N21
+http://nimad.ac.ir
+
+
+hepatitis, etc.), evidence of cirrhosis (according to transi-
+ent elastography (TE) exam and biochemical profile),
+current supplementation with vitamin E and other anti-
+oxidants, treatment with Milk thistle (Silybummaria-
+num) (to reduce the effects of confounding factors
+related to treatment strategies) in the past 6 month or
+during the study, a history of thyroid, kidney, and mental
+disease, heart failure, and cancer. Subjects were asked to
+bring their current medications at the time of screening,
+and they were checked by the investigator.
+
+Study procedures
+We identified potential patients treated with stable dose
+of oral anti-hyperglycemic agents and recruited them to
+fill out a screening questionnaire. Those who answered
+the questionnaire indicating that they are willing and eli-
+gible to participate in the trial, entered in the diagnosis
+for NAFLD phase, during which, we invited them to
+undergo abdominal ultrasonography. Patients who had
+hepatic steatosis of grade 2 or more were examined by
+TE. Patients who remained eligible (a CAP score level of
+at least 260 dB/m but Liver stiffness measurements
+(LSM) levels less than 14 kPa) were randomly assigned
+by a double-blind fashion using random blocked
+randomization in a 1:1:1:1 ratio to receive 2 capsules
+containing either 200 mg of chlorogenic acid plus 200
+mg of caffeine (about 2 cups of coffee), or 200 mg caf-
+feine plus placebo (starch), or 200 mg chlorogenic acid
+plus placebo, or two matching placebo capsules daily for
+6 months. All of investigators involved in this study were
+blinded to the treatments groups until final analysis.
+Study visits were conducted at baseline and at 6, 12, 18,
+24 weeks after initiation of the trial. At each visit, infor-
+mation was gathered regarding adverse events and ad-
+herence to study. At the baseline and after 24 weeks of
+follow up, we collected blood samples, along with an-
+thropometric, blood pressure, and non-invasive markers
+of hepatic steatosis and fibrosis measurements.
+
+Outcomes
+LSM expressed in kilopascals (kPa) and CAP score
+expressed in dB/m were assessed using FibroScan (Echo-
+Sense, Paris, France) in participants fasted for at least 3 h
+according to the manufacturer’s guideline.
+Nutritionist IV software (First Data Bank, The Hearst
+
+Corporation, San Bruno, CA) was used for the analysis
+of 24 h dietary recalls (5 weekdays and 2 weekend). In
+addition, physical activity was estimated using the inter-
+national physical activity questionnaire (IPAQ) by multi-
+plying MET (Metabolic Equivalent of Task) and time
+spent in each activity [16]. To assess potential changes
+in daily food consumption and physical activity during
+the 6-month intervention, participants kept a 7-day food
+record and a record of their physical activity at baseline
+
+and at month 6 of the intervention. All participants were
+asked to maintain their usual dietary intake and habitual
+physical activity for the duration of trial.
+Resting energy expenditure was measured after 12 h
+
+fasting, using Fitmate Calorimeter (Cosmed, Rome,
+Italy), while the patients were lied down. Body compos-
+ition was assessed using body impedance analyzer (BIA)
+(Tanita, Ilinois, USA).
+Blood samplings were performed early in the morning
+
+after an overnight fast of 10-12 h. The blood collection
+from participants, blood withdrawal and blood analyses
+were done by trained and experienced laboratory techni-
+cians in laboratory of Endocrinology and Metabolism
+Research Institute under suitable conditions. Serum liver
+enzymes (alanine transaminase (ALT), aspartate trans-
+aminase (AST), and gamma-glutamyl transferase
+(GGT)), total cholesterol (TC), high-density lipoprotein
+cholesterol (HDL), triglycerides (TG), creatinine (Cr)
+and high sensitive- C reactive protein (hs-CRP) mea-
+sured by using ELISA kit (Roche, Germany). Low-
+density lipoprotein cholesterol (LDL) values were calcu-
+lated using the Friedewald formula. Hemoglobin A1c
+(HbA1c) levels were assessed by a high performance li-
+quid chromatography analyzer (Tosoh, Tokyo, Japan).
+Fasting blood glucose levels were measured using the
+glucose oxidase method on an auto analyzer (Cobas c
+311, Roche Dignostics, Risch-Rotkreuz, Switzerland).
+Serum insulin, C-peptide and thyroid stimulating hor-
+mone (TSH) levels were measured by using ELISA kit
+(Monobind Inc. Lake Forest, California, USA). Homeo-
+stasis model assessment-estimated insulin resistance
+(HOMA-IR) score was used to determine the degree of
+insulin resistance using the following formula: HOMA-
+IR = Fasting insulin (μU/mL) × Fasting glucose (mmol/
+L)/22.5. Serum concentrations of total antioxidant cap-
+acity (TAC), adiponectin, and cytokeratin-18 (CK-18)
+were measured using ELISA method (ZellBio GmbH,
+Ulm, Germany). Serum tumor necrosis factor (TNF)-α
+was measured by ELISA (Diaclone, France). Nuclear fac-
+tor k-B (NF-kB) levels was assessed in peripheral blood
+mononuclear cells (PBMCs) nuclear extracts using an
+ELISA kit (ZellBio GmbH, Ulm, Germany) according to
+the manufacturer’s instructions.
+
+Statistical analysis
+The sample size was calculated for the CAP score, which
+was based on detection of a 10 unit (dB/m) difference in
+the mean CAP score with a power of 80% (β = 20%),
+yielding a sample size of 21 for each group. Given the
+probability of samples loss, twenty five patients in each
+group were considered [17].
+All statistical analyses were performed using SPSS ver-
+
+sion 16.0 (SPSS Inc., Chicago, IL, USA) on an intention-
+to-treat basis. Quantitative variables are presented as the
+
+Mansour et al. Nutrition Journal           (2021) 20:35 Page 3 of 11
+
+
+
+mean ± SD. One-way ANOVA were used to examine the
+consistency of study groups. The Kolmogorov–Smirnov
+test was used to determine normality of distribution of
+the examined variables. Non-normally distributed vari-
+ables were log transformed. Repeated-measures of
+ANOVA were used after intervention for assessment of
+differences between the treatment groups with adjusting
+for baseline insulin and the baseline value of the out-
+come being analyzed. Tukey significance difference test
+was used for post hoc multiple comparisons. Enumer-
+ation data were analyzed by the Chi-squared test. Two-
+tailed P < 0.05 was considered significant.
+
+Results
+From September 2017 through March 2018, a total of
+101 patients underwent randomization to receive pla-
+cebo (n = 23), caffeine plus chlorogenic acid (n = 27),
+chlorogenic acid alone (n = 25), or caffeine alone (n =
+26); however, we excluded one patient from caffeine
+
+alone group who had a diagnosis of prediabetes. Totally,
+a hundred participants comprised the intention- to- treat
+population, of whom 84 (84%) completed the study
+(Fig. 1). There were no meaningful imbalance in demo-
+graphic characteristics or use of ongoing medications
+(Table 1), or dietary intake (Table 2), clinical and labora-
+tory data with the exception of insulin levels (p = 0.009)
+(data not shown). The mean age of all patients was
+44.57 ± 5.65 years, with a mean diabetes duration of
+4.57 ± 4.23 years and the majority of them were male
+(68%). There was no significant difference in dietary in-
+takes among the groups before and after the
+intervention.
+Table 3 shows the differences in hepatic indicators,
+
+metabolic profile, inflammatory and total antioxidant
+levels among treatment groups at the end of study ad-
+justed for the baseline values and insulin levels. CAP
+scores and LSM were not significantly different among
+the groups. Similarly, no significant differences between
+
+Fig. 1 trial profile. ITT intention to treat
+
+Mansour et al. Nutrition Journal           (2021) 20:35 Page 4 of 11
+
+
+
+Table 1 Demographic characteristics, anthropometrics and use of ongoing medications of study population according to group of
+treatment at baseline
+Characteristic Placebo
+
+(n = 23)
+Cholrogenic acid+ caffeine
+(n = 27)
+
+Cholrogenic acid
+(n = 25)
+
+Caffeine
+(n = 25)
+
+Pvalue
+
+Age (yr) 44.17 ± 4.98 43.59 ± 5.51 44.88 ± 6.91 45.68 ± 5.07 0.58¥
+
+Male sex, No (%) 15(65.2) 17(63) 19(76) 17(68) 0.76*
+
+Known duration of diabetes (yr) 4.05 ± 4.49 3.84 ± 3.65 4.37 ± 3.25 5.97 ± 5.27 0.22¥
+
+Number of current smokers (%) 4(17.4) 7(25.9) 3(12) 4(16) 0.6*
+
+Height (cm) 170.91 ± 9.83 170.13 ± 9.74 172.48 ± 8.04 170.32 ± 9.76 0.8¥
+
+BMI (kg/m2) 30.6 ± 3.1 31.26 ± 4.76 30.84 ± 3.28 29.59 ± 3.4 0.45¥
+
+Fat mass (kg) 27.23 ± 7.16 28.9 ± 10.31 26.47 ± 6.94 24.74 ± 8.27 0.35¥
+
+FFM (kg) 62.1 ± 11.29 61.48 ± 12.33 64.54 ± 10.95 60.58 ± 9.59 0.67¥
+
+Waist circumferences (cm) 107.48 ± 9.12 108.91 ± 10.9 110.26 ± 9.5 104.6 ± 6.87 0.17¥
+
+REE (kcal) 1833.37 ± 395.42 1859.59 ± 381.41 1865 ± 339.25 1750.09 ± 314.37 0.68¥
+
+Physical activity (METs h/day) 30.52 ± 5.19 30.54 ± 4.08 32.18 ± 4.39 31.75 ± 3.94 0.43¥
+
+Medications, n(%)
+
+Metformin 20(87) 23(85) 23(92) 21(84) 0.84*
+
+DPP4 Inhibitors 6(26.1) 6(22.2) 4(16) 11(44) 0.14*
+
+Sulfonamide 5(21.7) 9(33.3) 10(40) 9(36) 0.57*
+
+Beta blocker+ABRS 6(26.1) 6(22.2) 3(12) 4(16) 0.59*
+
+Statin 6(26) 10(37) 10(40) 11(44) 0.61*
+
+Other lipid lowering gents 0 3(11.1) 2(8) 1(4) 0.38*
+
+Aspirin 3(13) 2(7.4) 2(8) 4(16) 0.72*
+¥ One-way ANOVA
+*chi- square
+Two-tailed P < 0.05 was considered significant
+Each value represents mean ± SD except for gender, smoking, ongoing use of medication n(%). BMI body mass index, FFM fat free mass, REE resting energy
+expenditure, METs Metabolic Equivalents, DPP4 Dipeptidyl Peptidase 4, ARBS Angiotensin II receptor blockers
+
+Table 2 Energy and nutrients intake among treatment groups at baseline and after 6 months
+
+Characteristic Placebo
+(n = 23)
+
+Cholrogenic acid+ caffeine
+(n = 27)
+
+Cholrogenic acid
+(n = 25)
+
+Caffeine
+(n = 25)
+
+Pvalue
+
+Energy intake (kcal)
+
+Baseline 2536.16 ± 403.88 2603.12 ± 595.55 2626 ± 485.68 2855.62 ± 445.29 0.32¥
+
+6 months 2313.42 ± 441.25 2459.41 ± 432.01 2412.63 ± 402.49 2385.50 ± 495.96 0.08*
+
+Protein (g)
+
+Baseline 79 ± 23.3 85.61 ± 31.94 80.35 ± 28.26 93.46 ± 6.56 0.5¥
+
+6 months 70.24 ± 20.47 83.89 ± 20.65 75.41 ± 18.99 82.56 ± 30 0.6*
+
+Fat(g)
+
+Baseline 120.14 ± 18.23 121.38 ± 28.22 105.65 ± 23.48 124.9 ± 18.04 0.13¥
+
+6 months 108.32 ± 27.22 98.77 ± 34.69 100.99 ± 17.69 107.81 ± 25.41 0.36*
+
+Carbohydrate (g)
+
+Baseline 293.9 ± 71.37 302.16 ± 89.07 351.04 ± 53.98 350.55 ± 85.39 0.1¥
+
+6 months 237.22 ± 66.01 320.1 ± 95.12 309.87 ± 70.03 283.15 ± 73.11 0.15*
+
+Caffeine (mg)**
+
+Baseline 79.75 ± 42.94 97.11 ± 51.08 136..55 ± 105.74 130.68 ± 82.77 0.16¥
+
+6 months 131.78 ± 98.35 117.28 ± 82.02 110.32 ± 90.87 130.51 ± 125.67 0.37*
+
+Data are mean ± SD
+¥ One-way ANOVA
+*Time X Treatment interaction according to two-way repeated measures ANOVA
+**The amount of caffeine consumed in foods and beverages
+Two-tailed P < 0.05 was considered significant
+
+Mansour et al. Nutrition Journal           (2021) 20:35 Page 5 of 11
+
+
+
+groups were evident in other hepatic indicators includ-
+ing AST, ALT, GGT, Ck-18 levels (p > 0.05). Except for
+increase in fasting insulin (mean differences 3.3 μIU/ml
+[95%CI, − 1.3 to 6.7]; p = 0.01), in chlorogenic acid plus
+caffeine compared with placebo, none of the other sup-
+plementations were significantly associated with changes
+in fasting glucose, HOMA-IR, HBA1C or C-peptide
+compared with placebo. Supplementation with caffeine
+significantly decreased cholesterol levels as compared
+with placebo (mean differences − 20.66 mg/dl [95%CI, −
+40.55 to − 0.78]; p = 0.04), whereas LDL- cholesterol,
+HDL- cholesterol, and TG were not affected by any
+other groups of treatments. No other significant differ-
+ences among the four groups were found in those
+treated with caffeine or/ and chlorogenic acid compared
+with placebo regarding all other biomarkers (NF-KB,
+
+TNF-α, hs-CRP, TAC, adiponectin, Cr and TSH). More-
+over, systolic and diastolic blood pressure changes did
+not differ significantly among the groups. No side effects
+were reported during the study period.
+
+Discussion
+This is the first randomized, double-blind, placebo-
+controlled trial of chlorogenic acid and/ or caffeine sup-
+plementation performed in type 2 diabetes patients with
+NAFLD. This trial showed that an intervention based on
+main components of coffee has no significant effect on
+hepatic fat content and fibrosis in type 2 diabetic pa-
+tients affected by NAFLD. Six months supplementation
+with caffeine and/or chlorogenic acid did not improve
+either hepatic enzymes (ALT, AST, and GGT) or the
+serum levels of CK-18 as a specific biomarker for liver
+
+Table 3 Changed in hepatic indicators, metabolic profile, inflammatory and total antioxidant levels vs. placebo
+
+Characteristic Adjusted treatment differences (95%CI;p)
+
+Chlorogenic acid+ caffeine vs placebo Chlorogenic acid vs placebo Caffeine vs placebo
+
+Fibro score (KPa) 0.43(− 0.46 to 1.32; p = 0.3) 0.66 (− 0.21 to 1.53; P = 0.09) 0.24 (− 0.62 to1.12;P = 0.57)
+
+CAP score (dB/m) 12.06(−7.3 to 31.46;P = 0.26) 13.07(−5.6 to 32.13; P = 0.2) −7.45 (−26.48 to 11.57; P = 0.31)
+
+CK-18 fragments (U/L) −0.00(− 0.22 to 0.21; P = 0.42) 0.04(− 0.16 to 0.25; P = 0.85) − 0.13(− 0.33 to 0.08;P = 0.17)
+
+AST(U/L) 2.11(− 2.7 to 6.97;P = 0.37) 3.07(− 1.71 to 7.85; P = 0.13) − 0.43 (− 5.19 to 4.34; P = 0.87)
+
+ALT(U/L) 1.9(− 2.45 to 6.23;P = 0.62) 2.4(− 1.8 to 6.7;P = 0.17) −0.12(− 4.4 to 4.13;P = 0.79)
+
+GGT(U/L) 0.78(− 16.68 to 15.13;P = 0.94) 3.48(− 12.13to 19.1;P = 0.41) 8.55(− 7.05 to 24.16;P = 0.35)
+
+Fasting glucose (mg/dl) − 1.76(− 30.08 to 26.46; P = 0.97) 4.9(− 22.9 to 32.7; P = 0.74) −2.99(− 30.77 to 24.78; P = 0.86)
+
+HbA1C (%) −0.25(− 1.21 to 0.71; P = 0.66) 0.04 (− 0.9 to 1;P = 0.98) −0.55(− 1.5 to 0.39; P = 0.18)
+
+Insulin (uIU/ml) 3.3(− 1.3 to 6.7; P = 0.01) 0.2(− 3.28 to 3.7; P = 0.67) − 0.16(− 3.66 to 3.32; P = 0.71)
+
+C-peptide (ng/ml) 0.04(− 0.27 to 0.36; P = 0.96) − 0.03(− 0.35 to 0.28; P = 0.84) −0.06(− 0.37 to 0.26; P = 0.51)
+
+HOMA-IR score 0.4(− 0.62 to 1.42; P = 0.69) 0.01(− 0.99 to 1.01; P = 0.78) −0.01(− 1.02 to 0.99; P = 0.91)
+
+TG (mg/dl) −10.56(− 140.54 to 119.42; P = 0.89) 46.17(−81.45 to 173.79; P = 0.65) − 62.99(− 190.50 to 64.53; P = 0.17)
+
+Cholesterol (mg/dl) −9.43(− 29.7 to 10.83;P = 0.5) −5.07(− 24.97 to14.82;P = 0.7) −20.66(− 40 .55 to − 0.78; P = 0.04)
+
+HDL (mg/dl) −0.94(− 5.83 to 3.95; P = 0.79) 0.27(− 4.5 to 5.07; P = 0.89) 1.62(− 3.18 to 6.41; P = 0.52)
+
+LDL (mg/dl) −5.77(− 21.3 to 9.76; P = 0.49) −5.58(20.98 to 9.81;P = 0.48) −11.93(− 27.16 to 3.3; P = 0.12)
+
+hs-CRP (mg/dl) 0.73(−2.61 to 4.08; P = 0.6) − 1.64(− 4.93 to 1.64;P = 0.33) 0.02(− 3.25 to 3.31; P = 0.99)
+
+TNF-α (pg/ml) 0.5(− 8.27 to 9.2; P = 0.83) −4.96(− 13.33 to 3.4;P = 0.24) −1.59(− 10.02 to 6.84; P = 0.96)
+
+NF-KB (ng/mg protein) −0.16(− 1.08 to 0.77; P = 0.68) 0.23(− 0.67 to 1.14; P = 0.9) −0.23(− 0.93 to 0.88;P = 0.8)
+
+Adiponectin (mg/L) 0.29(− 1.82 to 2.4; P = 0.92) 0.07(− 1.95 to 2.1; P = 0.86) −2.43(− 4.47 to − 0.4;P = 0.06)
+
+TAC (mmol/L) 0.00(− 0.04 to 0.05;P = 0.69) −0.00(− 0.05 to 0.04; P = 0.92) 0.00(− 0.04 to 0.04;P = 0.79)
+
+Cr (mg/dl) −0.00(− 0.1 to 0.09; P = 0.84) 0.02(− 0.07 to 0.11; P = 0.63) 0.07(− 0.02 to 0.17;P = 0.12)
+
+TSH (mIU/L) −0.11(− 0.9 to 0.66; P = 0.32) 0.24(− 0.52 to 1.01; P = 0.85) 0.06(− 0.71 to 0.82;P = 0.75)
+
+Weight (kg) 0.63(−6.33 to 7.59;p = 0.51) 2.36(−4.73 to 9.45;p = 0.63) −3.39(− 10.49 to3.7;p = 0.38)
+
+Systolic blood pressure (mmHg) 0.26(−6.93 to 7.45;P = 0.84) 1.02(− 6.04 to 8.08; P = 0.68) −1.41(− 8.47 to 5.65; P = 0.83)
+
+Diastolic blood pressure (mmHg) − 1.69(− 6.83 to 3.46; P = 0.59) −1.27(− 6.32 to 3.78; P = 0.77) −1.2(− 6.25 to 3.84; P = 0.83)
+aTukey significance difference test was used for post hoc multiple comparisons. Two-tailed P < 0.05 was considered significant
+Data not conforming to a normal distribution were log-transformed prior to parametric analysis. CAP -Score controlled attenuation parameter Score, CK-18
+cytokeratin-18, AST aspartate aminotransferase, ALT alanine aminotransferase, GGT gamma-glutamyltransferase, HbA1c hemoglobinA1c, HOMA-IR homeostasis
+model assessment insulin resistance, TG Triglyceride, HDL high-density lipoprotein, LDL low-density lipoprotein, hs-CRP high-Sensitivity C-Reactive Protein, TNF-α
+tumor necrosis factor-α, NF-κB nuclear factor kappa B, TAC total antioxidant capacity, Cr creatinine, TSH thyroid stimulating hormone
+
+Mansour et al. Nutrition Journal           (2021) 20:35 Page 6 of 11
+
+
+
+injury. As we specifically aimed to investigate the effects
+of coffee main constitutes on NAFLD in patients with
+diabetes, we also tested the hypothesis of an involvement
+of chlorogenic acid and/ or caffeine in modulating insu-
+lin resistance (HOMA-IR), metabolic and glycemic con-
+trol (fasting glucose, HBA1C) in these subjects. Our
+results have shown that except for increase in insulin in
+chlorogenic acid plus caffeine group, and decrease in
+cholesterol in caffeine group, none of these parameters
+significantly changed after 6 months intervention in
+comparison with the placebo group. Likewise, the sup-
+plementation did not induce any specific effect on thy-
+roid and renal function as measured by TSH and Cr
+levels, respectively. Similarly, neither inflammatory in-
+dictors nor antioxidant capacity changes were signifi-
+cantly different between active treated groups and
+placebo after 6 months.
+Decaffeinated and regular coffee consumption have
+
+been investigated in prevention and treatment of NAFL
+D with varying results in many large observational stud-
+ies; most of which reported that coffee has beneficial im-
+pact on liver; however rarely, it was the main target of
+interest or studied in clinical trials [3, 18]. In pre -clin-
+ical studies, caffeine seems to be able to exert inhibitory
+effects on fibrogenesis and block the progression of liver
+steatosis through interruption in transforming growth
+factor-β (TGF-β) signaling, inhibition of stellate cells
+and by its antioxidant and anti-inflammatory properties
+[19]. However, contrary to these hypotheses, we ob-
+served that caffeine and / or chlorogenic acid did not
+significantly affect liver outcomes after 6 months supple-
+mentation. Coffee contains other substances (e.g. mela-
+noidins, niacin, diterphenoic alcohols) in addition to
+caffeine and chlorogenic acid that could exert a protect-
+ive effect on a range of liver diseases [18, 20]. In the
+present study, the amount of caffeine or chlorogenic acid
+ingested by the subjects was 200mg/day, which equates
+to the amount of caffeine found in 2 cups of coffee,
+which might not be enough to show any effect. Observa-
+tional studies showed that drinking more than 3 cups
+coffee per day is protective against fatty liver [18, 21].
+Since increase in blood pressure with regular coffee or
+caffeine intake have been observed [22], we were not en-
+sured that most of our patients would easily tolerate
+upper doses of coffee (above 200 mg/d). However, this
+study did not provide support for the adverse relation-
+ship between coffee and blood pressure and even led to
+non-significant 1.2–1.69 mmHg decrease in diastolic
+blood pressure. A meta- analysis of clinical trials and
+prospective cohort studies’ results are in consistent with
+our study, suggesting no evidence of any relationship be-
+tween coffee consumption and hypertension [23]. Zhang
+et al. described an inverse J-shaped association between
+intake of this beverage and hypertension risk; so that
+
+one to three cups coffee/day intake compared with less
+than one cup/day could increase the risk, while protect-
+ive effects were observed at higher intakes [24]. Another
+meta-analyses concluded a beneficial effect of coffee on
+blood pressure [25, 26]. It is important to note that sex,
+race, and lifestyle factors (e.g., smoking) have been con-
+sidered as factors involved in the different shape of rela-
+tionship between coffee use and blood pressure [22]. In
+addition, inter -individual differences mainly due to the
+variation in caffeine metabolism related genes including
+CYP1A2 (slow caffeine metabolizers vs. rapid metaboli-
+zers) may partially explain conflicting results [24]. As we
+aimed specifically to assess the efficacy of chlorogenic
+acid and/ or caffeine supplementation on liver steatosis
+in type 2 diabetes patients, our sample consisted of pa-
+tients attending to our diabetes outpatients’ center for
+routine diabetes care. So, this setting led to recruitment
+of cases with mild degree of NAFLD rather than those
+with advanced liver disease referring to hepatology
+clinics. The results from Bambha et al. study showed
+that in those with less insulin resistance, high coffee
+consumption was inversely associated with advanced fi-
+brosis, as compared with those with greater insulin re-
+sistance. So, it could speculate less benefit of coffee
+consumption on liver fibrosis treatment in patients with
+diabetes who have insulin resistance [14]. Indeed, we
+cannot rule out the effect of coffee components in
+NAFLD patients with greater fibrosis or patients with
+less insulin resistance or non-diabetic patients. The lack
+of significant effects of coffee on liver outcomes are con-
+sistent with the non-significant effects of coffee on anti-
+oxidant and inflammatory and anti-inflammatory
+biomarkers. Similar to the results from previous trials,
+we did not find any effects of coffee on hs-CRP [27, 28],
+and TNF-α [29]. In this study, no change in NF-KB ac-
+tivity in PBMCs was also observed. The lack of antioxi-
+dant and anti-inflammatory responses in the present
+study could partly mediate the non-significant effect of
+supplements on liver after caffeine and / or chlorogenic
+acid ingestion. Although few studies in the past have
+attempted to assess the effect of caffeine on inflamma-
+tory biomarkers, the findings remained unclear mainly
+as a result of different study designs and outcomes [30].
+A recent systematic review has concluded that coffee con-
+sumption was either neutrally or inversely associated with
+serum concentrations of inflammatory markers [30].
+In a meta-analysis on cross sectional studies between
+
+2008 and 2017, Zhang et al. showed that coffee con-
+sumption is efficient to increase adiponectin levels only
+in females [31]. This finding could be explained by the
+difference in number of fat cells between men and
+women [31]. In addition, intake of 4 ≤ cups of coffee in
+women with and without diabetes was also associated
+with 20% increase in adiponectin levels [32]. In contrast,
+
+Mansour et al. Nutrition Journal           (2021) 20:35 Page 7 of 11
+
+
+
+Wedick et al. found increase in adiponectin levels in
+both genders after 8 weeks of supplementation with 5
+cups of coffee/d [27]. However, in a cross sectional study
+on multi-ethnic Asian population, there was no relation-
+ship between coffee drinking and adiponectin concentra-
+tion [33]. Our data are corroborated by the finding of
+this study which did not observe differences in levels of
+adiponectin even after including both genders. Green
+coffee bean extract supplementation in NAFLD patients
+induced significant increase in TAC and decrease in hs-
+CRP, but not in TNF- α [34]. Consistent with these re-
+sults, a study of healthy adults who drank coffee which
+contained medium and high chlorogenic acid reported
+positive change in antioxidant capacity [35]. Our finding,
+however, indicate that chlorogenic acid has no major ef-
+fect on antioxidant capacity in diabetic patients.
+Evidence concerning the effect of regular and decaf-
+
+feinated coffee on insulin sensitivity is controversial, es-
+pecially as data provided by short term trials and
+observational studies have reached discordant results
+and conclusions [12]. Since 2002, many but not all ob-
+servational studies have found potential beneficial effect
+of both caffeinated and decaffeinated coffee consump-
+tion against the incidence of developing type 2 diabetes
+by 30–60% in a diverse population [12, 36]. In addition,
+previous experimental studies have shown that chloro-
+genic acid is responsible for hypoglycemic effects of cof-
+fee. This result can be explained by inhibition of glucose
+absorption and at the cellular level, activating AMP-
+activated protein kinase (AMPK) [12]. However, the ob-
+servational and experimental studies are not confirmed
+by all human short term clinical trials [37, 38].
+No significant effect was found on glucose metabolism
+
+in our study, similar to previous report that evaluated
+the effect of coffee on this variable in type 2 diabetes
+[28]. We showed that chlorogenic acid may act synergis-
+tically with caffeine to increase insulin levels. This find-
+ing is consistent with a short term trial of healthy
+volunteers in which caffeine administrated in capsulated
+form (400mg in two capsules or 870 mg in six capsules)
+or coffee drink (52 g coffee grounds) or roasted coffee
+(300 ml) [37–39]. From the result of a recent meta -ana-
+lysis conducted in healthy subjects, it has been found
+that acute caffeine ingestion reduces insulin sensitivity
+[40]. However, Da Silva et al. suggested that caffeine
+consumption is associated with increase in insulin clear-
+ance [41]. The mechanism of action could be explained
+by the effects of caffein on increasing epinephrine re-
+lease and free fatty acids levels or activation of adenosine
+receptor [27, 38]. However, tolerance to some effects of
+caffeine may be developed over time [27]. Moreover, caf-
+feine stimulates insulin secretion primarily by activation
+of ryanodine receptors in pancreatic β-cells in a glucose
+dose dependent manner, with no effect at low glucose
+
+concentrations and stimulating insulin only when glu-
+cose concentration is high [42]. This mechanism may
+explain why caffeine has increased insulin levels in dia-
+betic patients in our long term study.
+The association between coffee consumption and
+
+serum lipids have been studied extensively, however,
+yielded inconsistent results [28]. A meta- analysis of
+clinical trials suggested possible increased serum levels
+of LDL-C and total cholesterol for unfiltered coffee con-
+sumption [43], but this finding was partially driven by
+the results of English language literature and two im-
+portant trials [44, 45], while studies published before
+1998 were not identified. Additional data from a meta-
+analysis including only randomized controlled trials in-
+volving a total of 1017 subjects provided more informa-
+tion about any potential effects of coffee consumption; it
+suggested that the serum levels of TC, LDL-C and TG
+may significantly increase by coffee consumption, but
+the effect was greater for boiled (unfiltered) coffee [46].
+Although studies that used filtered coffee (removed the
+most of the oils by paper filter) have reported conflicting
+results, some studies found positive effects (decrease in
+cholesterol and LDL-C levels [47] and increase in HDL-
+C) [28], while other studies did not find any effects of
+coffee consumption on components of the lipid profile
+[48]. The preparation method of coffee can affect the
+concentrations of lipid altering factors such as cafestol
+and kahweol and caffeine [49]; however, the effects of
+caffeine on serum cholesterol remained unclear [46]. In
+one observational study, investigators have suggested
+that coffee consumption in a dose -dependent manner is
+associated with lipid-raising effect, regardless of its caf-
+feine content [50].
+Although a case-control study found an unfavorable
+
+association between caffeine consumption and choles-
+terol [51], one of the finding of present study was
+that caffeine intake (200 mg/ d) was associated with
+about 20 mg/ dl decrease in total cholesterol over 6
+months of follow up after adjustment for potential
+confounders. Increase of fecal lipid extraction has
+been suggested as a possible mechanism underling
+the cholesterol –decreasing effect of caffeine [52]. In
+addition, in observational studies, many people do not
+consume coffee in isolation, but add sugar (glucose
+and fructose) and milk which might be responsible
+for increase in cholesterol levels [46].
+To summarize, we did not meet the primary endpoint
+
+of showing a reduction in hepatic fat and fibrosis in
+NAFLD patients undergoing 6 months supplementation.
+Indeed, it is possible to speculate that either the period
+of exposure was not enough for modifying the hepatic
+fat and fibrosis and the biochemical indicators of hepatic
+involvement in NAFLD, or the link between coffee and
+NAFLD could be appreciated only in specific
+
+Mansour et al. Nutrition Journal           (2021) 20:35 Page 8 of 11
+
+
+
+subpopulation of NAFLD patients. As we enrolled dia-
+betic patients with the number of patients with few pa-
+tients with advanced fibrosis, the results cannot be
+generalized to other population and would be different if
+non diabetic patients or NASH patients with advanced
+fibrosis were included in the study. Furthermore, we
+used the dose of 200mg of each supplement, while some
+observational studies indicate that higher doses might be
+effective.
+This study has several advantages. This is the first
+
+randomized double-blind, placebo-controlled, clinical
+trial that evaluated the effects of main components of
+coffee on patients with NAFLD and diabetes. Using
+the extracted components of coffee provided us an
+opportunity to roll out the confounding effects of cof-
+fee preparation methods, varieties in different coffee
+components, and variation in the amount of coffee
+consumption. Since our study population had a back-
+ground of lower caffeine consumption (i.e. irregular
+coffee intake or coffee abstinence), this might resulted
+in more accurate findings on the studied parameters,
+as a tolerance to the effects of caffeine probably
+would not have already developed. Furthermore, we
+asked the patients to take supplements in the morn-
+ing, which is usual mode of coffee intake. Further-
+more, we combined chlorogenic acid and caffeine to
+determine if there could be increased benefit from ad-
+juvant therapy. In addition, because all participants
+were newly diagnosed by NAFLD, they were not
+undertaken any treatment as a part of clinical care,
+which reduced the effects of confounding factors re-
+lated to treatment strategies.
+
+Conclusion
+Our study found that six months supplementation with
+200 mg/day of two main components of coffee had no
+significant impact on non-invasive markers of hepatic
+steatosis and fibrosis, liver biochemistry, inflammatory
+and metabolic parameters in patients with NAFLD and
+type 2 diabetes; however, this dosage was completely safe
+without any reported side-effects. Further trials with
+higher dosages, longer duration, and different active
+components of coffee are highly recommended.
+
+Abbreviations
+NAFLD: Non-alcoholic fatty liver disease; WHO: World Health Organization;
+CAP: Controlled attenuation parameter; TE: Transient elastography; LSM: Liver
+stiffness measurements; IPAQ: International physical activity questionnaire;
+METs: Metabolic Equivalent of Task; BIA: Body impedance analyzer;
+ALT: Alanine transaminase; AST: Aspartate transaminase; GGT: Gamma-
+glutamyl transferase; TC: Total cholesterol; HDL: High-density lipoprotein
+cholesterol; TG: Triglycerides; Cr : Creatinine; hs-CRP: High sensitive- C
+reactive protein; LDL: Low-density lipoprotein cholesterol;
+HbA1c: Hemoglobin A1c; TSH: Thyroid stimulating hormone; HOMA-
+IR: Homeostasis model assessment-estimated insulin resistance; TAC: Total
+antioxidant capacity; CK-18: Cytokeratin-18; PBMC: Peripheral blood
+
+mononuclear cell; TGF-β: Transforming growth factor-β; AMPK: AMP-
+activated protein kinase
+
+Acknowledgements
+We are thanks to the patients who participated in the study. We also thank
+Dr. Maryam Sharafkhah for her consultation in data analysis.
+
+Authors’ contributions
+A.M. Study conception and design, Acquisition of data, Analysis and
+interpretation of data, Drafting of manuscript, Critical revision. M.R.M.T.
+Critical revision. M.S. Acquisition of data. M.Q. Analysis and interpretation of
+data. SH.M. Study conception and design. H.A. Acquisition of data. H.P.
+Acquisition of data. A.H. Study conception and design, Critical revision. The
+author(s) read and approved the final manuscript.
+
+Funding
+This study was supported by the National Institute for Medical Research
+Developments, and by National Nutrition and Food Technology Research
+Institute, Shahid Beheshti of Medical Sciences, Tehran, Iran.
+
+Availability of data and materials
+Data are available upon reasonable request.
+
+Declarations
+
+Ethical approval and consent to participate
+The protocol (available at nimad.ac.ir) was approved by the National Institute
+for Medical Research Developments Ethics Committee, and all participants
+provided written informed consent. All patients were provided written
+informed consent.
+
+Consent for publication
+Not applicable.
+
+Competing interests
+None of the authors have any conflicts of interest or financial ties to disclose.
+
+Author details
+1Department of Clinical Nutrition & Dietetics, Faculty of Nutrition Sciences
+and Food Technology, National Nutrition and Food Technology Research
+Institute, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+2Endocrinology and Metabolism Research Center, Endocrinology and
+Metabolism Clinical Sciences Institute, Tehran University of Medical Sciences,
+Tehran, Iran. 3Radiology Department, Shariati Hospital, Tehran University of
+Medical Sciences, Tehran, Iran. 4Non-communicable Diseases Research
+Center, Alborz University of Medical Sciences, Karaj, Iran. 5Chronic Diseases
+Research Center, Endocrinology and Metabolism Population Sciences
+Institute, Endocrinology and Metabolism Research Institute, Tehran University
+of Medical Sciences, Tehran, Iran. 6Liver and Pancreatobiliary Diseases
+Research Center, Digestive Diseases Research Institute, Tehran University of
+Medical Sciences, Tehran, Iran. 7Diabetes Research Center, Endocrinology and
+Metabolism Clinical Sciences Institute, Tehran University of Medical Sciences,
+Tehran, Iran.
+
+Received: 22 July 2020 Accepted: 3 April 2021
+
+References
+1. Mantovani A, Byrne CD, Bonora E, Targher G. Nonalcoholic fatty liver disease
+
+and risk of incident type 2 diabetes: a meta-analysis. Diabetes Care. 2018;
+41(2):372–82. https://doi.org/10.2337/dc17-1902.
+
+2. Poole R, Kennedy OJ, Roderick P, Fallowfield JA, Hayes PC, Parkes J. Coffee
+consumption and health: umbrella review of meta-analyses of multiple
+health outcomes. BMJ (Clinical research ed). 2017;359:j5024.
+
+3. Wijarnpreecha K, Thongprayoon C, Ungprasert P. Coffee consumption and
+risk of nonalcoholic fatty liver disease: a systematic review and meta-
+analysis. Eur J Gastroenterol Hepatol. 2017;29(2):e8–e12. https://doi.org/10.1
+097/MEG.0000000000000776.
+
+4. Dranoff JA, Feld JJ, Lavoie ÉG, Fausther M. How does coffee prevent liver
+fibrosis? Biological plausibility for recent epidemiological observations.
+Hepatology. 2014;60(2):464–7. https://doi.org/10.1002/hep.27032.
+
+Mansour et al. Nutrition Journal           (2021) 20:35 Page 9 of 11
+
+http://nimad.ac.ir
+https://doi.org/10.2337/dc17-1902
+https://doi.org/10.1097/MEG.0000000000000776
+https://doi.org/10.1097/MEG.0000000000000776
+https://doi.org/10.1002/hep.27032
+
+
+5. Ding M, Bhupathiraju SN, Chen M, van Dam RM, Hu FB. Caffeinated and
+decaffeinated coffee consumption and risk of type 2 diabetes: a systematic
+review and a dose-response meta-analysis. Diabetes Care. 2014;37(2):569–86.
+https://doi.org/10.2337/dc13-1203.
+
+6. Setiawan VW, Wilkens LR, Lu SC, Hernandez BY, Le Marchand L, Henderson
+BE. Association of coffee intake with reduced incidence of liver cancer and
+death from chronic liver disease in the US multiethnic cohort.
+Gastroenterology. 2015;148(1):118–25. https://doi.org/10.1053/j.gastro.2014.1
+0.005.
+
+7. Shen H, Rodriguez AC, Shiani A, Lipka S, Shahzad G, Kumar A, et al.
+Association between caffeine consumption and nonalcoholic fatty liver
+disease: a systemic review and meta-analysis. Ther Adv Gastroenterol. 2016;
+9(1):113–20. https://doi.org/10.1177/1756283X15593700.
+
+8. Wang H, Guan W, Yang W, Wang Q, Zhao H, Yang F, et al. Caffeine inhibits
+the activation of hepatic stellate cells induced by acetaldehyde via
+adenosine A2A receptor mediated by the cAMP/PKA/SRC/ERK1/2/P38 MAPK
+signal pathway. PloS one. 2014;9(3).
+
+9. Kennedy OJ, Roderick P, Buchanan R, Fallowfield JA, Hayes PC, Parkes J.
+Coffee, including caffeinated and decaffeinated coffee, and the risk of
+hepatocellular carcinoma: a systematic review and dose–response meta-
+analysis. BMJ Open. 2017;7(5).
+
+10. Birerdinc A, Stepanova M, Pawloski L, Younossi Z. Caffeine is protective in
+patients with non-alcoholic fatty liver disease. Aliment Pharmacol Ther.
+2012;35(1):76–82. https://doi.org/10.1111/j.1365-2036.2011.04916.x.
+
+11. Kennedy OJ, Roderick P, Poole R, Parkes J. Coffee, caffeine and non-
+alcoholic fatty liver disease? Ther Adv Gastroenterol. 2016;9(3):417–8. https://
+doi.org/10.1177/1756283X16636765.
+
+12. Reis CE, Dórea JG, da Costa TH. Effects of coffee consumption on glucose
+metabolism: a systematic review of clinical trials. J Tradit Complement Med.
+2018.
+
+13. Costabile A, Sarnsamak K, Hauge-Evans AC. Coffee, type 2 diabetes and
+pancreatic islet function–a mini-review. J Funct Foods. 2018;45:409–16.
+https://doi.org/10.1016/j.jff.2018.04.011.
+
+14. Bambha K, Wilson LA, Unalp A, Loomba R, Neuschwander-Tetri BA, Brunt
+EM, et al. Coffee consumption in NAFLD patients with lower insulin
+resistance is associated with lower risk of severe fibrosis. Liver Int. 2014;
+34(8):1250–8. https://doi.org/10.1111/liv.12379.
+
+15. Hayat U, Siddiqui AA, Okut H, Afroz S, Tasleem S, Haris A. The effect of
+coffee consumption on the non-alcoholic fatty liver disease and liver
+fibrosis: a meta-analysis of 11 epidemiological studies. Ann Hepatol. 2020;20:
+100254.
+
+16. Craig CL, Marshall AL, Sjöström M, Bauman AE, Booth ML, Ainsworth BE,
+et al. International physical activity questionnaire: 12-country reliability and
+validity. Med Sci Sports Exerc. 2003;35(8):1381–95. https://doi.org/10.1249/01.
+MSS.0000078924.61453.FB.
+
+17. Eslamparast T, Poustchi H, Zamani F, Sharafkhah M, Malekzadeh R,
+Hekmatdoost A. Synbiotic supplementation in nonalcoholic fatty liver
+disease: a randomized, double-blind, placebo-controlled pilot study. Am J
+Clin Nutr. 2014;99(3):535–42. https://doi.org/10.3945/ajcn.113.068890.
+
+18. Chen Y-P, Lu F-B, Hu Y-B, Xu L-M, Zheng M-H, Hu E-D. A systematic review
+and a dose–response meta-analysis of coffee dose and nonalcoholic fatty
+liver disease. Clinical Nutrition; 2018.
+
+19. Veronese N, Notarnicola M, Cisternino A, Reddavide R, Inguaggiato R, Guerra
+V, et al. Coffee intake and liver steatosis: a population study in a
+mediterranean area. Nutrients. 2018;10(1):89. https://doi.org/10.3390/nu1001
+0089.
+
+20. Chen S, Teoh NC, Chitturi S, Farrell GC. Coffee and non-alcoholic fatty liver
+disease: brewing evidence for hepatoprotection? J Gastroenterol Hepatol.
+2014;29(3):435–41. https://doi.org/10.1111/jgh.12422.
+
+21. Marventano S, Salomone F, Godos J, Pluchinotta F, Del Rio D, Mistretta A,
+et al. Coffee and tea consumption in relation with non-alcoholic fatty liver
+and metabolic syndrome: a systematic review and meta-analysis of
+observational studies. Clin Nutr. 2016;35(6):1269–81. https://doi.org/10.1016/
+j.clnu.2016.03.012.
+
+22. Noordzij M, Uiterwaal CS, Arends LR, Kok FJ, Grobbee DE, Geleijnse JM.
+Blood pressure response to chronic intake of coffee and caffeine: a meta-
+analysis of randomized controlled trials. LWW; 2005.
+
+23. Steffen M, Kuhle C, Hensrud D, Erwin PJ, Murad MH. The effect of coffee
+consumption on blood pressure and the development of hypertension: a
+systematic review and meta-analysis. J Hypertens. 2012;30(12):2245–54.
+https://doi.org/10.1097/HJH.0b013e3283588d73.
+
+24. Zhang Z, Hu G, Caballero B, Appel L, Chen L. Habitual coffee consumption
+and risk of hypertension: a systematic review and meta-analysis of
+prospective observational studies. Am J Clin Nutr. 2011;93(6):1212–9. https://
+doi.org/10.3945/ajcn.110.004044.
+
+25. D’Elia L, La Fata E, Galletti F, Scalfi L, Strazzullo P. Coffee consumption and
+risk of hypertension: a dose–response meta-analysis of prospective studies.
+Eur J Nutr. 2019;58(1):271–80. https://doi.org/10.1007/s00394-017-1591-z.
+
+26. Xie C, Cui L, Zhu J, Wang K, Sun N, Sun C. Coffee consumption and risk of
+hypertension: a systematic review and dose–response meta-analysis of
+cohort studies. J Hum Hypertens. 2018;32(2):83–93. https://doi.org/10.1038/
+s41371-017-0007-0.
+
+27. Wedick NM, Brennan AM, Sun Q, Hu FB, Mantzoros CS, van Dam RM. Effects
+of caffeinated and decaffeinated coffee on biological risk factors for type 2
+diabetes: a randomized controlled trial. Nutr J. 2011;10(1):93. https://doi.
+org/10.1186/1475-2891-10-93.
+
+28. Kempf K, Herder C, Erlund I, Kolb H, Martin S, Carstensen M, et al. Effects of
+coffee consumption on subclinical inflammation and other risk factors for
+type 2 diabetes: a clinical trial. Am J Clin Nutr. 2010;91(4):950–7. https://doi.
+org/10.3945/ajcn.2009.28548.
+
+29. Corrêa TA, Rogero MM, Mioto BM, Tarasoutchi D, Tuda VL, César LA, et al.
+Filtered coffee increases cholesterol and inflammation biomarkers
+independent of roasting degree: a clinical trial. Nutrition. 2013;29(7–8):977–
+81. https://doi.org/10.1016/j.nut.2013.01.003.
+
+30. Paiva C, Beserra B, Reis C, Dorea J, Da Costa T, Amato A. Consumption of
+coffee or caffeine and serum concentration of inflammatory markers: a
+systematic review. Crit Rev Food Sci Nutr. 2019;59(4):652–63. https://doi.
+org/10.1080/10408398.2017.1386159.
+
+31. Zhang Y, Zhang D-Z. Associations of coffee consumption with circulating
+level of adiponectin and leptin. A meta-analysis of observational studies. Int
+J Food Sci Nutr. 2018;69(8):1003–12. https://doi.org/10.1080/09637486.201
+8.1445202.
+
+32. Williams CJ, Fargnoli JL, Hwang JJ, Van Dam RM, Blackburn GL, Hu FB, et al.
+Coffee consumption is associated with higher plasma adiponectin
+concentrations in women with or without type 2 diabetes: a prospective
+cohort study. Diabetes Care. 2008;31(3):504–7. https://doi.org/10.2337/
+dc07-1952.
+
+33. Rebello SA, Chen CH, Naidoo N, Xu W, Lee J, Chia KS, et al. Coffee and tea
+consumption in relation to inflammation and basal glucose metabolism in a
+multi-ethnic Asian population: a cross-sectional study. Nutr J. 2011;10(1):61.
+https://doi.org/10.1186/1475-2891-10-61.
+
+34. Shahmohammadi HA, Hosseini SA, Hajiani E, Malehi AS, Alipour M. Effects of
+green coffee bean extract supplementation on patients with non-alcoholic
+fatty liver disease: a randomized clinical trial. Hepatitis Monthly. 2017;17(4).
+
+35. Agudelo-Ochoa GM, Pulgarín-Zapata IC, Velásquez-Rodriguez CM, Duque-
+Ramírez M, Naranjo-Cano M, Quintero-Ortiz MM, et al. Coffee consumption
+increases the antioxidant capacity of plasma and has no effect on the lipid
+profile or vascular function in healthy adults in a randomized controlled
+trial. J Nutr. 2016;146(3):524–31. https://doi.org/10.3945/jn.115.224774.
+
+36. Rustenbeck I, Lier-Glaubitz V, Willenborg M, Eggert F, Engelhardt U, Jörns A.
+Effect of chronic coffee consumption on weight gain and glycaemia in a
+mouse model of obesity and type 2 diabetes. Nutr Diabetes. 2014;4(6):e123.
+https://doi.org/10.1038/nutd.2014.19.
+
+37. MacKenzie T, Comi R, Sluss P, Keisari R, Manwar S, Kim J, et al. Metabolic
+and hormonal effects of caffeine: randomized, double-blind, placebo-
+controlled crossover trial. Metabolism. 2007;56(12):1694–8. https://doi.org/1
+0.1016/j.metabol.2007.07.013.
+
+38. van Dam RM, Pasman WJ, Verhoef P. Effects of coffee consumption on
+fasting blood glucose and insulin concentrations: randomized controlled
+trials in healthy volunteers. Diabetes Care. 2004;27(12):2990–2. https://doi.
+org/10.2337/diacare.27.12.2990.
+
+39. Rakvaag E, Dragsted LO. Acute effects of light and dark roasted coffee on
+glucose tolerance: a randomized, controlled crossover trial in healthy volunteers.
+Eur J Nutr. 2016;55(7):2221–30. https://doi.org/10.1007/s00394-015-1032-9.
+
+40. Shi X, Xue W, Liang S, Zhao J, Zhang X. Acute caffeine ingestion reduces
+insulin sensitivity in healthy subjects: a systematic review and meta-analysis.
+Nutr J. 2016;15(1):103. https://doi.org/10.1186/s12937-016-0220-7.
+
+41. da Silva LA, Wouk J, Weber V, Eltchechem C, de Almeida P, Martins JCL.
+Mechanisms and biological effects of caffeine on substrate metabolism
+homeostasis: a systematic review. J Appl Pharm Sci. 2017;7:215.
+
+42. Bruton JD, Lemmens R, Shi C-L, PERSSON-SJÖGREN S, WESTERBLAD H,
+Ahmed M, et al. Ryanodine receptors of pancreatic β-cells mediate a
+
+Mansour et al. Nutrition Journal           (2021) 20:35 Page 10 of 11
+
+https://doi.org/10.2337/dc13-1203
+https://doi.org/10.1053/j.gastro.2014.10.005
+https://doi.org/10.1053/j.gastro.2014.10.005
+https://doi.org/10.1177/1756283X15593700
+https://doi.org/10.1111/j.1365-2036.2011.04916.x
+https://doi.org/10.1177/1756283X16636765
+https://doi.org/10.1177/1756283X16636765
+https://doi.org/10.1016/j.jff.2018.04.011
+https://doi.org/10.1111/liv.12379
+https://doi.org/10.1249/01.MSS.0000078924.61453.FB
+https://doi.org/10.1249/01.MSS.0000078924.61453.FB
+https://doi.org/10.3945/ajcn.113.068890
+https://doi.org/10.3390/nu10010089
+https://doi.org/10.3390/nu10010089
+https://doi.org/10.1111/jgh.12422
+https://doi.org/10.1016/j.clnu.2016.03.012
+https://doi.org/10.1016/j.clnu.2016.03.012
+https://doi.org/10.1097/HJH.0b013e3283588d73
+https://doi.org/10.3945/ajcn.110.004044
+https://doi.org/10.3945/ajcn.110.004044
+https://doi.org/10.1007/s00394-017-1591-z
+https://doi.org/10.1038/s41371-017-0007-0
+https://doi.org/10.1038/s41371-017-0007-0
+https://doi.org/10.1186/1475-2891-10-93
+https://doi.org/10.1186/1475-2891-10-93
+https://doi.org/10.3945/ajcn.2009.28548
+https://doi.org/10.3945/ajcn.2009.28548
+https://doi.org/10.1016/j.nut.2013.01.003
+https://doi.org/10.1080/10408398.2017.1386159
+https://doi.org/10.1080/10408398.2017.1386159
+https://doi.org/10.1080/09637486.2018.1445202
+https://doi.org/10.1080/09637486.2018.1445202
+https://doi.org/10.2337/dc07-1952
+https://doi.org/10.2337/dc07-1952
+https://doi.org/10.1186/1475-2891-10-61
+https://doi.org/10.3945/jn.115.224774
+https://doi.org/10.1038/nutd.2014.19
+https://doi.org/10.1016/j.metabol.2007.07.013
+https://doi.org/10.1016/j.metabol.2007.07.013
+https://doi.org/10.2337/diacare.27.12.2990
+https://doi.org/10.2337/diacare.27.12.2990
+https://doi.org/10.1007/s00394-015-1032-9
+https://doi.org/10.1186/s12937-016-0220-7
+
+
+distinct context-dependent signal for insulin secretion. FASEB J. 2003;17(2):
+301–3. https://doi.org/10.1096/fj.02-0481fje.
+
+43. Jee SH, He J, Appel LJ, Whelton PK, Suh I, Klag MJ. Coffee consumption and
+serum lipids: a meta-analysis of randomized controlled clinical trials. Am J
+Epidemiol. 2001;153(4):353–62. https://doi.org/10.1093/aje/153.4.353.
+
+44. d'Amicis A, Scaccini C, Tomassi G, Anaclerio M, Stornelli R, Bernini A. Italian
+style brewed coffee: effect on serum cholesterol in young men. Int J
+Epidemiol. 1996;25(3):513–20. https://doi.org/10.1093/ije/25.3.513.
+
+45. Burr ML, Limb E, Sweetnam PM, Fehily A, Amarah L, Hutchings A. Instant
+coffee and cholesterol: a randomised controlled trial. Eur J Clin Nutr (United
+Kingdom). 1995.
+
+46. Cai L, Ma D, Zhang Y, Liu Z, Wang P. The effect of coffee consumption on
+serum lipids: a meta-analysis of randomized controlled trials. Eur J Clin Nutr.
+2012;66(8):872–7. https://doi.org/10.1038/ejcn.2012.68.
+
+47. Yukawa G, Mune M, Otani H, Tone Y, Liang X-M, Iwahashi H, et al. Effects of
+coffee consumption on oxidative susceptibility of low-density lipoproteins
+and serum lipid levels in humans. Biochem Mosc. 2004;69(1):70–4. https://
+doi.org/10.1023/B:BIRY.0000016354.05438.0f.
+
+48. Silvério ASD, Pereira RGFA, Lima AR, de Araújo Paula FB, Rodrigues MR,
+Baldissera L, et al. The effects of the decaffeination of coffee samples on
+platelet aggregation in hyperlipidemic rats. Plant Foods Hum Nutr. 2013;
+68(3):268–73. https://doi.org/10.1007/s11130-013-0365-x.
+
+49. Grioni S, Agnoli C, Sieri S, Pala V, Ricceri F, Masala G, et al. Espresso coffee
+consumption and risk of coronary heart disease in a large Italian cohort.
+PLoS One. 2015;10(5):e0126550. https://doi.org/10.1371/journal.pone.012
+6550.
+
+50. Wei M, Macera CA, Hornung CA, Blair SN. The impact of changes in coffee
+consumption on serum cholesterol. J Clin Epidemiol. 1995;48(10):1189–96.
+https://doi.org/10.1016/0895-4356(95)00023-W.
+
+51. Shirlow MJ, Mathers CD. Caffeine consumption and serum cholesterol
+levels. Int J Epidemiol. 1984;13(4):422–7. https://doi.org/10.1093/ije/13.4.422.
+
+52. Kobayashi-Hattori K, Mogi A, Matsumoto Y, Takita T. Effect of caffeine on the
+body fat and lipid metabolism of rats fed on a high-fat diet. Biosci
+Biotechnol Biochem. 2005;69(11):2219–23. https://doi.org/10.1271/bbb.
+69.2219.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+Mansour et al. Nutrition Journal           (2021) 20:35 Page 11 of 11
+
+https://doi.org/10.1096/fj.02-0481fje
+https://doi.org/10.1093/aje/153.4.353
+https://doi.org/10.1093/ije/25.3.513
+https://doi.org/10.1038/ejcn.2012.68
+https://doi.org/10.1023/B:BIRY.0000016354.05438.0f
+https://doi.org/10.1023/B:BIRY.0000016354.05438.0f
+https://doi.org/10.1007/s11130-013-0365-x
+https://doi.org/10.1371/journal.pone.0126550
+https://doi.org/10.1371/journal.pone.0126550
+https://doi.org/10.1016/0895-4356(95)00023-W
+https://doi.org/10.1093/ije/13.4.422
+https://doi.org/10.1271/bbb.69.2219
+https://doi.org/10.1271/bbb.69.2219
+
+	Abstract
+	Background
+	Methods
+	Results
+	Conclusion
+	Trial registration
+
+	Introduction
+	Methods
+	Study population
+	Study procedures
+	Outcomes
+	Statistical analysis
+
+	Results
+	Discussion
+	Conclusion
+	Abbreviations
+	Acknowledgements
+	Authors’ contributions
+	Funding
+	Availability of data and materials
+	Declarations
+	Ethical approval and consent to participate
+	Consent for publication
+	Competing interests
+	Author details
+	References
+	Publisher’s Note
+

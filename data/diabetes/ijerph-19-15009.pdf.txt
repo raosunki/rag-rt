@@ -1,0 +1,1094 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Effects of 12-Week Progressive Sandbag Exercise Training on Glycemic Control and Muscle Strength in Patients with Type 2 Diabetes Mellitus Combined with Possible Sarcopenia
+
+
+Citation: Chien, Y.-H.; Tsai, C.-J.;
+
+Wang, D.-C.; Chuang, P.-H.; Lin, H.-T.
+
+Effects of 12-Week Progressive
+
+Sandbag Exercise Training on
+
+Glycemic Control and Muscle Strength
+
+in Patients with Type 2 Diabetes
+
+Mellitus Combined with Possible
+
+Sarcopenia. Int. J. Environ. Res. Public
+
+Health 2022, 19, 15009. https://
+
+doi.org/10.3390/ijerph192215009
+
+Academic Editors: Bartłomiej
+
+Michał Niespodziński,
+
+Patrycja Lipińska and
+
+Jan Mieszkowski
+
+Received: 20 October 2022
+
+Accepted: 11 November 2022
+
+Published: 15 November 2022
+
+Publisher’s Note: MDPI stays neutral
+
+with regard to jurisdictional claims in
+
+published maps and institutional affil-
+
+iations.
+
+Copyright: © 2022 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under the terms and
+
+conditions of the Creative Commons
+
+Attribution (CC BY) license (https://
+
+creativecommons.org/licenses/by/
+
+4.0/).
+
+International  Journal  of
+
+Environmental Research
+
+and Public Health
+
+Article
+
+Effects of 12-Week Progressive Sandbag Exercise Training on
+Glycemic Control and Muscle Strength in Patients with Type 2
+Diabetes Mellitus Combined with Possible Sarcopenia
+Yu-Hsuan Chien 1,2, Chia-Jen Tsai 1, Dean-Chuan Wang 2,3 , Pin-Hung Chuang 4 and Hwai-Ting Lin 2,3,*
+
+1 Division of Endocrinology and Metabolism, Department of Internal Medicine, Kaohsiung Chang Gung
+Memorial Hospital, College of Medicine, Chang Gung University, Kaohsiung 833, Taiwan
+
+2 Department of Sports Medicine, Kaohsiung Medical University, Kaohsiung 807, Taiwan
+3 Department of Medical Research, Kaohsiung Medical University Hospital, Kaohsiung 807, Taiwan
+4 Department of Leisure and Sports Management, Cheng Shiu University, Kaohsiung 833, Taiwan
+* Correspondence: whiting@kmu.edu.tw; Tel.: +886-7312-1101 (ext. 2646); Fax: +886-7313-8359
+
+Abstract: Patients with type 2 diabetes mellitus (T2DM) are at a three-fold increased risk of developing
+sarcopenia compared to those without diabetes. The objective of this study was to investigate whether
+an intervention involving progressive sandbag exercises is beneficial to patients with T2DM and
+possible sarcopenia in terms of enhancing muscle strength and controlling blood sugar levels. Forty
+patients with T2DM and possible sarcopenia (age > 50 years) were recruited and randomly divided
+into resistance training and control groups. Resistance exercises for the upper and lower extremities
+were performed using sandbags (0.5 kg at the beginning to 1 kg after 1 month). Patients in the
+control group were asked to maintain their usual daily lifestyle. After 12 weeks, the training group
+were significant better than the control group in terms of glycosylated hemoglobin, the five times
+sit-to-stand test, skeletal muscle mass and calf circumference, and the physiological domain of the
+World Health Organization Quality of Life Questionnaire. In conclusion, these simple home exercises
+are beneficial to patients with T2DM combined with possible sarcopenia. This approach can assist
+patients in controlling their levels of glycosylated hemoglobin as well as improve physical fitness and
+quality of life.
+
+Keywords: quality of life; low-resistance; high repetition; physical fitness; blood sugar
+
+1. Introduction
+
+Type 2 diabetes mellitus (T2DM) is a chronic metabolic disease characterized by
+hyperglycemia. It accounts for 90% of diabetes cases, and is one of the most common
+endocrine and metabolic diseases. According to data from the International Diabetes
+Federation, the number of patients with diabetes worldwide reached 537 million in 2021;
+it is estimated that this number will increase to 783 million by 2045 [1]. The main cause of
+T2DM is insufficient β-cell secretion or tissue insulin resistance (IR). It has been proposed
+that IR of skeletal muscle is the first metabolic defect in patients with T2DM. Accounting for
+70–80% of insulin-mediated glucose uptake in the skeletal muscles when blood sugar levels
+are normal and >90% under hyperglycemia [2]. According to currently available evidence,
+mechanisms related to T2DM include the accumulation of glycation end products caused
+by IR, inflammatory response, and hyperglycemia [3]. These effects result in deterioration
+of muscle strength and muscle mass in patients with diabetes and lead to the development
+of sarcopenia. The rate of sarcopenia is three-fold higher in patients with T2DM than in
+individuals without diabetes [4].
+
+The more physical activity a patient undertakes, the more effective this is in preventing
+the occurrence of T2DM with sarcopenia [5]. According to the exercise guidelines estab-
+lished by the American Diabetes Association, patients with diabetes should perform at least
+
+Int. J. Environ. Res. Public Health 2022, 19, 15009. https://doi.org/10.3390/ijerph192215009 https://www.mdpi.com/journal/ijerph
+
+https://doi.org/10.3390/ijerph192215009
+https://doi.org/10.3390/ijerph192215009
+https://creativecommons.org/
+https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/licenses/by/4.0/
+https://www.mdpi.com/journal/ijerph
+https://www.mdpi.com
+https://orcid.org/0000-0001-5571-2505
+https://orcid.org/0000-0002-9916-2119
+https://doi.org/10.3390/ijerph192215009
+https://www.mdpi.com/journal/ijerph
+https://www.mdpi.com/article/10.3390/ijerph192215009?type=check_update&version=1
+
+
+Int. J. Environ. Res. Public Health 2022, 19, 15009 2 of 12
+
+150 min of aerobic exercise and resistance training at least two to three times per week, and
+follow the principle of progressive resistance training [6]. Previous studies have shown that
+aerobic exercise was more effective than resistance exercise in controlling blood sugar [7,8];
+however, other studies demonstrated that resistance training was also beneficial for the
+control of blood sugar levels in patients with T2DM [9,10]. In addition, the quality of life of
+patients with diabetes is lower than that of healthy individuals due to the psychological
+impact of blood sugar control or complications [11]. Moreover, the muscle strength and
+muscle mass loss of patients may reduce physical activity [12], and it also increases the risk
+of falls and hospitalization and reduces the quality of life.
+
+Previous studies have shown that high-intensity resistance training (~80% one-repetition
+maximum) increases muscle strength [13,14]. However, if safety is the main consideration,
+high-repetition/low-resistance training is better than high-resistance/low-repetition train-
+ing; the former type of exercise is more feasible for elderly patients than the latter type.
+In some studies, progressive low-resistance training also exerted a similar beneficial effect on
+muscle strength [15]. Owing to the COVID-19 pandemic, the availability of effective home
+rehabilitation exercises is crucial for patients with T2DM combined with sarcopenia. Elastic
+bands are often used as home resistance training instruments. They have been utilized by
+elderly patients [16] and those with sarcopenia and diabetes to improve muscle strength [17].
+However, it is difficult to quantify the training intensity performed by a person using elastic
+bands, and this type of training is therefore associated with more inconsistent results [16,17].
+Moreover, as elastic bands need to be stretched by the user’s strength, there is a certain skill
+requirement during training. Wearing sandbags on the extremities has been used by patients
+with stroke in treadmill training to improve gait, thereby improving balance. The purpose of
+the present study was to investigate whether wearing sandbags as resistance when performing
+a home-based exercise program may benefit patients with T2DM combined with possible
+sarcopenia in terms of glycemic control (glycated hemoglobin A1c [HbA1c]), and also improve
+their muscle strength (grip strength), physical function (five-time chair stand test), skeletal
+muscle mass and calf circumference, and quality of life.
+
+2. Materials and Methods
+2.1. Study Design and Setting
+
+This prospective, randomized, controlled trial was reviewed and approved by the
+Institutional Review Board of Kaohsiung Chang Gung Memorial Hospital (202001276B0)
+and registered with ClinicalTrials.gov (NCT04647617). Patients were recruited from the
+cases of the Pay-for-Performance Program for Diabetes under National Health Insurance
+in Taiwan and treated as outpatients in the Division of Endocrinology and Metabolism
+of Kaohsiung Chang Gung Memorial Hospital. The clinical staff took the initiative to
+approach patients who met the inclusion criteria during routine health education. Written
+informed consent was obtained from eligible patients after explaining the purpose of
+the study. Subsequently, the serial number of each patient’s visit was used to randomly
+assign them to either the resistance training (odd number) or control group (even number).
+Muscle strength, physical performance, HbA1c levels, blood fat parameters, muscle mass,
+calf circumference, and quality of life of all enrolled patients were examined before and
+after 12 weeks of intervention. The parameters of HbA1c and blood fat were measured at
+the Kaohsiung Chang Gung Memorial Hospital Laboratory; all other data measurements
+were conducted by a single researcher in the outpatient clinic of the Endocrinology and
+Metabolism Department.
+
+2.2. Patients
+
+The inclusion criteria of this study were: (1) diagnosis of T2DM by endocrinologists
+and metabolism physicians according to the disease diagnosis code (ICD-10: E110) for
+patients with T2DM; (2) age > 50 years; and (3) meeting the detection criteria for possible
+sarcopenia proposed by the 2019 Asian Working Group for Sarcopenia (including calf
+
+
+
+Int. J. Environ. Res. Public Health 2022, 19, 15009 3 of 12
+
+circumference of <34 cm and <33 cm at the largest circle of respectively male and female
+calves; and grip strength of <28 kg and <18 kg for males and females, respectively).
+
+The exclusion criteria were as follows: peripheral neuropathy; retinopathy; stroke;
+diabetic foot or amputation; history of myocardial infarction; advanced renal disease;
+malignant hypertension; or a history of falls and unstable gait. Throughout the study,
+prescription drugs used by the patients were not adjusted.
+
+2.3. Intervention
+2.3.1. Resistance Training Group
+
+To accommodate the elderly patients in this study, we intended to design an easy and
+safe home resistance training exercise. The training muscles are mainly the functional muscles
+of the limbs. Sandbags were utilized as the resistance training equipment. The patients were
+instructed on the exercises by the clinical staff during a visit to the outpatient department.
+The exercises consisted of arm curl (elbow flexion/extension), overhead press (shoulder),
+hip adduction/abduction, step (hip and knee flexion/extension), and tiptoe (ankle flex-
+ion/extension) (Figure 1). Initially, a sandbag weighing 0.5 kg was worn, and each exercise
+was performed 8–15 times, reaching a rated perceived exertion (RPE) of 13 (range: 6–20),
+which was perceived as somewhat hard. The training exercises included 5–10 min of warm-up
+and cool-down before and after the main exercise to prevent muscle soreness and injury.
+The main exercise consisted of three sets with 1–2 min of rest between sets; the total duration
+of each exercise was approximately 30 min. Based on the recommendation in the guidelines of
+the American College of Sports Medicine, patients should perform strength training exercises
+three times weekly. Participants’ adherence to the exercise program was tracked by phone
+call or social software once weekly. Exercises were intensified by adding repetitions of each
+movement until the patients could easily perform 20 repetitions. Subsequently, the weight
+of the sandbags was changed to 1 kg. To ensure the quality and safety of exercises at home,
+patients and their families were required to test whether all required movements could be
+performed correctly in the education room. Each participant also received a handout with
+demonstration photos as a reminder.
+
+Int. J. Environ. Res. Public Health 2022, 19, x 3 of 12 
+ 
+
+ 
+
+2.2. Patients 
+The inclusion criteria of this study were: (1) diagnosis of T2DM by endocrinologists 
+
+and metabolism physicians according to the disease diagnosis code (ICD-10: E110) for pa-
+tients with T2DM; (2) age >50 years; and (3) meeting the detection criteria for possible 
+sarcopenia proposed by the 2019 Asian Working Group for Sarcopenia (including calf cir-
+cumference of <34 cm and <33 cm at the largest circle of respectively male and female 
+calves; and grip strength of <28 kg and <18 kg for males and females, respectively). 
+
+The exclusion criteria were as follows: peripheral neuropathy; retinopathy; stroke; 
+diabetic foot or amputation; history of myocardial infarction; advanced renal disease; ma-
+lignant hypertension; or a history of falls and unstable gait. Throughout the study, pre-
+scription drugs used by the patients were not adjusted. 
+
+2.3. Intervention 
+2.3.1. Resistance Training Group 
+
+To accommodate the elderly patients in this study, we intended to design an easy 
+and safe home resistance training exercise. The training muscles are mainly the functional 
+muscles of the limbs. Sandbags were utilized as the resistance training equipment. The 
+patients were instructed on the exercises by the clinical staff during a visit to the outpa-
+tient department. The exercises consisted of arm curl (elbow flexion/extension), overhead 
+press (shoulder), hip adduction/abduction, step (hip and knee flexion/extension), and tip-
+toe (ankle flexion/extension) (Figure 1). Initially, a sandbag weighing 0.5 kg was worn, 
+and each exercise was performed 8–15 times, reaching a rated perceived exertion (RPE) of 
+13 (range: 6–20), which was perceived as somewhat hard. The training exercises included 
+5–10 min of warm-up and cool-down before and after the main exercise to prevent muscle 
+soreness and injury. The main exercise consisted of three sets with 1–2 min of rest between 
+sets; the total duration of each exercise was approximately 30 min. Based on the recom-
+mendation in the guidelines of the American College of Sports Medicine, patients should 
+perform strength training exercises three times weekly. Participants’ adherence to the ex-
+ercise program was tracked by phone call or social software once weekly. Exercises were 
+intensified by adding repetitions of each movement until the patients could easily perform 
+20 repetitions. Subsequently, the weight of the sandbags was changed to 1 kg. To ensure 
+the quality and safety of exercises at home, patients and their families were required to 
+test whether all required movements could be performed correctly in the education room. 
+Each participant also received a handout with demonstration photos as a reminder. 
+
+    
+
+Arm curl Overhead press 
+    
+
+Hip adduction/abduction Step 
+
+Int. J. Environ. Res. Public Health 2022, 19, x 4 of 12 
+ 
+
+ 
+
+  
+
+Tiptoe 
+
+Figure 1. The five movements performed during resistance training. 
+
+2.3.2. Control Group 
+Patients in the control group were asked to maintain their usual daily lifestyle as 
+
+much as possible. 
+
+2.4. Outcome Measures 
+2.4.1. Biochemical Analysis 
+
+Blood glucose levels are representative of the short-term blood sugar control situa-
+tion, and the levels of HbA1c in the blood reflect the blood sugar control status during a 
+period of 3 months [18]. The normal levels of HbA1c range between 4% and 5.6%; levels 
+> 6.5% are indicative of diabetes. In this study, the levels of HbA1c were measured using 
+a high-performance liquid chromatography (HPLC) system (Premier Hb9210; Bray, Kan-
+sas City, MO, USA). 
+
+Blood lipids, mainly including triglyceride and total cholesterol, are insoluble lipids, 
+mainly originating from dietary patterns and liver synthesis and also tested in this study. 
+Total cholesterol is divided into low-density lipoprotein (LDL) and high-density lipopro-
+tein (HDL). 
+
+2.4.2. Grip Strength 
+Grip strength is generally regarded as the most convenient parameter for assessing 
+
+muscle strength. It is also an indicator used for the diagnosis of sarcopenia. In the present 
+study, an electronic digital grip strength dynamometer (TKK; Takei Scientific Instru-
+ments, Tokyo, Japan) was used for testing. First the width of the grip was adjusted. The 
+ideal width is an angle of 90° between the second knuckle of the index finger and the grip. 
+The patient then adopted a standing posture with the feet naturally separated, the body 
+maintained upright, and the arms naturally relaxed. The patients were asked to practice 
+the exercise first and then use the dynamometer to press forcefully and steadily for 5 s. 
+The measurement was performed twice, with a 1 min interval between the two recordings, 
+and the average value was calculated. 
+
+2.4.3. Five Times Sit-to-Stand Test 
+Diagnosis of sarcopenia requires concurrent assessment of the quality and quantity 
+
+of the muscles of elderly individuals (i.e., muscle mass, muscle strength, physical perfor-
+mance, etc.). The five times sit-to-stand test is suitable for this purpose. Briefly, the patient 
+sat on a chair with a height of approximately 43 cm without armrests. The patient then 
+stood up from the chair and then sat down again, carrying out five repetitions and timing 
+the total process with a stopwatch. Patients were asked to perform the exercise according 
+to their physical condition. 
+
+  
+
+Figure 1. The five movements performed during resistance training.
+
+
+
+Int. J. Environ. Res. Public Health 2022, 19, 15009 4 of 12
+
+2.3.2. Control Group
+
+Patients in the control group were asked to maintain their usual daily lifestyle as much
+as possible.
+
+2.4. Outcome Measures
+2.4.1. Biochemical Analysis
+
+Blood glucose levels are representative of the short-term blood sugar control situation,
+and the levels of HbA1c in the blood reflect the blood sugar control status during a period
+of 3 months [18]. The normal levels of HbA1c range between 4% and 5.6%; levels > 6.5%
+are indicative of diabetes. In this study, the levels of HbA1c were measured using a high-
+performance liquid chromatography (HPLC) system (Premier Hb9210; Bray, Kansas City,
+MO, USA).
+
+Blood lipids, mainly including triglyceride and total cholesterol, are insoluble lipids,
+mainly originating from dietary patterns and liver synthesis and also tested in this study. Total
+cholesterol is divided into low-density lipoprotein (LDL) and high-density lipoprotein (HDL).
+
+2.4.2. Grip Strength
+
+Grip strength is generally regarded as the most convenient parameter for assessing
+muscle strength. It is also an indicator used for the diagnosis of sarcopenia. In the present
+study, an electronic digital grip strength dynamometer (TKK; Takei Scientific Instruments,
+Tokyo, Japan) was used for testing. First the width of the grip was adjusted. The ideal
+width is an angle of 90◦ between the second knuckle of the index finger and the grip.
+The patient then adopted a standing posture with the feet naturally separated, the body
+maintained upright, and the arms naturally relaxed. The patients were asked to practice
+the exercise first and then use the dynamometer to press forcefully and steadily for 5 s.
+The measurement was performed twice, with a 1 min interval between the two recordings,
+and the average value was calculated.
+
+2.4.3. Five Times Sit-to-Stand Test
+
+Diagnosis of sarcopenia requires concurrent assessment of the quality and quantity of
+the muscles of elderly individuals (i.e., muscle mass, muscle strength, physical performance,
+etc.). The five times sit-to-stand test is suitable for this purpose. Briefly, the patient sat on
+a chair with a height of approximately 43 cm without armrests. The patient then stood up
+from the chair and then sat down again, carrying out five repetitions and timing the total
+process with a stopwatch. Patients were asked to perform the exercise according to their
+physical condition.
+
+2.4.4. Muscle Mass
+
+A body composition analyzer (Tanita BC545N; Tanita Corporation, Tokyo, Japan)
+was used to measure the appendicular skeletal muscle mass (ASM) and determine the
+appendicular skeletal muscle mass index (ASMI). Before the test, the patients were asked
+to empty their bladder and enter their basic information, including height, weight, age,
+gender and other information, on the analyzer screen. Alcohol (75%) was used to wipe
+clean the palm surface of the patients and electrodes of the analyzer.
+
+2.4.5. Calf Circumference
+
+Calf circumference is often used to roughly assess the amount of muscle mass. Males
+and females with calf circumference measuring <34 cm and <33 cm, respectively, are at
+high risk of developing sarcopenia. Patients were asked to take a standing position, and
+the largest diameter of the right calf was measured with a measuring tape.
+
+2.4.6. WHOQOL-BREF Taiwan Version
+
+The patients were asked to fill in their own quality of life status for the previous
+2 weeks in the World Health Organization Quality of Life Questionnaire brief version
+
+
+
+Int. J. Environ. Res. Public Health 2022, 19, 15009 5 of 12
+
+(WHOQOL-BREF). The scoring of this questionnaire is based on a Likert five-point scale
+(scores of five and one indicating the highest and lowest points, respectively). The score
+was calculated by determining the average value for each question in the same domain
+and multiplying the value by four. The total score (based on the formula) was converted to
+a range of 0–20 points, with higher scores indicating better quality of life.
+
+2.5. Statistical Analysis
+
+A priori sample size estimation was based on anticipated differences in grip strength
+of the patients with possible sarcopenia as the primary outcome based on an estimated large
+effect size (0.8) between the pretest and post-training measurements [19]. The calculation
+was also based on an alpha level of 0.05 and a desired statistical power of 80% using
+G*Power. The estimated minimum sample size was 18 patients per group. Assuming
+a dropout rate of 10%, we thus enrolled 20 patients in each group.
+
+Statistical analysis was performed using the SPSS statistical software package (version
+20.0; IBM Corp, Armonk, NY, USA). All data values are represented as the mean and
+standard deviation. The Shapiro–Wilk method was used to test whether the data were
+normally distributed, and the homogeneity of the two groups was confirmed by Levene’s
+test. The chi-squared test was used to analyze differences in gender and drug use between
+the two groups. Generalized estimating equations (GEE) were used to test the main effect
+of time and group, and a significant group × time interaction. The paired t-test was used
+to examine the differences in every testing parameter before and after training (time) in
+each group. The significance level was set at p < 0.05.
+
+3. Results
+3.1. Flow of Participants
+
+A total of 218 patients diagnosed with T2DM with possible sarcopenia were recruited
+for the study. Of these, 178 patients who did not meet the inclusion criteria were excluded.
+The remaining 40 eligible patients were randomly assigned to the resistance training and
+control groups. Three patients were excluded later due to personal reasons or missed
+visits to the hospital. Finally, 37 patients completed the entire experiment (19 and 18 in
+the resistance training and control groups, respectively) (Figure 2). The adherence rate of
+patients who participated in the intervention in the training group was 82%. There were no
+significant differences in demographic characteristics, history of diabetes, HbA1c, blood fat,
+and medication use between the two groups (p > 0.05) (Table 1). In addition, none of the
+participants experienced exercise injury during the intervention.
+
+Table 1. Baseline characteristics of patients.
+
+Training Group
+(n = 20)
+
+Control Group
+(n = 20) p-Value
+
+Gender b
+
+Male/female, n (%) 5 (25%)/15 (75%) 2 (10%)/18 (90%) 0.212
+
+Age (years) a 67.6 ± 7.7 67.3 ± 6.1 0.892
+
+Duration of T2DM (years) 17.5 ± 16.3 13.6 ± 7.6 0.346
+
+Body height (cm) a 154.4 ± 16.3 156.3 ± 6.0 0.349
+
+Body weight (kg) 58.0 ± 9.0 62.4 ± 9.9 0.149
+
+Body index (kg/m2) 24.3 ± 3.4 25.5 ± 3.7 0.311
+
+HbA1c (%) 8.1 ± 1.1 7.6 ± 0.6 0.057
+
+LDL (mg/dL) a 86.9 ± 36.5 77.7 ± 29.7 0.388
+
+
+
+Int. J. Environ. Res. Public Health 2022, 19, 15009 6 of 12
+
+Table 1. Cont.
+
+Training Group
+(n = 20)
+
+Control Group
+(n = 20) p-Value
+
+HDL (mg/dL) a 54.4 ± 13.6 47.5 ± 11.6 0.094
+
+Triglycerides (mg/dL) a 117.4 ± 32.1 125.4 ± 61.2 0.608
+T2DM = type 2 diabetes mellitus; LDL = low-density lipoprotein; HDL = high-density lipoprotein. Values are presented
+as the mean ± standard deviation; a: analyzed by the independent t test; b: analyzed by the chi-squared test.
+
+Int. J. Environ. Res. Public Health 2022, 19, x 6 of 12 
+ 
+
+ 
+
+ 
+Figure 2. CONSORT flow diagram. 
+
+Table 1. Baseline characteristics of patients. 
+
+ 
+Training Group 
+
+(n = 20) 
+Control Group 
+
+(n = 20) p-Value 
+
+Gender b    
+Male/female, n (%)  5 (25%)/15 (75%) 2 (10%)/18 (90%) 0.212 
+Age (years) a 67.6 ± 7.7 67.3 ± 6.1 0.892 
+Duration of T2DM (years) 17.5 ± 16.3 13.6 ± 7.6 0.346 
+Body height (cm) a 154.4 ± 16.3 156.3 ± 6.0 0.349 
+Body weight (kg) 58.0 ± 9.0 62.4 ± 9.9 0.149 
+Body index (kg/m2) 24.3 ± 3.4 25.5 ± 3.7 0.311 
+HbA1c (%) 8.1 ± 1.1 7.6 ± 0.6 0.057 
+LDL (mg/dL) a 86.9 ± 36.5 77.7 ± 29.7 0.388 
+HDL (mg/dL) a 54.4 ± 13.6 47.5 ± 11.6 0.094 
+
+Figure 2. CONSORT flow diagram.
+
+3.2. Effect of Intervention on HbA1c
+
+For the HbA1c levels, the main effects changed significantly over time within (p = 0.037)
+and between the groups (p = 0.042). A significant interaction between time and group
+(p = 0.004) was also observed. After 12 weeks of intervention, the HbA1c levels were de-
+creased significantly in both groups (p < 0.001 (training); p = 0.045 (control)); nevertheless,
+the training group showed a more significant improvement in HbA1c than the control
+group (Table 2).
+
+
+
+Int. J. Environ. Res. Public Health 2022, 19, 15009 7 of 12
+
+Table 2. Changes in outcomes between groups after 12 weeks of intervention.
+
+Outcomes Group Baseline Post Within Group
+p-Value
+
+Between Groups
+p-Value
+
+Time * Group
+p-Value
+
+HbA1c (%)
+Training 8.1 ± 1.1 7.7 ± 0.9
+
+0.037 * 0.042 * 0.004 *
+Control 7.6 ± 0.6 7.4 ± 0.7
+
+HDL (mg/dL)
+Training 54.4 ± 13.6 53.7 ± 11.8
+
+0.416 0.078 0.354
+Control 47.5 ± 11.6 48.8 ± 12.6
+
+LDL (mg/dL)
+Training 87.0 ± 36.5 76.6 ± 27.0
+
+0.272 0.370 0.072
+Control 77.8 ± 29.7 82.7 ± 31.2
+
+TG (mg/dL)
+Training 117.4 ± 32.1 125.4 ± 61.2
+
+0.669 0.595 0.172
+Control 100.3 ± 36.2 130.9 ± 65.0
+
+Hand grip (kg)
+Training 15.9 ± 5.0 19.1 ± 4.9
+
+0.010 * 0.520 0.097
+Control 15.1 ± 3.8 16.5 ± 5.4
+
+Five times sit-to-stand test (s)
+Training 16.6 ± 3.5 13.4 ± 3.2
+
+0.061 0.499 0.001 *
+Control 15.9 ± 3.0 17.1 ± 4.7
+
+ASM (kg)
+Training 16.7 ± 3.3 17.1 ± 3.5
+
+0.009 * 0.795 0.001 *
+Control 16.9 ± 2.1 16.6 ± 2.2
+
+ASMI (kg/m2)
+Training 6.9 ± 0.9 7.1 ± 1.0
+
+0.009 * 0.795 0.001 *
+Control 6.9 ± 0.7 6.8 ± 0.1
+
+Calf circumference (cm)
+Training 30.4 ± 2.3 31.2 ± 1.9
+
+0.009 * 0.795 0.001 *
+Control 31.3 ± 2.0 30.6 ± 2.8
+
+ASM = appendicular skeletal muscle mass; ASMI = appendicular skeletal muscle mass index; HDL = high-density
+lipoprotein; LDL = low-density lipoprotein; TG = triglycerides; * Significant difference (p < 0.05).
+
+3.3. Effect of Intervention on the Lipid Profile
+
+For the HDL cholesterol, LDL cholesterol, and triglyceride levels, no statistical signifi-
+cance was reached for the main effects over time within groups (p = 0.416, 0.272, and 0.669,
+respectively), between groups (p = 0.078, 0.370, and 0.595, respectively), or in time-by-group
+interaction (p = 0.354, 0.072, and 0.172, respectively) (Table 2).
+
+3.4. Effect of Intervention on Grip Strength
+
+For the grip strength, the main effects were statistically significant over time within
+the group (p = 0.001). The grip strengths were decreased significantly in both groups
+(p < 0.001(training); p = 0.021(control)). There were no significant differences found between
+groups (p = 0.520) or for the time-by-group interaction (p = 0.097) (Table 2).
+
+3.5. Effect of Intervention on the Five Times Sit-to-Stand Test
+
+Performance in the five times sit-to-stand test showed a statistically significant effect
+in time-by-group interaction (p = 0.001). However, statistical significance was not reached
+for the main effects over time within (p = 0.061) or between (p = 0.499) groups. The test
+time for the training group decreased with time, whereas that for the control group tended
+to increase (Table 2).
+
+3.6. Effect of Intervention on ASM and ASMI
+
+For ASM and ASMI, the main effects were statistically significant over time within
+groups (p = 0.009 and 0.041, respectively) and for the time-by-group interaction (p = 0.001 and
+0.001, respectively). However, statistical significance was not reached for the main effects over
+time between groups (p = 0.795 and 0.235, respectively). After 12 weeks, the ASM and ASMI
+increased over time in the training group (p = 0.023 and 0.033, respectively) but decreased in
+the control group (p = 0.022 and 0.025, respectively) (Table 2).
+
+
+
+Int. J. Environ. Res. Public Health 2022, 19, 15009 8 of 12
+
+3.7. Effect of Intervention on Calf Circumference
+
+For the calf circumference, there was a statistically significant effect in terms of time-by-
+group interaction (p = 0.010). However, statistical significance was not reached for the main
+effects over time within (p = 108) or between (p = 0.223) groups. The calf circumference in
+the training group increased with time (p < 0.001), while that in the control group tended to
+decrease (p = 0.069) (Table 2).
+
+3.8. Effect of Intervention on the WHOQOL Scale
+
+Scoring on the WHOQOL scale in the physical domain showed a statistically signifi-
+cant effect in terms of time-by-group interaction (p = 0.090) (Table 3). However, statistical
+significance was not reached for the main effects over time within (p = 0.921) or between
+(p = 0.371) groups. In the general health, psychological, environmental, and social relation-
+ships domains, statistical significance was not reached for the main effects over time within
+groups (p = 0.953, 0.509, 0.787, and 0.927, respectively) or between groups (p = 0.703, 0.957,
+0.582, and 0.631, respectively), or time-by-group interaction (p = 0.304, 0.354, 0.540, and
+0.167, respectively). Twelve weeks of training resulted in an increase in physical domain
+scores (p = 0.003); however, the intervention did not lead to significant change in the control
+group (p = 0.222).
+
+Table 3. Changes in WHOQOL scale between groups after 12 weeks of intervention.
+
+Domain Group Baseline After 12
+Weeks
+
+Within Group
+p-Value
+
+Between Groups
+p-Value
+
+Time * Group
+p-Value
+
+General health
+Training 2.8 ± 0.6 3.0 ± 0.6
+
+0.953 0.703 0.304
+Control 2.7 ± 0.6 2.7 ± 0.8
+
+Physical domain
+Training 10.6 ± 1.8 12.1 ± 1.8
+
+0.921 0.371 0.009 *
+Control 11.1 ± 1.7 11.1 ± 2.3
+
+Psychology domain
+Training 10.8 ± 1.8 11.4 ± 1.8
+
+0.509 0.957 0.354
+Control 10.8 ± 1.8 10.4 ± 2.4
+
+Social relationship domain
+Training 11.7 ± 1.4 11.9 ± 1.4
+
+0.787 0.582 0.540
+Control 11.4 ± 2.0 11.4 ± 2.1
+
+Environmental domain
+Training 14.0 ± 2.0 14.5 ± 1.7
+
+0.927 0.631 0.167
+Control 14.3 ± 1.7 14.3 ± 1.8
+
+WHOQOL = World Health Organization Quality of Life. * Significant difference (p < 0.05).
+
+4. Discussion
+
+To our knowledge, this is the first prospective study on the effect of low-intensity resis-
+tance exercise training at home in patients with T2DM combined with possible sarcopenia.
+Compared with patients in the control group, those in the training group had more signif-
+icantly improved blood biochemical results (HbA1c) and better conditions (time*group
+interaction) in muscle strength and physical performance (five times sit-to-stand test), limb
+muscle mass, calf circumference, and quality of life. Exercise compliance in the training
+group was 82% throughout the experimental period and was higher than reported in
+previous studies [20].
+
+Previous investigations have shown that aerobic exercise was more effective than
+resistance exercise in controlling blood sugar [7,8]. Currently, few studies have exam-
+ined the effects of intervention with progressive low-weight-bearing resistance exercise
+in patients with T2DM. These studies reported a decrease in the average HbA1c levels
+by 0.3–0.5% [10,21,22]; these results are similar to the present findings. Currently, the
+mechanism through which patients with diabetes can achieve blood sugar control through
+resistance exercise remains unclear. However, it is likely that the increase of glucose
+transporter type 4 (GLUT4) enhances the ability of insulin transport and improves IR [23].
+
+
+
+Int. J. Environ. Res. Public Health 2022, 19, 15009 9 of 12
+
+Consistent with previous results, the present study did not demonstrate statistically
+significant differences in terms of time and group effects for HDL, LDL, and triglyc-
+erides, [7,22]. Previous studies suggested that weekly exercise must exceed a caloric
+cost of 1200–2200 kcal to exert a significant effect on blood lipids; in the present study, the
+limited exercise may be the main reason for the lack of effect [24–26]. Moreover, 95% of the
+patients in this study were receiving treatment with blood lipid-lowering drugs. Under this
+condition, the HDL and LDL levels of the two groups prior to this study had reached the
+standard value recommended by the American Diabetes Association (HDL ≥ 50 mg/dL,
+LDL < 100 mg/dL, triglycerides < 150 mg/dL); this may be the cause for the observed
+limited improvement in cholesterol levels after training.
+
+For older adults, resistance training can reverse the negative effects of aging and is
+key to maintaining strength. The re-recruitment of muscle fibers through training increases
+their volume to generate more force [27]. Studies have shown that, in older adults who
+have never received previous resistance training, both skeletal muscles and neuromuscular
+systems exhibit significant adaptability and plasticity in response to strength training [28].
+None of the patients recruited in the present study had received resistance training prior
+to their participation. After 12 weeks of sandbag training, the grip strength of patients
+increased by 3.2 kg, and the required five times sit-to-stand test duration was shortened by
+3.2 s. Therefore, based on the results of this study, resistance training with low intensity
+may increase muscle strength and physical performance in the elderly [29–32].
+
+A Cochrane meta-analysis concluded that progressive resistance training is an effective
+interventional strategy for improving physical performance in older adults, with benefits
+including increased muscle strength and muscle mass [33]. In this study, 12 weeks of
+progressive sandbag resistance training was applied. Although the load was relatively
+light, the skeletal muscle mass of the limbs in the training group increased by 0.3 kg, which
+was also similar to the results of a previous study [17,19,23,34]. It can thus be concluded
+that the cross-sectional area of type II muscle fibers can be increased through low-intensity
+and high-repetition exercise [35]. The calf circumference of the training group in this study
+increased from 30.4 cm to 31.1 cm (an increase of 0.7 cm). According to a study conducted by
+Yang, low resistance training exerted a positive effect on calf circumference and limb muscle
+mass [36]. Nonetheless, studies conducted in Japan and Korea yielded different results,
+which may be due to differences in gender, environment, ethnicity, genetics, lifestyle, diet,
+iliac structure, fat distribution, and skin wrinkling due to disease [37,38].
+
+The pathogenesis of T2DM increases the rate of muscle strength and muscle mass
+loss, resulting in a decrease in physical activity. It has been shown that resistance training
+improves quality of life, such as overall mood, sleep quality, increased vitality, and self-
+efficacy. Moreover, Pourgathi showed that resistance training improved the quality of life of
+elderly individuals through an increase in muscle strength and muscle mass [16]. Therefore,
+the elderly can be encouraged to add progressive resistance exercise to their usual exercise
+according to their ability and maintain their daily independence [12,34,35]. However, we
+found no significant difference before and after tests in both groups in the general health,
+psychological, social relationship, and environmental domains. This lack of effect may be
+related to the distress, psychological pressure, frustration, and powerlessness caused by
+diabetes. The results of the quality of life questionnaires for patients with T2DM may also
+vary greatly depending on the treatment modality, the presence or absence of comorbidities
+and complications, the length of the disease period, and basic demographic variables.
+
+This study has a number of limitations. Firstly, all included patients were elderly and
+most resided far away from the hospital, making it difficult for them to frequently return
+to the hospital for assessment. Therefore, the exercise status of the patients could only be
+tracked through telephone interviews and communication software. Secondly, exercise
+compliance may not actually reflect the patient’s exercise status at home. The diet and
+lifestyle of patients with diabetes have a great impact on physiological parameters, such as
+blood sugar and lipid levels, but in this study, the diet of the patients was not controlled.
+It is suggested that future studies make use of cooperation with dietitians to control the
+
+
+
+Int. J. Environ. Res. Public Health 2022, 19, 15009 10 of 12
+
+diet of patients. Finally, the measurement of biochemical parameters may be affected by
+the type of drugs used by the patient (e.g., diuretics, excretion and hypoglycemic drugs,
+and others), which were not controlled in this study.
+
+5. Conclusions
+
+In this study, patients with T2DM and possible sarcopenia (age > 50 years) performed
+12 weeks of home-based progressive quantitative sandbag resistance exercise training for
+progressive upper and lower limb muscle strength using low-load quantitative sandbags.
+Although all subjects’ medication status did not change after 12 weeks of training, the resis-
+tance exercise training improved the levels of HbA1c, upper extremity strength, and muscle
+mass, and had better sit-to-stand performance and quality of life than the control group.
+
+During this study, there were no safety concerns with regard to exercise (e.g., hypo-
+glycemia, falls). Therefore, this approach can be used for elderly diabetic patients with
+poor physical fitness to increase muscle strength. The designed exercise methods can be
+easily performed at home, the equipment is easy to use, telephone interviews or commu-
+nication software can be utilized to provide continuous care, and the training method is
+cost-effective. This approach provides a new option for the elderly to exercise at home
+during the current COVID-19 pandemic.
+
+Author Contributions: Y.-H.C., C.-J.T., D.-C.W. and H.-T.L. conceived and designed the experiments;
+Y.-H.C., C.-J.T. and H.-T.L. performed the experiments; Y.-H.C., C.-J.T., D.-C.W., P.-H.C. and H.-T.L.
+interpreted the data and participated in drafting the text and figures. All authors have read and
+agreed to the published version of the manuscript.
+
+Funding: This study was supported by the Ministry of Science and Technology of Taiwan (MOST
+108-2410-H-037-017-).
+
+Institutional Review Board Statement: The study was conducted in accordance with the Declaration
+of Helsinki and approved by the Institutional Review Board of Chang Gung Medical Foundation,
+Institutional Review Board (protocol code 202001276B0 and date of approval 24 August 2020).
+
+Informed Consent Statement: Informed consent was obtained from all subjects involved in the study.
+
+Data Availability Statement: Data can be made available upon request.
+
+Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+1. International Diabetes Federation. Annual Report 2021; International Diabetes Federation: Brussels, Belgium, 2021.
+2. Baron, A.D.; Brechtel, G.; Wallace, P.; Edelman, S.V. Rates and tissue sites of non-insulin- and insulin-mediated glucose uptake in
+
+humans. Am. J. Physiol. 1988, 255, E769–E774. [CrossRef] [PubMed]
+3. Umegaki, H. Sarcopenia and frailty in older patients with diabetes mellitus. Geriatr. Gerontol. Int. 2016, 16, 293–299. [CrossRef]
+
+[PubMed]
+4. Park, S.W.; Goodpaster, B.H.; Strotmeyer, E.S.; Kuller, L.H.; Broudeau, R.; Kammerer, C.; De Rekeneire, N.; Harris, T.B.;
+
+Schwartz, A.V.; Tylavsky, F.A. Accelerated loss of skeletal muscle strength in older adults with type 2 diabetes: The health, aging,
+and body composition study. Diabetes Care 2007, 30, 1507–1512. [CrossRef] [PubMed]
+
+5. Mesinovic, J.; Zengin, A.; De Courten, B.; Ebeling, P.R.; Scott, D. Sarcopenia and type 2 diabetes mellitus: A bidirectional
+relationship. Diabetes Metab. Syndr. Obes. Targets Ther. 2019, 12, 1057–1072. [CrossRef] [PubMed]
+
+6. Colberg, S.R.; Sigal, R.J.; Fernhall, B.; Regensteiner, J.G.; Blissmer, B.J.; Rubin, R.R.; Chasan-Taber, L.; Albright, A.L.; Braun, B.
+Exercise and type 2 diabetes: The american college of sports medicine and the american diabetes association: Joint position
+statement. Diabetes Care 2010, 33, e147–e167. [CrossRef] [PubMed]
+
+7. Sigal, R.J.; Kenny, G.P.; Boulé, N.G.; Wells, G.A.; Prud’homme, D.; Fortier, M.; Reid, R.D.; Tulloch, H.; Coyle, D.; Phillips, P.; et al.
+Effects of aerobic training, resistance training, or both on glycemic control in type 2 diabetes: A randomized trial. Ann. Intern.
+Med. 2007, 147, 357–369. [CrossRef]
+
+8. Boulé, N.G.; Haddad, E.; Kenny, G.P.; Wells, G.A.; Sigal, R.J. Effects of exercise on glycemic control and body mass in type
+2 diabetes mellitusa meta-analysis of controlled clinical trials. JAMA 2001, 286, 1218–1227. [CrossRef]
+
+9. Lee, J.; Kim, D.; Kim, C. Resistance training for glycemic control, muscular strength, and lean body mass in old type 2 diabetic
+patients: A meta-analysis. Diabetes Ther. 2017, 8, 459–473. [CrossRef]
+
+http://doi.org/10.1152/ajpendo.1988.255.6.E769
+http://www.ncbi.nlm.nih.gov/pubmed/3059816
+http://doi.org/10.1111/ggi.12688
+http://www.ncbi.nlm.nih.gov/pubmed/26799937
+http://doi.org/10.2337/dc06-2537
+http://www.ncbi.nlm.nih.gov/pubmed/17363749
+http://doi.org/10.2147/DMSO.S186600
+http://www.ncbi.nlm.nih.gov/pubmed/31372016
+http://doi.org/10.2337/dc10-9990
+http://www.ncbi.nlm.nih.gov/pubmed/21115758
+http://doi.org/10.7326/0003-4819-147-6-200709180-00005
+http://doi.org/10.1001/jama.286.10.1218
+http://doi.org/10.1007/s13300-017-0258-3
+
+
+Int. J. Environ. Res. Public Health 2022, 19, 15009 11 of 12
+
+10. Takenami, E.; Iwamoto, S.; Shiraishi, N.; Kato, A.; Watanabe, Y.; Yamada, Y.; Yamada, S.; Ishii, N. Effects of low-intensity resistance
+training on muscular function and glycemic control in older adults with type 2 diabetes. J. Diabetes Investig. 2019, 10, 331–338.
+[CrossRef]
+
+11. Myers, V.H.; McVay, M.A.; Brashear, M.M.; Johannsen, N.M.; Swift, D.L.; Kramer, K.; Harris, M.N.; Johnson, W.D.; Earnest, C.P.;
+Church, T.S. Exercise training and quality of life in individuals with type 2 diabetes: A randomized controlled trial. Diabetes Care
+2013, 36, 1884–1890. [CrossRef]
+
+12. Sun, S.; Lee, H.; Yim, H.W.; Won, H.S.; Ko, Y.H. The impact of sarcopenia on health-related quality of life in elderly people:
+Korean national health and nutrition examination survey. Korean J. Intern. Med. 2019, 34, 877–884. [CrossRef] [PubMed]
+
+13. Sigal, R.J.; Kenny, G.P.; Wasserman, D.H.; Castaneda-Sceppa, C. Physical activity/exercise and type 2 diabetes. Diabetes Care 2004,
+27, 2518–2539. [CrossRef] [PubMed]
+
+14. Castaneda, C.; Layne, J.E.; Munoz-Orians, L.; Gordon, P.L.; Walsmith, J.; Foldvari, M.; Roubenoff, R.; Tucker, K.L.; Nelson, M.E.
+A randomized controlled trial of resistance exercise training to improve glycemic control in older adults with type 2 diabetes.
+Diabetes Care 2002, 25, 2335–2341. [CrossRef] [PubMed]
+
+15. Bemben, D.A.; Fetters, N.L.; Bemben, M.G.; Nabavi, N.; Koh, E.T. Musculoskeletal responses to high- and low-intensity resistance
+training in early postmenopausal women. Med. Sci. Sports Exerc. 2000, 32, 1949–1957. [CrossRef] [PubMed]
+
+16. Pourtaghi, F.; Moghadam, Z.E.; Ramezani, M.; Vashani, H.B.; Mohajer, S. Effect of resistance training using thera-band on
+muscular strength and quality of life among the elderly. Evid. Based Care 2017, 7, 7–16.
+
+17. Liao, C.-D.; Tsauo, J.-Y.; Huang, S.-W.; Ku, J.-W.; Hsiao, D.-J.; Liou, T.-H. Effects of elastic band exercise on lean mass and physical
+capacity in older women with sarcopenic obesity: A randomized controlled trial. Sci. Rep. 2018, 8, 2317. [CrossRef]
+
+18. Higgins, T. Hba1c—An analyte of increasing importance. Clin. Biochem. 2012, 45, 1038–1045. [CrossRef]
+19. Vikberg, S.; Sörlén, N.; Brandén, L.; Johansson, J.; Nordström, A.; Hult, A.; Nordström, P. Effects of resistance training on
+
+functional strength and muscle mass in 70-year-old individuals with pre-sarcopenia: A randomized controlled trial. J. Am. Med.
+Dir. Assoc. 2019, 20, 28–34. [CrossRef]
+
+20. Picorelli, A.M.A.; Pereira, D.S.; Felício, D.C.; Dos Anjos, D.M.; Pereira, D.A.G.; Dias, R.C.; Assis, M.G.; Pereira, L.S.M. Adherence
+of older women with strength training and aerobic exercise. Clin. Interv. Aging 2014, 9, 323–331. [CrossRef]
+
+21. Misra, A.; Alappan, N.K.; Vikram, N.K.; Goel, K.; Gupta, N.; Mittal, K.; Bhatt, S.; Luthra, K. Effect of supervised progressive
+resistance-exercise training protocol on insulin sensitivity, glycemia, lipids, and body composition in asian indians with type
+2 diabetes. Diabetes Care 2008, 31, 1282–1287. [CrossRef]
+
+22. Kwon, H.R.; Han, K.A.; Ku, Y.H.; Ahn, H.J.; Koo, B.-K.; Kim, H.C.; Min, K.W. The effects of resistance training on muscle and
+body fat mass and muscle strength in type 2 diabetic women. Korean Diabetes J. 2010, 34, 101–110. [CrossRef] [PubMed]
+
+23. Holten, M.K.; Zacho, M.; Gaster, M.; Juel, C.; Wojtaszewski, J.F.; Dela, F. Strength training increases insulin-mediated glucose
+uptake, glut4 content, and insulin signaling in skeletal muscle in patients with type 2 diabetes. Diabetes 2004, 53, 294–305.
+[CrossRef]
+
+24. Durstine, J.L.; Grandjean, P.W.; Cox, C.A.; Thompson, P.D. Lipids, lipoproteins, and exercise. J. Cardiopulm. Rehabil. 2002, 22,
+385–398. [CrossRef] [PubMed]
+
+25. Durstine, J.L.; Grandjean, P.W.; Davis, P.G.; Ferguson, M.A.; Alderson, N.L.; DuBose, K.D. Blood lipid and lipoprotein adaptations
+to exercise. Sports Med. 2001, 31, 1033–1062. [CrossRef] [PubMed]
+
+26. Nery, C.; Moraes, S.R.A.; Novaes, K.A.; Bezerra, M.A.; Silveira, P.V.C.; Lemos, A. Effectiveness of resistance exercise compared to
+aerobic exercise without insulin therapy in patients with type 2 diabetes mellitus: A meta-analysis. Braz. J. Phys. Ther. 2017, 21,
+400–415. [CrossRef]
+
+27. Häkkinen, K.; Kallinen, M.; Izquierdo, M.; Jokelainen, K.; Lassila, H.; Mälkiä, E.; Kraemer, W.J.; Newton, R.U.; Alen, M. Changes in
+agonist-antagonist emg, muscle csa, and force during strength training in middle-aged and older people. J. Appl. Physiol. 1998, 84,
+1341–1349. [CrossRef]
+
+28. Aagaard, P.; Suetta, C.; Caserotti, P.; Magnusson, S.P.; Kjær, M. Role of the nervous system in sarcopenia and muscle atrophy with
+aging: Strength training as a countermeasure. Scand. J. Med. Sci. Sports 2010, 20, 49–64. [CrossRef]
+
+29. Bao, W.; Sun, Y.; Zhang, T.; Zou, L.; Wu, X.; Wang, D.; Chen, Z. Exercise programs for muscle mass, muscle strength and physical
+performance in older adults with sarcopenia: A systematic review and meta-analysis. Aging Dis. 2020, 11, 863–873. [CrossRef]
+
+30. Taaffe, D.R. Sarcopenia—Exercise as a treatment strategy. Aust. Fam. Physician 2006, 35, 130–134.
+31. Watanabe, Y.; Tanimoto, M.; Ohgane, A.; Sanada, K.; Miyachi, M.; Ishii, N. Increased muscle size and strength from slow-
+
+movement, low-intensity resistance exercise and tonic force generation. J. Aging Phys. Act. 2013, 21, 71–84. [CrossRef]
+32. Schoenfeld, B.J. Is there a minimum intensity threshold for resistance training-induced hypertrophic adaptations? Sports Med.
+
+2013, 43, 1279–1288. [CrossRef] [PubMed]
+33. Liu, C.J.; Latham, N.K. Progressive resistance strength training for improving physical function in older adults. Cochrane Database
+
+Syst. Rev. 2009, 2009, Cd002759. [CrossRef] [PubMed]
+34. Tsekoura, M.; Billis, E.; Tsepis, E.; Dimitriadis, Z.; Matzaroglou, C.; Tyllianakis, M.; Panagiotopoulos, E.; Gliatis, J. The effects of
+
+group and home-based exercise programs in elderly with sarcopenia: A randomized controlled trial. J. Clin. Med. 2018, 7, 480.
+[CrossRef]
+
+http://doi.org/10.1111/jdi.12926
+http://doi.org/10.2337/dc12-1153
+http://doi.org/10.3904/kjim.2017.182
+http://www.ncbi.nlm.nih.gov/pubmed/29172406
+http://doi.org/10.2337/diacare.27.10.2518
+http://www.ncbi.nlm.nih.gov/pubmed/15451933
+http://doi.org/10.2337/diacare.25.12.2335
+http://www.ncbi.nlm.nih.gov/pubmed/12453982
+http://doi.org/10.1097/00005768-200011000-00020
+http://www.ncbi.nlm.nih.gov/pubmed/11079527
+http://doi.org/10.1038/s41598-018-20677-7
+http://doi.org/10.1016/j.clinbiochem.2012.06.006
+http://doi.org/10.1016/j.jamda.2018.09.011
+http://doi.org/10.2147/CIA.S54644
+http://doi.org/10.2337/dc07-2316
+http://doi.org/10.4093/kdj.2010.34.2.101
+http://www.ncbi.nlm.nih.gov/pubmed/20548842
+http://doi.org/10.2337/diabetes.53.2.294
+http://doi.org/10.1097/00008483-200211000-00002
+http://www.ncbi.nlm.nih.gov/pubmed/12464825
+http://doi.org/10.2165/00007256-200131150-00002
+http://www.ncbi.nlm.nih.gov/pubmed/11735685
+http://doi.org/10.1016/j.bjpt.2017.06.004
+http://doi.org/10.1152/jappl.1998.84.4.1341
+http://doi.org/10.1111/j.1600-0838.2009.01084.x
+http://doi.org/10.14336/AD.2019.1012
+http://doi.org/10.1123/japa.21.1.71
+http://doi.org/10.1007/s40279-013-0088-z
+http://www.ncbi.nlm.nih.gov/pubmed/23955603
+http://doi.org/10.1002/14651858.CD002759.pub2
+http://www.ncbi.nlm.nih.gov/pubmed/19588334
+http://doi.org/10.3390/jcm7120480
+
+
+Int. J. Environ. Res. Public Health 2022, 19, 15009 12 of 12
+
+35. Fragala, M.S.; Cadore, E.L.; Dorgo, S.; Izquierdo, M.; Kraemer, W.J.; Peterson, M.D.; Ryan, E.D. Resistance training for older
+adults: Position statement from the national strength and conditioning association. J. Strength Cond. Res. 2019, 33, 2019–2052.
+[CrossRef] [PubMed]
+
+36. Yang, L.-J.; Wu, G.-H.; Yang, Y.-L.; Wu, Y.-H.; Zhang, L.; Wang, M.-H.; Mo, L.-Y.; Xue, G.; Wang, C.-Z.; Weng, X.-F. Nutrition,
+physical exercise, and the prevalence of sarcopenia in elderly residents in nursing homes in china. Med. Sci. Monit. 2019, 25,
+4390–4399. [CrossRef] [PubMed]
+
+37. Kim, S.; Kim, M.; Lee, Y.; Kim, B.; Yoon, T.Y.; Won, C.W. Calf circumference as a simple screening marker for diagnosing sarcopenia
+in older korean adults: The korean frailty and aging cohort study (kfacs). J. Korean Med. Sci. 2018, 33, e151. [CrossRef]
+
+38. Kawakami, R.; Murakami, H.; Sanada, K.; Tanaka, N.; Sawada, S.S.; Tabata, I.; Higuchi, M.; Miyachi, M. Calf circumference
+as a surrogate marker of muscle mass for diagnosing sarcopenia in japanese men and women. Geriatr. Gerontol. Int. 2015, 15,
+969–976. [CrossRef]
+
+http://doi.org/10.1519/JSC.0000000000003230
+http://www.ncbi.nlm.nih.gov/pubmed/31343601
+http://doi.org/10.12659/MSM.914031
+http://www.ncbi.nlm.nih.gov/pubmed/31189870
+http://doi.org/10.3346/jkms.2018.33.e151
+http://doi.org/10.1111/ggi.12377
+
+	Introduction 
+	Materials and Methods 
+	Study Design and Setting 
+	Patients 
+	Intervention 
+	Resistance Training Group 
+	Control Group 
+
+	Outcome Measures 
+	Biochemical Analysis 
+	Grip Strength 
+	Five Times Sit-to-Stand Test 
+	Muscle Mass 
+	Calf Circumference 
+	WHOQOL-BREF Taiwan Version 
+
+	Statistical Analysis 
+
+	Results 
+	Flow of Participants 
+	Effect of Intervention on HbA1c 
+	Effect of Intervention on the Lipid Profile 
+	Effect of Intervention on Grip Strength 
+	Effect of Intervention on the Five Times Sit-to-Stand Test 
+	Effect of Intervention on ASM and ASMI 
+	Effect of Intervention on Calf Circumference 
+	Effect of Intervention on the WHOQOL Scale 
+
+	Discussion 
+	Conclusions 
+	References
+

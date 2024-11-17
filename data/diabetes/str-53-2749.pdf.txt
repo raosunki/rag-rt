@@ -1,0 +1,1117 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stroke is available at www.ahajournals.org/journal/str
+
+Stroke
+
+Stroke. 2022;53:2749–2757. DOI: 10.1161/STROKEAHA.121.037775 September 2022  2749
+
+ 
+Correspondence to: W. David Strain, MD, University of Exeter Medical School, St Luke’s Campus, Heavitree Road, Exeter, EX1 2LU, United Kingdom. Email d.strain@
+exeter.ac.uk
+This article was sent to Shelagh Coutts, Guest Editor, for review by expert referees, editorial decision, and final disposition.
+Supplemental Material is available at https://www.ahajournals.org/doi/suppl/10.1161/STROKEAHA.121.037775.
+For Sources of Funding and Disclosures, see page 2755–2756.
+© 2022 The Authors. Stroke is published on behalf of the American Heart Association, Inc., by Wolters Kluwer Health, Inc. This is an open access article under the 
+terms of the Creative Commons Attribution License, which permits use, distribution, and reproduction in any medium, provided that the original work is properly cited.
+
+CLINICAL TRIAL
+
+Effects of Semaglutide on Stroke Subtypes 
+in Type 2 Diabetes: Post Hoc Analysis of the 
+Randomized SUSTAIN 6 and PIONEER 6
+W. David Strain , MD; Ofir Frenkel, MD; Martin A. James , FRCP; Lawrence A. Leiter , MD; Søren Rasmussen, PhD;  
+Peter M. Rothwell , FMedSci; Maria Sejersten Ripa , DMSc; Thomas C. Truelsen , TC, DMSc; Mansoor Husain , MD
+
+BACKGROUND: GLP-1 RA (glucagon-like peptide-1 receptor agonists), including semaglutide, may reduce stroke risk in people 
+with type 2 diabetes. This post hoc analysis examined the subcutaneous and oral semaglutide effects, versus placebo, on 
+stroke and its subtypes in people with type 2 diabetes at high cardiovascular risk.
+
+METHODS: SUSTAIN 6 (Trial to Evaluate Cardiovascular and Other Long-Term Outcomes With Semaglutide in 
+Subjects With Type 2 Diabetes) and PIONEER 6 (Peptide Innovation for Early Diabetes Treatment) were randomized 
+cardiovascular outcome trials of subcutaneous and oral semaglutide in people with type 2 diabetes at high 
+cardiovascular risk, respectively. Time to first stroke and stroke subtypes were analyzed using a Cox proportional 
+hazards model stratified by trial with pooled treatment as a factor. The impact of prior stroke, prior myocardial 
+infarction or stroke, age, sex, systolic blood pressure, estimated glomerular filtration rate, and prior atrial fibrillation 
+on treatment effects was assessed using interaction P values. Risk of major adverse cardiovascular event was 
+analyzed according to prior stroke.
+
+RESULTS: A total of 106/6480 participants had a stroke (1.0 event/100 patient-years of observation [PYO]). 
+Semaglutide reduced incidence of any stroke versus placebo (0.8 versus 1.1 events/100 PYO; hazard ratio, 0.68 
+[95% CI, 0.46–1.00]; P=0.048), driven by significant reductions in risk of small-vessel occlusion (0.3 versus 0.7 
+events/100 PYO; hazard ratio, 0.51 [95% CI, 0.29–0.89]; P=0.017). Hazard ratios for risk of any stroke with 
+semaglutide versus placebo were 0.60 (95% CI, 0.37–0.99; 0.5 versus 0.9 events/100 PYO) and 0.89 (95% CI, 
+0.47–1.69; 2.7 versus 3.0 events/100 PYO) in those without and with prior stroke, respectively. Except for prior 
+atrial fibrillation (Pinteraction=0.025), no significant interactions were observed between treatment effects on risk of any 
+stroke and subgroups investigated, or between treatment effects on risk of major adverse cardiovascular event and 
+prior stroke (Pinteraction >0.05 for all).
+
+CONCLUSIONS: Semaglutide reduced incidence of any first stroke during the trials versus placebo in people with type 2 
+diabetes at high cardiovascular risk, primarily driven by small-vessel occlusion prevention. Semaglutide treatment, versus 
+placebo, lowered the risk of stroke irrespective of prior stroke at baseline.
+
+REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT01720446 and NCT02692716.
+
+GRAPHIC ABSTRACT: A graphic abstract is available for this article.
+
+Key Words: atrial fibrillation ◼ blood pressure ◼ myocardial infarction ◼ peptides ◼ prevalence
+
+mailto:d.strain@exeter.ac.uk
+mailto:d.strain@exeter.ac.uk
+https://www.ahajournals.org/doi/suppl/10.1161/STROKEAHA.121.037775
+https://creativecommons.org/licenses/by/4.0/
+https://orcid.org/0000-0002-6826-418X
+https://orcid.org/0000-0001-6065-6018
+https://orcid.org/0000-0002-1040-6229
+https://orcid.org/0000-0001-9739-9211
+https://orcid.org/0000-0002-5491-6327
+https://orcid.org/0000-0001-6648-7761
+https://orcid.org/0000-0002-3740-6739
+https://www.clinicaltrials.gov
+http://dx.doi.org/10.1161/STROKEAHA.121.037775
+
+
+CL
+IN
+
+IC
+AL
+
+ T
+RI
+
+AL
+Strain et al Effects of Semaglutide on Stroke Subtypes in T2D
+
+2750  September 2022 Stroke. 2022;53:2749–2757. DOI: 10.1161/STROKEAHA.121.037775
+
+As the prevalence of diabetes is rapidly increasing, the 
+number of people with complications, including stroke, 
+is expected to increase.1 Epidemiological studies show 
+
+that diabetes increases the risk of stroke by ≈2-fold.2 The 
+prevalence of stroke was 18.6% in people with type 2 
+diabetes (T2D) in 2015.3 People with diabetes are more 
+likely to have a stroke at a younger age, with worse out-
+comes and higher risk for recurrence compared with those 
+without diabetes.4,5 The 10-year recurrence rate of stroke 
+was reported to be 11.2% in people who had a stroke,6 
+and those with diabetes had 45% to 60% higher risk of 
+stroke recurrence than those without diabetes.7,8 This sug-
+gests that diabetes is an independent risk factor for stroke 
+recurrence.8 Among the subtypes of strokes, cerebral small 
+vessel disease is more common in people with T2D, com-
+pared with those without T2D. Thus, prevention of stroke, 
+including all its subtypes, should be a major concern in the 
+clinical management of people with diabetes.
+
+Accumulating evidence suggests that GLP-1 RAs 
+(glucagon-like peptide-1 receptor agonists) may reduce 
+the risk of stroke beyond their glycemic impact in people 
+with T2D.9–14 Currently, there are 5 available subcutane-
+ous (SC) GLP-1 RAs (exenatide, lixisenatide, liraglutide, 
+dulaglutide, and semaglutide)15,16 and one oral formu-
+lation (once-daily oral semaglutide).15 In a large meta-
+analysis of recent cardiovascular outcome trials, GLP-1 
+RAs were reported to reduce the risk of stroke signifi-
+cantly in people with T2D compared with placebo (haz-
+ard ratio [HR], 0.83 [95% CI, 0.76–0.92]; P=0.0002).14 
+The American Heart Association/American Stroke Asso-
+ciation as well as endocrinology and cardiology guide-
+lines recommend the use of GLP-1 RAs with evidence 
+of cardiovascular benefit for individuals at high/very 
+high cardiovascular risk regardless of glycemic control 
+
+to reduce the risk of future vascular events.7,17,18 Despite 
+the short duration of the trials, semaglutide has dem-
+onstrated a consistent reduction in major adverse car-
+diovascular events (MACEs) in the SUSTAIN 6 (Trial to 
+Evaluate Cardiovascular and Other Long-Term Outcomes 
+With Semaglutide in Subjects With Type 2 Diabetes), with 
+once-weekly SC semaglutide,19 and the PIONEER (Pep-
+tide Innovation for Early Diabetes Treatment) 6 trial, with 
+once-daily oral semaglutide.20
+
+The present post hoc analysis, therefore, aimed 
+to examine the effect of semaglutide, irrespective of 
+whether administered subcutaneously or orally, on stroke 
+risk, stratified by subtype, in people with T2D at high car-
+diovascular risk, using pooled data from the SUSTAIN 6 
+and PIONEER 6 trials.
+
+METHODS
+De-identified individual participant data and redacted Clinical 
+Study Report will be available according to Novo Nordisk data 
+sharing commitments.
+
+Trial Overview
+SUSTAIN 6 (NCT01720446) and PIONEER 6 (NCT02692716) 
+were global, randomized, phase 3 trials assessing the cardio-
+vascular safety of once-weekly SC and once-daily oral sema-
+glutide versus placebo, respectively.19,20 People with T2D aged 
+≥50 years with established cardiovascular disease (myocar-
+dial infarction, history of symptomatic coronary heart disease, 
+coronary, carotid or peripheral arterial revascularization, stroke, 
+transient ischemic attacks, >50% stenosis of coronary, carotid 
+or lower extremities arteries), chronic heart failure or chronic 
+kidney disease, or ≥60 years with cardiovascular risk factors 
+were included in both trials.19,20 Stroke was defined as an acute 
+episode of neurological dysfunction caused by focal or global 
+brain, spinal cord, or retinal vascular injury, and transient isch-
+emic attacks (as used in the inclusion criteria of both trials) was 
+defined as a transient (<24 hours) episode of neurological dys-
+function caused by focal brain, spinal cord, or retinal ischemia, 
+without acute infarction.19 Fatal and nonfatal strokes were adju-
+dicated by an independent adjudication committee.19,20 Detailed 
+protocols and trial-specific flow diagrams can be found in the 
+primary SUSTAIN 6 and PIONEER 6 publications.19,20
+
+Both SUSTAIN 6 and PIONEER 6 were approved by ethics 
+committees and institutional review boards and were conducted 
+according to the principles of the Declaration of Helsinki. All 
+participants provided written informed consent before partici-
+pation in trial-related activities.19,20
+
+Post Hoc Analysis
+In this exploratory post hoc analysis, the effects of semaglutide 
+versus placebo on time to first occurrence of any type of stroke 
+(fatal and nonfatal; transient ischemic attacks were not included) 
+and stroke subtypes, including ischemic and hemorrhagic strokes, 
+as well as unknown subtypes‚ were investigated. Based on the 
+Trial of ORG 10172 in Acute Stroke Treatment criteria,21 ischemic 
+strokes (positively adjudicated events) were further sub-classified 
+into (1) large artery atherosclerosis, (2) cardioembolism, (3) 
+
+Nonstandard Abbreviations and Acronyms
+
+AF atrial fibrillation
+GLP-1 RA  glucagon-like peptide-1 receptor 
+
+agonist
+HR hazard ratio
+MACE major adverse cardiovascular event
+PIONEER 6  Peptide Innovation for Early Diabetes 
+
+Treatment
+PYO patient-years of observation
+REWIND  Researching Cardiovascular Events 
+
+With a Weekly Incretin in Diabetes
+SBP systolic blood pressure
+SC subcutaneous
+SUSTAIN 6  Trial to Evaluate Cardiovascular and 
+
+Other Long-Term Outcomes With 
+Semaglutide in Subjects With Type 2 
+Diabetes
+
+T2D type 2 diabetes
+
+
+
+CLINICAL TRIAL
+Strain et al Effects of Semaglutide on Stroke Subtypes in T2D
+
+Stroke. 2022;53:2749–2757. DOI: 10.1161/STROKEAHA.121.037775 September 2022  2751
+
+small-vessel occlusion, (4) stroke of other determined cause, and 
+(5) stroke of undetermined cause, by an external blinded stroke 
+physician. In a subgroup analysis, effects of treatment on time 
+to occurrence of any stroke were determined in relation to prior 
+stroke (yes/no), prior myocardial infarction or stroke (yes or no), 
+prior atrial fibrillation (AF; yes or no), age (<75 or ≥75 years), sex 
+(female or male), systolic blood pressure (SBP; <120, ≥120 and 
+≤140, or >140 mm Hg), and estimated glomerular filtration rate 
+(<60 or ≥60 mL/min/1.73 m2). Some of these subgroups were 
+related to the prespecified subgroup analyses for time to first 
+MACE in the primary publications19,20 while the others, including 
+prior stroke, prior AF‚ and SBP, were chosen as they were rel-
+evant end points related to stroke. The impact of prior stroke on 
+the effect of semaglutide versus placebo on subsequent MACE 
+within the trials was also analyzed. Furthermore, a dose-response 
+analysis was performed to evaluate the impact of individual doses 
+(0.5 mg SC, 1.0 mg SC, and 14 mg oral) of semaglutide versus 
+placebo on time to first occurrence of any stroke. A CONSORT 
+checklist of the current post hoc analysis has been included in the 
+Supplemental Material.
+
+Statistical Analysis
+Data from SUSTAIN 6 and PIONEER 6 were pooled in this 
+analysis, except for the dose-response analysis, where data 
+for individual doses of semaglutide were used, as well as the 
+Aalen-Johansen plots when they were analyzed for individual 
+SUSTAIN 6 and PIONEER 6 trials.
+
+The Aalen-Johansen estimator, a nonparametric estimator of 
+cumulative incidence, was used to calculate the cumulative inci-
+dence rates for time to first stroke during the trials, hereby adjust-
+ing for all-cause death as a competing risk.22 This analysis was 
+performed with data from SUSTAIN 6 and PIONEER 6, pooled 
+and individually. A Cox proportional hazards model stratified by 
+trial with treatment (pooled semaglutide) as a factor was used 
+to examine treatment effects for time to first occurrence of an 
+event. A trial-specific analysis was also performed to investigate 
+whether this treatment effect was homogenous across SUSTAIN 
+6 and PIOPNEER 6. For the subgroup analyses, subgroups were 
+added as a categorical fixed factor and as an interaction term with 
+treatment. Potential heterogeneity of treatment effect across the 
+subgroups according to prior stroke, prior myocardial infarction or 
+stroke, prior AF, age, sex, SBP, and estimated glomerular filtration 
+rate on time to first occurrence of any stroke during the trials was 
+assessed using interaction P values. All analyses were performed 
+using Statistical Analysis System version 9.4 (SAS/STAT 15.1). 
+A P value <0.05 was considered as statistically significant. No 
+adjustment for multiple testing was performed, and no direction of 
+any subgroup-treatment effect interaction had been prespecified.
+
+Role of the Funding Source
+The sponsor participated in the design and management of this 
+post hoc analysis, analysis, and interpretation of data. Three of 
+the authors of this article are employees of the sponsor and, as 
+such, were involved in the preparation, review, and approval of the 
+
+Table. Baseline Characteristics and CV Medications for People With and Without Prior Stroke, Based on Data From the SUS-
+TAIN 6 and PIONEER 6 Trials
+
+Baseline characteristic
+
+With stroke in the trials Without stroke in the trials
+
+Pooled semaglu-
+tide (n=43)
+
+Placebo 
+(n=63)
+
+Total  
+(n=106)
+
+Pooled semaglu-
+tide (n=3196)
+
+Placebo 
+(n=3178)
+
+Total 
+(n=6374)
+
+Age, y 66.8±8.0 65.3±7.4 65.9±7.6 65.2±7.2 65.5±7.4 65.4±7.3
+
+Male, n (%) 27 (62.8) 40 (63.5) 67 (63.2) 2070 (64.8) 2041 (64.2) 4111 (64.5)
+
+BMI, kg/m2 32.1±5.4 32.5±6.6 32.4±6.1 32.6±6.4 32.5±6.3 32.6±6.4
+
+Diabetes duration, y 15.1±9.1 15.5±7.9 15.4±8.4 14.4±8.4 14.3±8.3 14.4±8.3
+
+HbA1c, % 8.7±1.5 8.6±1.5 8.6±1.5 8.4±1.5 8.4±1.6 8.4±1.6
+
+SBP, mm Hg 144.5±19.8 144.5±21.1 144.5±20.5 135.6±17.5 135.3±17.1 135.4±17.3
+
+DBP, mm Hg 79.7±10.4 80.1±11.5 79.9±11.0 76.5±10.1 76.5±10.0 76.5±10.0
+
+Prior stroke, n (%) 17 (39.5) 21 (33.3) 38 (35.8) 346 (10.8) 391 (12.3) 737 (11.6)
+
+Prior AF, n (%) 7 (16.3) 1 (1.6) 8 (7.5) 187 (5.9) 178 (5.6) 365 (5.7)
+
+Established cardiovascular disease, n (%) 40 (93.0) 53 (84.1) 93 (87.7) 2663 (83.3) 2674 (84.1) 5337 (83.7)
+
+eGFR (CKD-EPI), mL/min/1.73/m2 65.9±22.3 71.4±25.1 69.2±24.0 75.1±21.8 75.2±22.1 75.1±21.9
+
+UACR, geometric mean (% coefficient of 
+variation)
+
+69.4 (685.9) 69.3 (2356) 69.3 (1395) 24.3 (704.1) 23.0 (743.6) 23.6 (723.3)
+
+Baseline cardiovascular medications, n (%)
+
+Antihypertensive therapy 38 (88.4) 61 (96.8) 99 (93.4) 3015 (94.3) 2966 (93.3) 5981 (93.8)
+
+Diuretics 20 (46.5) 25 (39.7) 45 (42.5) 1225 (38.3) 1251 (39.4) 2476 (38.8)
+
+Lipid-lowering drugs 32 (74.4) 46 (73.0) 78 (73.6) 2553 (79.9) 2574 (81.0) 5127 (80.4)
+
+Antiplatelet treatment 27 (62.8) 53 (84.1) 80 (75.5) 2209 (69.1) 2267 (71.3) 4476 (70.2)
+
+Antithrombotic medications 9 (20.9) 3 (4.8) 12 (11.3) 226 (7.1) 205 (6.5) 431 (6.8)
+
+Values are mean±SD, unless otherwise stated. AF indicates atrial fibrillation; BMI, body mass index; CKD-EPI, Chronic Kidney Disease Epidemiology Collaboration; 
+CV, cardiovascular; DBP, diastolic blood pressure; eGFR, estimated glomerular filtration rate; HbA1c, glycated hemoglobin; PIONEER 6, Peptide Innovation for Early 
+Diabetes Treatment; SBP, systolic blood pressure; SUSTAIN 6, Trial to Evaluate Cardiovascular and Other Long-Term Outcomes With Semaglutide in Subjects With Type 
+2 Diabetes; UACR, urine albumin-to-creatinine ratio.
+
+https://www.ahajournals.org/doi/suppl/10.1161/STROKEAHA.121.037775
+
+
+CL
+IN
+
+IC
+AL
+
+ T
+RI
+
+AL
+Strain et al Effects of Semaglutide on Stroke Subtypes in T2D
+
+2752  September 2022 Stroke. 2022;53:2749–2757. DOI: 10.1161/STROKEAHA.121.037775
+
+article. All authors had full access to all the data in the analysis and 
+had final responsibility for the decision to submit for publication.
+
+RESULTS
+Baseline Characteristics
+In total, SUSTAIN 6 and PIONEER 6 included 6480  
+(semaglutide, n=3239; placebo, n=3241) participants, of 
+whom 106 had a stroke and 6374 did not have a stroke 
+during the trials. The mean age of people (±SD) with-
+out stroke was 65.4±7.3 years, with the majority of them 
+being male (64.5%), and the mean duration of diabetes 
+was 14.4±8.3 years (Table). The baseline characteristics of 
+people with stroke during the trials treated with semaglutide 
+(n=43) were similar to those treated with placebo (n=63; 
+Table). However, prior stroke (39.5% versus 33.3%) and 
+established cardiovascular disease (93.0% versus 84.1%) 
+were higher in the semaglutide group compared with the 
+placebo group among these individuals (Table).
+
+Time to First Stroke and Stroke Subtypes
+The incident rate of any first stroke during the tri-
+als was 1.0 event/100 patient-years of observation 
+
+[PYO]). Administration of semaglutide reduced the risk 
+of any first stroke in the trials compared with placebo 
+(incidence rate: 0.8 versus 1.1 events per 100 PYO; 
+HR, 0.68 [95% CI, 0.46–1.00]; P=0.048; Figure 1), 
+with no difference in effect between stroke subtypes: 
+ischemic stroke (incidence rate: 0.7 versus 1.0 events 
+per 100 PYO; HR, 0.72, [95% CI, 0.47–1.08]; P=0.11) 
+and hemorrhagic stroke (incidence rate: 0.1 versus 0.1 
+events per 100 PYO; HR, 0.50 [95% CI, 0.12–1.99]; 
+P=0.32; Figure 2).
+
+Among the Trial of ORG 10172 in Acute Stroke Treat-
+ment subcategories, small vessel occlusion was the only 
+subcategory to demonstrate a significant treatment dif-
+ference with semaglutide versus placebo (incidence rate: 
+0.3 versus 0.7 events per 100 PYO; HR, 0.51 [95% CI, 
+0.29–0.89]; P=0.017; Figure 2).
+
+The effects on risk of any first stroke in the trials with 
+semaglutide versus placebo were consistent in SUS-
+TAIN 6 (incidence rate: 0.9 versus 1.4 events per 100 
+PYO; HR, 0.65 [95% CI, 0.41–1.03]; P=0.07; Figure 
+S1) and PIONEER 6 (incidence rate: 0.6 versus 0.8 
+events per 100 PYO; HR, 0.76 [95% CI, 0.37–1.56]; 
+P=0.45; Figure S2). These were also consistent across 
+the doses used in SUSTAIN 6 (semaglutide 1.0 mg SC 
+versus placebo, incidence rate: 0.8 versus 1.4 events 
+
+Time since randomization (years)
+0 0.5 1.0 1.5 2.0 2.5
+
+0.0
+
+0.4
+
+0.8
+
+1.2
+
+2.4
+
+2.8
+
+Pe
+op
+
+le
+ w
+
+ith
+ a
+
+n 
+ev
+
+en
+t (
+
+%
+)
+
+1.6
+
+2.0
+
+HR: 0.68, 95% CI 0.46–1.00, P =0.048
+
+Semaglutide-adjusted Placebo-adjusted
+
+Figure 1. Aalen-Johansen plots for time to first occurrence of any stroke* with the pooled semaglutide versus placebo in 
+people with type 2 diabetes (T2D) at high cardiovascular (CV) risk, based on pooled data from the SUSTAIN 6 (Trial to Evaluate 
+Cardiovascular and Other Long-Term Outcomes With Semaglutide in Subjects With Type 2 Diabetes) and PIONEER 6 (Peptide 
+Innovation for Early Diabetes Treatment) trials.
+*Included fatal and nonfatal strokes. The cumulative incidence rates for time to first stroke were calculated using Aalen-Johansen method, 
+adjusting for all-cause death as a competing risk. The hazard ratio was estimated from a Cox regression model stratified by trial with treatment 
+(pooled semaglutide vs placebo) as a factor. HR indicates hazard ratio.
+
+https://www.ahajournals.org/doi/suppl/10.1161/STROKEAHA.121.037775
+https://www.ahajournals.org/doi/suppl/10.1161/STROKEAHA.121.037775
+https://www.ahajournals.org/doi/suppl/10.1161/STROKEAHA.121.037775
+
+
+CLINICAL TRIAL
+Strain et al Effects of Semaglutide on Stroke Subtypes in T2D
+
+Stroke. 2022;53:2749–2757. DOI: 10.1161/STROKEAHA.121.037775 September 2022  2753
+
+per 100 PYO; HR, 0.56 [95% CI, 0.30–1.03]; P=0.06, 
+and semaglutide 0.5 mg SC versus placebo, incidence 
+rate: 1.0 versus 1.4 events per 100 PYO; HR, 0.74 
+[95% CI, 0.43–1.30]; P=0.30).
+
+Subgroup Analysis
+Data were analyzed using several different baseline 
+characteristics (such as prior stroke [yes/no], prior myo-
+cardial infarction or stroke [yes or no], prior AF [yes or 
+no], age [<75 or ≥75 years], sex [female or male], SBP 
+[<120, ≥120 and ≤140, or >140 mm Hg], and estimated 
+glomerular filtration rate [<60 or ≥60 mL/min/1.73 m2]). 
+In the subgroup analysis, the risk of any stroke was gen-
+erally lower in the semaglutide group compared with pla-
+cebo, except for those with prior AF and those aged ≥75 
+years (Figure 3). Of note, the incidence of any stroke 
+was nominally reduced in the semaglutide group with-
+out history of prior stroke (incidence rate: 0.5 versus 0.9 
+events per 100 PYO; HR, 0.60 [95% CI, 0.37–0.99]) 
+compared with placebo (Figure 3). However, there were 
+no significant interactions between the treatment effects 
+on the risk of any stroke and the investigated subgroups, 
+except for prior AF (Pinteraction=0.025), although the num-
+ber of events was very low in the prior AF group (7 ver-
+sus 1 event; Figure 3).
+
+Time to First MACE
+There were no significant interactions between treatment 
+effects on risk of MACE and the prior stroke subgroups 
+(Pinteraction=0.56). With semaglutide versus placebo, the inci-
+dence rate of MACE was significantly lower among people 
+without prior stroke (2.8 versus 3.8 events per 100 PYO; 
+HR, 0.74 [95% CI, 0.59–0.92]; P=0.007) and numerically 
+lower in those with prior stroke (5.2 versus 6.0 events per 
+100 PYO; HR, 0.86 [95% CI, 0.54–1.36]; P=0.52).
+
+DISCUSSION
+In this post hoc analysis of pooled data from the SUS-
+TAIN 6 and PIONEER 6 trials, semaglutide treatment 
+reduced the risk of any stroke in people with T2D at high 
+cardiovascular risk compared with placebo. Furthermore, 
+semaglutide reduced the risk of MACE regardless of 
+prior stroke. Overall, semaglutide showed an encourag-
+ing trend for stroke prevention regardless of stroke his-
+tory and other baseline characteristics.
+
+Recent studies have also suggested a beneficial role 
+of GLP-1 RAs in the prevention of stroke, MACE, and 
+cardiovascular mortality.23 Consistent with the current 
+post hoc analysis, a recent systematic review that evalu-
+ated the composite outcomes of MACE reported that 
+
+Large artery disease
+
+Ischemic stroke*
+
+Cardioembolic
+
+Small vessel occlusion
+
+Other determined aetiology
+
+TOAST etiology undetermined†
+
+Hemorrhagic stroke
+
+Stroke subtype unknown
+
+39 (1.2)
+
+43 (1.3)
+
+12 (0.4)
+
+7 (0.2)
+
+19 (0.6)
+
+0 (0.0)
+
+3 (0.1)
+
+1 (0.0)
+
+Any stroke
+
+1 (0.0)
+
+Semaglutide
+ (N=3239)
+
+n (%)
+
+54 (1.7)
+
+63 (1.9)
+
+12 (0.4)
+
+4 (0.1)
+
+37 (1.1)
+
+0 (0.0)
+
+6 (0.2)
+
+3 (0.1)
+
+1 (0.0)
+
+Placebo
+(N=3241)
+
+0.72 (0.47−1.08)
+
+0.68 (0.46−1.00)
+
+1.00 (0.45−2.22)
+
+1.74 (0.51−5.95)
+
+0.51 (0.29−0.89)
+
+N/A
+
+0.50 (0.12−1.99)
+
+0.33 (0.03−3.20)
+
+1.00 (0.06−15.9)
+
+HR (95% CI)
+
+0.11
+
+0.048
+
+0.99
+
+0.38
+
+0.017
+
+N/A
+
+0.32
+
+0.34
+
+1.00
+
+P-value
+
+Favors semaglutide Favors placebo
+HR 95% CI
+
+0.01 1 100
+
+Figure 2. Effect of semaglutide versus placebo on risk of any stroke and stroke subtypes in people with type 2 diabetes (T2D) 
+at high cardiovascular (CV) risk, based on pooled data from the SUSTAIN 6 (Trial to Evaluate Cardiovascular and Other Long-
+Term Outcomes With Semaglutide in Subjects With Type 2 Diabetes) and PIONEER 6 (Peptide Innovation for Early Diabetes 
+Treatment) trials.
+Data for any stroke and those subtypes based on the TOAST (Trial of ORG 10172 in Acute Stroke Treatment) criteria have been included 
+(transient ischemic attacks were not included in this analysis). Any stroke (including fatal and nonfatal strokes) and the 3 main subtypes 
+were confirmed by the trial-specific Event Adjudication Committee. A Cox proportional hazards model stratified by trial with treatment (pooled 
+semaglutide vs placebo) as a factor was used to examine treatment effects. The trial-specific analysis showed that the treatment effects were 
+homogenous across SUSTAIN 6 (hazard ratio [HR], 0.65 [95% CI, 0.41–1.03]) and PIONEER 6 (HR, 0.76 [95% CI, 0.37–1.56]), Pinteraction=0.73. 
+*Ischemic strokes were subcategorized according to TOAST criteria,21 by an external, blinded reviewer. †Included patients with ≥2 causes of 
+stroke, undetermined cause despite extensive evaluation, and cause of stroke not known due to cursory evaluation. n indicates number of patients 
+with specified stroke type; N, number of patients in the treatment group; and N/A, not applicable.
+
+
+
+CL
+IN
+
+IC
+AL
+
+ T
+RI
+
+AL
+Strain et al Effects of Semaglutide on Stroke Subtypes in T2D
+
+2754  September 2022 Stroke. 2022;53:2749–2757. DOI: 10.1161/STROKEAHA.121.037775
+
+GLP-1 RAs were associated with significant reduction 
+in the relative risk of stroke (as an individual component 
+of MACE; HR, 0.86 [95% CI, 0.77–0.97]; P=0.012).24 Of 
+note, in the current study, the significant stroke benefit 
+was driven by a significant reduction in risk of small ves-
+sel occlusion with semaglutide versus placebo.
+
+Data analyzed from the REWIND (Researching Car-
+diovascular Events With a Weekly Incretin in Diabetes) 
+trial showed that dulaglutide reduced the risk of isch-
+emic stroke (HR, 0.75 [CI, 0.59–0.94]; P=0.012) but not 
+hemorrhagic stroke (HR, 1.05 [CI, 0.55–1.99]; P=0.89), 
+with no effect on stroke severity.25 However, in the cur-
+rent post hoc analysis, although semaglutide reduced the 
+risk of any stroke, there were too few hemorrhagic stroke 
+outcomes to determine any specific effect.
+
+The effects on risk of any stroke with semaglutide 
+versus placebo were consistent in SUSTAIN 6 and 
+
+PIONEER 6, and across the doses used in these trials 
+(weekly 0.5 mg [SC], 1.0 mg [SC], or daily 14 mg [oral]). 
+The pharmacokinetic profiles of SC and oral semaglutide 
+are comparable, with similar exposure-response rela-
+tionships noted for efficacy and tolerability irrespective 
+of the route of administration.19,20 The outcomes noted 
+in SUSTAIN 6 and PIONEER 6 support the use of either 
+route due to the similar clinical benefits and cardiovas-
+cular effects following oral or SC administration.19,20
+
+The interaction between the effects of semaglutide 
+on participants with and without AF is an interesting 
+observation, given that previous cardiovascular outcome 
+trials have reported no differences in the AF incidence in 
+people receiving GLP-1 RAs compared with placebo.26 
+This finding must be interpreted with caution given that 
+this was based on only 8 events in those with a past his-
+tory of AF.
+
+Figure 3. Effect of semaglutide versus placebo on risk of any stroke stratified by prior stroke, prior myocardial infarction (MI) or 
+stroke, age, sex, systolic blood pressure (SBP), and estimated glomerular filtration rate (eGFR) in people with type 2 diabetes (T2D) 
+at high cardiovascular (CV) risk, based on pooled data from the (Trial to Evaluate Cardiovascular and Other Long-Term Outcomes 
+With Semaglutide in Subjects With Type 2 Diabetes) and PIONEER 6 (Peptide Innovation for Early Diabetes Treatment) trials.
+A Cox proportional hazards model stratified by trial with treatment (pooled semaglutide vs placebo) by subgroups as a fixed factor was used to 
+examine treatment effects across the subgroups. AF indicates atrial fibrillation; and HR, hazard ratio.
+
+
+
+CLINICAL TRIAL
+Strain et al Effects of Semaglutide on Stroke Subtypes in T2D
+
+Stroke. 2022;53:2749–2757. DOI: 10.1161/STROKEAHA.121.037775 September 2022  2755
+
+There are several potential mechanisms for how GLP-1 
+RAs may contribute to reduce the risk of stroke in people 
+with T2D. Although lowering of HbA1c by GLP-1 RAs 
+may mediate their effect on cardiovascular outcomes,27 
+GLP-1 RAs can deliver a positive impact on risk of stroke 
+directly, as they exert beneficial effects on smooth muscle 
+cell, endothelial cell, and immune cell function through 
+GLP-1 receptor-dependent and -independent path-
+ways.23 Given the speed of divergence of the curves, it is 
+unlikely that the pleiotropic effects of GLP-1 RAs, includ-
+ing reduction of SBP (by 2 to 3 mm Hg) and low-density 
+lipoprotein cholesterol (by −0.1 to −0.2 mmol/L), along 
+with significant weight loss,28 would be responsible for 
+the benefit. Treatment with GLP-1 RAs is also consid-
+ered to exert a neuroprotective effect and may reduce 
+the risk of ischemic strokes.29 A recent systematic review 
+has also reported the effects of GLP-1 RAs in reduc-
+ing ischemic-reperfusion injury in animal models of acute 
+ischemic stroke.30 GLP-1 RAs improve neuronal survival, 
+reducing infarct size by up to 75% in rat models of tran-
+sient middle cerebral artery occlusion.30 GLP-1 RAs also 
+generally increase microvascular recruitment and cere-
+bral blood flow, and reduce inflammation, vascular smooth 
+muscle proliferation, oxidative stress‚ carotid intimal-
+media thickness and other markers of atherosclerosis, 
+thereby affecting both small and large blood vessels.30,31 
+While these mechanisms are likely to explain the impact 
+of semaglutide on small vessel strokes, it is possible that 
+there were too few events of large artery disease to allow 
+any significant effects to be measured.
+
+The safety of semaglutide has been studied in a num-
+ber of phase 3 trials—semaglutide was associated with 
+fewer serious adverse events versus placebo, although 
+more patients discontinued semaglutide due to adverse 
+events, mainly gastrointestinal.32,33
+
+This present study had several limitations. First, the 
+study was an exploratory post hoc analysis, and some 
+baseline characteristics were not protected by the trial 
+randomization, resulting in heterogeneous subgroups. 
+This type of analysis is only hypothesis-forming, and 
+those hypotheses will need to be examined in dedicated 
+trials. Second, due to the low number of people within 
+the subgroups of interest and limited number of events, 
+there is limited statistical power to determine the effects 
+of semaglutide. Further studies with larger patient popu-
+lations are necessary to establish the specific effects of 
+semaglutide, such as any differential effects in the pri-
+mary and secondary prevention of stroke‚ and examine 
+our findings conclusively.
+
+CONCLUSIONS
+The present post hoc analysis revealed that sema-
+glutide reduced the risk of any stroke compared with 
+placebo in people with T2D at high cardiovascular 
+risk, an effect that appeared to be mediated mainly 
+
+through a significant reduction in risk of small ves-
+sel occlusion. Compared with placebo, treatment with 
+semaglutide lowered the risk of stroke irrespective of 
+prior stroke.
+
+ARTICLE INFORMATION
+Received November 9, 2021; final revision received March 1, 2022; accepted 
+April 1, 2022.
+
+Presented in part at the European Society of Cardiology Congress, virtual, 
+August 29–September 1, 2020, and the 56th Annual Meeting of the European 
+Association for the Study of Diabetes, virtual, September 21–25, 2020.
+
+Affiliations
+University of Exeter Medical School, St Luke’s Campus, United Kingdom 
+(W.D.S., M.A.J.). Academic Department of Healthcare for Older People, Royal 
+Devon and Exeter NHS Foundation Trust, United Kingdom (W.D.S., M.A.J.). 
+Novo Nordisk A/S, Søborg, Denmark (O.F., S.R., M.S.R.). Li Ka Shing Knowl-
+edge Institute, St Michael’s Hospital (L.A.L.) and Ted Rogers Centre for Heart 
+Research (M.H.), University of Toronto, ON, Canada. Wolfson Centre for 
+Prevention of Stroke and Dementia, Nuffield Department of Clinical Neu-
+rosciences, John Radcliffe Hospital, University of Oxford, United Kingdom 
+(P.M.R.). Department of Neurology, University of Copenhagen, Rigshospitalet, 
+Denmark (T.C.T.).
+
+Acknowledgments
+We thank all trial personnel and participants. We contributed significantly to 
+the design and conduct of the study and acquisition of clinical data. Drs Strain 
+and Rasmussen verified the underlying data, and Dr Rasmussen performed 
+the statistical analyses. All authors reviewed and interpreted the data and were 
+involved in drafting and critically revising the article. Ellen Margo Hengeveld, of 
+Novo Nordisk, also kindly reviewed the article. The corresponding author had 
+final responsibility for the decision to submit for publication. All authors ap-
+proved the final version of the article and take full responsibility for the content. 
+De-identified individual participant data and redacted Clinical Study Report 
+will be available according to Novo Nordisk data sharing commitments. The 
+study protocols of the SUSTAIN 6 (Trial to Evaluate Cardiovascular and Other 
+Long-Term Outcomes With Semaglutide in Subjects With Type 2 Diabetes) and 
+PIONEER 6 (Peptide Innovation for Early Diabetes Treatment) trials are pub-
+lished with the primary publications. The data are available permanently after 
+research completion, and approval of product and product use in both the EU 
+and United States. Data will be shared with bona fide researchers submitting 
+a research proposal requesting access to data and for use as approved by the 
+Independent Review Board according to the IRB Charter (see novonordisk-
+trials.com). Access request proposal form and access criteria can be found at 
+novonordisk-trials.com. The data will be made available on a specialized SAS 
+data platform.
+
+Sources of Funding
+This study was funded by Novo Nordisk A/S (Søborg, Denmark). Writing and edi-
+torial assistance was provided by Jin Heppell, PhD, and Izabel James‚ MBBS‚ of 
+Ashfield MedComms, funded by Novo Nordisk A/S (Søborg, Denmark).
+
+Disclosures
+Dr Strain has received speaker honoraria, conference sponsorship, and un-
+restricted educational grants from, and/or attended meetings sponsored by, 
+AstraZeneca, Bayer, Eli Lilly, Janssen, Merck, Napp, Novartis, Novo Nordisk, 
+Sanofi Aventis, and Takeda. Dr Strain is supported by the National Institute for 
+Health and Care Research (NIHR) Exeter Clinical Research Facility. The views 
+expressed in this publication are those of the authors and not necessarily those 
+of the NIHR Exeter Clinical Research Facility, the NHS, the NIHR or the De-
+partment of Health in England. Dr Frenkel is a Novo Nordisk employee and 
+stockholder. Previous employment at Roche Pharmaceuticals. Dr James has 
+received honoraria and support for conference expenses from Daiichi-Sankyo, 
+Amgen, Portola, and Medtronic. Dr Leiter has received honoraria for advisory 
+board participation from, and has provided continuing medical education on 
+behalf of, AstraZeneca, Bayer, Boehringer Ingelheim, Eli Lilly, Janssen, Merck, 
+Novo Nordisk, Pfizer, Sanofi, and Servier; and has received research grants from 
+AstraZeneca, Bayer, Boehringer Ingelheim, Eli Lilly, Lexicon, Novo Nordisk, and 
+Sanofi. Dr Rasmussen is a Novo Nordisk employee and stockholder. Dr Rothwell 
+has received honoraria for advisory board or trial committee participation from 
+
+
+
+CL
+IN
+
+IC
+AL
+
+ T
+RI
+
+AL
+Strain et al Effects of Semaglutide on Stroke Subtypes in T2D
+
+2756  September 2022 Stroke. 2022;53:2749–2757. DOI: 10.1161/STROKEAHA.121.037775
+
+Abbott, Bayer, and Bristol Myers Squibb. Dr Ripa is a Novo Nordisk employee 
+and stockholder. Dr Truelsen has received honoraria for advisory board participa-
+tion from Boehringer Ingelheim, Medtronic, and Novo Nordisk; speaker honoraria 
+from Boehringer Ingelheim, Medtronic, Bristol Myers Squibb, and AstraZeneca; 
+research grants from Novo Nordisk Foundation; and consultancy fees from 
+Janssen Biotech. Dr Husain has received personal fees from Boehringer Ingel-
+heim and Janssen Inc. for advisory panel consultancy and speaker honoraria; 
+grants and personal fees from AstraZeneca and Merck & Co for advisory panel 
+consultancy and investigator-initiated clinical and preclinical research; personal 
+fees from Roche for advisory panel consultancy; and grants and personal fees 
+from Novo Nordisk for advisory panel consultancy, speaker honoraria, and inves-
+tigator-initiated preclinical research. Provisional patent for methods for inhibiting 
+platelet aggregation using GLP-1 (glucagon-like peptide-1) receptor agonists, 
+patent No. US61/721,819; patent issued for peptides and methods for prevent-
+ing ischemic tissue injury, patent No. US61/719,075.
+
+Supplemental Material
+CONSORT checklist
+Figures S1–S2
+
+REFERENCES
+ 1. International Diabetes Federation (IDF). IDF Diabetes Atlas, 9th edn. 
+
+Brussels, Belgium: 2019. Available at: Https://www.Diabetesatlas.Org. 
+Accessed May 2021.
+
+ 2. The Emerging Risk Factors C. Diabetes mellitus, fasting blood glucose 
+concentration, and risk of vascular disease: a collaborative meta-anal-
+ysis of 102 prospective studies. Lancet. 2010;375:2215–2222. doi: 
+10.1016/S0140-6736(10)60484-9
+
+ 3. Weng W, Tian Y, Kong SX, Ganguly R, Hersloev M, Brett J, Hobbs T. The 
+prevalence of cardiovascular disease and antidiabetes treatment charac-
+teristics among a large type 2 diabetes population in the United States. 
+Endocrinol Diabetes Metab. 2019;2:e00076. doi: 10.1002/edm2.76
+
+ 4. Kernan WN, Ovbiagele B, Black HR, Bravata DM, Chimowitz MI, Ezekowitz 
+MD, Fang MC, Fisher M, Furie KL, Heck DV, et al; American Heart Asso-
+ciation Stroke Council, Council on Cardiovascular and Stroke Nursing, 
+Council on Clinical Cardiology, and Council on Peripheral Vascular Disease. 
+Guidelines for the prevention of stroke in patients with stroke and transient 
+ischemic attack: a guideline for healthcare professionals from the American 
+Heart Association/American Stroke Association. Stroke. 2014;45:2160–
+2236. doi: 10.1161/STR.0000000000000024
+
+ 5. Echouffo-Tcheugui JB, Xu H, Matsouaka RA, Xian Y, Schwamm LH, Smith EE, 
+Bhatt DL, Hernandez AF, Heidenreich PA, Fonarow GC. Diabetes and long-
+term outcomes of ischaemic stroke: findings from get with the Guidelines-
+Stroke. Eur Heart J. 2018;39:2376–2386. doi: 10.1093/eurheartj/ehy036
+
+ 6. Flach C, Muruet W, Wolfe CDA, Bhalla A, Douiri A. Risk and secondary 
+prevention of stroke recurrence: a population-base cohort study. Stroke. 
+2020;51:2435–2444. doi: 10.1161/STROKEAHA.120.028992
+
+ 7. Kleindorfer DO, Towfighi A, Chaturvedi S, Cockroft KM, Gutierrez J, 
+Lombardi-Hill D, Kamel H, Kernan WN, Kittner SJ, Leira EC, et al. 2021 
+guideline for the prevention of stroke in patients with stroke and tran-
+sient ischemic attack: a guideline from the American Heart Associa-
+tion/American Stroke Association. Stroke. 2021;52:e364–e467. doi: 
+10.1161/STR.0000000000000375
+
+ 8. Shou J, Zhou L, Zhu S, Zhang X. Diabetes is an independent risk factor for 
+stroke recurrence in stroke patients: a meta-analysis. J Stroke Cerebrovasc 
+Dis. 2015;24:1961–1968. doi: 10.1016/j.jstrokecerebrovasdis.2015.04.004
+
+ 9. Ghosh-Swaby OR, Goodman SG, Leiter LA, Cheng A, Connelly KA, Fitchett 
+D, Jüni P, Farkouh ME, Udell JA. Glucose-lowering drugs or strategies, ath-
+erosclerotic cardiovascular events, and heart failure in people with or at 
+risk of type 2 diabetes: an updated systematic review and meta-analysis 
+of randomised cardiovascular outcome trials. Lancet Diabetes Endocrinol. 
+2020;8:418–435. doi: 10.1016/S2213-8587(20)30038-3
+
+ 10. Lim S, Oh TJ, Dawson J, Sattar N. Diabetes drugs and stroke risk: Intensive 
+versus conventional glucose-lowering strategies, and implications of recent 
+cardiovascular outcome trials. Diabetes Obes Metab. 2020;22:6–15. doi: 
+10.1111/dom.13850
+
+ 11. Kristensen SL, Rørth R, Jhund PS, Docherty KF, Sattar N, Preiss D, Køber L, 
+Petrie MC, McMurray JJV. Cardiovascular, mortality, and kidney outcomes 
+with GLP-1 receptor agonists in patients with type 2 diabetes: a systematic 
+review and meta-analysis of cardiovascular outcome trials. Lancet Diabetes 
+Endocrinol. 2019;7:776–785. doi: 10.1016/S2213-8587(19)30249-9
+
+ 12. Bellastella G, Maiorino MI, Longo M, Scappaticcio L, Chiodini P, 
+Esposito K, Giugliano D. Glucagon-like Peptide-1 receptor agonists 
+and prevention of stroke systematic review of cardiovascular outcome 
+trials with meta-analysis. Stroke. 2020;51:666–669. doi: 10.1161/ 
+STROKEAHA.119.027557
+
+ 13. Malhotra K, Katsanos AH, Lambadiari V, Goyal N, Palaiodimou L, Kosmidou 
+M, Krogias C, Alexandrov AV, Tsivgoulis G. GLP-1 receptor agonists in diabe-
+tes for stroke prevention: a systematic review and meta-analysis. J Neurol. 
+2020;267:2117–2122. doi: 10.1007/s00415-020-09813-4
+
+ 14. Sattar N, Lee MMY, Kristensen SL, Branch KRH, Del Prato S, Khurmi 
+NS, Lam CSP, Lopes RD, McMurray JJV, Pratley RE, et al. Cardiovas-
+cular, mortality, and kidney outcomes with GLP-1 receptor agonists in 
+patients with type 2 diabetes: a systematic review and meta-analysis of 
+randomised trials. Lancet Diabetes Endocrinol. 2021;9:653–662. doi: 
+10.1016/S2213-8587(21)00203-5
+
+ 15. Collins L, Costello RA. Glucagon-like peptide-1 receptor agonists. [updated 
+2020 Jun 25]. In: StatPearls [internet]. StatPearls publishing 2021. Avail-
+able at: Https://www.Ncbi.Nlm.Nih.Gov/books/nbk551568/. Accessed 
+Oct 2021.
+
+ 16. Gilbert MP, Pratley RE. GLP-1 analogs and DPP-4 inhibitors in Type 2 dia-
+betes therapy: review of head-to-head clinical trials. Front Endocrinol (Laus-
+anne). 2020;11:178. doi: 10.3389/fendo.2020.00178
+
+ 17. Visseren FLJ, Mach F, Smulders YM, Carballo D, Koskinas KC, Bäck M, 
+Benetos A, Biffi A, Boavida JM, Capodanno D, et al; ESC National Car-
+diac Societies; ESC Scientific Document Group. 2021 ESC Guidelines 
+on cardiovascular disease prevention in clinical practice. Eur Heart J. 
+2021;42:3227–3337. doi: 10.1093/eurheartj/ehab484
+
+ 18. American Diabetes Association Professional Practice Committee. 
+10. Cardiovascular disease and risk management: standards of medi-
+cal care in diabetes—2022. Diabetes Care. 2022;45:S144–S174. doi: 
+10.2337/dc22-S010
+
+ 19. Marso SP, Bain SC, Consoli A, Eliaschewitz FG, Jódar E, Leiter LA, 
+Lingvay I, Rosenstock J, Seufert J, Warren ML, et al; SUSTAIN-6 
+Investigators. Semaglutide and cardiovascular outcomes in patients with 
+Type 2 diabetes. N Engl J Med. 2016;375:1834–1844. doi: 10.1056/ 
+NEJMoa1607141
+
+ 20. Husain M, Birkenfeld AL, Donsmark M, Dungan K, Eliaschewitz FG, 
+Franco DR, Jeppesen OK, Lingvay I, Mosenzon O, Pedersen SD, et al; 
+PIONEER 6 Investigators. Oral semaglutide and cardiovascular outcomes 
+in patients with Type 2 diabetes. N Engl J Med. 2019;381:841–851. doi: 
+10.1056/NEJMoa1901118
+
+ 21. Adams HP Jr, Bendixen BH, Kappelle LJ, Biller J, Love BB, Gordon DL, 
+Marsh EE 3rd. Classification of subtype of acute ischemic stroke. Definitions 
+for use in a multicenter clinical trial. TOAST. Trial of Org 10172 in Acute 
+Stroke Treatment. Stroke. 1993;24:35–41. doi: 10.1161/01.str.24.1.35
+
+ 22. Austin PC, Lee DS, Fine JP. Introduction to the analysis of survival data 
+in the presence of competing risks. Circulation. 2016;133:601–609. doi: 
+10.1161/CIRCULATIONAHA.115.017719
+
+ 23. Drucker DJ. Mechanisms of action and therapeutic application of glu-
+cagon-like Peptide-1. Cell Metab. 2018;27:740–756. doi: 10.1016/j. 
+cmet.2018.03.001
+
+ 24. Zelniker TA, Wiviott SD, Raz I, Im K, Goodrich EL, Furtado RHM, Bonaca 
+MP, Mosenzon O, Kato ET, Cahn A, et al. Comparison of the Effects of 
+glucagon-like peptide receptor agonists and sodium-glucose cotransporter 
+2 inhibitors for prevention of major adverse cardiovascular and renal out-
+comes in Type 2 diabetes mellitus. Circulation. 2019;139:2022–2031. doi: 
+10.1161/CIRCULATIONAHA.118.038868
+
+ 25. Gerstein HC, Colhoun HM, Dagenais GR, Diaz R, Lakshmanan M, Pais P, 
+Probstfield J, Riesmeyer JS, Riddle MC, Rydén L, et al; REWIND Inves-
+tigators. Dulaglutide and cardiovascular outcomes in type 2 diabetes 
+(REWIND): a double-blind, randomised placebo-controlled trial. Lancet. 
+2019;394:121–130. doi: 10.1016/S0140-6736(19)31149-3
+
+ 26. Lăcătușu CM, Grigorescu ED, Stătescu C, Sascău RA, Onofriescu A, 
+Mihai BM. Association of antihyperglycemic therapy with risk of atrial fibril-
+lation and stroke in diabetic patients. Medicina (Kaunas). 2019;55:E592. 
+doi: 10.3390/medicina55090592
+
+ 27. Buse JB, Bain SC, Mann JFE, Nauck MA, Nissen SE, Pocock S, Poulter 
+NR, Pratley RE, Linder M, Monk Fries T, et al; LEADER Trial Investigators. 
+Cardiovascular risk reduction with liraglutide: an exploratory mediation 
+analysis of the LEADER trial. Diabetes Care. 2020;43:1546–1552. doi: 
+10.2337/dc19-2251
+
+ 28. Nauck MA, Meier JJ, Cavender MA, Abd El Aziz M, Drucker DJ. Cardiovas-
+cular actions and clinical outcomes with glucagon-like Peptide-1 receptor 
+
+Https://www.Diabetesatlas.Org
+Https://www.Ncbi.Nlm.Nih.Gov/books/nbk551568/
+
+
+CLINICAL TRIAL
+Strain et al Effects of Semaglutide on Stroke Subtypes in T2D
+
+Stroke. 2022;53:2749–2757. DOI: 10.1161/STROKEAHA.121.037775 September 2022  2757
+
+agonists and dipeptidyl Peptidase-4 inhibitors. Circulation. 2017;136:849–
+870. doi: 10.1161/CIRCULATIONAHA.117.028136
+
+ 29. Larsson M, Patrone C, von Euler M, Holst JJ, Nathanson D. GLP-1 secre-
+tion in acute ischemic stroke: association with functional outcome and 
+comparison with healthy individuals. Cardiovasc Diabetol. 2019;18:91. 
+doi: 10.1186/s12933-019-0896-z
+
+ 30. Maskery MP, Holscher C, Jones SP, Price CI, Strain WD, Watkins 
+CL, Werring DJ, Emsley HC. Glucagon-like peptide-1 receptor ago-
+nists as neuroprotective agents for ischemic stroke: a systematic 
+scoping review. J Cereb Blood Flow Metab. 2021;41:14–30. doi: 
+10.1177/0271678X20952011
+
+ 31. Gerstein HC, Hart R, Colhoun HM, Diaz R, Lakshmanan M, Botros 
+FT, Probstfield J, Riddle MC, Rydén L, Atisso CM, et al. The effect of 
+dulaglutide on stroke: an exploratory analysis of the REWIND trial. Lan-
+cet Diabetes Endocrinol. 2020;8:106–114. doi: 10.1016/S2213- 
+8587(19)30423-1
+
+ 32. Rybelsus. Summary of product characteristics. Available at: Https://www.
+Ema.Europa.Eu/en/documents/product-information/rybelsus-epar-prod-
+uct-information_en.Pdf. Accessed Sept 2021.
+
+ 33. Ozempic. Summary of product characteristics. Available at https://www.
+Ema.Europa.Eu/en/documents/product-information/ozempic-epar-prod-
+uct-information_en.Pdf. Accessed Sept 2021.
+
+Https://www.Ema.Europa.Eu/en/documents/product-information/rybelsus-epar-product-information_en.Pdf
+Https://www.Ema.Europa.Eu/en/documents/product-information/rybelsus-epar-product-information_en.Pdf
+Https://www.Ema.Europa.Eu/en/documents/product-information/rybelsus-epar-product-information_en.Pdf
+https://www.Ema.Europa.Eu/en/documents/product-information/ozempic-epar-product-information_en.Pdf
+https://www.Ema.Europa.Eu/en/documents/product-information/ozempic-epar-product-information_en.Pdf
+https://www.Ema.Europa.Eu/en/documents/product-information/ozempic-epar-product-information_en.Pdf
+
+
+

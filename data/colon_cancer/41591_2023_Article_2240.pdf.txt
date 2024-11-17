@@ -1,0 +1,3221 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Codon-specific KRAS mutations predict survival benefit of trifluridine/tipiracil in metastatic colorectal cancer
+
+
+Nature Medicine | Volume 29 | March 2023 | 605–614 605
+
+nature medicine
+
+https://doi.org/10.1038/s41591-023-02240-8Article
+
+Codon-specific KRAS mutations predict 
+survival benefit of trifluridine/tipiracil in 
+metastatic colorectal cancer
+
+Genomics has greatly improved how patients with cancer are being 
+treated; however, clinical-grade genomic biomarkers for chemotherapies 
+are currently lacking. Using whole-genome analysis of 37 patients with 
+metastatic colorectal cancer (mCRC) treated with the chemotherapy 
+trifluridine/tipiracil (FTD/TPI), we identified KRAS codon G12 (KRASG12) 
+mutations as a potential biomarker of resistance. Next, we collected 
+real-world data of 960 patients with mCRC receiving FTD/TPI and validated 
+that KRASG12 mutations were significantly associated with poor survival, also 
+in analyses restricted to the RAS/RAF mutant subgroup. We next analyzed 
+the data of the global, double-blind, placebo-controlled, phase 3 RECOURSE 
+trial (n = 800 patients) and found that KRASG12 mutations (n = 279) were 
+predictive biomarkers for reduced overall survival (OS) benefit of FTD/TPI 
+versus placebo (unadjusted interaction P = 0.0031, adjusted interaction 
+P = 0.015). For patients with KRASG12 mutations in the RECOURSE trial, OS was 
+not prolonged with FTD/TPI versus placebo (n = 279; hazard ratio (HR) = 0.97; 
+95% confidence interval (CI) = 0.73–1.20; P = 0.85). In contrast, patients with 
+KRASG13 mutant tumors showed significantly improved OS with FTD/TPI 
+versus placebo (n = 60; HR = 0.29; 95% CI = 0.15–0.55; P < 0.001). In isogenic 
+cell lines and patient-derived organoids, KRASG12 mutations were associated 
+with increased resistance to FTD-based genotoxicity. In conclusion, these 
+data show that KRASG12 mutations are biomarkers for reduced OS benefit 
+of FTD/TPI treatment, with potential implications for approximately 28% 
+of patients with mCRC under consideration for treatment with FTD/TPI. 
+Furthermore, our data suggest that genomics-based precision medicine may 
+be possible for a subset of chemotherapies.
+
+Systemic anticancer therapy based on the chemotherapeutic agents 
+5-fluorouracil (5-FU)/capecitabine, oxaliplatin and irinotecan in com-
+bination with epidermal growth factor receptor (EGFR) or vascular 
+endothelial growth factor inhibitors are the cornerstone of the treat-
+ment of metastatic colorectal cancer (mCRC)1. More recently, the 
+chemotherapeutic drug trifluridine/tipiracil (FTD/TPI), a combination 
+
+of trifluridine (FTD), a nucleoside analog, and tipiracil (TPI), a thymidine 
+phosphorylase inhibitor, has been approved for patients with advanced, 
+heavily pretreated mCRC2–4. Although durable responses to FTD/TPI 
+have been observed in some patients with mCRC, the median overall 
+survival (OS) benefit in the general population with mCRC is modest 
+(1.8 months), highlighting the unmet need for patient selection1,3,5–9.
+
+Received: 11 January 2022
+
+Accepted: 26 January 2023
+
+Published online: 2 March 2023
+
+ Check for updates
+
+ e-mail: e.voest@nki.nl; n.valeri@imperial.ac.uk
+
+A list of authors and their affiliations appears at the end of the paper
+
+http://www.nature.com/naturemedicine
+https://doi.org/10.1038/s41591-023-02240-8
+http://crossmark.crossref.org/dialog/?doi=10.1038/s41591-023-02240-8&domain=pdf
+mailto:e.voest@nki.nl
+mailto:n.valeri@imperial.ac.uk
+
+
+Nature Medicine | Volume 29 | March 2023 | 605–614 606
+
+Article https://doi.org/10.1038/s41591-023-02240-8
+
+a codon-agnostic manner diluted the observed effect (Fig. 1a,b and 
+Supplementary Table 4). Similar results were obtained when time on 
+FTD/TPI treatment was used as the end point (Extended Data Fig. 3 and 
+Supplementary Table 5). Based on these hypothesis-generating results, 
+we wondered if KRASG12 mutation status could be a determinant of FTD/
+TPI treatment outcome in mCRC.
+
+KRAS mutations and real-world survival on FTD/TPI treatment
+We next collected real-world data of 960 patients with mCRC who were 
+treated with FTD/TPI in 36 centers across Italy and the UK (Supplemen-
+tary Tables 6 and 7). Based on routine diagnostics (largely performed at 
+diagnosis), the cohort contained 385 patients with RAS/RAF wild-type 
+(WT) tumors, 343 patients with KRASG12 mutations, 86 patients with 
+KRASG13 mutations, 53 patients with KRAS mutations at codons other 
+than G12 or G13 (KRASother), 32 patients with BRAF mutations and 61 
+patients with NRAS mutations. In the full population, patients with 
+KRASG12 mutations had more frequent right-sided disease and more 
+recent diagnoses of metastatic disease (Table 1). Importantly, these 
+factors were well balanced when patients with KRASG12 mutations were 
+compared to patients with other RAS/RAF mutations, or specifically to 
+those with hotspot mutations affecting the directly adjacent codon 
+KRASG13, whereas this latter subgroup had relatively good performance 
+status (Table 1).
+
+In the real-world validation cohort, codon-specific RAS/RAF muta-
+tions were significantly associated with clear differences in OS on 
+treatment with FTD/TPI (log-rank P < 0.001; Fig. 2a). Again, KRASG12 
+mutations were significantly associated with poor OS, with a similar 
+effect in the population as a whole (unadjusted hazard ratio (HR) for 
+death = 1.31; 95% CI = 1.11–1.55; P = 0.0017; adjusted HR for death = 1.24; 
+95% CI = 1.04–1.47, P = 0.016; Fig. 2b, left panel), as in the RAS/RAF 
+mutant subpopulation (unadjusted HR for death = 1.30; 95% CI, 1.04–
+1.61, P = 0.019; adjusted HR for death, 1.28; 95% CI 1.03–1.60, P = 0.027; 
+Fig. 2b, middle panel). Notably, the OS of patients with KRASG12 muta-
+tions was also poor as compared with patients with KRASG13 muta-
+tions (unadjusted HR for death = 1.79; 95% CI = 1.29–2.48; P < 0.001; 
+adjusted HR for death = 1.61; 95% CI = 1.15–2.26, P = 0.0061; Fig. 2b, right 
+panel). Similar results were obtained when the analysis was based on 
+progression-free survival (PFS) (Extended Data Fig. 4). Patients with 
+KRASG12 mutations did not show significantly shorter OS than patients 
+in any of the other, smaller RAS/RAF mutant subgroups (those with 
+
+Precision medicine is widely used to select patients for targeted 
+therapies and immunotherapies for mCRC according to the presence 
+or absence of genomic biomarkers. As such, the detection of KRAS 
+hotspot mutations is a critical step in the diagnostic workup of mCRC 
+as RAS/RAF mutations predict clinical resistance to EGFR-targeting 
+antibodies10–12. Such KRAS mutations are found in 44% of patients 
+with mCRC; these most frequently occur at codon G12 (KRASG12; 28% 
+of patients) or codon G13 (KRASG13; 8% of patients) (Extended Data  
+Fig. 1 and Supplementary Table 1)13. Although KRASG12 and KRASG13 
+mutations are regarded as a single entity in clinical practice guidelines, 
+they have different biochemical properties14,15 and display tissue- and 
+treatment-specific mutational patterns16.
+
+In this study, given the lack of genomic biomarkers and the lim-
+ited clinical benefit of FTD/TPI in unselected patients with mCRC, we 
+harnessed the power of whole-genome somatic profiles coupled with 
+patient outcomes to identify biomarkers of response and resistance 
+to FTD/TPI. Key findings were then validated in a real-world cohort of 
+FTD/TPI-treated patients with mCRC (n = 960) and in the double-blind, 
+placebo-controlled, phase 3 RECOURSE trial (n = 800; study overview 
+shown in Extended Data Fig. 2).
+
+Results
+KRASG12 mutations as potential biomarkers for FTD/TPI 
+treatment
+We first performed whole-genome analysis of a real-world discovery 
+cohort that consisted of 37 patients with mCRC from the publicly avail-
+able Hartwig Medical Foundation database17, who received FTD/TPI 
+treatment in a standard-of-care setting in 13 hospitals across the Neth-
+erlands (Hartwig Medical Foundation (HMF) cohort; Supplementary 
+Table 2). In accordance with late-stage disease, the median OS was rela-
+tively short, that is, 6.1 months (95% confidence interval (CI) = 4.2– 8.3). 
+Ten genomic drivers occurred in at least five patients and were tested 
+as candidate biomarkers for OS (Supplementary Table 3 and Meth-
+ods). After correction for multiple-hypothesis testing, KRASG12 status 
+was most significantly associated with reduced OS (exact log-rank 
+test-based two-sided P = 0.0016; Benjamini–Hochberg false discovery 
+rate (FDR) = 0.016; threshold for significance, FDR < 0.05; Fig. 1a,b 
+and Supplementary Table 4). Besides 20 patients with KRASG12 muta-
+tions, the cohort also included four patients with KRAS mutations 
+at other codons. Consideration of all KRAS mutations combined in 
+
+KRASG12
+
+(20 pts)
+
+5% FDR
+
+Si
+gn
+
+ifi
+ca
+
+nt
+N
+
+on
+si
+
+gn
+ifi
+
+ca
+nt
+
+Resistance biomarkerSensitivity
+biomarker
+
+Exact log-rank test statistic (theta)
+
+FD
+R 
+
+(–
+lo
+
+g 10
+)
+
+Months since the start of FTD/TPI treatment
+
+O
+S 
+
+(%
+)
+
+No KRASG12
+KRASG12
+No. at risk
+
+–1.0 0 2.0 3.0 4.0
+
+3.0
+
+2.0
+
+1.0
+
+0
+
+a b
+
+(n patients per event: 37/35)
+
++ +
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+0 3 6 9 12 15 18 21 24 27
+
+20 14 8 2 1 0 0 0 0 0
+17 16 12 8 6 5 5 4 2 1
+
+Exact log-rank test-based
+two-sided P = 0.0016 
+
+KRASG12
+
+No KRASG12
+Any KRASmut
+
+(including G12; 24 pts)
+
+Fig. 1 | Discovery of KRASG12 mutation status as potential biomarker of 
+outcome of FTD/TPI treatment in mCRC. a, Dot plot showing the associations 
+of candidate genomic biomarkers to OS on FTD/TPI treatment in the discovery 
+cohort (n = 37 patients). The exact log-rank test statistic (theta) for the death of 
+patients with the candidate biomarker versus those without is plotted against 
+the Benjamini–Hochberg-corrected FDR. The red line indicates the 5% FDR 
+
+significance threshold. b, A Kaplan–Meier curve of OS in the discovery cohort for 
+patients without (black) or with (red) a KRASG12 mutation. Censoring events are 
+indicated by vertical bars on the corresponding curve. The dotted lines indicate 
+the median OS. The table underneath the plot denotes the numbers at risk. The 
+exact log-rank test-based two-sided P is shown. FDR, false discovery rate; OS, 
+overall survival.
+
+http://www.nature.com/naturemedicine
+
+
+Nature Medicine | Volume 29 | March 2023 | 605–614 607
+
+Article https://doi.org/10.1038/s41591-023-02240-8
+
+KRASother, BRAF or NRAS mutations; statistics not shown). Together, 
+this independent validation confirmed that patients with KRASG12 
+mutant mCRC have relatively poor OS on treatment with FTD/TPI. 
+Furthermore, the clear OS difference between patients with KRASG12 
+and KRASG13 mutations underwrites the rationale for considering KRAS 
+mutations in a codon-specific manner.
+
+KRAS mutations and survival in the RECOURSE trial
+To further strengthen our findings and investigate if our observa-
+tions were based on prognostic or predictive effects, we analyzed the 
+
+data of a large, independent, placebo-controlled clinical cohort, the 
+RECOURSE trial3. Briefly, this international, randomized, double-blind, 
+placebo-controlled, phase 3 study assigned 800 heavily pretreated 
+patients with mCRC to receive either FTD/TPI or placebo in a 2:1 ratio. 
+Based on routine diagnostics (largely performed at diagnosis), approxi-
+mately half of the patients (n = 393) were KRASWT, whereas the other 
+half (n = 407) were KRAS mutant. In this study, KRAS mutation status 
+(mutated yes/no) was not significantly associated with reduced OS 
+or PFS benefit of FTD/TPI versus placebo; however, codon-specific 
+analyses were not performed3,4.
+
+Table 1 | Baseline characteristics of patients in the real-world validation cohort, stratified according to codon-specific 
+RAS/RAF mutation status
+
+Characteristic Overall 
+(n = 960)
+
+KRASG12 
+(n = 343)
+
+KRASG13 
+(n = 86)
+
+KRASOther 
+(n = 53)
+
+BRAFmut 
+(n = 32)
+
+NRASmut 
+(n = 61)
+
+RAS/RAFWT 
+(n = 385)b
+
+Overall 
+(n = 960)G12 
+versus no G12
+
+RAS/RAFmut 
+(n = 575)G12  
+versus no G12
+
+KRASexon_2_mut 
+(n = 429)aG12 
+versus G13
+
+Age
+
+Median (IQR) 64 (56–71) 65 (57–72) 63 
+(56–72)
+
+64 (60–69) 66 
+(57–72)
+
+65 
+(56–73)
+
+64 (55–71)
+P = 0.44 P = 0.92 P = 0.70
+
+<65 484 (50) 168 (49) 46 (53) 28 (53) 16 (50) 28 (46) 198 (51)
+P = 0.54 P = 0.78 P = 0.47
+
+≥65 476 (50) 175 (51) 40 (47) 25 (47) 16 (50) 33 (54) 187 (49)
+
+Sex
+
+Female 390 (41) 140 (41) 45 (52) 22 (42) 5 (16) 23 (38) 155 (40)
+P = 0.95 P = 1.0 P = 0.067
+
+Male 570 (59) 203 (59) 41 (48) 31 (58) 27 (84) 38 (62) 230 (60)
+
+Country
+
+Italy 827 (86) 289 (84) 78 (91) 47 (89) 28 (88) 54 (89) 331 (86)
+P = 0.21 P = 0.11 P = 0.17
+
+UK 133 (14) 54 (16) 8 (9) 6 (11) 4 (12) 7 (11) 54 (14)
+
+ECOG performance score
+
+0–1 820 (85) 292 (85) 83 (97) 42 (79) 23 (72) 53 (87) 327 (85)
+P = 0.85 P = 0.28 P = 0.0031
+
+≥2 140 (15) 51 (15) 3 (3) 11 (21) 9 (28) 8 (13) 58 (15)
+
+Primary site of disease
+
+Colon 696 (71) 262 (76) 62 (72) 37 (70) 24 (75) 42 (69) 269 (70)
+P = 0.050 P = 0.24 P = 0.40
+
+Rectum 264 (28) 81 (24) 24 (28) 16 (30) 8 (25) 19 (31) 116 (30)
+
+Sidedness
+
+Left 661 (69) 205 (60) 53 (62) 34 (64) 18 (56) 43 (70) 308 (80)
+P < 0.001 P = 0.40 P = 0.81
+
+Rightc 299 (31) 138 (40) 33 (38) 19 (36) 14 (44) 18 (30) 77 (20)
+
+Time from diagnosis of metastases
+
+<18 months 275 (28) 117 (34) 27 (31) 19 (36) 16 (50) 20 (33) 76 (20)
+
+P = 0.0073 P = 0.77 P = 0.70≥18 months 678 (71) 225 (66) 59 (69) 34 (64) 15 (47) 40 (66) 305 (79)
+
+Unknown 7 (1) 1 (0) 0 (0) 0 (0) 1 (3) 1 (2) 4 (1)
+
+Previous surgery
+
+No 229 (24) 84 (24) 15 (17) 11 (21) 12 (38) 19 (31) 88 (23)
+
+P = 0.75 P = 0.75 P = 0.20Yes 729 (76) 259 (76) 70 (81) 42 (79) 20 (62) 42 (69) 296 (77)
+
+Unknown 2 (0) 0 (0) 1 (1) 0 (0) 0 (0) 0 (0) 1 (0)
+
+Peritoneal disease at the start of FTD/TPI treatment
+
+No 604 (63) 203 (59) 56 (65) 32 (60) 17 (53) 38 (62) 258 (67)
+
+P = 0.070 P = 0.51 P = 0.33Yes 355 (37) 140 (41) 30 (35) 21 (40) 15 (47) 22 (36) 127 (33)
+
+Unknown 1 (0) 0 (0) 0 (0) 0 (0) 0 (0) 1 (2) 0 (0)
+
+MMR status
+
+Proficient 563 (59) 197 (56) 59 (69) 34 (64) 20 (62) 38 (62) 215 (56)
+
+P = 0.55 P = 1.0 P = 0.69Deficient 28 (3) 8 (2) 1 (1) 4 (8) 3 (9) 0 (0) 12 (3)
+
+Unknown 369 (38) 138 (40) 26 (30) 15 (28) 9 (28) 23 (38) 158 (41)
+aKRASexon_2_mut: patients with KRAS exon 2 mutations (KRASG12 and KRASG13). bRAS/RAFWT: patients without KRAS, NRAS or BRAF mutations. cRight-sided disease, including five patients with 
+multiple primary tumors at both sides. Two-sided P values (bold for P < 0.05) were used for comparisons between subgroups as indicated by the headers, using a Fisher’s exact test for 
+categorical variables (excluding unknowns) and a Wilcoxon rank-sum test for continuous age. IQR, interquartile range.
+
+http://www.nature.com/naturemedicine
+
+
+Nature Medicine | Volume 29 | March 2023 | 605–614 608
+
+Article https://doi.org/10.1038/s41591-023-02240-8
+
+Codon-specific mutational status was available for 367 out of 407 
+(90%) patients with KRAS-mutated tumors in the RECOURSE trial. Of 
+these, 279 (76%) had KRASG12 mutations, 60 (16%) had KRASG13 muta-
+tions, 21 (5.7%) were reported to have KRASG12/G13 double mutations 
+(largely due to the use of analytical methods that could not discrimi-
+nate between the two codons) and 7 (1.9%) had other mutations. (The 
+true percentage of patients with other mutations was probably higher 
+because their assessment was only broadly implemented later11.) 
+
+Throughout our analyses, we considered patients with KRASG12/G13 
+double mutations as a distinct subgroup.
+
+The prespecified baseline characteristics of the RECOURSE trial 
+were well balanced between the FTD/TPI and placebo arms in KRASG12 
+mutant, KRASG13 mutant and KRASWT subgroups (Table 2), with some 
+exceptions; patients whose tumors harbored a KRAS mutation gener-
+ally had more recent diagnoses of metastatic disease, were less heavily 
+pretreated and were more frequently refractory to fluoropyrimidine 
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+0 3 6 9 12 15 18 21 24 27 30 33 36 39
+
+Months since the start of FTD/TPI treatment
+
+O
+S 
+
+(%
+)
+
+No. at risk
+385 326 252 165 116 78 53 36 27 13 9 5 3 1
+
+343 286 183 117 70 39 27 16 11 7 5 3 3 3
+
+86 78 59 40 33 24 16 14 9 3 1 1 0 0
+
+53 47 28 17 13 6 4 4 1 1 1 0 0 0
+
+32 21 13 10 4 3 2 1 1 0 0 0 0 0
+
+61 53 36 23 16 8 8 6 4 3 1 0 0 0
+
+RAS/RAFWT
+
+KRASG12
+
+KRASG13
+
+KRASother
+
+BRAFmut
+
+NRASmut
+
+BR
+AF
+
+m
+ut
+
+ (5
+.3
+
+ m
+on
+
+th
+s)
+
+KR
+AS
+
+ot
+he
+
+r  (
+8.
+
+1 m
+on
+
+th
+s)
+
+KR
+AS
+
+G
+12
+
+ (9
+.0
+
+ m
+on
+
+th
+s)
+
+N
+RA
+
+Sm
+ut
+
+ (9
+.7
+
+ m
+on
+
+th
+s)
+
+RA
+S/
+
+RA
+FW
+
+T
+
+(1
+1.3
+
+ m
+on
+
+th
+s)
+
+KR
+AS
+
+G
+13
+
+(1
+5.
+
+2 
+m
+
+on
+th
+
+s)
+
+log-rank P < 0.001
+
+n events: RAS/RAFWT: 231 deaths; KRASG12: 219 deaths; KRASG13: 44 deaths; KRASother: 33 deaths; BRAFmut: 23 deaths; NRASmut: 34 deaths
+
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+
+100
+
+0 6 12 18 24 30 36
+
+Months since the start of treatment
+
+O
+S 
+
+(%
+)
+
+617 388 182 83 42 12 3
+343 183 70 27 11 5 3KRASG12
+
+No KRASG12
+No. at risk
+
+KRASG12
+No KRASG12
+No. at risk
+
+KRASG12
+KRASG13
+No. at risk
+
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+
+100
+
+0 6 12 18 24 30 36
+
+Months since the start of treatment
+
+O
+S 
+
+(%
+)
+
+232 136 66 30 15 3 0
+343 183 70 27 11 5 3
+
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+
+100
+
+0 6 12 18 24 30 36
+
+Months since the start of treatment
+
+O
+S 
+
+(%
+)
+
+86 59 33 16 9 1 0
+343 183 70 27 11 5 3
+
+aUnadjusted
+HR for death = 1.79,
+95% CI, 1.29–2.48,
+
+P < 0.001
+
+bAdjusted
+HR for death, 1.61,
+95% CI, 1.15–2.26,
+
+P = 0.0061
+
+aUnadjusted
+HR for death = 1.30,
+95% CI = 1.04–1.61,
+
+P = 0.019
+
+bAdjusted
+HR for death, 1.28,
+
+95% CI = 1.03–1.60,
+P = 0.027
+
+aUnadjusted
+HR for death = 1.31,
+95% CI = 1.11–1.55,
+
+P = 0.0017
+
+bAdjusted
+HR for death, 1.24,
+
+95% CI = 1.04–1.47,
+P = 0.016
+
+Full population RAS/RAF mutant population KRAS exon 2 mutant population
+
+a
+
+b
+
+Fig. 2 | Associations of RAS/RAF mutations with the OS of 960 patients with 
+mCRC receiving FTD/TPI treatment in a real-world setting. a, Kaplan–Meier 
+curve of OS in the full population, stratified according to RAS/RAF mutations, as 
+indicated by the colors (see the table underneath the plot for the color coding 
+used for each RAS/RAF mutation category). Censoring events are indicated by 
+vertical bars on the corresponding curve. The dotted lines and corresponding 
+annotation indicate the subgroup-specific median OS. The table underneath 
+the plot denotes the numbers at risk. The two-sided log-rank test-based P value 
+is shown. b, Kaplan–Meier curves of OS in the full population (left), RAS/RAF 
+
+mutant population (middle) and KRASexon_2_mut population (right), stratified 
+according to the presence (red) or absence (black) of a KRASG12 mutation. 
+Censoring events are indicated by vertical bars on the corresponding curve. The 
+dotted lines indicate the subgroup-specific median OS. The table underneath 
+each plot denotes the numbers at risk. Two-sided Wald test-based P values 
+are shown. aUnadjusted by univariate Cox regression. bAdjusted by stratified, 
+multivariate Cox regression, adjusted for eight baseline characteristics 
+(Methods). Note that all Cox regression models passed the proportional-hazards 
+assumption. OS, overall survival.
+
+http://www.nature.com/naturemedicine
+
+
+Nature Medicine | Volume 29 | March 2023 | 605–614 609
+
+Article https://doi.org/10.1038/s41591-023-02240-8
+
+as part of the last previous regimen (Table 2). Importantly, all these 
+factors were balanced between the KRASG12 and KRASG13 mutant popula-
+tions. Between these two groups, the only significant difference was 
+that patients with KRASG13 mutations originated less often from Japan 
+(Table 2).
+
+To understand the prognostic effects of codon-specific KRAS 
+mutations in the trial population, we first analyzed OS in the placebo 
+arm (Extended Data Fig. 5). This showed that patients with the KRASG12 
+and KRASWT mutants had similar OS. Interestingly, placebo-treated 
+patients with KRASG13 mutations (the other main KRAS mutant subgroup 
+in the study) had a remarkably shorter OS than those with KRASG12 
+mutations (median OS KRASG13 mutants: 2.9 months, 95% CI = 2.1–6.1 
+months versus median OS KRASG12 mutants: 5.8 months, 95% CI = 4.7–
+7.3; HR = 2.20; 95% CI = 1.25–3.86; P = 0.0060; Extended Data Fig. 5),  
+which held after adjustment for the ten baseline characteristics 
+
+(HR = 2.46; 95% CI = 1.33–4.57; P = 0.0043; Extended Data Fig. 5). In 
+the placebo arm, patients with KRASG13 mutant tumors also had shorter 
+OS than those with KRASWT tumors, which was statistically significant in 
+unadjusted analysis (HR = 1.95; 95% CI = 1.13–3.36; P = 0.017; Extended 
+Data Fig. 5), but did not attain statistical significance in the adjusted 
+analysis (HR = 1.79; 95% CI = 0.96–3.32; P = 0.065; Extended Data  
+Fig. 5). Taken together, these analyses indicate that KRASG12 mutations 
+are not associated with poor prognosis in late-stage mCRC.
+
+We then studied if KRASG12 mutations were predictive biomark-
+ers for reduced OS benefit of FTD/TPI in the RECOURSE trial. In the 
+KRASG12 mutant population (n = 279 patients), OS was not prolonged 
+with FTD/TPI versus placebo (HR = 0.96; 95% CI = 0.71–1.29; P = 0.78; 
+Fig. 3a, upper left). Within the full study population (n = 800 patients), 
+KRASG12 mutations were significantly associated with a reduced OS 
+benefit of FTD/TPI versus placebo (unadjusted interaction P = 0.0031; 
+
+Table 2 | Baseline characteristics of patients in the RECOURSE trial intention-to-treat population, stratified according to 
+codon-specific KRAS mutation status
+
+Characteristic KRASG12 KRASG13 KRASWT G12 
+versus 
+G13
+
+G12 
+versus 
+WT
+
+G13 
+versus 
+WTFTD/TPI 
+
+(n = 185)
+P Placebo 
+
+(n = 94)
+FTD/TPI 
+(n = 40)
+
+P Placebo 
+(n = 20)
+
+FTD/TPI 
+(n = 262)
+
+P Placebo 
+(n = 131)
+
+Age
+
+<65 114 (62) P = 0.44 53 (56) 23 (57) P = 0.17 7 (35) 138 (53) P = 0.52 74 (56)
+P = 0.19 P = 0.13 P = 0.58
+
+≥65 71 (38) 41 (44) 17 (43) 13 (65) 124 (47) 57 (44)
+
+Sex
+
+Female 78 (42) P = 0.80 38 (40) 19 (48) P = 0.42 7 (35) 93 (35) P = 0.66 50 (38)
+P = 0.86 P = 0.20 P = 0.32
+
+Male 107 (58) 56 (60) 21 (53) 13 (65) 169 (65) 81 (62)
+
+Region
+
+Japan 63 (34) P = 0.19 40 (43) 9 (23) P = 1.00 4 (20) 94 (36) P = 0.31 40 (31)
+P = 0.025 P = 0.46 P = 0.075
+
+USA, Europe 
+and Australia
+
+122 (66) 54 (57) 31 (78) 16 (80) 168 (64) 91 (69)
+
+ECOG
+
+0 110 (59) P = 0.61 59 (63) 23 (57) P = 1.00 11 (55) 151 (58) P = 0.042 61 (47)
+P = 0.66 P = 0.097 P = 0.78
+
+1 75 (41) 35 (37) 17 (43) 9 (45) 111 (42) 70 (53)
+
+Primary site of disease
+
+Colon 124 (67) P = 0.19 55 (59) 23 (57) P = 0.15 16 (80) 157 (60) P = 0.83 77 (59)
+P = 1.0 P = 0.23 P = 0.48
+
+Rectum 61 (33) 39 (41) 17 (43) 4 (20) 105 (40) 54 (41)
+
+Time from diagnosis of metastases
+
+<18 months 51 (28) P = 0.89 25 (27) 13 (33) P = 0.58 8 (40) 39 (15) P = 0.88 18 (14)
+P = 0.27 P < 0.001 P < 0.001
+
+≥18 months 134 (72) 69 (73) 27 (68) 12 (60) 223 (85) 113 (86)
+
+No. of previous regimens
+
+2 52 (28) P = 0.95 26 (28) 13 (33) P = 0.76 8 (40) 25 (10) P = 0.37 8 (6)
+
+P = 0.34 P < 0.001 P < 0.0013 50 (27) 24 (26) 7 (18) 4 (20) 51 (19) 22 (17)
+
+≥4 83 (45) 44 (47) 20 (50) 8 (40) 186 (71) 101 (77)
+
+Refractory to fluoropyrimidine as part of last previous regimen
+
+Yes 135 (73) P = 0.56 72 (77) 30 (75) P = 0.54 13 (65) 117 (45) P = 0.19 49 (37)
+P = 0.75 P < 0.001 P < 0.001
+
+No 50 (27) 22 (23) 10 (25) 7 (35) 145 (55) 82 (63)
+
+Prior use of regorafenib
+
+Yes 31 (17) P = 0.60 13 (14) 5 (13) P = 1.00 3 (15) 41 (16) P = 0.12 29 (22)
+P = 0.84 P = 0.53 P = 0.47
+
+No 154 (83) 81 (86) 35 (88) 17 (85) 221 (84) 102 (78)
+
+No. of metastatic sites
+
+1–2 109 (59) P = 0.30 62 (66) 22 (55) P = 0.79 10 (50) 166 (63) P = 0.064 70 (53)
+P = 0.31 P = 0.75 P = 0.33
+
+≥3 76 (41) 32 (34) 18 (45) 10 (50) 96 (37) 61 (47)
+
+Two-sided P values (bold for P < 0.05) are for comparisons between codon-specific KRAS mutation status-based subgroups, using Fisher’s exact test for categorical variables with two classes 
+and chi-squared test for categorical variables with more than two classes. ECOG, Eastern Cooperative Oncology Group.
+
+http://www.nature.com/naturemedicine
+
+
+Nature Medicine | Volume 29 | March 2023 | 605–614 610
+
+Article https://doi.org/10.1038/s41591-023-02240-8
+
+Analysis and subgroup Patients (n) Median survival (95% CI), months HR (95% CI) P P for interaction
+FTD/TPI, placebo FTD/TPI placebo
+
+OS
+aUnadjusted
+
+bAdjusted
+
+KRASG12 mutation 185, 94 6.4 (5.4–7.2) 5.8 (4.7–7.3)
+No KRASG12 mutation 349, 172 7.7 (6.8–8.9) 4.9 (4.2–5.9)
+KRASG13 mutation 40, 20 8.7 (5.5–NE) 2.9 (2.1–6.1)
+No KRAS mutation 
+
+KRASG12 mutation
+No KRASG12 mutation
+KRASG13 mutation
+No KRAS mutation 
+
+262, 131 8.0 (7.3–9.2) 5.7 (4.5–6.8)
+
+185, 94 6.4 (5.4–7.2) 5.8 (4.7–7.3)
+349, 172 7.7 (6.8–8.9) 4.9 (4.2–5.9)
+40, 20 8.7 (5.5–NE) 2.9 (2.1–6.1)
+262, 131 8.0 (7.3–9.2) 5.7 (4.5–6.8)
+
+0.78
+<0.001
+0.0018
+<0.001
+
+0.53
+<0.001
+<0.001
+
+0.96 (0.71–1.29)
+0.55 (0.45–0.69)
+0.34 (0.17–0.67)
+0.58 (0.45–0.74)
+
+0.91 (0.67–1.22)
+0.57 (0.46–0.70)
+0.21 (0.090–0.48)
+0.60 (0.47–0.77) <0.001
+
+0.05 0.1 0.2 0.5
+
+FTD/TPI better Placebo better
+
+0.0031
+
+1.0 2.0
+
+0.0026
+
+0.070
+
+a
+
+b
+
+0.010
+
+0.015
+0.0023
+
+0.17
+
+0.059
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+0 3 6 9 12 15 18
+
+Months since randomization
+
+O
+S 
+
+(%
+)
+
+185 146 95 41 22 10 3
+94 74 44 23 14 6 1Placebo
+
+FTD/TPI
+No. at risk
+
+HR for death = 0.96
+(95% CI = 0.71–1.29)
+P = 0.78 
+
+FTD/TPI
+
+Placebo
+
+KRASG12 mutation
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+0 3 6 9 12 15 18
+
+Months since randomization
+
+O
+S 
+
+(%
+)
+
+349 314 202 97 42 13 4
+172 125 63 24 10 3 2Placebo
+
+FTD/TPI
+No. at risk
+
+HR for death = 0.55
+(95% CI = 0.45–0.69)
+P < 0.001 
+
+FTD/TPI
+
+Placebo
+
+No KRASG12 mutation
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+0 3 6 9 12 15 18
+
+Months since randomization
+
+O
+S 
+
+(%
+)
+
+40 36 21 10 5 2 0
+20 10 4 1 1 0 0Placebo
+
+FTD/TPI
+No. at risk
+
+HR for death = 0.34
+(95% CI = 0.17–0.67)
+P = 0.0018 
+
+Placebo
+
+FTD/TPI
+
+KRASG13 mutation
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+0 3 6 9 12 15 18
+
+Months since randomization
+
+O
+S 
+
+(%
+)
+
+262 238 158 79 32 11 4
+131 99 55 22 9 3 2Placebo
+
+FTD/TPI
+No. at risk
+
+HR for death = 0.58
+(95% CI = 0.45–0.74)
+P < 0.001 
+
+FTD/TPI
+
+Placebo
+
+No KRAS mutation
+
+Fig. 3 | KRAS mutations and OS benefit of FTD/TPI versus placebo in the 
+RECOURSE trial. a, Kaplan–Meier curves of OS with FTD/TPI (red) or placebo 
+(black) for patients with KRASG12 mutations (upper left panel), without KRASG12 
+mutations (upper right panel), with KRASG13 mutations (lower left panel) and 
+without KRAS mutations (lower right panel). Censoring events are indicated by 
+vertical bars on the corresponding curve. The dotted lines indicate the median 
+OS. The table underneath each plot denotes the numbers at risk. Two-sided 
+Wald test-based P values are shown. b, Forest plot of HRs for death and 95% 
+CIs for patients treated with FTD/TPI versus placebo, subgrouped according 
+to codon-specific KRAS mutation status. Two-sided Wald test-based P values 
+
+for interaction (as calculated using Cox regression) indicate if the OS benefit 
+of FTD/TPI treatment versus placebo was significantly different between 
+subgroups, for which pairwise comparisons are indicated by the square brackets. 
+aUnadjusted: stratified for two stratification factors of the trial (time from 
+diagnosis of metastases (<18 versus ≥18 months) and region ( Japan versus USA, 
+Europe and Australia)). bAdjusted: adjusted by the two stratification factors 
+used in unadjusted analysis plus eight additional baseline characteristics 
+(Methods). Note that all Cox regression models passed the proportional-hazards 
+assumption. NE, not estimated; OS, overall survival.
+
+http://www.nature.com/naturemedicine
+
+
+Nature Medicine | Volume 29 | March 2023 | 605–614 611
+
+Article https://doi.org/10.1038/s41591-023-02240-8
+
+adjusted interaction P = 0.015; Fig. 3b; full regression model fits shown 
+in Supplementary Table 8). In analyses restricted to the subgroup with 
+KRAS mutations (n = 407 patients), KRASG12 mutations were also signifi-
+cantly associated with reduced OS benefit of FTD/TPI versus placebo 
+(unadjusted interaction P = 0.0091; adjusted interaction P = 0.0037; 
+full regression model fits shown in Supplementary Table 8). Further 
+stratification of patients with KRASG12 mutations according to differ-
+ent amino acid changes did not provide evidence of OS benefit with 
+FTD/TPI versus placebo in any subgroup (Extended Data Fig. 6). Taken 
+together, these data demonstrate that FTD/TPI treatment did not lead 
+to a clinically relevant prolongation of OS in patients with mCRC with 
+KRASG12 mutations in the RECOURSE trial.
+
+When patients whose tumors harbored a KRASG12 mutation were 
+excluded from the analysis, FTD/TPI resulted in a pronounced OS 
+benefit over placebo (n = 521; HR = 0.55; 95% CI = 0.45–0.69; P < 0.001; 
+Fig. 3a, upper right), with a median OS benefit of 2.7 months in this 
+subgroup (versus 1.8 months in the full population, as reported by 
+Mayer et al.3).
+
+Next, we analyzed the treatment effect of FTD/TPI in patients with 
+KRASG13 mutant tumors. In sharp contrast to the KRASG12 mutant popula-
+tion, patients with the KRASG13 mutation showed a clear OS benefit in 
+the FTD/TPI arm versus the placebo arm (HR = 0.34; 95% CI = 0.17–0.67; 
+P = 0.0018; Fig. 3a, lower left). This remained significant in the adjusted 
+analysis (HR = 0.21; 95% CI = 0.090–0.48; P < 0.001; Fig. 3b). The median 
+OS was three times longer in the FTD/TPI arm versus the placebo arm 
+(8.7 versus 2.9 months; Fig. 3). The OS benefit of FTD/TPI treatment 
+was significantly more pronounced in patients with KRASG13-mutated 
+mCRC versus those with KRASG12-mutated disease (unadjusted 
+interaction P = 0.0026; adjusted interaction P = 0.0023; Fig. 3b; 
+the full regression model fits are shown in Supplementary Table 8).  
+Thus, KRASG13 mutations marked patients with clear OS benefit from 
+FTD/TPI treatment.
+
+We then assessed PFS in KRAS codon-specific subgroups of the 
+RECOURSE trial. A minimal PFS benefit of FTD/TPI versus placebo 
+was observed in all three subgroups (median PFS benefit 0.1, 0.3 and 
+0.3 months for patients with KRASG12, KRASG13 and KRASWT mutations, 
+respectively), which did not significantly differ among these subpop-
+ulations (interactions nonsignificant for all pairwise comparisons; 
+Extended Data Fig. 7).
+
+KRASG12 mutations and FTD/TPI resistance in vitro
+Finally, we aimed to replicate these findings in vitro using isogenic 
+cell lines and mCRC patient-derived organoids (PDOs) (n = 7; Supple-
+mentary Table 9). KRASG12 mutation knock in significantly reduced 
+responsiveness to FTD (the cytotoxic component of FTD/TPI) in two 
+colorectal cancer cell line models, SW48 and Colo320 (two-sided 
+Wilcoxon rank-sum-based P = 0.029 for both models; Fig. 4a–d). The 
+parental models are KRASWT and do not harbor other frequent mCRC 
+oncogenic drivers like mutations in NRAS, BRAF, PTEN or PIK3CA. 
+Similar results were obtained with PDOs, with KRASG12-mutated lines 
+consistently showing reduced FTD responsiveness (two-sided Wil-
+coxon rank-sum-based P = 0.034; Fig. 4e,f). Notably, the presence of 
+a KRASG12 mutation was associated with suppression of FTD-induced 
+DNA damage (as measured by γH2AX) in both isogenic cell lines and 
+PDOs (Fig. 4g,h). We next tested in vitro sensitivity to 5-FU because 
+this chemotherapeutic is closely related to FTD/TPI but exerts its 
+main effect through damaging RNA rather than DNA. In all models, 
+KRASG12 mutations did not significantly reduce in vitro sensitivity to 
+5-FU (Fig. 4i–l). Of note, the higher sensitivity to FTD in KRASWT mod-
+els could not be explained by higher baseline proliferation rates, as 
+the (untreated) KRASWT PDOs demonstrated lower proliferation rates 
+than (untreated) KRASG12 PDOs (Extended Data Fig. 8). Taken together, 
+these results show that KRASG12 mutation-based resistance to FTD 
+can be modeled in vitro and is characterized by limited FTD-induced  
+DNA damage.
+
+Discussion
+Using two independent real-world datasets from three different 
+countries and an independent validation cohort based on the global, 
+double-blind, placebo-controlled, phase 3 RECOURSE trial, we dem-
+onstrate that codon-specific KRAS mutations predict OS benefit for 
+patients treated with the chemotherapeutic agent FTD/TPI in late-stage 
+mCRC. Specifically, KRASG12 mutations identify patients who experi-
+ence no clinically relevant18 survival benefit from FTD/TPI, while the 
+remaining population—including KRASG13-mutated patients—benefits 
+substantially. The RECOURSE trial showed only a modest OS benefit 
+of FTD/TPI versus placebo in the general, unselected population with 
+mCRC. In this context, our results offer a framework to (re)assess the 
+risk–benefit profile of FTD/TPI according to codon-specific KRAS muta-
+tions. Given that KRAS testing is routinely performed in the molecular 
+workup of all patients with CRC to guide treatment with EGFR-targeting 
+agents1,11, our findings can be readily adopted in the clinic.
+
+In line with previous clinical and preclinical evidence14–16, our data 
+demonstrate that KRASG12 and KRASG13 mutated mCRC are different 
+clinical entities. The former disease is characterized by better prog-
+nosis but shows no clinically relevant OS benefit of FTD/TPI treatment 
+(predictive effect), whereas the latter disease behaves aggressively 
+when treated with placebo but can be more effectively managed with 
+FTD/TPI treatment. These data caution against lumping together KRAS 
+mutations at different codons in biomarker analyses and clinical trial 
+designs because different biological and biochemical properties may 
+be associated with different clinical outcomes.
+
+The primary objective of the RECOURSE trial was to detect differ-
+ences in OS between FTD/TPI and placebo, the gold standard outcome 
+measure for regulatory approval studies for new treatments for meta-
+static cancer19,20. One of the reasons for this is that marginal improve-
+ments in PFS may not translate into an OS benefit21 as we observe in the 
+subpopulation of the RECOURSE trial with KRASG12 mutant tumors. The 
+main caveat of OS is that lines of treatment administered after progres-
+sion on the study drug might bias the conclusions. Notably, informa-
+tion on 5-FU-based rechallenges was not collected in the RECOURSE 
+trial but are unlikely to underlie the reduced OS benefit of FTD/TPI in 
+the population with KRASG12 mutations. The reason is that this would 
+require that placebo-treated patients with KRASG12 mutations received 
+considerably more treatments after progression in the study than FTD/
+TPI-treated patients with KRASG12 mutations. Nevertheless, even in this 
+unlikely scenario the conclusion would still be that, in terms of OS, the 
+treatment with FTD/TPI has not been a useful intervention because 
+it did not provide a relevant OS benefit over treatment with placebo.
+
+Analysis of the real-world validation cohort showed that mis-
+match repair (MMR) deficiency was rare (Table 1) and was not associ-
+ated with KRASG12 status nor with OS of patients treated with FTD/TPI 
+(data not shown). Furthermore, tumor sidedness was well balanced 
+among all RAS/RAF-based subgroups of the real-world cohort and 
+adjustment for this covariate in multivariate models did not affect our 
+conclusions. In addition, pretreatment variables, such as the number 
+of previous regimens, refractoriness to fluoropyrimidine or previ-
+ous use of regorafenib were not responsible for our results. Namely, 
+our RECOURSE trial-based analyses showed that these (1) were well 
+balanced between the populations with KRASG12 and KRASG13 mutant 
+tumors, (2) were not associated with OS benefit of FTD/TPI versus 
+placebo and (3) did not alter our conclusions when incorporated into  
+multivariate models.
+
+While all RAS/RAF-based subgroups were molecularly well defined 
+in our real-world datasets, this classification was not as complete in 
+the RECOURSE trial. Indeed, KRAS hotspot mutations outside codons 
+G12 and G13 were only tested in a small fraction of the RECOURSE trial 
+population and data on NRAS and BRAF mutations were (largely) miss-
+ing. Given the results of our real-world analyses, patients with KRAS 
+mutations outside of codons G12 and G13 or BRAF mutations may 
+more closely resemble patients with KRASG12 mutations; inclusions 
+
+http://www.nature.com/naturemedicine
+
+
+Nature Medicine | Volume 29 | March 2023 | 605–614 612
+
+Article https://doi.org/10.1038/s41591-023-02240-8
+
+of these cases in the KRASWT group might have underestimated the 
+survival benefit conferred by FTD/TPI in the ‘real’ KRASWT population. 
+A further observation with potential clinical implications relates to the 
+fact that virtually all KRASWT patients in our cohorts were pretreated 
+with anti-EGFR therapeutics, while their RAS (and RAF) status was 
+determined before any therapy. Given that RAS mutations can emerge 
+as drivers of acquired resistance in this scenario22, some patients might 
+have been misclassified. Although the above considerations are impor-
+tant to keep in mind when interpreting the results, our conclusions hold 
+
+regardless because such misclassifications may only have diluted the 
+differences between the analyzed subgroups.
+
+A potential limitation of our study is that this investigator-initiated 
+reanalysis of the RECOURSE trial was not predefined in the original 
+trial protocol. However, based on our findings, this reanalysis was 
+hypothesis-driven and prespecified in a formal data request before 
+access to the RECOURSE trial data was granted.
+
+Several clinico-pathological and molecular biomarkers of benefit 
+to FTD/TPI have been tested but none has reached clinical application23. 
+
+0 0.25 0.5 1 2
+
+FTD (µM)
+Colo320
+
+KRASWT
+
+KRASG12V
+
+SW48
+
+0 0.25 0.5 1 2
+
+FTD (µM)
+
+KRASWT
+
+KRASG12D
+
+P = 0.029
+
+DMSO 2 4 6 8 10 12
+0
+
+0.5
+
+1.0
+
+1.5
+
+log2 (FTD in µM)
+
+Re
+la
+
+tiv
+e 
+
+vi
+ab
+
+ili
+ty
+
+KRASWT PDO lines
+
+KRASG12 PDO lines
+
+P = 0.034
+
+8.0
+
+7.5
+
+7.0
+
+6.5
+
+6.0
+
+Line (KRAS)
+TUM42 (WT)
+TUM50 (WT)
+TUM65 (WT)
+SNS26 (G12S)
+TUM10 (G12V)
+TUM3 (G12A)
+TUM52 (G12C)
+
+KRAS
+WT
+
+KRAS
+G12
+
+FT
+D
+
+ IC
+50
+
+ (l
+og
+
+2(
+µ
+
+M
+))
+
+KRASWT KRASG12V
+
+1 50 1 50
+
+KRASWT KRASG12V
+
+1 50 1 50
+
+γH2AX
+
+Hsp90
+
+Colo320SW48
+
+1 50 1 50 1 50 1 50 1 50 1 50 1 50
+
+TUM42
+WT
+
+TUM50
+WT
+
+TUM65
+WT
+
+TUM3
+G12A
+
+TUM10
+G12V
+
+TUM52
+G12C
+
+SNS26
+G12S
+
+µΜ
+
+γH2AX
+
+Hsp90
+
+0 5 10
+0
+
+0.5
+
+1.0
+
+1.5
+
+log2 (5-FU in µM)
+
+Re
+la
+
+tiv
+e 
+
+vi
+ab
+
+ili
+ty
+
+P = 0.72
+
+KRAS
+WT
+
+KRAS
+G12
+
+5-
+FU
+
+ IC
+50
+
+ (l
+og
+
+2(
+µ
+
+M
+))
+
+a b
+
+c d e f
+
+g h
+
+i j k l
+
+DMSO –10 –5 0 5 10
+0
+
+0.5
+
+1.0
+
+1.5
+
+Re
+la
+
+tiv
+e 
+
+vi
+ab
+
+ili
+ty
+
+SW48 KRASWT
+
+SW48 KRASG12V
+Colo320 KRASWT
+
+Colo320 KRASG12D
+
+–4
+
+–2
+
+0
+
+2
+
+4
+
+FT
+D
+
+ IC
+50
+
+ (l
+og
+
+2(
+µ
+
+M
+))
+
+KRAS
+status: W
+
+T
+G
+
+12
+V
+
+W
+T
+
+G
+12
+
+D
+
+P = 0.029
+
+SW48 Colo320Cell line:
+
+FTD (µΜ)
+
+DMSO –10 –5 0 5 10
+0
+
+0.5
+
+1.0
+
+1.5
+
+log2 (5-FU in µM)
+
+Re
+la
+
+tiv
+e 
+
+vi
+ab
+
+ili
+ty
+
+0
+
+2
+
+4
+
+6
+
+8
+
+5-
+FU
+
+ IC
+50
+
+ (l
+og
+
+2(
+µ
+
+M
+))
+
+P = 0.69
+
+KRAS
+status: W
+
+T
+G
+
+12
+V
+
+W
+T
+
+G
+12
+
+D
+
+P = 0.11
+
+SW48 Colo320Cell line:
+
+SW48 KRASWT
+
+SW48 KRASG12V
+Colo320 KRASWT
+
+Colo320 KRASG12D KRASWT PDO lines
+
+KRASG12 PDO lines
+5.5
+
+5.0
+
+4.5
+
+4.0
+
+Fig. 4 | KRASG12 mutations and in vitro resistance to FTD in isogenic cell lines 
+and PDOs of mCRC. a, Colony formation assay for KRASWT and KRASG12V SW48 
+colorectal cancer cell lines after 2 weeks’ exposure to a concentration range of 
+FTD in vitro. b, As in a, but for KRASWT and KRASG12D isogenic Colo320 CRC cell 
+lines. c, Dose–response curves of KRASWT (black) and KRASG12 (red) isogenic SW48 
+(dots) or Colo320 (diamonds) CRC cell lines exposed to a concentration range 
+of FTD in vitro. The dots and error bars represent the mean and s.d. among four 
+biological replicates at the tested concentrations, respectively. d, Half-maximal 
+inhibitory concentrations (IC50; log2) for FTD of KRASWT and KRASG12 isogenic 
+SW48 or Colo320 CRC cell lines, as indicated on the x axis. Data are plotted for 
+four biological replicates. The box center lines, box ranges, whiskers and dots 
+indicate the medians, quartiles, 1.5 times the IQR and data points of individual 
+experiments (biological replicates; n = 4 for each line), respectively. The two-
+sided Wilcoxon rank-sum test-based P value is shown. e, Dose–response curves 
+of mCRC PDOs harboring WT KRAS (black; n = 3) or different KRASG12 mutations 
+
+(red; n = 4) exposed to FTD in vitro. The dots and error bars represent the mean 
+and s.d. at the tested concentrations, respectively. f, IC50 (log2) for FTD of KRASWT 
+(black; n = 3) and KRASG12 (red; n = 4) mCRC PDOs. The box center lines, box 
+ranges, whiskers and dots indicate the medians, quartiles, 1.5 times the IQR and 
+data points of individual organoid lines (see legend), respectively. The two-sided 
+Wilcoxon rank-sum test-based P value is shown. g, Representative western blot 
+of the DNA damage marker γH2AX on treatment of KRASWT (black) and KRASG12 
+(red) SW48 (left) and Colo320 (right) cells with FTD at increasing concentrations. 
+Hsp90 was used as a loading control. Data were confirmed in three and two 
+biological replicates for SW48 and Colo320, respectively. h, As in g, but for 
+mCRC PDOs harboring KRASWT (black, left) or different KRASG12 mutations (red, 
+right). The left and right panels were exposed together (Source Data 1). Data were 
+confirmed in three biological replicates. i, As in c but for 5-FU. j, As in d but for 
+5-FU. k, As in e but for 5-FU. l, As in f but for 5-FU.
+
+http://www.nature.com/naturemedicine
+
+
+Nature Medicine | Volume 29 | March 2023 | 605–614 613
+
+Article https://doi.org/10.1038/s41591-023-02240-8
+
+Our results show that KRAS mutational analysis, a standard-of-care test 
+already implemented worldwide, can identify patients with KRASG12 
+mutant mCRC who are unlikely to benefit from FTD/TPI treatment, 
+avoiding unnecessary toxicities to patients and rationalizing the use 
+of resources for healthcare systems. Thus, we report the first proof 
+of genomics-based precision medicine for a chemotherapy in mCRC, 
+which has the potential to substantially improve patient selection for 
+FTD/TPI treatment.
+
+Online content
+Any methods, additional references, Nature Portfolio reporting sum-
+maries, source data, extended data, supplementary information, 
+acknowledgements, peer review information; details of author contri-
+butions and competing interests; and statements of data and code avail-
+ability are available at https://doi.org/10.1038/s41591-023-02240-8.
+
+References
+1. Van Cutsem, E. et al. ESMO consensus guidelines for the 
+
+management of patients with metastatic colorectal cancer. Ann. 
+Oncol. 27, 1386–1422 (2016).
+
+2. Marcus, L. et al. FDA approval summary: TAS-102. Clin. Cancer 
+Res. 23, 2924–2927 (2017).
+
+3. Mayer, R. J. et al. Randomized trial of TAS-102 for refractory 
+metastatic colorectal cancer. N. Engl. J. Med. 372, 1909–1919 (2015).
+
+4. Van Cutsem, E. et al. The subgroups of the phase III RECOURSE 
+trial of trifluridine/tipiracil (TAS-102) versus placebo with best 
+supportive care in patients with metastatic colorectal cancer. Eur. 
+J. Cancer 90, 63–72 (2018).
+
+5. Hurwitz, H. et al. Bevacizumab plus irinotecan, fluorouracil, and 
+leucovorin for metastatic colorectal cancer. N. Engl. J. Med. 350, 
+2335–2342 (2004).
+
+6. Van Cutsem, E. et al. Cetuximab and chemotherapy as initial 
+treatment for metastatic colorectal cancer. N. Engl. J. Med. 360, 
+1408–1417 (2009).
+
+7. Venook, A. P. et al. Effect of first-line chemotherapy combined 
+with cetuximab or bevacizumab on overall survival in patients 
+with KRAS wild-type advanced or metastatic colorectal cancer: a 
+randomized clinical trial. JAMA 317, 2392–2401 (2017).
+
+8. Cremolini, C. et al. FOLFOXIRI plus bevacizumab versus 
+FOLFIRI plus bevacizumab as first-line treatment of patients 
+with metastatic colorectal cancer: updated overall survival and 
+molecular subgroup analyses of the open-label, phase 3 TRIBE 
+study. Lancet Oncol. 16, 1306–1315 (2015).
+
+9. Jonker, D. J. et al. Cetuximab for the treatment of colorectal 
+cancer. N. Engl. J. Med. 357, 2040–2048 (2007).
+
+10. Allegra, C. J. et al. American Society of Clinical Oncology 
+provisional clinical opinion: testing for KRAS gene mutations 
+in patients with metastatic colorectal carcinoma to predict 
+response to anti-epidermal growth factor receptor monoclonal 
+antibody therapy. J. Clin. Oncol. 27, 2091–2096 (2009).
+
+11. Allegra, C. J. et al. Extended RAS gene mutation testing in 
+metastatic colorectal carcinoma to predict response to 
+anti-epidermal growth factor receptor monoclonal antibody 
+therapy: American Society of Clinical Oncology Provisional 
+Clinical Opinion Update 2015. J. Clin. Oncol. 34, 179–185 (2016).
+
+12. Karapetis, C. S. et al. K-ras mutations and benefit from  
+cetuximab in advanced colorectal cancer. N. Engl. J. Med. 359, 
+1757–1765 (2008).
+
+13. Zehir, A. et al. Mutational landscape of metastatic cancer  
+revealed from prospective clinical sequencing of 10,000 patients. 
+Nat. Med. 23, 703–713 (2017).
+
+14. Lu, S. et al. Ras conformational ensembles, allostery, and 
+signaling. Chem. Rev. 116, 6607–6665 (2016).
+
+15. Ostrem, J. M. & Shokat, K. M. Direct small-molecule inhibitors of 
+KRAS: from structural insights to mechanism-based design. Nat. 
+Rev. Drug Discov. 15, 771–785 (2016).
+
+16. Li, S., Balmain, A. & Counter, C. M. A model for RAS mutation 
+patterns in cancers: finding the sweet spot. Nat. Rev. Cancer 18, 
+767–777 (2018).
+
+17. Priestley, P. et al. Pan-cancer whole-genome analyses of 
+metastatic solid tumours. Nature 575, 210–216 (2019).
+
+18. Ellis, L. M. et al. American Society of Clinical Oncology 
+perspective: raising the bar for clinical trials by defining clinically 
+meaningful outcomes. J. Clin. Oncol. 32, 1277–1280 (2014).
+
+19. Schnipper, L. E. et al. American Society of Clinical Oncology 
+Statement: a conceptual framework to assess the value of cancer 
+treatment options. J. Clin. Oncol. 33, 2563–2577 (2015).
+
+20. Cherny, N. I. et al. A standardised, generic, validated approach to 
+stratify the magnitude of clinical benefit that can be anticipated 
+from anti-cancer therapies: the European Society for Medical 
+Oncology Magnitude of Clinical Benefit Scale (ESMO-MCBS). 
+Ann. Oncol. 28, 2901–2905 (2017).
+
+21. Johnson, K. R. et al. Response rate or time to progression as 
+predictors of survival in trials of metastatic colorectal cancer 
+or non-small-cell lung cancer: a meta-analysis. Lancet Oncol. 7, 
+741–746 (2006).
+
+22. Misale, S. et al. Emergence of KRAS mutations and acquired 
+resistance to anti-EGFR therapy in colorectal cancer. Nature 486, 
+532–536 (2012).
+
+23. Voutsadakis, I. A. Biomarkers of trifluridine-tipiracil efficacy.  
+J. Clin. Med. 10, 5568 (2021).
+
+Publisher’s note Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.
+
+Open Access This article is licensed under a Creative Commons 
+Attribution 4.0 International License, which permits use, sharing, 
+adaptation, distribution and reproduction in any medium or format, 
+as long as you give appropriate credit to the original author(s) and the 
+source, provide a link to the Creative Commons license, and indicate 
+if changes were made. The images or other third party material in this 
+article are included in the article’s Creative Commons license, unless 
+indicated otherwise in a credit line to the material. If material is not 
+included in the article’s Creative Commons license and your intended 
+use is not permitted by statutory regulation or exceeds the permitted 
+use, you will need to obtain permission directly from the copyright 
+holder. To view a copy of this license, visit http://creativecommons.
+org/licenses/by/4.0/.
+
+© The Author(s) 2023
+
+Joris van de Haar1,2,3, Xuhui Ma1,3,46, Salo N. Ooft    1,3,46, Pim W. van der Helm1,3,46, Louisa R. Hoes1,3, Sara Mainardi2,3, 
+David J. Pinato    4,5,6, Kristi Sun6, Lisa Salvatore7,8, Giampaolo Tortora    7,8, Ina Valeria Zurlo9, Silvana Leo9, 
+Riccardo Giampieri10, Rossana Berardi10, Fabio Gelsomino    11, Valeria Merz12, Federica Mazzuca13, Lorenzo Antonuzzo14,15, 
+Gerardo Rosati16, Chara Stavraka17,18, Paul Ross18, Maria Grazia Rodriquenz19, Michele Pavarana20, Carlo Messina21, 
+Timothy Iveson22, Federica Zoratto23, Anne Thomas24, Elisabetta Fenocchio    25, Margherita Ratti26, Ilaria Depetris27, 
+Massimiliano Cergnul28, Cristina Morelli29, Michela Libertini30, Alessandro Parisi10,31, Michele De Tursi32, 
+
+http://www.nature.com/naturemedicine
+https://doi.org/10.1038/s41591-023-02240-8
+http://creativecommons.org/licenses/by/4.0/
+http://creativecommons.org/licenses/by/4.0/
+http://orcid.org/0000-0002-3990-3376
+http://orcid.org/0000-0002-3529-0103
+http://orcid.org/0000-0002-1378-4962
+http://orcid.org/0000-0001-7979-4795
+http://orcid.org/0000-0001-6679-0955
+
+
+Nature Medicine | Volume 29 | March 2023 | 605–614 614
+
+Article https://doi.org/10.1038/s41591-023-02240-8
+
+1Division of Molecular Oncology & Immunology, The Netherlands Cancer Institute, Amsterdam, the Netherlands. 2Division of Molecular Carcinogenesis, 
+The Netherlands Cancer Institute, Amsterdam, the Netherlands. 3Oncode Institute, The Netherlands Cancer Institute, Amsterdam, the Netherlands. 
+4Department of Surgery and Cancer, Imperial College London, Hammersmith Hospital, London, UK. 5Division of Oncology, Department of Translational 
+Medicine, University of Piemonte Orientale, Novara, Italy. 6Imperial College Healthcare NHS Trust, London, UK. 7Oncologia Medica, Comprehensive 
+Cancer Center, Fondazione Policlinico Universitario Agostino Gemelli Istituto di Ricovero e Cura a Carattere Scientifico, Roma, Italy. 8Oncologia Medica, 
+Università Cattolica del Sacro Cuore, Roma, Italy. 9Medical Oncology, ‘Vito Fazzi’ Hospital, Lecce, Italy. 10Department of Oncology, Università Politecnica 
+delle Marche, Azienda Ospedialiera Universitaria delle Marche, Ancona, Italy. 11University Hospital of Modena, Modena, Italy. 12Medical Oncology 
+Unit, Santa Chiara Hospital, Trento, Italy. 13Department of Clinical and Molecular Medicine, Sapienza University, Oncology Unit, Azienda Ospedialiera 
+Universitaria Sant’Andrea, Rome, Italy. 14Clinical Oncology Unit, Careggi University Hospital, Florence, Italy. 15Department of Experimental and Clinical 
+Medicine, University of Florence, Florence, Italy. 16Medical Oncology Unit, S. Carlo Hospital, Potenza, Italy. 17School of Cancer & Pharmaceutical Sciences, 
+King’s College London, Guy’s Hospital, London, UK. 18Department of Medical Oncology, Guy’s and St Thomas’ NHS Foundation Trust, London, UK. 
+19Istituto di Ricovero e Cura a Carattere Scientifico Casa Sollievo della Sofferenza, San Giovanni Rotondo, Italy. 20Oncology Unit, Azienda Ospedaliera 
+Universitaria Integrata, Verona, Italy. 21Oncology Unit, ARNAS Civico Di Cristina Benfratelli Hospital, Palermo, Italy. 22University of Southampton, 
+Southampton, UK. 23Unità Operativa Complessa Oncologia, Ospedale Santa Maria Goretti Latina, Latina, Italy. 24Leicester Cancer Research Centre, 
+University of Leicester, Leicester Royal Infirmary, Leicester, UK. 25Candiolo Cancer Institute FPO Istituto di Ricovero e Cura a Carattere Scientifico 
+Candiolo, Candiolo, Italy. 26Azienda Socio-Sanitaria Territoriale Cremona, Cremona, Italy. 27Division of Medical Oncology, ASL TO4, Ospedale Civile 
+di Ivrea, Ivrea, Italy. 28Unità Operativa Oncologia Medica, Ospedale Civile di Legnano, Azienda Socio-Sanitaria Territoriale Ovest Milanese, Legnano, 
+Italy. 29Medical Oncology Unit, Department of Systems Medicine, Tor Vergata University Hospital, Rome, Italy. 30Medical Oncology Unit, Brescia, Italy. 
+31Department of Life, Health and Environmental Sciences, University of L’Aquila, L’Aquila, Italy. 32Dipartimento di Tecnologie Innovative in Medicina & 
+Odontoiatria, Università G. D’Annunzio, Chieti-Pescara, Chieti, Italy. 33Experimental Clinical Abdominal Oncology Unit, Istituto Nazionale Tumori, Istituto 
+di Ricovero e Cura a Carattere Scientifico, Fondazione G. Pascale, Naples, Italy. 34Oncology Unit, Fondazione Istituto di Ricovero e Cura a Carattere 
+Scientifico Ca’ Granda Ospedale Maggiore Policlinico, Milan, Italy. 35Beatson West of Scotland Cancer Centre, Glasgow, UK. 36San Gerardo Hospital, 
+Monza, Italy. 37Division of Clinical Oncology, Azienda Socio-Sanitaria Territoriale dei Sette Laghi Varese, Varese, Italy. 38Medical Oncology Unit, Ospedale 
+del Mare, Naples, Italy. 39Oncology and Palliative Care Department, Tricase Hospital, Lecce, Italy. 40Luigi Sacco Hospital-Polo Universitario, Azienda 
+Socio-Sanitaria Territoriale Fatebenefratelli Sacco, Milan, Italy. 41Oncology Unit, Azienda Socio-Sanitaria Territoriale Bergamo Ovest, Treviglio, Italy. 
+42Medical Oncology Unit, Azienda Ospedaliera di Rilievo Nazionale ‘San Pio’, Benevento, Italy. 43Faculty of Electrical Engineering, Mathematics and 
+Computer Science, Delft University of Technology, Delft, the Netherlands. 44Medical Oncology, Fondazione Policlinico Universitario Campus Bio-Medico, 
+Rome, Italy. 45Centre for Evolution and Cancer, The Institute of Cancer Research, London, UK. 46These authors contributed equally: Xuhui Ma, Salo N. 
+Ooft, Pim W. van der Helm. 47These authors jointly supervised this work: Emile E. Voest, Nicola Valeri.  e-mail: e.voest@nki.nl; n.valeri@imperial.ac.uk
+
+Nicoletta Zanaletti33, Ornella Garrone34, Janet Graham35, Raffaella Longarini36, Stefania Maria Gobba37, 
+Angelica Petrillo38, Emiliano Tamburini39, Nicla La Verde40, Fausto Petrelli    41, Vincenzo Ricci42, 
+Lodewyk F. A. Wessels    2,3,43, Michele Ghidini34, Alessio Cortellini    4,44, Emile E. Voest    1,3,47  & Nicola Valeri    4,45,47 
+
+http://www.nature.com/naturemedicine
+mailto:e.voest@nki.nl
+mailto:n.valeri@imperial.ac.uk
+http://orcid.org/0000-0001-9639-4486
+http://orcid.org/0000-0002-1656-6995
+http://orcid.org/0000-0002-1209-5735
+http://orcid.org/0000-0001-8249-9586
+http://orcid.org/0000-0002-5426-5683
+
+
+Nature Medicine
+
+Article https://doi.org/10.1038/s41591-023-02240-8
+
+Methods
+Study participants
+Discovery cohort. The large, publicly available, real-world dataset with 
+clinical annotation and whole-genome sequencing (WGS) by the HMF 
+was used as the discovery cohort17. All patients who received FTD/TPI 
+as part of their standard-of-care treatment for mCRC were identified 
+in May 2018 (Supplementary Table 2). These patients were included in 
+13 academic, teaching, and regional hospitals in the Netherlands. The 
+study was approved by the Medical Ethical Committee of the University 
+Medical Center Utrecht and was conducted in accordance with the 
+Declaration of Helsinki (fourth edition). All patients provided written 
+informed consent for the collection, analysis and pseudonymized 
+sharing of paired tumor-normal WGS data and clinical characteristics 
+for research purposes.
+
+Real-world validation cohort. For validation, we retrospectively col-
+lected data of 1,012 patients with mCRC treated with FTD/TPI as part of 
+standard of care between April 2016 and January 2022 at 36 academic, 
+teaching and regional hospitals across Italy and the UK (Supplementary 
+Tables 6 and 7). The data cutoff was April 2022. Tumor KRAS, NRAS 
+and BRAF genotype was investigated locally as recommended by local 
+guidelines. Fifty-two patients with unknown NRAS or BRAF status were 
+excluded, resulting in a final cohort of 960 patients used for all analyses. 
+For patients from the UK, the study built on a UK National Audit24 and 
+data were handled in accordance with the Declaration of Helsinki. For-
+mal ethical approval for data collection, analysis and pseudonymized 
+sharing for research purposes was covered by UK Health Research 
+Authority guidance (NHS Health Research Authority, Service Evaluation 
+Clinical/Non-Financial Audit Usual Practice (in Public Health Including 
+Health Protection)). For patients from Italy, data collection, analysis 
+and pseudonymized sharing for research purposes was approved by 
+the institutional review board of the Fondazione Istituto di Ricovero e 
+Cura a Carattere Scientifico Ca’ Granda Ospedale Maggiore Policlinico 
+(Milano, Italy) and was conducted in accordance with the Declaration 
+of Helsinki.
+
+RECOURSE trial cohort. The RECOURSE trial design has been previ-
+ously described in detail3. Briefly, the RECOURSE trial (NCT01607957) 
+was an international double-blind, randomized, placebo-controlled, 
+phase 3 trial comparing FTD/TPI plus best supportive care to placebo 
+plus best supportive care. Heavily pretreated patients with refractory 
+mCRC (n = 800) were randomly assigned in a 2:1 ratio to receive FTD/
+TPI or placebo. Within this process, patients were stratified based on 
+KRAS status (mutant yes/no), time between first diagnosis of metas-
+tases and randomization (<18 versus ≥18 months) and geographical 
+region ( Japan or USA, Europe and Australia). The data cutoff was at 
+571 deaths, in accordance with the cutoff of the primary analysis. All 
+patients in the study provided written informed consent, as stated in 
+the original publication3.
+
+Memorial Sloan Kettering Cancer Center CRC cohort. Somatic 
+mutation data were downloaded from the cBioPortal for cancer genom-
+ics (http://cbioportal.org/msk-impact) on 8 August 2017. All samples 
+with ‘GeneralTumorType’ = ‘Colorectal Cancer’ were included (Sup-
+plementary Table 1).
+
+PDO cohort. PDOs were cultured from tumor biopsies of patients 
+with mCRC, with approval of the Medical Ethical Committee of the 
+Netherlands Cancer Institute. We used four KRASG12-mutated (SNS26: 
+KRASG12S; TUM10: KRASG12V; TUM3: KRASG12A; TUM52: KRASG12C) and three 
+KRASWT (TUM42, TUM50, TUM65) PDOs (Supplementary Table 9). The 
+study was conducted in accordance with the Declaration of Helsinki. 
+All patients provided written informed consent for organoid culture 
+and collection, analysis and pseudonymized sharing of clinical char-
+acteristics for research purposes.
+
+End points and study objectives
+In the real-world discovery analysis, we searched for genome-wide 
+somatic variants associated with OS and time on FTD/TPI treatment 
+as end points. In the real-world validation analysis, the primary and 
+secondary objectives were to assess the association of KRASG12 mutation 
+status with OS and PFS, respectively, both in the population as a whole 
+and in RAS/RAF mutation-based subpopulations. All end points used in 
+the real-life analyses were measured from the start of FTD/TPI treatment 
+and evaluated at participating institutions over the treatment course 
+according to local practice. In our reanalysis of the RECOURSE trial, 
+we tested OS benefit and PFS benefit of FTD/TPI versus placebo as the 
+primary and secondary end points, respectively, in subgroups defined 
+by codon-specific KRAS mutation status. This was in accordance with 
+the hierarchy of end points prespecified in the RECOURSE trial proto-
+col; these reanalyses were prespecified in a formal data request to the 
+sponsor of the RECOURSE study before access to the data was granted.
+
+Bioinformatics analysis
+All genomics data of the discovery cohort was publicly available and 
+provided by the HMF under the approved data request DR-015. WGS 
+(median depths approximately 100 and approximately 40 for tumor and 
+normal, respectively) and bioinformatics analysis of the discovery cohort 
+were performed by the HMF as described previously17, with an optimized 
+pipeline based on open-source tools freely available on GitHub (https://
+github.com/hartwigmedical/pipeline5). Somatic genomic drivers were 
+identified as an integrated functionality of PURPLE v.2.43 (ref. 17). Briefly, 
+somatic mutations were considered drivers if they fulfilled one of the 
+following criteria: (1) mutations in oncogenes located at—or within five 
+bases of—known hotspots; (2) inframe indels in oncogenes with repeat 
+count <8 repeats; (3) biallelic (that is, the WT allele is lost) nonsense, 
+splice or indel variants in tumor suppressor genes (TSGs); and (4) muta-
+tions in oncogenes or TSGs with a sample-specific driver likelihood >80%, 
+as calculated by PURPLE as described previously17. For this manuscript, 
+we only considered TSG mutations to be drivers if (1) they were biallelic 
+or (2) in the case of multiple mutations in the gene for which the summed 
+variant ploidies exceeded the gene ploidy within the sample −0.5 (for 
+example, the classical APC two-hit hypothesis). Amplifications were 
+considered to be drivers if (1) they affected an oncogene with pan-cancer 
+evidence for recurrent amplification17 and (2) this oncogene had a copy 
+number exceeding three times the sample ploidy. Deletions were con-
+sidered to be drivers if (1) they affected TSGs with pan-cancer evidence 
+for recurrent deletion17 and (2) they were homozygous (absolute gene 
+copy number <0.5).
+
+Statistical analysis
+Median time on treatment, OS and PFS were calculated using 
+the Kaplan–Meier method. OS and time on treatment were com-
+pared between biomarker positive versus negative patients in the 
+discovery cohort using the exact log-rank test. In this analysis, 
+multiple-hypothesis correction was performed using the Benjamini–
+Hochberg procedure. HRs and corresponding 95% CIs, and Wald 
+test-based two-sided P values, were estimated from Cox regression 
+models. The proportional-hazards assumption was tested using the 
+methodology developed by Grambsch and Therneau25, with a signifi-
+cance threshold of P = 0.05; categorical covariates were modeled as 
+stratification factors (rather than covariates) where appropriate to 
+prevent assumption violations. ‘Unadjusted’ Cox regression analyses 
+of the real-world validation cohort were performed in a univariate 
+manner. ‘Adjusted’ Cox regression analyses of the real-world valida-
+tion cohort were stratified for ECOG performance status (0–1 versus 
+≥2) and adjusted for seven additional covariates: time since diagnosis 
+of first metastases (<18 versus ≥18 months); geographical region (UK 
+versus Italy); age (<65 versus ≥65 years); sex; sidedness (left versus 
+right); previous surgery (yes versus no); and peritoneal disease at 
+the start of FTD/TPI treatment (yes versus no). For the RECOURSE 
+
+http://www.nature.com/naturemedicine
+https://clinicaltrials.gov/ct2/show/NCT01607957
+http://cbioportal.org/msk-impact
+https://github.com/hartwigmedical/pipeline5
+https://github.com/hartwigmedical/pipeline5
+
+
+Nature Medicine
+
+Article https://doi.org/10.1038/s41591-023-02240-8
+
+trial-based analyses, ‘unadjusted’ Cox regression was stratified for two 
+stratification factors of the trial: time since diagnosis of first metastases 
+(<18 versus ≥18 months) and geographical region ( Japan versus the 
+USA, Europe and Australia). The third stratification factor of the trial, 
+KRAS mutation status, was omitted because of high collinearity with 
+our variables of interest (codon-specific KRAS status). For ‘adjusted’ 
+RECOURSE trial-based analyses, we used stratified, multivariate Cox 
+regression to adjust for eight prognostic factors on top of the two 
+stratification factors used in the unadjusted analyses. These included: 
+age (<65 versus ≥65 years); sex; ECOG performance status (0 versus 1); 
+primary site of the disease (colon versus rectum); disease refractory to 
+fluoropyrimidine as part of the last previous regimen (yes versus no); 
+previous use of regorafenib; number of previous regimens (2, 3 or ≥4); 
+and number of metastatic sites (1–2 versus ≥3). The rationale behind 
+the selection of covariates for multivariate Cox regression is specified 
+below. No subsequent covariate selection was performed; hence, all 
+eight covariates plus the two stratification factors were included in all 
+multivariate models of RECOURSE trial data. None of these variables 
+were predictive of FTD/TPI benefit in the RECOURSE trial (P > 0.20 for 
+all variables)3. Dose–response curves were fitted using Prism v.9.0.0 
+(GraphPad Software) on log2-transformed FTD concentration values 
+versus viability; the resulting fitted curves were then used to calculate 
+IC50 values. Baseline characteristics were compared by Fisher’s exact 
+test for categorical variables with two levels and by chi-squared test in 
+the case of more than two levels. All reported P values are two-sided. In 
+the main text and figures, all P values smaller than 0.001 were reported 
+as <0.001. RECOURSE trial data-based survival analyses were per-
+formed on the intention-to-treat population and were prespecified in 
+a formal data request before access to the data was granted.
+
+Candidate biomarker selection for the discovery cohort
+The procedure for the selection of candidate biomarkers was as fol-
+lows. Somatic genomic driver alterations (mutations and copy number 
+alterations) were included as candidate biomarkers at increasingly 
+specific ‘levels’: (1) gene-level biomarkers, for example, ‘APC altera-
+tion’, which could either be by mutation or copy number alteration; 
+(2) variant class-level biomarkers, for example, ‘APC mutation’ or ‘APC 
+deletion’; (3) codon-level biomarkers, for example, ‘APC codon 1450 
+mutation’; and (4) amino acid change-specific biomarkers, for example, 
+‘APC p.Thr562Met mutation’. In cases where biomarkers of different 
+levels showed complete redundancy, only the most specific level was 
+included. For example, all KRAS alterations in the cohort were mutations 
+leading to complete redundancy between ‘KRAS alteration’ and ‘KRAS 
+mutation’. Hence, KRAS mutation was selected as the most specific level 
+and included as a candidate biomarker, whereas KRAS alteration was 
+excluded. All candidate biomarkers occurring in at least five patients 
+in the discovery cohort were tested for association with treatment 
+outcomes. Supplementary Table 3 provides a comprehensive overview 
+of the frequencies of all candidate biomarkers identified in our cohort.
+
+Variable selection for multivariate Cox regression
+Real-world validation cohort. We selected eight variables for multi-
+variate (adjusted) Cox proportional-hazards modeling of the real-world 
+validation cohort. In this process, we aimed to harmonize the selection 
+as much as possible to the variables used in the Cox regression modeling 
+of the RECOURSE trial-based data (see below), with some alterations.
+
+The ECOG performance status (0–1 versus ≥2) was used as a strati-
+fication factor because this variable violated the proportional-hazards 
+assumption when modeled as a covariate. Furthermore, we adjusted 
+for seven additional covariates: time since diagnosis of first metasta-
+ses (<18 versus ≥18 months); geographical region (UK versus Italy); 
+age (<65 versus ≥65 years); sex; sidedness (left versus right); previous 
+surgery (yes versus no); and peritoneal disease at the start of FTD/
+TPI treatment (yes versus no). Sidedness was used instead of primary 
+site of the disease (colon versus rectum, as used in the RECOURSE 
+
+trial-based analyses), because sidedness was most strongly associated 
+with OS and only one of these two variables could be included due to 
+high collinearity. Due to data unavailability for the real-world valida-
+tion cohort, we were unable to factor in if the disease was refractory 
+to fluoropyrimidine as part of the last previous regimen, previous use 
+of regorafenib, the number of previous regimens and the number of 
+metastatic sites in the analyses. In RECOURSE trial-based analyses, 
+none of these factors were predictive and only the latter variable was 
+prognostic for OS. Instead, based on significant (univariate) associa-
+tions with OS in the real-world validation cohort, we decided to add the 
+two variables ‘previous surgery’ and ‘peritoneal disease at the start of 
+FTD/TPI treatment’ to our selection of covariates, although these data 
+were unavailable for the RECOURSE trial dataset.
+
+RECOURSE trial-based analyses. We selected ten variables for multi-
+variate (adjusted) Cox proportional-hazards modeling of RECOURSE 
+trial data.
+
+This selection included all factors prespecified in the RECOURSE 
+trial study protocol, except KRAS status and ethnicity, totaling eight 
+prespecified factors: time since diagnosis of first metastases (<18 
+versus ≥18 months (stratification factor of the study); geographical 
+region ( Japan versus the USA, Europe and Australia; stratification 
+factor of the study); age (<65 versus ≥65 years); sex; ECOG perfor-
+mance status (0 versus 1); primary site of the disease (colon versus 
+rectum); number of previous regimens (2, 3 or ≥4); and number of 
+metastatic sites (1–2 versus ≥3). KRAS status was excluded because of 
+collinearity with our variables of interest (KRASG12 mutation, KRASG13 
+mutation, KRASWT). Ethnicity was excluded for two reasons. First, the 
+sponsor of the RECOURSE trial could not share the original ethnicity 
+data for privacy reasons because the number of Black participants (nine 
+patients) was below a predefined threshold put in place to prevent 
+patient reidentification. For this reason, the ethnicity item has been 
+modified to a quasi-identifier of ‘Asian’ versus ‘Other’ (White or Black). 
+In the RECOURSE trial, the original ethnicity variable was not signifi-
+cantly prognostic or predictive for OS3. Second, the modified ethnicity 
+variable showed high collinearity (and hence redundancy) with the 
+included factor ‘geographical region’ because 266 out of 266 (100%) 
+of participants from the ‘Asia’ region had the ‘Asian’ ethnicity and 522 
+out of 534 (98%) of participants from the USA, Europe and Australia 
+regions had the ‘Other’ (which included Black and White) ethnicity.
+
+Next, we included two additional factors in our multivariate 
+models: (1) disease refractory to fluoropyrimidine as part of the last 
+previous regimen; and (2) previous use of regorafenib. These factors 
+were not prespecified in the RECOURSE trial protocol for multivariate 
+analyses but were used for the subgroup analyses reported by Mayer 
+et al.3. We decided to include these pretreatment-related factors in 
+our multivariate models because patients with KRAS mutant tumors 
+showed significant differences regarding their pretreatment profiles as 
+compared to patients with KRASWT tumors. Patients with KRAS mutant 
+tumors were more often refractory to fluoropyrimidine as part of their 
+last previous regimen and were less heavily pretreated than patients 
+with KRASWT (Table 2).
+
+BRAF mutation status was not included in our selection because 
+this information was missing for 676 out of 800 (85%) patients. Sub-
+group analysis of the population with BRAF mutant tumors was not 
+possible because BRAF mutations were detected in only eight patients.
+
+Organoid and cell line cultures and drug assays
+PDOs were cultured, expanded and assayed as described previ-
+ously22. FTD (catalog no. S1778, Selleckchem) and 5-FU (catalog no. 
+S1209, Selleckchem) were reconstituted in DMSO (catalog no. D2650, 
+Sigma-Aldrich) at a stock concentration of 50 mM. PDOs were exposed 
+to a two-step, eightfold dilution of FTD (range = 0.781–200 μM) for 
+11 d or to 5-FU for 6 d in a two-step, eightfold dilution (range = 0.781–
+200 μM). Culture medium and FTD were refreshed every 3–4 d.  
+
+http://www.nature.com/naturemedicine
+
+
+Nature Medicine
+
+Article https://doi.org/10.1038/s41591-023-02240-8
+
+Table 3 | Statistical methods and associated software
+
+Statistical method Programming language Package Version Function
+
+Kaplan–Meier method R v.3.6.1 survminer 0.4.6 surv_median
+
+Kaplan–Meier curve plotting R v.3.6.1 survminer 0.4.6 ggsurvplot
+
+Exact log-rank test R v.3.6.1 coin 1.3.1 logrank_test (distribution = ‘exact’)
+
+Cox regression R v.3.6.1 survival 3.2–7 coxph
+
+Proportional-hazards assumption testing R v.3.6.1 survival 3.2–7 cox.zph
+
+Wilcoxon rank-sum test Python 3 scipy 1.4.1 stats.ranksums
+
+Fisher’s exact test Python 3 scipy 1.4.1 stats.fisher_exact
+
+Chi-squared test Python 3 scipy 1.4.1 stats.chi2_contingency
+
+The isogenic cell lines were assayed with FTD and 5-FU in a similar 
+fashion, shortening the assay duration to 3 d. The used concentra-
+tions were adjusted to include more data points of lower concentra-
+tions (range = 0.1 nM, 0.5 nM, 1 μM, 2 μM, 5 μM, 10 μM, 20 μM, 50 μM, 
+200 μM, 500 μM). The readout was performed using the MTT Assay Kit 
+for Cell Proliferation (catalog no. ab211091, Abcam); culture medium 
+was replaced with 100 μl of a 1:1 mix of MTT reagent with serum-free 
+RPMI 1640 (catalog no. 21875034, Gibco), which was replaced by 150 μl 
+MTT solvent after incubation, according to the manufacturer’s proto-
+col. Then, absorbance was measured at OD590 nM on an Infinite 200 Pro 
+plate reader (Tecan Life Sciences).
+
+Isogenic cell line construction: Colo320 KRASG12D knock in
+Single-guide RNA oligonucleotide sequences were designed on 
+Chop-Chop (http://chopchop.cbu.uib.no/#). CRISPR–Cas9 CRISPR 
+RNA (crRNA) (5′-CUUGUGGUAGUUGGAGCUGG-3′) and trans-activating 
+crRNA (tracrRNA) (catalog no. 1072532), Cas9 Nuclease V3 (catalog 
+no. 1081058) and HDR Donor Oligo (5′-ATTCTGAATTAGCTGTATCGT-
+CAAGGCACTCTTGCCTACGCCGTCAGCTCCCACTACCACAAGTT-
+TATATTCAGTCATTTTCAGC-3′) were purchased from Integrated DNA 
+Technologies. Briefly, guide RNA (gRNA) complexes were formed as 
+described previously26 by combining equal amounts of crRNA (160 μM 
+in stock) and tracrRNA (160 μM in stock) in Duplex Buffer (cat no. 11-01-
+03-01, Integrated DNA Technologies) and heating the oligonucleotides 
+to 95 °C, followed by slowly cooling to room temperature. Cas9 nucle-
+ase was then added (the molar ratio of crRNA:Cas9 nuclease was 1:0.5) 
+to the gRNA complexes, followed by 15-min incubation at room tem-
+perature. The Cas9 ribonucleoprotein (ctRNP) complexes were then 
+stored on ice until use. DNA HDR templates were prepared by diluting 
+the HDR Donor Oligo stock to 10 μM in nuclease-free water. Electropo-
+ration was performed by using the 4D-Nucleofector X Unit (catalog no. 
+AAF-1003X, Lonza) according to the manufacturer’s instructions. For 
+each sample, 2 × 105 cells were resuspended in Ingenio Electroporation 
+Solution (catalog no. MIR 50111, Mirus Bio). Per reaction, 2.5 μM ctRNP 
+and 0.5 μM HDR template were added to the cell suspension. We next 
+pipetted 20 μl of each sample into individual wells of 16-well Nucle-
+ocuvette Strips (catalog no. AXP-1004, Lonza) and ran the program 
+CM-137. After electroporation, cells were sorted by FACS and single 
+cells were cultured in 96-well plates for up to two weeks. For single-cell 
+clones, the presence of the KRASG12D mutation was then confirmed by 
+Sanger sequencing.
+
+Western blot analysis
+Western blot analysis was performed on the isogenic cell lines and 
+PDOs treated with FTD or 5-FU, at different concentrations, for 24 h 
+(cell lines) or 48 h (PDOs). For PDOs (but not for the isogenic cell lines), 
+the extracellular matrix was removed by incubating with 2 mg ml−1 type 
+II dispase (catalog no. D4693, Sigma-Aldrich) for 10 min at 37 °C. Cells 
+were washed with PBS and lysed in RIPA Lysis and Extraction Buffer 
+(catalog no. 89901, Thermo Fisher Scientific), supplemented with 
+
+Phosphatase Inhibitor Cocktail (catalog no. 78420, Thermo Fisher 
+Scientific) and Halt Protease Inhibitor Cocktail (catalog no. 87786, 
+Thermo Fisher Scientific). Protein concentration was determined 
+using Coomassie Brilliant Blue G-250 (catalog no. 1610803, Bio-Rad 
+Laboratories). Protein samples were run on NuPAGE 4–12% Bis-Tris 
+Gels (catalog no. NP0323BOX, Thermo Fisher Scientific), transfer 
+was performed using the iBlot 2 Gel Transfer Device (catalog no. 
+IB21001, Thermo Fisher Scientific) and compatible iBlot Transfer 
+Stack; nitrocellulose (catalog no. IB301002, Thermo Fisher Scientific) 
+membranes were used. Membranes were blocked in 5% BSA (catalog 
+no. 10735094001, Sigma-Aldrich) in PBS plus 0.2% Tween-20 (cata-
+log no. P1379-1L, Sigma-Aldrich) for 1 h, then incubated with primary 
+antibodies in 5% BSA in PBS and Tween-20. As primary antibodies, 
+we used anti-phospho-Histone H2A.X (Ser139, catalog no. 05-636, 
+Sigma-Aldrich) and anti-HSP 90α/β (catalog no. sc-13119, Santa Cruz 
+Biotechnology), which were diluted 1:1,000 in PBS with 5% BSA. The 
+secondary antibody (anti-mouse IgG, HRP-linked antibody, catalog 
+no. 7076, Cell Signaling Technology) was diluted 1:1,000 in 5% BSA in 
+PBS and Tween-20. The blots were incubated with Clarity Max Western 
+ECL Substrate (catalog no. 1705062, Bio-Rad Laboratories) and the 
+luminescence signal was imaged using the ChemiDoc Imaging System 
+(catalog no. 17001401, Bio-Rad Laboratories).
+
+Colony formation assay
+Cells were seeded into six-well plates (1.5–2 × 104 cells per well) and 
+cultured in the presence of drugs at the indicated concentrations. For 
+each cell line, cells cultured using different conditions were fixed in 
+methanol (catalog no. 32213, Honeywell) and stained with 0.1% crystal 
+violet solution (catalog no. V5265, Sigma-Aldrich).
+
+Role of the funding source
+The funders of the study had no role in study design, data collection, 
+data analysis, data interpretation or writing of the article. Authors had 
+full access to all the data and had the final responsibility to submit for 
+publication.
+
+Statistical methods and associated software
+The statistical methods and associated packages used in this study are 
+summarized in Table 3.
+
+Reporting summary
+Further information on research design is available in the Nature Port-
+folio Reporting Summary linked to this article.
+
+Data availability
+The somatic mutation data of the MSKCC cohort are freely availa-
+ble via the cBioPortal for cancer genomics (http://cbioportal.org/
+msk-impact); patient identifiers are provided in Supplementary Table 
+1. The sequencing data of the HMF cohort (discovery cohort) can be 
+accessed through the Hartwig Medical Foundation upon approval of 
+
+http://www.nature.com/naturemedicine
+http://chopchop.cbu.uib.no/
+http://cbioportal.org/msk-impact
+http://cbioportal.org/msk-impact
+
+
+Nature Medicine
+
+Article https://doi.org/10.1038/s41591-023-02240-8
+
+a research access request (https://www.hartwigmedicalfoundation.
+nl/en/data/data-acces-request). The patient identifiers, patient-level 
+clinical outcome data and biomarker status of all patients in this 
+cohort are provided in Supplementary Table 2. The original data used 
+in all analyses of the real-world validation cohort can be found in Sup-
+plementary Table 7. The RECOURSE trial data can be accessed upon 
+approval of a data request at Servier (https://clinicaltrials.servier.
+com/data-request-portal/). Source data are provided with this paper.
+
+Code availability
+The bioinformatics for the WGS data of the discovery cohort were 
+performed with an optimized pipeline based on open-source tools; 
+this is freely available on GitHub (https://github.com/hartwigmedical/
+pipeline5).
+
+References
+24. Stavraka, C. et al. Trifluridine/tipiracil in metastatic colorectal cancer: 
+
+a UK multicenter real-world analysis on efficacy, safety, predictive 
+and prognostic factors. Clin. Colorectal Cancer 20, 342–349 (2021).
+
+25. Grambsch, P. M. & Therneau, T. M. Proportional hazards tests  
+and diagnostics based on weighted residuals. Biometrika 81, 
+515–526 (1994).
+
+26. Jacobi, A. M. et al. Simplified CRISPR tools for efficient genome 
+editing and streamlined protocols for their delivery into mammalian 
+cells and mouse zygotes. Methods 121–122, 16–28 (2017).
+
+Acknowledgements
+We thank Servier for sharing the RECOURSE trial dataset and 
+acknowledge all contributors to this trial. We thank the Hartwig 
+Medical Foundation, the Center for Personalized Cancer Treatment and 
+all participating centers for the generation of the discovery dataset. 
+We thank the Memorial Sloan Cancer Center for generating the data 
+used in this manuscript. We also thank the statistics department of 
+the Netherlands Cancer Institute for support with the analyses and 
+G. Arrivi and M. Roberto (Sant’Andrea Hospital Rome) for their support 
+in data acquisition. We thank A. Bardelli and his team for sharing the 
+isogenic SW48 models. E.E.V. and L.F.A.W. were supported by funding 
+from the Oncode Institute. D.J.P. is supported by grant funding from the 
+Wellcome Trust Strategic Fund (no. PS3416), the Foundation for Liver 
+Research and the Associazione Italiana per la Ricerca sul Cancro (AIRC 
+MFAG grant no. 25697); he acknowledges support from the National 
+Institute for Health and Care Research (NIHR) Imperial Biomedical 
+Research Centre, the Imperial Experimental Cancer Medicine Centre 
+(ECMC) and the Imperial College Tissue Bank. N.V. was supported 
+by Cancer Research UK (grant nos. A18052 and A26815), the NIHR 
+Biomedical Research Centre at the Royal Marsden NHS Foundation 
+Trust and the Institute of Cancer Research, the European Union FP7 
+(grant no. CIG 334261) and the Katherine and Douglas Longden Chair 
+in Oncology at Imperial College London. N.V. also acknowledges 
+infrastructural support from the ECMC at Imperial College London.
+
+Author contributions
+J.v.d.H., S.N.O., N.V. and E.E.V. conceptualized the study. J.v.d.H., M.G., 
+A.C. and L.R.H. curated the clinical data. L.R.H., D.J.P., K.S., L.S., G.T., I.V.Z., 
+S.L., R.G., R.B., F.G., V.M., F.M., L.A., G.R., C.S., P.R., M.G.R., M.P., C. Morelli, 
+T.I., F.Z., A.T., E.F., M.R., I.D., M.C., C. Messina, M.L., A. Petrillo, M.D.T., 
+N.Z., O.G., J.G., R.L., S.M.G., A. Parisi, E.T., N.L.V., F.P. and V.R. acquired 
+the clinical data. J.v.d.H. was responsible for the bioinformatics. J.v.d.H., 
+S.N.O., X.M., P.W.v.d.H., S.M. and E.E.V. designed the in vitro experiments. 
+S.N.O., X.M. and P.W.v.d.H. carried out the in vitro experiments. J.v.d.H., 
+S.N.O., X.M. and P.W.v.d.H. carried out the formal analysis. E.E.V. acquired 
+the funding. J.v.d.H., S.N.O., X.M., P.W.v.d.H., L.F.A.W., A.C., N.V. and E.E.V. 
+devised the methodology. L.F.A.W., N.V. and E.E.V. supervised the study. 
+J.v.d.H. and S.N.O. wrote the original draft. All authors contributed to 
+reviewing and editing the final manuscript.
+
+Competing interests
+E.E.V. reports research grants from Roche, Pfizer, GSK, Novartis, Merck, 
+Bristol Myers Squibb, AstraZeneca, Amgen, Bayer, Sanofi, Seagen, 
+Janssen, Eisai, Ipsen and Lilly. He is a founder, strategic advisor and 
+shareholder of MOSAIC Therapeutics and nonexecutive, independent 
+director and shareholder of Sanofi, all outside the submitted work. 
+L.F.A.W. reports grants from Genmab, outside the submitted work. A.C. 
+received grant consultancy fees from MSD, AstraZeneca, Oncoc4 and 
+IQVIA. He also declares speaker’s fees from Eisai and AstraZeneca. 
+A.P. received personal fees from Lilly, Servier, Merck, Amgen, Bristol 
+Myers Squibb and MSD. A.T. declares speaker bureau fees from Bristol 
+Myers Squibb and Servier. C.S. received honoraria from the speaker 
+bureau at Servier. D.J.P. received lecture fees from ViiV Healthcare, 
+Bayer Healthcare, Bristol Myers Squibb, Roche, Eisai and the Falk 
+Foundation, travel expenses from Bristol Myers Squibb and Bayer 
+Healthcare, consulting fees for Mina Therapeutics, H3B, Eisai, Roche, 
+DaVolterra, Mursla, Exact Sciences, Avamune and AstraZeneca and 
+research funding (to institution) from MSD, Bristol Myers Squibb and 
+GSK. F.G. received honoraria for speaker/advisory roles from Servier, 
+Lilly, IQVIA, Merck Serono, Bayer, Amgen and Bristol Myers Squibb 
+outside the present work. F.M. received fees from the speaker bureaux 
+of Servier, Amgen, Novartis, MSD and Merck. G.T. took part in the 
+advisory boards for Bristol Myers Squibb, AstraZeneca, MSD, Merck 
+and Servier. J.G. received honoraria for educational events organized 
+by Servier. L.S. received speaker and consultancy fees from MSD, 
+AstraZeneca, Servier, Bayer, Merck, Amgen and Pierre-Fabre. M.G.R. 
+received consultancy fees from Roche. M.G. received grants and 
+advisory board fees from Merck, Servier, Lilly, Amgen and Italfarmaco. 
+N.L.V. received fees and honoraria from Eisai, MSD, Roche, Novartis, 
+AstraZeneca, GSK, Pfizer, Gentili and Lilly. N.V. received honoraria 
+from Merck Serono, Pfizer, Bayer, Lilly and Servier, consultancy 
+fees from BenevolentAI and grants (institutional) from Roche and 
+BenevolentAI. N.Z. declares personal fees from Bayer and Eisai. O.G. 
+reports consulting fees from Eisai, Lilly, MSD and Seagen and payment 
+or honoraria for lectures, presentations, speaker bureaux fees, 
+manuscript writing or educational events from Novartis, Lilly and Eisai. 
+P.R. received grants from Bayer and Sanofi, honoraria for advisory 
+boards from AstraZeneca, Eisai, Servier and Sirtex, speaking fees from 
+Amgen, Boston Scientific, HMP Education, Eisai, Roche and Servier 
+and travel conference support from Bayer, Roche, Ipsen and Servier. 
+R.G. took part in advisory boards for Merck, Amgen, Servier and Bayer. 
+R.B. declares consultancies, advisory board roles and/or institutional 
+donations from AstraZeneca, Boehringer Ingelheim, Novartis, MSD, 
+Otsuka, Lully, Roche, Amgen, GSK and Eisai. T.I. received honoraria 
+for educational symposia run by Servier. All other authors declare no 
+competing interests.
+
+Additional information
+Extended data is available for this paper at  
+https://doi.org/10.1038/s41591-023-02240-8.
+
+Supplementary information The online version  
+contains supplementary material available at  
+https://doi.org/10.1038/s41591-023-02240-8.
+
+Correspondence and requests for materials should be addressed  
+to Emile E. Voest or Nicola Valeri.
+
+Peer review information Nature Medicine thanks the anonymous 
+reviewers for their contribution to the peer review of this work.  
+Primary Handling Editors: Javier Carmona and Joao Monteiro, in 
+collaboration with the Nature Medicine team.
+
+Reprints and permissions information is available at  
+www.nature.com/reprints.
+
+http://www.nature.com/naturemedicine
+https://www.hartwigmedicalfoundation.nl/en/data/data-acces-request
+https://www.hartwigmedicalfoundation.nl/en/data/data-acces-request
+https://clinicaltrials.servier.com/data-request-portal/
+https://clinicaltrials.servier.com/data-request-portal/
+https://github.com/hartwigmedical/pipeline5
+https://github.com/hartwigmedical/pipeline5
+https://doi.org/10.1038/s41591-023-02240-8
+https://doi.org/10.1038/s41591-023-02240-8
+https://doi.org/10.1038/s41591-023-02240-8
+https://doi.org/10.1038/s41591-023-02240-8
+http://www.nature.com/reprints
+
+
+Nature Medicine
+
+Article https://doi.org/10.1038/s41591-023-02240-8
+
+Extended Data Fig. 1 | Codon-specific KRAS mutation frequencies in mCRC (MSKCC cohort1). WT: wild type; DM: double mutation.
+
+http://www.nature.com/naturemedicine
+
+
+Nature Medicine
+
+Article https://doi.org/10.1038/s41591-023-02240-8
+
+Extended Data Fig. 2 | Overview of the study and the cohorts used in the analyses.
+
+http://www.nature.com/naturemedicine
+
+
+Nature Medicine
+
+Article https://doi.org/10.1038/s41591-023-02240-8
+
+Extended Data Fig. 3 | Discovery of KRASG12 mutation status as potential 
+biomarker of outcome of FTD/TPI treatment in mCRC. a dot plot showing the 
+associations of candidate genomic biomarkers to time on FTD/TPI treatment 
+in the discovery cohort (n = 37). The exact log-rank test statistic (theta) for 
+treatment discontinuation for patients with the candidate biomarker versus 
+those without is plotted against the Benjamini-Hochberg-corrected false 
+
+discovery rate (FDR). The red line indicates the 5% FDR significance threshold.  
+b A Kaplan-Meier curve of time on treatment in the discovery cohort, for patients 
+without (black) or with (red) a KRASG12 mutation. Censoring events are indicated 
+by vertical bars on the corresponding curve. Dotted lines indicate the median 
+overall survival. The table underneath the plot denotes the numbers at risk.  
+The exact log-rank test-based two-sided P value is shown.
+
+http://www.nature.com/naturemedicine
+
+
+Nature Medicine
+
+Article https://doi.org/10.1038/s41591-023-02240-8
+
+Extended Data Fig. 4 | Associations of KRASG12 mutations with progression-
+free survival of 960 patients with mCRC receiving FTD/TPI treatment in a 
+real-world setting. Kaplan-Meier curves of progression-free survival in the full 
+population (left), RAS/RAF mutant population (middle), and KRAS exon 2 mutant 
+population (right), stratified based on the presence (red) or absence (black) 
+of a KRASG12 mutation. Censoring events are indicated by vertical bars on the 
+
+corresponding curve. Dotted lines indicate the median overall survival. The table 
+underneath each plot denotes the numbers at risk. Two-sided Wald test-based 
+P values are shown. *Unadjusted: By univariate Cox regression. **Adjusted: By 
+stratified, multivariate Cox regression, adjusted for eight baseline characteristics 
+(see methods). Note that none of the Cox regression models significantly 
+violated the proportional hazards assumption, despite crossing survival curves.
+
+http://www.nature.com/naturemedicine
+
+
+Nature Medicine
+
+Article https://doi.org/10.1038/s41591-023-02240-8
+
+Extended Data Fig. 5 | Kaplan-Meier curves of overall survival of KRASG12-
+mutated, KRASG13-mutated and KRASWT patients in the placebo arm of 
+the RECOURSE trial. Censoring events are indicated by vertical bars on the 
+corresponding curve. Dotted lines and corresponding annotation indicate the 
+
+median overall survival. The table underneath the plot denotes the numbers at 
+risk. Cox regression-based hazard ratio (HR), 95% confidence interval (CI) and 
+two-sided Wald test-based P values are plotted for pairwise comparisons.
+
+http://www.nature.com/naturemedicine
+
+
+Nature Medicine
+
+Article https://doi.org/10.1038/s41591-023-02240-8
+
+Extended Data Fig. 6 | Forest plot of hazard ratios and 95% CI for overall 
+survival with FTD/TPI versus placebo, for the KRASG12-mutated population 
+in amino acid change-based subgroups. The five most frequent KRASG12 amino 
+acid changes are shown as individual subgroups. KRASG12Other comprises all 
+patients with KRASG12 mutations that induce amino acid changes other than these 
+
+five most frequent changes. We excluded 21 patients with KRASG12 mutations for 
+which data on the amino acid change was missing. Two-sided Wald test-based  
+P values for interaction (as calculated using Cox regression) indicate if the 
+survival benefit of FTD/TPI treatment versus placebo was significantly different 
+for a specific subgroup, as compared to all patients with other KRASG12 mutations.
+
+http://www.nature.com/naturemedicine
+
+
+Nature Medicine
+
+Article https://doi.org/10.1038/s41591-023-02240-8
+
+Extended Data Fig. 7 | Progression-free survival in codon-specific KRAS 
+mutation-based subgroups in the RECOURSE trial. Forest plot of hazard  
+ratios for progression or death and 95% CI, stratified based on codon-specific 
+KRAS mutation status. Two-sided Wald test-based P values for interaction  
+(as calculated using Cox regression) indicate if the survival benefit of FTD/TPI 
+treatment versus placebo was significantly different between subgroups, for 
+
+which pairwise comparisons are indicated by the square brackets. *Unadjusted: 
+stratified for two stratification factors of the trial (time from diagnosis of 
+metastases [<18 mo versus ≥18 mo] and region [ Japan versus United States, 
+Europe, and Australia]). **Adjusted: adjusted by the two stratification factors 
+used in unadjusted analysis, plus eight additional baseline characteristics (see 
+methods). NE: not estimable.
+
+http://www.nature.com/naturemedicine
+
+
+Nature Medicine
+
+Article https://doi.org/10.1038/s41591-023-02240-8
+
+Extended Data Fig. 8 | Growth rate of patient-derived mCRC organoids versus 
+KRAS-based subgroup or in vitro trifluridine sensitivity. a The (log2) in vitro 
+growth rate of patient-derived mCRC organoids in the untreated condition 
+is plotted as stratified per KRAS mutation-based subgroup. Box center lines, 
+box ranges, whiskers, and dots indicate medians, quartiles, 1.5 interquartile 
+ranges, and data points of individual organoid lines, respectively. Colors of 
+dots denote the organoid line, as shown in the legend. Two-sided two sample 
+
+t-test-based P value is shown. b Half maximal inhibitory concentrations (IC50; 
+log2) for trifluridine of KRASWT (black; n = 3) and KRASG12 (red; n = 4) organoid 
+lines (x-axis), is plotted against the (log2) in vitro growth rate of patient-derived 
+mCRC organoids in the untreated condition (y-axis). The linear fit and 
+bootstrapping-obtained 95% confidence interval of the regression estimate is 
+denoted in dark and light blue, respectively. Pearson and Spearman correlation 
+coefficients and corresponding P values are shown.
+
+http://www.nature.com/naturemedicine
+
+
+1
+
+nature portfolio  |  reporting sum
+m
+
+ary
+M
+
+arch 2021
+
+Corresponding author(s): Emile E. Voest, Nicola Valeri
+
+Last updated by author(s): Jan 12, 2023
+
+Reporting Summary
+Nature Portfolio wishes to improve the reproducibility of the work that we publish. This form provides structure for consistency and transparency 
+in reporting. For further information on Nature Portfolio policies, see our Editorial Policies and the Editorial Policy Checklist.
+
+Statistics
+For all statistical analyses, confirm that the following items are present in the figure legend, table legend, main text, or Methods section.
+
+n/a Confirmed
+
+The exact sample size (n) for each experimental group/condition, given as a discrete number and unit of measurement
+
+A statement on whether measurements were taken from distinct samples or whether the same sample was measured repeatedly
+
+The statistical test(s) used AND whether they are one- or two-sided 
+Only common tests should be described solely by name; describe more complex techniques in the Methods section.
+
+A description of all covariates tested
+
+A description of any assumptions or corrections, such as tests of normality and adjustment for multiple comparisons
+
+A full description of the statistical parameters including central tendency (e.g. means) or other basic estimates (e.g. regression coefficient) 
+AND variation (e.g. standard deviation) or associated estimates of uncertainty (e.g. confidence intervals)
+
+For null hypothesis testing, the test statistic (e.g. F, t, r) with confidence intervals, effect sizes, degrees of freedom and P value noted 
+Give P values as exact values whenever suitable.
+
+For Bayesian analysis, information on the choice of priors and Markov chain Monte Carlo settings
+
+For hierarchical and complex designs, identification of the appropriate level for tests and full reporting of outcomes
+
+Estimates of effect sizes (e.g. Cohen's d, Pearson's r), indicating how they were calculated
+
+Our web collection on statistics for biologists contains articles on many of the points above.
+
+Software and code
+Policy information about availability of computer code
+
+Data collection Bioinformatics for whole genome sequencing data were performed as previously described, with an optimized pipeline based on open source 
+tools, including PURPLE v2.43 for somatic driver calling, which is freely available on GitHub (https://github.com/hartwigmedical/pipeline5). For 
+other data, did not use specific computer code for collection.
+
+Data analysis Kaplan-Meier method: R package = survminer 0.4.6; function = surv_median 
+Kaplan-Meier curve plotting: R package = survminer 0.4.6; function = ggsurvplot 
+Cox regression: R package = survival 3.2.7; function = coxph 
+Cox proportional hazards assumption testing: R package = survival 3.2.7; function = cox.zph 
+Fisher’s exact test: Python 3 package = scipy 1.4.1; function = stats.fisher_exact 
+Chi2 test: Python 3 package = scipy 1.4.1; function = stats.chi2_contingency 
+Wilcoxon rank sum test = scipy 1.4.1; function = stats.ranksums 
+Dose-response curve fitting: Graphpad Prism 9.0.0
+
+For manuscripts utilizing custom algorithms or software that are central to the research but not yet described in published literature, software must be made available to editors and 
+reviewers. We strongly encourage code deposition in a community repository (e.g. GitHub). See the Nature Portfolio guidelines for submitting code & software for further information.
+
+
+
+2
+
+nature portfolio  |  reporting sum
+m
+
+ary
+M
+
+arch 2021
+
+Data
+Policy information about availability of data
+
+All manuscripts must include a data availability statement. This statement should provide the following information, where applicable: 
+- Accession codes, unique identifiers, or web links for publicly available datasets 
+- A description of any restrictions on data availability 
+- For clinical datasets or third party data, please ensure that the statement adheres to our policy 
+
+ 
+
+Discovery cohort HMF 
+Sample identifiers and patient-level biomarker and clinical outcome data are available in Supplementary Table 2. Raw and processed genomics data are freely 
+available at Hartwig Medical Foundation through standardized procedures and request forms (https://www.hartwigmedicalfoundation.nl/en/data/data-acces-
+request). 
+ 
+Real-World validation cohort 
+The original data used in all analyses of the real-world validation cohort can be found Supplementary Table 7. 
+ 
+RECOURSE trial 
+The RECOURSE trial data can be accessed upon approval of a data request at Servier (https://clinicaltrials.servier.com/data-request-portal/). 
+ 
+MSKCC Colorectal Cancer Cohort 
+Somatic mutation data of the MSKCC cohort are freely available via the cBioportal for cancer genomics (http://cbioportal.org/msk-impact) and patient identifiers 
+are provided in Supplementary Table 1.
+
+Human research participants
+Policy information about studies involving human research participants and Sex and Gender in Research. 
+
+Reporting on sex and gender Throughout the manuscript, we report sex as an biological attribute, which was collected through self reporting. Sharing of 
+patient-level, pseudonymized clinical data, including sex, for research purposes was covered by the informed consents of the 
+individual studies and local legislation.
+
+Population characteristics Discovery cohort HMF 
+Patients with advanced or metastatic cancer for whom there is an indication for any systemic treatment were included in the 
+HMF database as part of the CPCT-02 (NCT01855477) clinical study. We included all patients in the HMF database who 
+received FTD/TPI as part of their standard-of-care treatment for advanced/metastatic, histologically proven, colorectal 
+carcinoma, which were identified in the HMF database in May 2018. The median age was 62 years (IQR 59-68), 38% was 
+(self-reported) female and 62% male, and the percentage of patients with KRAS G12 and other KRAS mutations were 54% 
+and 11%, respectively. All patients received FTD/TPI treatment as part of standard-of-care. As FTD/TPI is approved as final 
+line therapy, these were all late-stage patients. 
+ 
+Real-World Cohort (UK and Italy) 
+Retrospective collection of all sequential patients with advanced/metastatic, histologically proven, colorectal carcinoma 
+undergoing treatment with FTD/TPI following progression to prior lines of standard chemotherapy, with known codon- 
+specific RAS/RAF status known between November 2016 and March 2022. As reported in Table 1, the median age was 64 
+years (IQR 56-71), 41% was (self-reported) female and 59% male, 72% and 28% were diagnosed with colon and rectum 
+cancer, respectively, and the percentage of patients with KRAS G12, KRAS G13, KRAS other, NRAS and BRAF mutations were 
+36%, 9.0%, 5.5%, 6.4%, and 3.3%, respectively. All patients received FTD/TPI treatment as part of standard-of-care. As FTD/
+TPI is approved as final line therapy, these were all late-stage patients. 
+ 
+RECOURSE trial (population description from the original publication, by Mayer et al, NEJM 2015) 
+"Baseline demographic and disease characteristics were well balanced between the two study groups (Table 1). All the 
+patients had received prior chemotherapy regimens containing a fluoropyrimidine, oxaliplatin, and irinotecan; all but one 
+patient (in the placebo group) had received bevacizumab. All but two patients (one patient in each study group) with KRAS 
+wild-type tumors had received cetuximab or panitumumab. Regorafenib, an oral multikinase inhibitor, became available for 
+the management of previously treated colorectal cancer during the course of the study; 17% of the patients in the TAS-102 
+group, as compared with 20% of those in the placebo group, had received this drug. A large percentage of patients in both 
+study groups — 93% of patients receiving TAS-102 and 90% of those receiving placebo — had disease that had been 
+refractory to fluoropyrimidines when they were last exposed to this class of drugs. Moreover, 58% of the patients receiving 
+TAS-102 and 54% of the patients receiving placebo had disease that had been refractory to fluoropyrimidine when that drug 
+was administered as part of their last treatment regimen before study entry." 
+ 
+"Patients with biopsy-documented adenocarcinoma of the colon or rectum were eligible for participation in the study if they 
+had received at least two prior regimens of standard chemotherapies, which could have included adjuvant chemotherapy if a 
+tumor had recurred within 6 months after the last administration of this therapy; if they had either tumor progression within 
+3 months after the last administration of chemotherapy; or if they had had clinically significant adverse events from standard 
+chemotherapies that precluded the readministration of those therapies. Eligibility also required knowledge of tumor status 
+with regard to KRAS (i.e., wild-type or mutant), as reported by investigators. Patients were also required to have received 
+chemotherapy with each of the following agents: a fluoropyrimidine, oxaliplatin, irinotecan, bevacizumab, and — for patients 
+with KRAS wild-type tumors — cetuximab or panitumumab. In addition, patients had to be 18 years of age or older; have 
+adequate bone-marrow, liver, and renal function; and have an Eastern Cooperative Oncology Group (ECOG) performance 
+
+
+
+3
+
+nature portfolio  |  reporting sum
+m
+
+ary
+M
+
+arch 2021
+status of 0 or 1 (on a scale of 0 to 5, with 0 indicating no symptoms, 1 indicating mild symptoms, and higher numbers 
+indicating increasing degrees of disability)."
+
+Recruitment Discovery cohort HMF 
+Patients with advanced or metastatic cancer for whom there is an indication for any systemic treatment were included in the 
+HMF database as part of the CPCT-02 (NCT01855477) clinical study. The CPCT-02 study, patients were included by 41 
+academic, teaching and general hospitals across The Netherlands and collected material and clinical data by standardized 
+protocols. Metastatic cancer patients were asked to participate in the studies in any of the 41 participating hospitals. 
+Recruitment involved hundreds of medical specialists and research nurses which minimizes self-selection biases. Recruitment 
+was independent on tumor type. An important requirement for participation was the ability to safely undergo a tumor 
+biopsy. Health conditions and lesion site related risk could therefore have resulted in exclusion of patients. 
+ 
+Real-world validation cohort 
+As per above 
+ 
+RECOURSE trial (recruitment details from the original publication, by Mayer et al, NEJM 2015) 
+"Between June 17, 2012, and October 8, 2013, a total of 1002 patients were screened for eligibility, of whom 800 underwent 
+randomization, with 534 assigned to receive TAS-102 and 266 assigned to receive placebo (intention-to-treat population) 
+(details regarding the disposition of patients are provided in Fig. S1 in the Supplementary Appendix, available at NEJM.org). 
+Treatment was initiated in 798 patients, with 533 receiving TAS-102 and 265 receiving placebo (safety-analysis population). 
+All treated patients received their assigned study drug according to the randomization schema, and 760 could be evaluated 
+for assessment of tumor response (tumor-response population)."
+
+Ethics oversight HMF discovery cohort 
+The study was approved by the Medical Ethical Committee of the University Medical Center Utrecht and was conducted in 
+accordance with the Declaration of Helsinki. All patients provided written informed consent for collection, analysis and 
+pseudonymized sharing paired tumor-normal whole genome sequencing data and clinical characteristics for research 
+purposes. 
+ 
+Real-world validation cohort 
+For patients included from the UK, the study built on a UK National Audit (Stavraka et al. Clin Colorectal Cancer. 2021 
+Dec;20(4):342-349) and data were handled in accordance with the Declaration of Helsinki. Formal ethical approval for data 
+collection, analysis and pseudonymized sharing for research purposes was covered by UK Health Research Authority guidance 
+(NHS Health Research Authority. Service Evaluation Clinical/Non Financial Audit Usual Practice [in Public Health Including 
+Health Protection]. London: NHRA). For patients included in Italy, data collection, analysis and pseudonymized sharing for 
+research purposes was approved by the Institutional Review Board of the Fondazione IRCCS Ca’ Granda Ospedale Maggiore 
+Policlinico, Milano, Italy and was conducted in accordance with the Declaration of Helsinki. 
+ 
+RECOURSE trial (from the original publication, by Mayer et al, NEJM, 2015) 
+"The review board at each participating institution approved the study, which was conducted according to the principles of 
+the Declaration of Helsinki and the International Conference on Harmonisation Good Clinical Practice guidelines. All patients 
+provided written informed consent." 
+ 
+Patient-derived organoid (PDO) cohort 
+The study was approved by the Medical Ethical Committee of the Netherlands Cancer Institute and was conducted in 
+accordance with the Declaration of Helsinki. All patients provided written informed consent for organoid culture and 
+collection, analysis and pseudonymized sharing of clinical characteristics for research purposes. 
+
+Note that full information on the approval of the study protocol must also be provided in the manuscript.
+
+Field-specific reporting
+Please select the one below that is the best fit for your research. If you are not sure, read the appropriate sections before making your selection.
+
+Life sciences Behavioural & social sciences  Ecological, evolutionary & environmental sciences
+
+For a reference copy of the document with all sections, see nature.com/documents/nr-reporting-summary-flat.pdf
+
+Life sciences study design
+All studies must disclose on these points even when the disclosure is negative.
+
+Sample size A priori sample size calculations were not performed. Sample sizes were determined by the max amount of patients/samples with available 
+data. 
+ 
+Discovery cohort: All patients in the HMF database who received FTD/TPI as part of their standard-of-care treatment for mCRC were identified 
+in May 2018. 
+ 
+Real-World Cohort (UK and Italy): Clinical pathological and molecular data of all the sequential patient treated with FTD/TPI at 35 centers in 
+Italy and UK between between November 2016 and March 2022 were retrieved accessing electronic patients records (n=1012). 52 patients 
+were excluded from the analysis as explained below, leading the final number of analyzed cases to n=960. 
+
+
+
+4
+
+nature portfolio  |  reporting sum
+m
+
+ary
+M
+
+arch 2021
+ 
+RECOURSE trial: All 800 included patients. 
+ 
+MSKCC Colorectal Cancer Cohort: All samples with 'GeneralTumorType' = 'Colorectal Cancer' were included. TCGA Colorectal Cancer Cohort: 
+All samples with 'Primary Site' = 'Colon' or 'Rectum' were included.
+
+Data exclusions Discovery cohort: No exclusions 
+RECOURSE trial: No exclusions 
+Real-World Cohort (UK and Italy): 52 patients were excluded as NRAS and/or BRAF status was not available. 
+MSKCC Colorectal Cancer Cohort: No exclusions 
+TCGA Colorectal Cancer Cohort: Only patients with available consensus molecular subtypes (CMS) were considered
+
+Replication The main finding of the manuscript that KRAS G12 mutations are associated with reduced OS in patients with mCRC upon treatment with FTD/
+TPI was found in a discovery cohort, replicated in a large real-world cohort and in the RECOURSE trial. The RECOURSE trial-based analysis 
+showed that this was based on a predictive effect. This RECOURSE trial-based analysis was prespecified in a formal data request before access 
+to the data was granted, which minimizes potential biases. The finding that KRAS G13 patients have improved OS upon treatment with FTD/
+TPI was discovered in the large real-world cohort, as these patients were absent in the smaller discovery cohort. This finding was then 
+replicated with re-analysis of the RECOURSE trial (also pre-specified in our formal data request), which showed that this was based on a 
+predictive effect. 
+ 
+In vitro results: 
+The colony formation assays (Figure 4A-B) were independently repeated three times with similar results. 
+FTD/TPI sensitivity testing of isogenic cells lines (Figure 4C-D) was independently repeated four times with similar results. 
+FTD/TPI sensitivity testing of KRAS wild type organoid lines (Figure 4E-F) was independently repeated three times with similar results. 
+FTD/TPI sensitivity testing of KRAS G12 mutant organoid lines (Figure 4E-F) was independently repeated four times with similar results. 
+Western blot analysis of SW48 isogenic cell lines (Figure 4G) was independently repeated three times with similar results. 
+Western blot analysis of Colo320 isogenic cell lines (Figure 4G) was independently repeated two times with similar results. 
+5-FU sensitivity testing of isogenic cells lines (Figure 4I-J) was independently repeated three times with similar results. 
+5-FU sensitivity testing of organoids (Figure 4K-L) was independently repeated three times with similar results. 
+
+Randomization Experimental subgroups were either determined by KRAS codon-specific mutation status, a non-random procedure, or (in the RECOURSE trial) 
+by treatment status (FTD/TPI vs placebo), a random procedure. In the real-world cohort-based analyses, we reported subgroup-specific 
+differences in baseline characteristics in the main text and Table 1, and adjusted for these differences using multivariate Cox regression. In the 
+RECOURSE trial-based analyses, we reported subgroup-specific differences in baseline characteristics in the main text and Table 2, and 
+adjusted for these differences using multivariate Cox regression. Furthermore, we specifically compared the KRAS G12 mutant subgroup with 
+the other RAS/RAF mutant subgroup, which were two subgroups with very similar baseline characteristics (see Table 1 and Table 2).
+
+Blinding Discovery cohort HMF 
+Collection of genomics data and bioinformatics analysis were performed prospectively and hence blinded for clinical outcomes. Collection of 
+clinical outcomes was performed by trained research nurses and medical doctors at the sites of inclusion, who were blinded, as they lacked 
+knowledge about the research question of our study. Data analysis happened in an unblinded fashion. 
+ 
+Real-world Cohort (UK and Italy) 
+Collection of clinical outcomes was performed by trained research nurses and medical doctors at the sites of inclusion, who were blinded, as 
+they lacked knowledge about the research question of our study. Data analysis happened in an unblinded fashion. 
+ 
+RECOURSE trial 
+The RECOURSE trial was a double-blind study. Details on this process can be found in the original publication (Mayer et al, NEJM 2015). In this 
+re-analysis, data analysis was prespecified in a formal and detailed data request before access to the data was granted, but happened in an 
+unblinded fashion. 
+ 
+In vitro experimentation occurred in an unblinded fashion, as the experimenters generated the appropriate models for their experiments, but 
+given standardized procedures for data readout (automated cell viability readouts and Western blotting) the risk of potential biases was 
+limited. 
+
+Reporting for specific materials, systems and methods
+We require information from authors about some types of materials, experimental systems and methods used in many studies. Here, indicate whether each material, 
+system or method listed is relevant to your study. If you are not sure if a list item applies to your research, read the appropriate section before selecting a response. 
+
+
+
+5
+
+nature portfolio  |  reporting sum
+m
+
+ary
+M
+
+arch 2021
+Materials & experimental systems
+n/a Involved in the study
+
+Antibodies
+
+Eukaryotic cell lines
+
+Palaeontology and archaeology
+
+Animals and other organisms
+
+Clinical data
+
+Dual use research of concern
+
+Methods
+n/a Involved in the study
+
+ChIP-seq
+
+Flow cytometry
+
+MRI-based neuroimaging
+
+Antibodies
+Antibodies used  The following primary antibodies were used: phospho-Histone H2A.X (Ser139) (#05-636) was purchased from Sigma-Aldrich; HSP 
+
+90α/β (#sc-13119) was purchased from Santa Cruz Biotechnology. 
+The following secondary antibodies were used: Anti-mouse IgG, HRP-linked antibody (#7076, Cell Signaling Technology). 
+All antibodies were diluted 1:1000 in PBS plus 5% BSA.
+
+Validation phospho-Histone H2A.X (Ser139) (#05-636, Sigma-Aldrich): https://www.sigmaaldrich.com/NL/en/product/mm/05636i 
+ 
+HSP 90α/β (#sc-13119, Santa Cruz Biotechnology): https://www.scbt.com/p/hsp-90alpha-beta-antibody-f-8 
+ 
+Anti-mouse IgG, HRP-linked antibody (#7076, Cell Signaling Technology): https://www.cellsignal.com/products/secondary-antibodies/
+anti-mouse-igg-hrp-linked-antibody/7076
+
+Eukaryotic cell lines
+Policy information about cell lines and Sex and Gender in Research
+
+Cell line source(s) SW48 isogenic cell lines (KRAS wild type, KRAS G12V mutant): Provided by Alberto Bardelli (IFOM, Milan) and his team. 
+Colo320 parental cell line (KRAS wild type): Provided by Rene Bernards and his team. 
+ 
+All organoid lines were established within our own research group using patient-derived tumor material.
+
+Authentication SW48 isogenic cell lines: We confirmed KRAS WT/G12V status with targeted sequencing. 
+Colo320 isogenic cell lines: We confirmed KRAS WT/G12D status with targeted sequencing. 
+All organoid lines: we confirmed KRAS codon-specific mutation status with targeted sequencing and performed SNP testing 
+on organoids and primary patient material to confirm the patient of origin.
+
+Mycoplasma contamination All cell and organoid lines were confirmed to be negative for Mycoplasma contamination.
+
+Commonly misidentified lines
+(See ICLAC register)
+
+No commonly misidentified lines were used.
+
+Clinical data
+Policy information about clinical studies
+All manuscripts should comply with the ICMJE guidelines for publication of clinical research and a completed CONSORT checklist must be included with all submissions.
+
+Clinical trial registration Discovery cohort HMF: NCT01855477 
+RECOURSE study: NCT01607957 
+Real-World Cohort (UK and Italy) retrospective analysis no clinical trial registration.
+
+Study protocol Discovery cohort HMF: The study protocol of NCT01855477 has not been published publicly, but is available upon reasonable 
+request. 
+Real-World Cohort (UK and Italy) retrospective analysis. Study protocol available upon request. 
+RECOURSE study: https://www.nejm.org/doi/suppl/10.1056/NEJMoa1414325/suppl_file/nejmoa1414325_protocol.pdf
+
+Data collection Discovery cohort HMF 
+Data was collected by trained clinicians and research nurses at 13 academic, teaching, and regional hospitals throughout the 
+Netherlands. All patients were accrued between April 2016 and January 2018. 
+ 
+Real-world validation cohort 
+Retrospective collection of clinical-pathological and molecular data was performed by trained clinicians and research nurses in 36 
+academic, teaching and regional hopsitals in Italy and the UK (see Supplementary Table 7 for participating centers and inclusion 
+numbers) for all consecutive mCRC patients treated with FTD/TPI was performed between November 2016 and March 2022. 
+ 
+RECOURSE study 
+Patients were accrued at multiple hospitals globally, as described in the original publication (Mayer et al, NEJM, 2015). All patients 
+were accrued between June 17, 2012, and October 8, 2013.
+
+
+
+6
+
+nature portfolio  |  reporting sum
+m
+
+ary
+M
+
+arch 2021
+Outcomes In the real-world discovery analysis, we searched for genome-wide somatic variants associated with OS and time on FTD/TPI 
+
+treatment as endpoints. In the real-world validation analysis, the primary and secondary objective was to assess the association of 
+KRAS G12 mutation with OS and PFS, respectively, in the population as a whole and in RAS/RAF mutation-based subpopulations. All 
+endpoints used in real-life analyses were measured from start of FTD/TPI treatment and evaluated at participating institutions over 
+the treatment course according to local practice. In our re-analysis of the RECOURSE trial, we tested OS and PFS benefit of FTD/TPI vs 
+placebo as primary and secondary endpoints, respectively, in subgroups defined by codon-specific KRAS mutation status. This was in 
+accordance with the hierarchy of endpoints prespecified in the RECOURSE trial protocol and these re-analyses were prespecified in a 
+formal data request to the sponsor of the RECOURSE study before access to the data was granted.
+
+
+	Codon-specific KRAS mutations predict survival benefit of trifluridine/tipiracil in metastatic colorectal cancer
+	Results
+	KRASG12 mutations as potential biomarkers for FTD/TPI treatment
+	KRAS mutations and real-world survival on FTD/TPI treatment
+	KRAS mutations and survival in the RECOURSE trial
+	KRASG12 mutations and FTD/TPI resistance in vitro
+
+	Discussion
+	Online content
+	Fig. 1 Discovery of KRASG12 mutation status as potential biomarker of outcome of FTD/TPI treatment in mCRC.
+	Fig. 2 Associations of RAS/RAF mutations with the OS of 960 patients with mCRC receiving FTD/TPI treatment in a real-world setting.
+	Fig. 3 KRAS mutations and OS benefit of FTD/TPI versus placebo in the RECOURSE trial.
+	Fig. 4 KRASG12 mutations and in vitro resistance to FTD in isogenic cell lines and PDOs of mCRC.
+	Extended Data Fig. 1 Codon-specific KRAS mutation frequencies in mCRC (MSKCC cohort1).
+	Extended Data Fig. 2 Overview of the study and the cohorts used in the analyses.
+	Extended Data Fig. 3 Discovery of KRASG12 mutation status as potential biomarker of outcome of FTD/TPI treatment in mCRC.
+	Extended Data Fig. 4 Associations of KRASG12 mutations with progression-free survival of 960 patients with mCRC receiving FTD/TPI treatment in a real-world setting.
+	Extended Data Fig. 5 Kaplan-Meier curves of overall survival of KRASG12-mutated, KRASG13-mutated and KRASWT patients in the placebo arm of the RECOURSE trial.
+	Extended Data Fig. 6 Forest plot of hazard ratios and 95% CI for overall survival with FTD/TPI versus placebo, for the KRASG12-mutated population in amino acid change-based subgroups.
+	Extended Data Fig. 7 Progression-free survival in codon-specific KRAS mutation-based subgroups in the RECOURSE trial.
+	Extended Data Fig. 8 Growth rate of patient-derived mCRC organoids versus KRAS-based subgroup or in vitro trifluridine sensitivity.
+	Table 1 Baseline characteristics of patients in the real-world validation cohort, stratified according to codon-specific RAS/RAF mutation status.
+	Table 2 Baseline characteristics of patients in the RECOURSE trial intention-to-treat population, stratified according to codon-specific KRAS mutation status.
+	Table 3 Statistical methods and associated software.
+
+
+
+

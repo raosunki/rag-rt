@@ -1,0 +1,2013 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DB22en08_proof.pdf
+
+
+Comparison of Tofogliflozin and
+Glimepiride Effects on
+Nonalcoholic Fatty Liver Disease
+in Participants With Type 2
+Diabetes: A Randomized,
+48-Week, Open-Label, Active-
+Controlled Trial
+Diabetes Care 2022;45:2064–2075 | https://doi.org/10.2337/dc21-2049
+
+Yumie Takeshita,1 Masao Honda,2
+
+Kenichi Harada,3 Yuki Kita,1
+
+Noboru Takata,2 Hiromasa Tsujiguchi,4
+
+Takeo Tanaka,1 Hisanori Goto,1
+
+Yujiro Nakano,1 Noriho Iida,2
+
+Kuniaki Arai,2 Tatsuya Yamashita,2
+
+Eishiro Mizukoshi,2 Hiroyuki Nakamura,4
+
+Shuichi Kaneko,2 and
+
+Toshinari Takamura1
+
+OBJECTIVE
+
+Nonalcoholic fatty liver disease (NAFLD) is a liver phenotype of type 2 diabetes
+and obesity. Currently, the efficacy of sodium–glucose cotransporter 2 (SGLT2) in-
+hibitors and sulfonylureas in liver pathology and hepatic gene expression profiles
+for type 2 diabetes with NAFLD are unknown.
+
+RESEARCH DESIGN AND METHODS
+
+We conducted a 48 week, randomized, open-label, parallel-group trial involving
+participants with biopsy-confirmed NAFLD. A total of 40 participants were ran-
+domly assigned to receive once daily 20 mg tofogliflozin or 0.5 mg glimepiride.
+The primary outcome was the percentage of participants with at least an im-
+provement in all individual scores for histological categories of steatosis, hepato-
+cellular ballooning, lobular inflammation, and fibrosis by at least 1 point. The
+secondary end points were the changes in liver enzymes, metabolic markers, and
+hepatic gene expression profiles.
+
+RESULTS
+
+Fibrosis scores improved in the tofogliflozin group (60%, P = 0.001), whereas the
+change from baseline did not differ significantly between the groups (P = 0.172).
+The histological variables of steatosis (65%, P = 0.001), hepatocellular ballooning
+(55%, P = 0.002), and lobular inflammation (50%, P = 0.003) were improved in the
+tofogliflozin group, whereas only hepatocellular ballooning was improved in the
+glimepiride group (25%, P = 0.025). Hepatic gene expression profiling revealed
+histology-associated signatures in energy metabolism, inflammation, and fibrosis
+that were reversed with tofogliflozin.
+
+CONCLUSIONS
+
+Tofogliflozin and, to a lesser degree, glimepiride led to liver histological and met-
+abolic improvement in participants with type 2 diabetes and NAFLD, with no sig-
+nificant difference between the agents. The hepatic expression of the genes
+involved in energy metabolism, inflammation, and fibrosis was well correlated
+with liver histological changes and rescued by tofogliflozin. We need further con-
+firmation through long-term larger-scale clinical trials of SGLT2 inhibitors.
+
+1Department of Endocrinology and Metabolism,
+Graduate School of Medical Sciences, Kanazawa
+University, Kanazawa, Ishikawa, Japan
+2Department of Gastroenterology, Graduate
+School of Medical Sciences, Kanazawa University
+Kanazawa, Ishikawa, Japan
+3Department of Human Pathology, Graduate
+School of Medical Sciences, Kanazawa University,
+Kanazawa, Ishikawa, Japan
+4Department of Environmental and Preventive
+Medicine, Faculty of Medicine, Institute of Medical,
+Pharmaceutical and Health Sciences, Kanazawa
+University, Kanazawa, Ishikawa, Japan
+
+Corresponding author: Toshinari Takamura,
+ttakamura@med.kanazawa-u.ac.jp
+
+Received 1 October 2021 and accepted 21 May
+2022
+
+Clinical trial reg. nos. NCT02649465, clinicaltrials.gov;
+jRCTs041180132, https://rctportal.niph.go.jp/en/; and
+UMIN-000020544, https://rctportal.niph.go.jp/en
+
+This article contains supplementary material online
+at https://doi.org/10.2337/figshare.20068982.
+
+© 2022 by the American Diabetes Association.
+Readers may use this article as long as the
+work is properly cited, the use is educational
+and not for profit, and the work is not altered.
+More information is available at https://www.
+diabetesjournals.org/journals/pages/license.
+
+EM
+ER
+
+G
+IN
+G
+TH
+
+ER
+A
+P
+IE
+S:
+
+D
+R
+U
+G
+S
+A
+N
+D
+R
+EG
+
+IM
+EN
+
+S
+
+2064 Diabetes Care Volume 45, September 2022
+
+mailto:ttakamura@med.kanazawa-u.ac.jp
+https://clinicaltrials.gov
+https://rctportal.niph.go.jp/en/
+https://rctportal.niph.go.jp/en
+https://doi.org/10.2337/figshare.20068982
+https://www.diabetesjournals.org/journals/pages/license
+https://www.diabetesjournals.org/journals/pages/license
+http://crossmark.crossref.org/dialog/?doi=10.2337/dc21-2049&domain=pdf&date_stamp=2022-08-19
+
+
+Nonalcoholic fatty liver disease (NAFLD),
+ranging from simple fatty liver to nonal-
+coholic steatohepatitis (NASH), is a liver
+phenotype of metabolic disorders, such
+as diabetes, obesity, and dyslipidemia
+(1). NAFLD and type 2 diabetes share
+epidemiological and pathophysiological
+features. Specifically, hyperglycemia is
+closely associated with liver fibrosis (2),
+which is associated with liver cirrhosis,
+hepatocellular carcinoma, and prognosis
+in participants with NASH (3–5).
+To date, some antidiabetes agents have
+
+been tested in participants with NAFLD
+(6–9). The guidelines in the Asian Pacific,
+European, and American associations rec-
+ommended the administration of a per-
+oxisome proliferator–activated receptor-
+g (PPAR g) agonist (pioglitazone) and
+glucagon-like peptide receptor agonists
+(GLP-1 RA) for the treatment of diabetes
+with NAFLD/NASH (10–12). However, there
+are concerns about adverse effects, such as
+weight gain, edema, fractures, and carcino-
+genesis, with pioglitazone or gastrointestinal
+adverse effects and medication burden as
+an injection with GLP-1 RA. Because all of
+these antidiabetes agents significantly re-
+duced glycemic levels compared with pla-
+cebo, liver histological improvement may
+be theoretically attributable to glucose re-
+duction itself.
+Both sodium–glucose cotransporter 2
+
+(SGLT2) inhibitors and sulfonylureas are
+chosen as second-line therapy when glyce-
+mic control cannot be achieved with metfor-
+min or as first-line therapy when metformin
+is contraindicated or not tolerated (13).
+In animal models of NAFLD/NASH,
+
+SGLT2 inhibitors protect against fibrosis
+(14,15), steatosis (15), and inflammation
+(15). Ipragliflozin improved liver histology
+due to reduction of the hepatic triglycer-
+ides and lipotoxicity in NASH-model mice
+with type 2 diabetes (15). To our knowledge,
+among past studies investigating effects
+of SGLT2 inhibitors on NAFLD in partici-
+pants with type 2 diabetes, most of them
+have demonstrated that SGLT2 inhibitors
+exert protective effects on liver enzymes
+(16–20) and liver steatosis evaluated with
+MRS (21–26). To date, three studies have
+evaluated liver histology. Two were single-
+arm observation studies lacking a control
+group (27,28). However, these studies
+lacked a control group or histological ex-
+amination, which precludes meaningful
+conclusions since the natural course of
+the disease or tight glycemic control
+may ameliorate liver histology in some
+
+participants with NAFLD (2). Only one
+study evaluated the effects of ipragliflo-
+zin versus conventional treatments on
+liver histology in a 72 week randomized
+controlled trial (29). In this study, ipra-
+gliflozin reduced ballooning and fibrosis,
+but, unexpectedly, not steatosis scores.
+
+Sulfonylureas are still reliable and
+potent antidiabetes agents in insulino-
+penic participants with type 2 diabe-
+tes and therefore are used as second-
+line therapy, especially when the cost
+is a significant issue. Past studies sug-
+gest that sulfonylureas are associated
+with NAFLD progression or adverse out-
+comes such as hepatocellular carcinoma
+(30–32), possibly via exaggerating insulin
+secretion and thereby enhancing weight
+gain and SREBP-1c–driven de novo lipo-
+genesis. On the other hand, sulfonylur-
+eas reduce glucose and thereby may
+reduce carbohydrate response element
+binding protein (ChREBP)-1–driven de
+novo lipogenesis. Therefore, sulfonylur-
+eas may render positive and negative ef-
+fects, respectively, on liver pathology in
+NAFLD/NASH. In the phase 3 trial, cana-
+gliflozin was noninferior to glimepiride for
+the reduction of hemoglobin A1c (HbA1c)
+at 52 weeks (33). However, the differ-
+ences between SGLT2 inhibitors and sul-
+fonylureas on NAFLD participants with
+type 2 diabetes under similar glucose
+level reduction remain uncertain.
+
+The clinicopathological analyses re-
+vealed that the reduction in HbA1c and
+the use of insulin independently con-
+tribute to the reduction in liver fibrosis
+scores during the histological course of
+NAFLD development (2). These findings
+led us to hypothesize that glycemic con-
+trol and insulin ameliorate or protect
+against the histological progression of
+liver fibrosis in participants with NAFLD.
+
+In the current study, we investigated
+the efficacy of SGLT2 inhibitor tofogliflo-
+zin and sulfonylurea glimepiride, which
+lower glucose levels similarly with reduction
+and elevation in circulating insulin levels,
+respectively, in NAFLD participants with
+type 2 diabetes for 48 weeks by examin-
+ing liver histology as well as hepatic en-
+zymes, metabolic markers, and hepatic
+gene expression profiles.
+
+RESEARCH DESIGN AND METHODS
+
+Participants
+This randomized, open-label, active-controlled
+trial was conducted at a single center
+
+(Kanazawa University Hospital) in Japan.
+The trial consisted of a 48 week treat-
+ment period. The protocol was approved
+by the Kanazawa University Certified Review
+Board, Ishikawa, Japan (CRB4180005).
+This trial was registered with ClinicalTrials.
+gov number NCT02649465 and the Japan
+Registry of Clinical Trials (jRCTs041180132)
+from UMIN 000020544.
+
+Eligibility for the trial was determined
+at screening using standard blood tests,
+clinical history (including written confir-
+mation of drug history, where necessary),
+and physical examination/observations to
+identify other illnesses or contraindications.
+
+Fatty liver is clinically diagnosed when
+a bright liver or hepatorenal echo con-
+trast is observed on the abdominal ultra-
+sonography. We excluded all other liver
+disorders in each patient. All participants
+reported drinking <20 g/day of ethanol.
+All liver biopsies were performed during
+hospitalizations. All biopsies were ob-
+tained after a thorough clinical evalua-
+tion and obtaining a receipt of signed
+informed consent from each patient. The
+trial entry criteria are based on a diagno-
+sis of “definite” NAFLD with type 2 dia-
+betes on liver biopsy specimen obtained
+within 12 weeks of screening. All the
+participants had to be $20 years of age
+at the time of the initial screening.
+
+Key exclusion criteria included hepatic
+virus infections, autoimmune hepatitis,
+primary biliary cirrhosis, and the use of
+agents known to induce steatosis or ex-
+cessive alcohol consumption. Full eligibil-
+ity criteria are in the protocol study (34).
+
+Study Design
+The schedules for the study visits and
+data collection are summarized in Supple-
+mentary Table 1. All of the participants
+were asked to attend each visit under a
+minimum 8 h fasting state before each
+visit. A follow-up liver biopsy was obtained
+under ultrasound guidance after comple-
+tion of the 48 week study treatment.
+
+Participants were randomly assigned on
+a 1:1 ratio to receive once-daily tofogliflo-
+zin at a dose of 20 mg or glimepiride at an
+initial dose of 0.5 mg. Randomization was
+performed with the use of computer-
+generated randomization. The participants
+in the SGLT2 inhibitor group received tofo-
+gliflozin (fixed dose of 20 mg/day; brand
+name: Deberza, Kowa Company Ltd., Na-
+goya, Japan), and the participants in the
+sulfonylurea group received glimepiride
+
+diabetesjournals.org/care Takeshita and Associates 2065
+
+https://ClinicalTrials.gov
+https://ClinicalTrials.gov
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+
+
+(starting from 0.5 mg/day and titrated up
+to 6.0 mg/day; Sanofi-Aventis, Quebec,
+Canada) for 48 weeks (Supplementary
+Fig. 1). Previous treatment with oral anti-
+diabetes drugs and metabolic-related med-
+ications was continued at the same dose
+in participants from 12 weeks before enroll-
+ment. The participants were not allowed
+any new prescriptions or dose changes.
+
+In addition to study medications, the
+participants continued to undergo life-
+style modifications (i.e., exercise, weight
+loss, and dietary adjustment) and man-
+agement of various coexisting illnesses
+throughout the trial. The participants
+were asked to limit alcohol consumption
+to <20 g/day for women and 30 g/day
+for men. All of the participants received
+an hour of nutritional counseling by an
+experienced dietitian before the 48 week
+treatment period. The experienced dieti-
+tians were unaware of the study assign-
+ments. In addition, all of the participants
+were given a standard calorie diet
+(30 kcal/kg/day; carbohydrates, 50–60%;
+fat, 20–30%; and protein, 15–20%) and
+exercise (5–6 MET estimations for 30 min
+daily) counseling before the study.
+
+Screening biopsy results were used as
+the baseline for histological variables,
+and a second biopsy was performed at
+week 48. A single pathologist (K.H.),
+who was blind to both clinical informa-
+tion (e.g., treatment assignments, par-
+ticipants' characteristics, and the order
+in which the biopsy specimens were ob-
+tained), histologically evaluated all bi-
+opsy specimens. The biopsied tissues
+were scored for steatosis (from 0 to 3),
+stage (from 0 to 4), and grade (from 0
+to 3), as previously described (35), ac-
+cording to the standard criteria of Brunt
+et al. (36). The NAFLD activity score
+(NAS) was calculated as the unweighted
+sum of the scores for steatosis (0–3),
+lobular inflammation (0–3), and hepato-
+cellular ballooning (0–2) (37).
+
+Outcomes
+The primary outcome measure was as-
+sessed using an intention-to-treat analy-
+sis of the percentage of participants with
+at least 1 point improvement in each his-
+tological score of steatosis, hepatocellu-
+lar ballooning, lobular inflammation, and
+fibrosis between liver biopsies at base-
+line and after 48 weeks of treatment.
+
+Confirmatory secondary histological end
+points included the changes in the overall
+
+NAS, individual components of NAS, and
+fibrosis stages. Other secondary end points
+included changes in serum liver-related
+markers, glucose metabolism, body com-
+positions, lipid profiles, oxidative stress
+markers, and cytokines levels; details are
+in the protocol study (34).
+
+The body composition was predicted
+using a segmental bioelectrical impedance
+analysis (InBody 720). This device provides
+information about body fat mass, per-
+centage of body fat, and skeletal muscle
+mass, among others. The measurement
+procedure required the subject to stand
+with bare feet on the analyzer and to
+hold a pair of handgrips, one in each
+hand. These conditions refer to the manu-
+facturer’s recommended standard condi-
+tions for the InBody 720 device, which
+works by the segmental multifrequency-
+bioelectrical impedance analysis method.
+
+The Fibrosis-4 (FIB-4) index is a non-
+invasive tool (i.e., FIB-4 index = age ×
+AST/[platelet count × (ALT)1/2]) for as-
+sessing liver fibrosis. The FIB-4 index is
+easy to use in clinical practice, and its
+diagnostic capability for advanced fibro-
+sis is comparable to that of magnetic
+resonance elastography (38).
+
+Serial gene expression analyses were
+performed using liver biopsy samples ob-
+tained from participants before and after
+administration of tofogliflozin or glime-
+piride. The liver biopsy specimens stored
+in liquid nitrogen were once immersed
+in RNAlater (Ambion, Austin, TX) over-
+night and homogenized in lysis buffer by
+TissueLyser (Qiagen, Hilden, Germany).
+Total RNA was isolated using the RNAqu-
+eous kit (Ambion), as previously reported
+(39). The quality of the isolated RNA was
+estimated after electrophoresis using an
+Agilent 2100 Bioanalyzer (Palo Alto, CA).
+RNA sequencing (RNA-seq) was performed
+by using the SMART-Seq Stranded Kit (Takara
+Bio, Kusatsu, Shiga, Japan) and NovaSeq
+6000 Sequencing System (Illumina, San Di-
+ego, CA). Expression data were processed
+by BRB-ArrayTools (https://brb.nci.nih.gov/
+BRB-ArrayTools). In brief, the library prep-
+aration was performed by using SMART-
+Seq Stranded Kit (Takara Bio) following
+the manufacturer’s recommendations.
+PCR was performed for 5 cycles before
+rRNA depletion and 15 cycles during the
+last library amplification. The libraries
+were sequenced on the Illumina Nova-
+Seq 6000. The paired-end reads of each
+sample were aligned to the human ge-
+nome (hg38) using Subread (40), and
+
+transcript abundance was shown by the
+count data using high-throughput se-
+quence analysis (41). Count data were fil-
+tered and normalized by BRB-ArrayTools
+(https://brb.nci.nih.gov/BRB-ArrayTools).
+Differentially expressed genes of paired
+samples were obtained by edgeR with
+the generalized linear model likelihood
+ratio test approach. Functional ontology
+enrichment analysis was conducted to
+compare the Kyoto Encyclopedia of
+Genes and Genomes (KEGG) pathways
+and the gene ontology of the biological
+processes distribution of the differen-
+tially expressed genes. Least squares/
+Kolmogorov-Smirnov permutation tests
+were performed for pathway compari-
+son (P < 0.005) (BRB-ArrayTools). Gene
+set enrichment analysis was done using
+the single-cell RNA-seq gene signature
+(42). To characterize which cell compo-
+nents contributed to the gene expression,
+representative gene sets of hepatocytes
+(1–6), cholangiocytes, central liver sinusoi-
+dal endothelial cells (LSECs), periportal
+LSECs, portal endothelial cells, stellate cells,
+inflammatory macrophages, noninflamma-
+tory macrophages, abT cells, gdT cells-1,
+gdT cells-2, natural killer cells, mature B
+cells, plasma cells, and erythroid cells were
+retrieved from a previously reported study
+(42). Functional ontology enrichment anal-
+ysis was conducted to compare the distri-
+bution of the differentially expressed genes
+in each cell component.
+
+Statistical Analysis
+At the time of the study design, we had
+no available data to estimate the histolog-
+ical response with a 48 week treatment
+using tofogliflozin and glimepiride. There-
+fore, we estimated the sample size based
+on findings of other studies on non-
+SGLT2 inhibitors as follows: Based on
+clinical trials of non-SGLT2 inhibitors for
+NAFLD that had improvements in liver
+histology as a primary end point, we as-
+sumed that 52.6–69.0% of participants
+undergoing treatment would demonstrate
+an improvement in NAFLD (7,43). We es-
+timated that there would be an improve-
+ment in liver histology in 17.6–19.0% of
+the placebo-control arm participants, based
+on the literature (7,43). We calculated a
+sample size of 14 in each group, for a sig-
+nificance level of 0.05 (type I error) and a
+power of 0.90 (type II error). This design
+required 40 evaluable participants in the
+treatment group. The published literature
+
+2066 Tofogliflozin Versus Glimepiride in NAFLD Diabetes Care Volume 45, September 2022
+
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+https://brb.nci.nih.gov/BRB-ArrayTools
+https://brb.nci.nih.gov/BRB-ArrayTools
+https://brb.nci.nih.gov/BRB-ArrayTools
+
+
+in NAFLD trials reported, an average partic-
+ipant withdrawal rate of 10–20% (43,44).
+The statistical analyses were performed
+
+with an intention-to-treat principle to as-
+certain safety and adverse effects. Base-
+line characteristics of the two study groups
+are summarized with frequencies for cate-
+gorical variables and with means (SD) in
+the normally distributed variables or me-
+dian (interquartile range) in the nonnor-
+mally distributed continuous variables. We
+performed the Shapiro-Wilk test to evalu-
+ate the assumption of a normal distribu-
+tion. The between-group comparison at
+baseline was performed with the x2 test
+or the Fisher test for categorical variables
+and with the Mann-Whitney U test in the
+nonnormal distribution or the two-sample
+t test in the normal distribution for contin-
+uous parameters.
+We statistically evaluated changes in
+
+each histological score before and after
+the intervention with the Wilcoxon signed
+rank test and between the groups for the
+treatment effect (change from baseline)
+with the x2 test, according to analyses of
+previous hepatic histological scores (6).
+Primary outcomes measures are eight be-
+cause each of the four histological fea-
+tures was analyzed in the two treatments
+arms. The significance of differences was
+defined as P < 0.00625 (0.05/8), adjust-
+ing for the Bonferroni multiple testing.
+The intergroup comparison of contin-
+
+uous parameters was performed with
+the Mann-Whitney U test in the non-
+normal distribution or the two-sample
+t test in the normal distribution. The inter-
+nal group comparison between baseline
+and 48 weeks was performed with the
+Wilcoxon signed rank test. Data pertaining
+to the major clinical events of interest are
+presented as frequencies and percentages
+for categorical variables. We examined
+the association between the baseline char-
+acteristics, the change in the laboratory
+data, and the change in histology in both
+groups by using the Spearman analysis. A
+P value of <0.05 was regarded as statisti-
+cally significant. All analyses were per-
+formed with SPSS Statistics 25.0 software
+(IBM Corp., Armonk, NY).
+
+RESULTS
+
+From March 2016 through December
+2019, a total of 40 participants were
+randomly assigned to receive once daily
+tofogliflozin at a dose of 20 mg (20 partici-
+pants) or to receive once daily glimepiride
+
+at a final mean dose of 0.8 mg (20 par-
+ticipants). All 40 participants (100%)
+completed the trial. Information for the
+primary and confirmatory secondary out-
+comes related to a biopsy at week 48 was
+available for 39 participants (97.5%). For
+only one patient with a serious adverse
+event (pancreatic cancer) (Supplementary
+Fig. 1), the liver histology scores were im-
+puted as nonresponse using an intention-
+to-treat analysis. All of the participants
+analyzed were >80% in compliance of
+study medication. A total of 15 of 20 par-
+ticipants assigned to tofogliflozin and 16
+of 20 assigned to glimepiride achieved
+100% compliance with the study medica-
+tion in the current study (Supplementary
+Table 2).
+
+Demographic and baseline clinical
+characteristics, except for sex, were simi-
+lar in both groups (Tables 1 and 2, and
+Supplementary Tables 3–6). All partici-
+pants were Japanese and had type 2 dia-
+betes. The mean age was 53.9 years,
+mean NAS was 4.45, mean HbA1c was
+8.2%, and mean weight was 82.0 kg
+(Table 1). A total of 18 participants
+(45.0%) had stage F1 fibrosis, 11 (27.5%)
+had stage F2, and 5 (12.5%) had stage
+F3 (Table 2).
+
+Fibrosis scores improved in the tofo-
+gliflozin group (60%, P = 0.001 for the
+comparison of scores before and after
+treatment), but the change from base-
+line did not differ significantly between
+the tofogliflozin group and the glimepir-
+ide group (P = 0.172) (Table 2). In addi-
+tion, subjects who received tofogliflozin
+had significant histological improvements
+from baseline to 48 weeks in all varia-
+bles (ratios of the participants with im-
+provement in steatosis, hepatocellular
+ballooning, and lobular inflammation were
+65, 55, and 50%, respectively). In the glime-
+piride group, the histological improvement
+from baseline to 48 weeks was the ten-
+dency to be a reduction in only hepatocellu-
+lar ballooning, adjusting for the Bonferroni
+multiple testing.
+
+NAS improved significantly compared
+with baseline values in both groups,
+and the beneficial effects were greater
+in the tofogliflozin group (P = 0.002)
+(Supplementary Table 4). There was an
+early and highly significant decrease in
+ALT and AST levels in the tofogliflozin
+group (Fig. 1A and B). The changes from
+baseline did not differ significantly be-
+tween the tofogliflozin group and the
+glimepiride group (Supplementary Table 4).
+
+The changes of g-glutamyl transferase
+were significantly reduced in the tofo-
+gliflozin group (P < 0.001 for the com-
+parison with glimepiride) (Fig. 1C and
+Supplementary Table 4). Moreover, the
+FIB-4 index was significantly reduced in
+the tofogliflozin group, and the effects
+were greater in the tofogliflozin group
+(P = 0.015) (Fig. 1D and Supplementary
+Table 4).
+
+The decrease in glycemic parameters,
+such as fasting plasma glucose and HbA1c,
+were similar (Fig. 1E and Supplementary
+Table 5). Weight, BMI, and percentage of
+body fat were significantly reduced in the
+tofogliflozin group (a mean weight de-
+crease of 4.2 kg at week 48, P < 0.001
+compared with glimepiride) (Fig. 1F and
+Supplementary Table 5). These changes
+occurred in the first 12 weeks and were
+sustained throughout the period. In con-
+trast, the changes in C-peptide response,
+lipid profile, oxidative stress markers, and
+cytokines were similar in both groups
+(Supplementary Tables 5 and 6).
+
+We examined the association between
+the change in various clinical parameters
+and the change in liver histology in both
+treatment arms by the Spearman analysis
+(Supplementary Table 7). The reduction in
+body weight was significantly associated
+with the reduction in steatosis scores in
+the tofogliflozin group. The reduction in
+HbA1c was significantly associated with
+the reduction in steatosis scores in both
+groups. Higher baseline HbA1c (r = 0.582,
+P = 0.007) and the reduction in HbA1c
+(r = 0.524, P = 0.018) were significantly
+associated with the reduction in fibrosis
+scores only in the tofogliflozin group.
+
+To understand molecular signatures of
+tofogliflozin and glimepiride in the liver, we
+examined global hepatic gene expression
+profiles using RNA-seq before and after
+the interventions. There was a significant
+difference (P < 0.005) in the number of
+genes expressed in the liver of the tofo-
+gliflozin group compared with the glime-
+piride group (663 genes in the tofogliflozin
+group vs. 51 genes in the glimepiride
+group). The pathway analyses of differ-
+entially expressed genes according to
+the KEGG pathways (Table 3) and the
+gene ontology of the biological pro-
+cesses (Supplementary Table 8) in serial
+hepatic gene expression profiles showed
+unique metabolic signatures in the to-
+fogliflozin group compared with the
+glimepiride group. Genes involved in
+gluconeogenesis, fatty acid catabolism/
+
+diabetesjournals.org/care Takeshita and Associates 2067
+
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+
+
+oxidation, and amino acids catabolism in
+peroxisome were coordinately upregu-
+lated in the tofogliflozin group. On the
+other hand, genes involved in cell death,
+stress response, inflammation, T-cell re-
+sponse, and fibrosis were substantially
+downregulated in the tofogliflozin group
+but not in the glimepiride group (Table 3
+and Supplementary Table 8).
+
+Next, we performed gene set enrich-
+ment analyses using gene sets associated
+with resident cells in the liver defined by
+single-cell RNA-seq analyses and corre-
+sponding liver histological scores before
+and after the tofogliflozin treatment (Fig.
+2 and Supplementary Table 9) to further
+address which components of resident
+cells participate in the tofogliflozin-
+mediated alleviation of NAFLD pathology.
+
+Figure 2 shows one-way hierarchical cluster-
+ing of 51 representative genes involved in
+central LSECs and zone 2 and 3 hepatocytes
+(left) and 59 genes involved in gdT cells,
+inflammatory macrophages, stellate cells,
+and plasma cells (right). Histological scores
+of fibrosis, lobular inflammation, NAS, and
+steatosis (%) are shown in individual pa-
+tients before and after treatment, respec-
+tively. Gene expression patterns were well
+correlated with histological changes. The
+51 genes involved in LSECs and zone 2
+and 3 hepatocytes were coordinately
+downregulated in the liver with severe
+steatosis before treatment (left side of
+left panel). Tofogliflozin upregulated the
+expression of these genes (right side of
+left panel). The 59 genes, representative
+of gdT cells, inflammatory macrophages,
+
+stellate cells, and plasma cells, showed
+a similar gene expression pattern and
+clustered in each cell component. These
+genes were coordinately upregulated in
+the liver with severe steatosis before
+treatment (left side of right panel). Tofo-
+gliflozin downregulated these genes
+expression (right side of left panel). In con-
+trast, glimepiride rather upregulated the
+pathway for gdT cells (Supplementary
+Table 9).
+
+All adverse events occurred during
+the on-treatment observation period.
+Data are reported for all of the partici-
+pants. The incidences of adverse events
+were significantly higher in the tofogli-
+flozin group. This difference was attrib-
+utable to the increased incidence of
+genital and urinary tract symptoms
+
+Table 1—Baseline characteristics of the participants (n = 40)
+
+Characteristics
+Normal
+range
+
+All
+(N = 40)
+
+Tofogliflozin
+(n = 20)
+
+Glimepiride
+(n = 20) P value†
+
+Male, n (%) 21 (53) 7 (35) 14 (70) 0.027
+
+Diabetes, n (%) 40 (100) 20 (100) 20 (100) NA
+
+Hypertension, n (%) 24 (60) 12 (60) 12 (60) 1.000
+
+Dyslipidemia, n (%) 32 (80) 16 (80) 16 (80) 0.653
+
+Age, years 56.5 (40.5–65.0) 59.0 (43.0–64.8) 50.5 (38.3–65.0) 0.445
+
+AST, IU/L 13–33 28.0 (22.0–51.0) 28.0 (24.3–54.5) 30.0 (21.3–49.0) 0.602
+
+ALT, IU/L 6–27 40.0 (28.0–73.0) 36.0 (28.0–77.5) 48.0 (35.5–60.0) 0.398
+
+g-Glutamyl transferase, IU/L 10–47 46.0 (36.0–63.0) 50.0 (36.5–77.8) 42.5 (30.0–59.8) 0.221
+
+Alkaline phosphatase, IU/L 115–359 224.0 (200.0–283.0) 238.0 (173.5–286.0) 218.5 (191.8–258.0) 0.947
+
+Total bilirubin, mg/dL 0.3–1.2 0.70 (0.70–1.00) 0.70 (0.63–0.90) 0.80 (0.60–1.00) 0.602
+
+FIB-4 index 1.12 (0.76–1.50) 1.10 (0.83–1.48) 0.95 (0.50–1.49) 0.277
+
+Liver steatosis, as assessed by FibroScan, dB/m 100–220 291.4 (38.3) 288.6 (37.9) 300.4 (28.9) 0.223
+
+Liver stiffness, as assessed by FibroScan, kPa 1.5–5.0 6.3 (4.8–9.1) 5.7 (4.3–7.3) 6.4 (4.7–11.3) 0.581
+
+Total activity score for NALFD 4.45 (1.48) 4.40 (1.76) 4.50 (1.19) 0.904
+
+Fasting plasma glucose, mg/dL 69–109 143.0 (123.0–158.0) 144.0 (120.0–157.8) 141.0 (128.3–158.0) 0.947
+
+HbA1c, % 4.6–6.2 8.1 (7.3–8.8) 7.9 (7.4–8.4) 8.2 (7.3–9.2) 0.565
+
+HbA1c, mmol/mol 27.0–44.0 64.0 (56.0–73.0) 63.0 (57.0–67.8) 65.5 (55.3–76.8) 0.565
+
+C-peptide immunoreactivity, ng/mL 0.80–2.50 2.84 (0.91) 2.81 (0.92) 2.86 (0.92) 0.852
+
+Body weight, kg 82.0 (21.9) 79.3 (18.2) 84.7 (25.4) 0.449
+
+BMI, kg/m2 31.5 (7.7) 31.0 (6.7) 32.0 (8.8) 0.705
+
+Systolic blood pressure, mmHg 129.6 (13.6) 129.3 (12.7) 130.0 (14.8) 0.864
+
+Pulse rate, bpm 82.7 (12.7) 81.2 (13.1) 84.2 (12.6) 0.471
+
+Total cholesterol, mg/dL 128–219 173.3 (34.7) 170.1 (28.1) 176.5 (40.7) 0.567
+
+Triglycerides, mg/dL 30–149 137.0 (120.0–218.0) 140.0 (115.0–204.0) 140.5 (123.0–228.0) 0.602
+
+HDL cholesterol, mg/dL 40–99 42.7 (10.1) 44.8 (11.6) 40.7 (8.1) 0.204
+
+Categorical variables are presented as n (%). Continuous variables are presented as mean (SD) or median (interquartile range). NA, not analyzed.
+†The between-group comparison at baseline was performed with the x2 test or Fisher test for categorical variables and the Mann-Whitney U test
+in nonparametric parameters or the two-sample t test in normal distribution for continuous parameters.
+
+2068 Tofogliflozin Versus Glimepiride in NAFLD Diabetes Care Volume 45, September 2022
+
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+
+
+(itching in the genital area, n = 7; urinat-
+ing pain, n = 1; cystitis, n = 1; nocturia,
+n = 1; vaginal candida, n = 1) in the to-
+fogliflozin group. Most adverse events
+were mild or moderate, and no partici-
+pants discontinued the treatment. Two
+participants in the glimepiride group ex-
+perienced mild or moderate hypoglyce-
+mia: one patient in reduced prandial
+dosing of rapid-acting insulin (total 36
+to 30 units) due to hypoglycemia. One
+serious adverse event, pancreatic can-
+cer, occurred in the glimepiride group
+but was considered not related to the
+study (Supplementary Table 10).
+
+CONCLUSIONS
+
+In this open-label, randomized, parallel
+trial, tofogliflozin and, to a lesser de-
+gree, glimepiride significantly reduced
+the score of liver histology for 48 weeks
+in participants with liver biopsy speci-
+men-confirmed NAFLD and type 2 dia-
+betes, with no significant difference
+
+between the agents under a similar re-
+duction in glucose levels.
+
+The percentage of participants in the
+tofogliflozin group who had an improve-
+ment in the fibrosis stage after 48 weeks
+in this trial was 60%. As shown in
+Supplementary Table 11, the tofogli-
+flozin-mediated improvement in the
+fibrosis stage in the current study is
+greater than that reported with liraglu-
+tide treatment (8), obeticholic acid treat-
+ment (45), semaglutide treatment (9),
+pioglitazone treatment (6,7), and vitamin
+E treatment (7). The Spearman analysis
+(Supplementary Table 7) showed that
+the baseline fibrosis scores did not affect
+the changes in histology scores after the
+treatments. Unexpectedly, the percentage
+of participants in the tofogliflozin group
+who had an improvement in steatosis,
+hepatocellular ballooning, and lobular in-
+flammation in this trial (65, 55, and 50%,
+respectively) was not greater than that
+reported with liraglutide treatment (8),
+obeticholic acid treatment (45), and
+
+pioglitazone treatment (6,7). These find-
+ings suggest that tofogliflozin may prefer-
+entially ameliorate liver fibrosis compared
+with liraglutide, semaglutide, obeticholic
+acid, liraglutide, pioglitazone, and vitamin E.
+
+The systematic review (46) reported
+that SGLT2 inhibitors improved liver his-
+tology, such as liver steatosis and fibro-
+sis, in participants with NAFLD according
+to findings from the single-arm clinical
+trials (27,28). However, a recent system-
+atic review demonstrated SGLT2 inhibi-
+tors may not reduce liver fibrosis (47).
+Our randomized controlled trial study is
+the first to characterize the greater im-
+provement in NAFLD histology, especially
+fibrosis, with tofogliflozin.
+
+The percentage of participants with
+improvement in the fibrosis stage in the
+glimepiride group in this trial was 35%,
+similar to the percentage of participants
+with obeticholic acid treatment (45) and
+greater than that reported in the pla-
+cebo participants (6–9). On the other
+
+Table 2—Hepatic histological scores
+
+Tofogliflozin
+(n = 20)
+
+Glimepiride
+(n = 20)
+
+P value
+(tofogliflozin vs.
+glimepiride)‡Histologic features Before After P value† Before After P value†
+
+Steatosis
+Score, n subjects
+0 (<5%) 0 5 0 0
+1 (5–33%) 8 11 6 11
+2 (33–66%) 8 3 9 5
+3 (>66%) 4 1 5 4
+
+Improvement, % 65 0.001 30 0.058 0.141
+
+Hepatocellular ballooning
+
+Score, n subjects
+0 (None) 3 10 1 5
+1 (few balloon cells) 10 9 14 11
+2 (many balloon cells) 7 1 5 4
+
+Improvement, % 55 0.002 25 0.025 0.098
+
+Lobular inflammation
+
+Score, n subjects
+0 (0 focus) 1 4 0 0
+1 (<2 foci per 200*field) 11 16 13 14
+2 (2–4 foci per 200*field) 7 0 7 6
+3 (>4 foci per 200*field) 1 0 0 0
+
+Improvement, % 50 0.003 15 0.655 0.064
+
+Fibrosis
+
+Score, n subjects
+0 (none) 3 10 2 6
+1 (perisinusoidal or periportal) 7 7 11 7
+2 (perisinusoidal and portal or periportal) 8 1 3 3
+3 (bridging fibrosis) 2 2 3 4
+4 (cirrhosis) 0 0 1 0
+
+Improvement, % 60 0.001 35 0.096 0.172
+
+†The P values were calculated with the Wilcoxon signed rank test. ‡The between-group comparison for the effect of treatment (change from
+baseline) was performed with the x2 test.
+
+diabetesjournals.org/care Takeshita and Associates 2069
+
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+
+
+hand, the percentage of participants in
+the glimepiride group who had an im-
+provement in steatosis, hepatocellular
+
+ballooning, and lobular inflammation in
+this trial was not greater than with other
+agents and placebo. Past studies reported
+
+that sulfonylureas may exacerbate liver
+histology, NAFLD progression, and ad-
+verse outcomes such as hepatocellular
+
+Alanine aminotransferase Aspartate aminotransferase
+
+C
+h
+
+an
+g
+
+e 
+fr
+
+o
+m
+
+ B
+as
+
+el
+in
+
+e 
+(u
+
+n
+it
+
+/L
+)
+
+Weeks since RandomizationNo. of Participants
+
+Tofogliflozin       20                  20                 20                  20                 20
+Glimepiride         20                  19                 20                  20                 20
+
+*p<0.05 vs baseline
+
+Weeks since RandomizationNo. of Participants
+
+Tofogliflozin       20                  20                 20                  20                
+Glimepiride         20                  19                 20                  20               
+
+*p<0.05 vs baseline
+
+Glimepiride
+
+Tofogliflozin
+
+Glimepiride
+
+Tofogliflozin
+
+C
+h
+
+an
+g
+
+e 
+fr
+
+o
+m
+
+ B
+as
+
+el
+in
+
+e 
+(k
+
+g
+)
+
+FIB4-index
+
+Weeks since RandomizationNo. of Participants
+
+Tofogliflozin      20                 20                 20                  20                 20
+Glimepiride        20                 19                 20                  20                 20
+
+*p<0.05 vs baseline
+
+r
+
+Gamma-glutamyl transferase
+
+Weeks since RandomizationNo. of Participants
+
+Tofogliflozin       20                20                 20                  20                 20
+Glimepiride         20                19                 20                  20                 20
+
+*p<0.05 vs baseline
+
+Glimepiride
+
+Tofogliflozin
+
+Glimepiride
+
+Tofogliflozin
+
+C
+h
+
+an
+g
+
+e 
+fr
+
+o
+m
+
+ B
+as
+
+el
+in
+
+e 
+(k
+
+g
+)
+
+Weight
+
+Weeks since RandomizationNo. of Participants
+
+Tofogliflozin      20                 20                 20                  20                 20
+Glimepiride        20                 19                 20                  20                 20
+
+*p<0.05 vs baseline
+
+i
+e
+
+Glycated hemoglobin
+
+Weeks since RandomizationNo. of Participants
+
+Tofogliflozin       20                20                 20                  20                 20
+Glimepiride         20                19                 20                  20                 20
+
+*p<0.05 vs baseline
+
+Glimepiride
+
+Tofogliflozin
+
+Glimepiride
+
+Tofogliflozin
+
+A B
+
+C D
+
+E F
+
+C
+h
+
+an
+g
+
+e 
+fr
+
+o
+m
+
+ B
+as
+
+el
+in
+
+e 
+(u
+
+n
+it
+
+/L
+)
+
+C
+h
+
+an
+g
+
+e 
+fr
+
+o
+m
+
+ B
+as
+
+el
+in
+
+e 
+(%
+
+)
+C
+
+h
+an
+
+g
+e 
+
+fr
+o
+
+m
+ B
+
+as
+el
+
+in
+e 
+
+(%
+)
+
+Figure 1—Changes from baseline in liver-related parameters, HbA1c, and weight, according to the study group. Mean values are shown for changes
+from baseline (the value at follow-up minus the baseline value) for ALT levels (A), AST levels (B), g-glutamyl transferase (C), FIB-4 index (D), HbA1c
+(E), and weight (F) among the 20 subjects in the tofogliflozin group and the 20 subjects in the glimepiride group.
+
+2070 Tofogliflozin Versus Glimepiride in NAFLD Diabetes Care Volume 45, September 2022
+
+
+
+Table 3—Differential signaling pathways in the liver of NAFLD participants altered by treatment with tofogliflozin or
+glimepiride
+
+No. KEGG pathway Pathway description
+Genes,
+
+n
+
+LS
+permutation
+
+P value
+
+KS
+permutation
+
+P value
+Up or
+down
+
+Representative
+genes
+
+Tofogliflozin
+
+Metabolism
+
+1 hsa00071 Fatty acid degradation 43 0.00001 0.00001 Up ACSL5, GCDH, ACADSB
+
+2 hsa00250, hsa00260,
+hsa00280, hsa00340,
+
+hsa00380
+
+Amino acids metabolism
+(Ala, Asn, Gln, Gly, Ser, Thr,
+
+Val, Leu, Ile, His, Trp)
+
+172 0.00001 0.00001 Up AGXT, GNMT, BCKDHB
+
+3 hsa00980 Metabolism of xenobiotics by
+cytochrome P450
+
+64 0.00001 0.00009 Up GSTA2, ALDH3A1, UGT1A7
+
+4 hsa03320 PPAR signaling pathway 64 0.00001 0.00001 Up SLC27A5, APOA5, ACOX2
+
+5 hsa04146 Peroxisome 79 0.00001 0.00001 Up PXMP2, PHYH, MLYCD
+
+6 hsa00051 Fructose and mannose metabolism 35 0.00005 0.00079 Up PMM1, ALDOB, FBP1
+
+7 hsa00830 Retinol metabolism 59 0.00020 0.00022 Up CYP2A6, CYP2A7, CYP1A1
+
+8 hsa00010 Glycolysis/gluconeogenesis 58 0.00047 0.00363 Up PCK1, ENO3, G6PC
+
+9 hsa00020 Citrate cycle (TCA cycle) 29 0.00374 0.06582 Up PCK2, ACO1, SDHB
+
+10 hsa00190 Oxidative phosphorylation 97 0.00891 0.00175 Up COX6C, COX17, NDUFB7
+
+Cell cycle
+
+1 hsa03030 DNA replication 36 0.00001 0.0026 Down MCM2, MCM6, PRIM2
+
+2 hsa04110 Cell cycle 124 0.00001 0.00001 Down CDC7, CHEK1, CCNB1
+
+Apoptosis/
+inflammation
+
+1 hsa04612 Antigen processing and presentation 62 0.00015 0.00165 Down TAP1, HLA-DQB1, CIITA
+
+2 hsa05340 Primary immunodeficiency 32 0.00042 0.00183 Down CD3E, JAK3, IL2RG
+
+3 hsa04210 Apoptosis 84 0.00256 0.00223 Down BIRC3, TNFRSF10D, FAS
+
+4 hsa04010 MAPK signaling pathway 229 0.00349 0.00942 Down PDGFRB, CD14, FGF2
+
+5 hsa04670 Leukocyte transendothelial migration 105 0.01046 0.00038 Down CXCR4, CLDN7, ICAM1
+
+Fibrosis
+
+1 hsa04510 Focal adhesion 190 0.00001 0.00001 Down COL4A1, COL1A1, LAMA3
+
+2 hsa04512 ECM-receptor interaction 80 0.00001 0.00057 Down HMMR, ITGA9, PDGFRA
+
+3 hsa04514 Cell adhesion molecules 122 0.00002 0.00009 Down CNTNAP2, SDC2, CLDN7
+
+Glimepiride
+
+Metabolism
+
+1 hsa04146 Peroxisome 79 0.0017 0.00001 Up PEX7, HACL1, GNPAT
+
+2 hsa00071 Fatty acid degradation 43 0.0085 0.00048 Up ADH7, ALDH3A2, ADH1A
+
+3 hsa00980 Metabolism of xenobiotics
+by cytochrome P450
+
+64 0.0271 0.00445 Up UGT2B15, UGT1A1, UGT2B10
+
+ACADSB, acyl-CoA dehydrogenase short/branched chain; ACO1, aconitase 1; ACOX2, acyl-CoA oxidase 2; ACSL5, acyl-CoA synthetase long chain
+family member 5; ADH1A, alcohol dehydrogenase 1A (class I), a polypeptide; ADH7, alcohol dehydrogenase 7 (class IV), m or sigma polypep-
+tide; AGXT, alanine–glyoxylate and serine–pyruvate aminotransferase; ALDH3A1, aldehyde dehydrogenase 3 family member A1; ALDH3A2, al-
+dehyde dehydrogenase 3 family member A2; ALDOB, aldolase, fructose-bisphosphate B; APOA5, apolipoprotein A5; BCKDHB, branched chain
+keto acid dehydrogenase E1 subunit beta; BIRC3, baculoviral IAP repeat containing 3; CCNB1, cyclin B1; CD14, CD14 molecule; CD3E, CD3e
+molecule; CDC7, cell division cycle 7; CHEK1, checkpoint kinase 1; CIITA, class II major histocompatibility complex transactivator; CLDN7, clau-
+din 7; CNTNAP2, contactin associated protein 2; COL1A1, collagen type I a 1 chain; COX17, cytochrome C oxidase copper chaperone; COX6C,
+cytochrome C oxidase subunit 6C; CXCR4, C-X-C motif chemokine receptor 4; CYP1A1, cytochrome P450 family 1 subfamily A member 1;
+CYP2A6, cytochrome P450 family 2 subfamily A member 6; CYP2A7, cytochrome P450 family 2 subfamily A member 7; ENO3, enolase 3; FAS,
+Fas cell surface death receptor; FBP1, fructose-bisphosphatase 1; FGF2, fibroblast growth factor 2; G6PC, glucose-6-phosphatase catalytic
+
+Continued on p. 2072
+
+diabetesjournals.org/care Takeshita and Associates 2071
+
+
+
+carcinoma (30–32). However, these find-
+ings in our study suggest that glimepiride
+also preferentially ameliorates liver fibro-
+sis. Collectively from the characteristic
+
+improvement of liver histology by to-
+fogliflozin and glimepiride, glucose re-
+duction may reduce liver fibrosis, at least
+partly, independently of steatosis and
+
+inflammation, which is consistent with
+our initial hypothesis.
+
+As we have expected, the reduction
+of fasting plasma glucose and glycated
+
+subunit 1; GCDH, glutaryl-CoA dehydrogenase; GNMT, glycine N-methyltransferase; GNPAT, glyceronephosphate O-acyltransferase; GSTA2, glu-
+tathione S-transferase a 2; HACL1, 2hHydroxyacyl-CoA lyase 1; HLA-DQB1, major histocompatibility complex, class II, DQ beta 1; HMMR, hya-
+luronan mediated motility receptor; ICAM1, intercellular adhesion molecule 1; IL2RG, interleukin 2 receptor subunit g; ITGA9, integrin subunit
+a 9; JAK3, Janus kinase 3; KS, Kolmogorov-Smirnov; LAMA3, laminin subunit a 3; LS, least squares; MAPK, mitogen-activated protein kinase;
+MCM2, minichromosome maintenance complex component 2; MCM6, minichromosome maintenance complex component 6; MLYCD, ma-
+lonyl-CoA decarboxylase; NDUFB7, NADH:ubiquinone oxidoreductase subunit B7; PCK1, phosphoenolpyruvate carboxykinase 1; PCK2, phospho-
+enolpyruvate carboxykinase 2, mitochondrial; PDGFRA, platelet derived growth factor receptor a; PDGFRB, platelet derived growth factor
+receptor beta; PEX7, peroxisomal biogenesis factor 7; PHYH, phytanoyl-CoA 2-hydroxylase; PMM1, phosphomannomutase 1; PPAR, peroxi-
+some proliferator-activated receptor; PRIM2, DNA primase subunit 2; PXMP2, peroxisomal membrane protein 2; SDC2, syndecan 2; SDHB, suc-
+cinate dehydrogenase complex iron sulfur subunit B; SLC27A5, solute carrier family 27 member 5; TAP1, transporter 1, ATP binding cassette
+subfamily B member, ATP binding cassette subfamily B member; TCA, tricarboxylic acid; TNFRSF10D, TNF receptor superfamily member 10d;
+UGT1A1, UDP glucuronosyltransferase family 1 member A1; UGT1A7, UDP glucuronosyltransferase family 1 member A7; UGT2B10, UDP glu-
+curonosyltransferase family 2 member B10; UGT2B15, UDP glucuronosyltransferase family 2 member B15.
+
+Table 3—Continued
+
+Figure 2—Heat maps of gene set enrichment analyses using gene sets of resident cells in the liver defined by single-cell RNA-seq analyses and corre-
+sponding liver histological scores before and after the tofogliflozin treatment. The heat maps show one-way hierarchical clustering of 51 representative
+genes involved in central LSECs and zone 2 and 3 hepatocytes (left) and 59 genes involved in gdT cells, inflammatory macrophages (macs), stellate cells,
+and plasma cells (right). Histological scores of fibrosis, lobular inflammation, NAS, and steatosis (%) are shown in individual patients before and after
+treatment, respectively. Gene expression patterns were well correlated with histological changes. The 51 genes involved in LSECs and zone 2 and 3 hepa-
+tocytes were coordinately downregulated in the liver with severe steatosis before treatment (left side of left panel). Tofogliflozin upregulated these genes
+expression (right side of left panel). The 59 genes, representative of gdT cells, inflammatory macrophages, stellate cells, and plasma cells, showed a simi-
+lar gene expression pattern and clustered in each cell component. These genes were coordinately upregulated in the liver with severe steatosis before
+treatment (left side of right panel). Tofogliflozin downregulated these genes expression (right side of left panel).
+
+2072 Tofogliflozin Versus Glimepiride in NAFLD Diabetes Care Volume 45, September 2022
+
+
+
+hemoglobin was similar in both groups,
+consistent with a phase 3 noninferiority
+trial (33). Weight, BMI, and fat mass were
+reduced only in the tofogliflozin group. In
+the subanalysis (Supplementary Table 7),
+reduction in steatosis scores was signifi-
+cantly associated with the tofogliflozin-me-
+diated reduction in HbA1c and weight. On
+the other hand, reduction in fibrosis scores
+was significantly associated with HbA1c at
+baseline and the tofogliflozin-mediated gly-
+cemic control but not the reduction in
+weight. These findings suggest that glyce-
+mic control, rather than weight reduction,
+contributes to liver fibrosis alleviation.
+Pioglitazone has several safety concerns,
+
+such as weight gain, heart failure, fluid re-
+tention, bone fracture, and bladder cancer.
+The GLP-1 RAs often cause gastrointestinal
+symptoms (8,9). The reduction in body fat
+with tofogliflozin may have a potentially
+helpful therapeutic effect on the future
+risk of cardiovascular events and prema-
+ture death in participants with NAFLD,
+although longer-term outcome studies
+are needed to confirm this point.
+The mechanisms by which SGLT2 inhib-
+
+itors ameliorate NAFLD pathology remain
+underinvestigated in humans. In the current
+study, pathway analyses of differentially ex-
+pressed genes according to the KEGG
+pathways and gene ontology of the bio-
+logical processes in serial hepatic gene
+expression profiles showed unique meta-
+bolic signatures in the tofogliflozin group
+compared with the glimepiride group. In
+the tofogliflozin group, genes involved in
+gluconeogenesis were coordinately upregu-
+lated, consistent with clinical observations
+in which the SGLT2 inhibitor is associated
+with an elevated endogenous glucose pro-
+duction (48,49). Genes involved in fatty
+acid catabolism/oxidation and amino acids
+catabolism in peroxisome were coordi-
+nately upregulated in the tofogliflozin
+group, indicating enhanced lipolysis and
+protein catabolism for gluconeogenesis
+(50). The findings were compatible with
+the upregulated pathways of cytochrome
+P450 and retinol metabolisms, both acti-
+vated by peroxisome proliferation in
+mouse models (51).
+Genes involved in cell death, stress
+
+response, inflammation, T-cell response,
+and fibrosis were substantially downre-
+gulated in the tofogliflozin group but
+not in the glimepiride group, which are
+compatible with the tofogliflozin-mediated
+alleviation of liver inflammation, hepa-
+tocellular damage, and liver fibrosis.
+
+Since glimepiride-mediated glucose lower-
+ing did not alter the inflammation- and
+fibrosis-related pathways, tofogliflozin may
+exert unique pleiotropic effects beyond
+glucose lowering.
+
+To further address possible respon-
+sive resident cells in the tofogliflozin-
+mediated alleviation of NAFLD pathol-
+ogy, we performed gene set enrichment
+analyses using single-cell RNA-seq gene
+signatures. Genes involved in zone 3
+hepatocytes, which are rich in peroxi-
+somes, and LSECs were coordinately
+upregulated in the liver with severe
+steatosis. On the other hand, genes in-
+volved in gdT cells, inflammatory mac-
+rophages, stellate cells, and plasma
+cells, which play essential roles in the
+pathogenesis of NAFLD, were coordi-
+nately upregulated in the liver with se-
+vere steatosis. Tofogliflozin rescued these
+gene expression patterns; it upregulated
+the genes involved in zone 3 hepatocytes
+and LSECs and, in contrast, downregu-
+lated the genes involved in gdT cells, in-
+flammatory macrophages, stellate cells,
+and plasma cells. Rescuing zone 3 hepa-
+tocytes could enhance various redox
+signalings, such as glutathione pathways,
+that remove reactive oxygen species in-
+duced by oxidative lipid (50). Therefore, it
+might be possible that tofogliflozin sup-
+presses inflammation and fibrosis via
+the recovery of zone 3 hepatocytes.
+Considering similar gene expression pat-
+terns between zone 3 hepatocytes and
+LSECs, LSECs may be novel therapeutic
+targets for NAFLD, the hypothesis of
+which should be confirmed by further
+investigations.
+
+Our study has some limitations. First,
+the study is an open-label design, in-
+cluding two open-label active treatment
+arms without a placebo group. There-
+fore, we cannot exclude the possibility
+that the improvement in liver histology
+in both groups could be attributed to
+lifestyle modification through diet and
+exercise counseling at baseline. Never-
+theless, the strength of the current
+study is to evaluate the effects of the
+SGLT2 inhibitor on NALFD pathology by
+comparing with those of the sulfonyl-
+urea as an active control, both of which
+similarly lower glucose levels with re-
+duction and elevation in circulating in-
+sulin levels, respectively, to clarify the
+role of glucose and insulin separately.
+
+Second, the percentage of sex was unbal-
+anced in both groups after randomization.
+
+However, there was no association be-
+tween sex and the changes in liver histol-
+ogy (Supplementary Table 7). Furthermore,
+we analyzed the effects of the agents on
+liver histology separately by sex, as summa-
+rized in Supplementary Tables 12 and 13.
+Almost similar results were obtained, except
+that hepatocellular ballooning and lobular
+inflammation in men of the tofogliflo-
+zin group and hepatocellular balloon-
+ing in both sexes of the glimepiride
+group remain in the tendency or insuffi-
+cient statistical significance, possibly due
+to the small number of subjects. Based
+on these findings, we concluded that sex
+differences unlikely affected the conclu-
+sion of the current study.
+
+Third, although tofogliflozin improved
+all of the liver histological scores, there
+was no statistical difference in the ef-
+fects with glimepiride. Past NAFLD clini-
+cal trials (6–8) also observed that active
+arms significantly improve fibrosis scores
+but with no statistically significant differ-
+ences between the active arms and
+comparative agents/placebo. Such dis-
+crepancies may be attributed to the
+short study duration, the small number
+of subjects, and the variations in the as-
+sessment of liver histology by means of
+percutaneous liver biopsy.
+
+In conclusion, among participants with
+biopsy specimen-confirmed NAFLD and
+type 2 diabetes, tofogliflozin administra-
+tion was associated with a significant
+liver histology improvement compared
+with glimepiride under similar glucose level
+reduction. Tofogliflozin coordinately altered
+hepatic expression of the genes involved in
+energy metabolism, inflammation, and fi-
+brosis, which may underlie liver pathology.
+SGLT2 inhibitors may have a hepatoprotec-
+tive effect, in addition to the previously rec-
+ognized cardiorenal protective effects, and
+could be promising agents in the treatment
+of type 2 diabetes with NAFLD. Long-term
+larger-scale placebo-controlled clinical trials
+of SGLT2 inhibitors for participants with
+type 2 diabetes and NAFLD are needed to
+confirm our findings and to establish evi-
+dence in hepatocarcinogenesis, incident
+major adverse cardiovascular events, over-
+all survival, and medical economics to be
+adopted as the therapeutic guidelines for
+type 2 diabetes and NAFLD.
+
+Acknowledgments. The authors thank all in-
+vestigators, trial staff, and participants.
+
+diabetesjournals.org/care Takeshita and Associates 2073
+
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+https://doi.org/10.2337/figshare.20068982
+
+
+Funding. This work was supported, in part,
+by grants-in-aid from the Ministry of Education,
+Culture, Sports, Science (grant number 19K08975)
+and by the Japan Agency for Medical Research
+and Development under grant number
+JP20fk0210073 and under a grant-in-aid for sci-
+entific research (A), grant number JP21H04823.
+Duality of Interest. The study was supported
+by research grants from Kowa Company Ltd.
+T.Tak. received research grants from Kowa Com-
+pany Ltd., Mitsubishi Tanabe Pharma Corp., Tai-
+syo Pharma Co., Astellas, Novo Nordisk, Ono
+Pharmaceutical Co. Ltd., Takeda, Sanwa Kagaku
+Kenkyusho Co. Ltd., and LifeScan Japan, and re-
+ceived lecture fees from MSD, Sumitomo Dainip-
+pon Pharma, and Mitsubishi Tanabe Pharma
+Corp. S.K. received research grants from Takeda,
+Mitsubishi Tanabe Pharma Corp., EA Pharma Co.
+Ltd., AbbVie Inc., Eizai Co. Ltd., Sanofi, Zeon
+Medical Inc., Zeria, Boston Scientific Co., Mylan,
+Tsumura, Kyowa Kirin Co. Ltd., Mochida Pharma
+Co. Ltd., Otsuka Pharma Co. Ltd., Sumitomo Dai-
+nippon Pharma, Taiho Pharma, Chugai Pharma
+Co. Ltd., Lilly, Boehringer Ingelheim, Nihon
+Pharma Co. Ltd., and Bristol-Myers Squibb, and
+lecture fees from MSD, Sumitomo Dainippon
+Pharma, AbbVie Inc., EA Pharma Co. Ltd., Eizai
+Co. Ltd., Taiho Pharma, Ono Pharma Co. Ltd.,
+Takeda, and Bayer. T.Tak. and Y.T. received consult-
+ing fees from Kowa Company Ltd. E.M. received
+lecture fees from MSD, AbbVie Inc., Chugai
+Pharma Co. Ltd., EA Pharma Co. Ltd., Bristol-
+Myers Squibb, Ono Pharma Co. Ltd., Daiichi-Sankyo,
+and Taisyo Pharma Co. T.Y. received lecture fees
+from MSD, Sumitomo Dainippon Pharma, AbbVie
+Inc., Chugai Pharma Co. Ltd., Eizai Co. Ltd., Taiho
+Pharma, Bristol-Myers Squibb, Takeda, Bayer, and
+Lilly. Y.T. received lecture fees from Sumitomo Dai-
+nippon Pharma. Y.N. received lecture fees from
+Kyowa Kirin Co. Ltd. N.I. received lecture fees
+from Miyarisan Pharma. Co. Ltd. No other po-
+tential conflicts of interest relevant to this arti-
+cle were reported.
+Author Contributions. Y.T. designed the study,
+recruited the participants, analyzed the data,
+and wrote the manuscript. M.H., and N.T. per-
+formed the DNA chip experiments and analyzed
+the hepatic gene expression profiles. K.H. per-
+formed histological examinations. Y.K., H.T., and
+H.N. performed the statistical analyses. N.T.,
+K.A., and T.Y. analyzed all of the biopsy speci-
+mens. T.Tan., H.G., Y.N., N.I., and E.M. recruited
+the participants and collected the clinical infor-
+mation. S.K. initiated and organized the study.
+T.Tak. designed the study, recruited the partici-
+pants, interpreted the data, and edited the
+manuscript. All authors met the International
+Committee of Medical Journal Editors criteria
+for authorship for this study, take responsibility
+for the integrity of this work, and have given
+their approval for this version to be published.
+T.Tak. is the guarantor of this work and, as
+such, had full access to all the data in the study
+and takes responsibility for the integrity of the
+data and the accuracy of the data analysis.
+Prior Presentation. Parts of this study were
+presented in abstract form at the 56th Annual
+Meeting of the European Association for the
+Study of Diabetes 2020, virtual meeting, 21–25
+September 2020.
+
+References
+1. Bril F, Cusi K. Management of nonalcoholic
+fatty liver disease in patients with type 2 diabetes:
+a call to action. Diabetes Care 2017;40:419–430
+2. Hamaguchi E, Takamura T, Sakurai M, et al.
+Histological course of nonalcoholic fatty liver
+disease in Japanese patients: tight glycemic control,
+rather than weight reduction, ameliorates liver
+fibrosis. Diabetes Care 2010;33:284–286
+3. Angulo P, Kleiner DE, Dam-Larsen S, et al. Liver
+fibrosis, but no other histologic features, is associated
+with long-term outcomes of patients with
+nonalcoholic fatty liver disease. Gastroenterology
+2015;149:389–97.e10
+4. Estes C, Razavi H, Loomba R, Younossi Z, Sanyal
+AJ. Modeling the epidemic of nonalcoholic fatty
+liver disease demonstrates an exponential increase
+in burden of disease. Hepatology 2018;67:123–133
+5. Dulai PS, Singh S, Patel J, et al. Increased risk
+of mortality by fibrosis stage in nonalcoholic fatty
+liver disease: systematic review and meta-
+analysis. Hepatology 2017;65:1557–1565
+6. Belfort R, Harrison SA, Brown K, et al. A
+placebo-controlled trial of pioglitazone in subjects
+with nonalcoholic steatohepatitis. N Engl J Med
+2006;355:2297–2307
+7. Sanyal AJ, Chalasani N, Kowdley KV, et al.;
+NASH CRN. Pioglitazone, vitamin E, or placebo
+for nonalcoholic steatohepatitis. N Engl J Med
+2010;362:1675–1685
+8. Armstrong MJ, Gaunt P, Aithal GP, et al.; LEAN
+trial team. Liraglutide safety and efficacy in
+patients with non-alcoholic steatohepatitis (LEAN):
+a multicentre, double-blind, randomised, placebo-
+controlled phase 2 study. Lancet 2016;387:
+679–690
+9. Newsome PN, Buchholtz K, Cusi K, et al.;
+NN9931-4296 Investigators. A placebo-controlled
+trial of subcutaneous semaglutide in nonalcoholic
+steatohepatitis. N Engl J Med 2021;384:1113–1124
+10. Eslam M, Sarin SK, Wong VW-S, et al. The
+Asian Pacific Association for the Study of the
+Liver clinical practice guidelines for the diagnosis
+and management of metabolic associated fatty
+liver disease. Hepatol Int 2020;14:889–919
+11. European Association for the Study of the
+Liver (EASL); European Association for the Study
+of Diabetes (EASD); European Association for the
+Study of Obesity (EASO). EASL-EASD-EASO Clinical
+Practice Guidelines for the management of non-
+alcoholic fatty liver disease. J Hepatol 2016;64:
+1388–1402
+12. Chalasani N, Younossi Z, Lavine JE, et al. The
+diagnosis and management of nonalcoholic fatty
+liver disease: practice guidance from the American
+Association for the Study of Liver Diseases.
+Hepatology 2018;61:2461–2498
+13. Davies MJ, D’Alessio DA, Fradkin J, et al.
+Management of hyperglycaemia in type 2 diabetes,
+2018. A consensus report by the American Diabetes
+Association (ADA) and the European Association
+for the Study of Diabetes (EASD) [published
+correction appears in Diabetologia 2019;62:873].
+Diabetologia 2018;61:2461–2498
+14. Hayashizaki-Someya Y, Kurosaki E, Takasu T,
+et al. Ipragliflozin, an SGLT2 inhibitor, exhibits a
+prophylactic effect on hepatic steatosis and
+fibrosis induced by choline-deficient l-amino
+acid-defined diet in rats. Eur J Pharmacol 2015;
+754:19–24
+15. Honda Y, Imajo K, Kato T, et al. The selective
+SGLT2 inhibitor ipragliflozin has a therapeutic
+
+effect on nonalcoholic steatohepatitis in mice.
+PLoS One 2016;11:e0146337
+16. Ito D, Shimizu S, Inoue K, et al. Comparison
+of ipragliflozin and pioglitazone effects on
+nonalcoholic fatty liver disease in patients with
+type 2 diabetes: a randomized, 24-week, open-
+label, active-controlled trial. Diabetes Care
+2017;40:1364–1372
+17. Shibuya T, Fushimi N, Kawai M, et al.
+Luseogliflozin improves liver fat deposition
+compared to metformin in type 2 diabetes
+patients with non-alcoholic fatty liver disease:
+a prospective randomized controlled pilot
+study. Diabetes Obes Metab 2018;20:438–442
+18. Seko Y, Sumida Y, Tanaka S, et al. Effect of
+sodium glucose cotransporter 2 inhibitor on liver
+function tests in Japanese patients with non-
+alcoholic fatty liver disease and type 2 diabetes
+mellitus. Hepatol Res 2017;47:1072–1078
+19. Choi DH, Jung CH, Mok JO, Kim CH, Kang SK,
+Kim BY. Effect of dapagliflozin on alanine
+aminotransferase improvement in type 2 diabetes
+mellitus with non-alcoholic fatty liver disease.
+Endocrinol Metab (Seoul) 2018;33:387–394
+20. Eriksson JW, Lundkvist P, Jansson P-A, et al.
+Effects of dapagliflozin and n-3 carboxylic acids on
+non-alcoholic fatty liver disease in people with type
+2 diabetes: a double-blind randomised placebo-
+controlled study. Diabetologia 2018;61:1923–1934
+21. Kuchay MS, Krishan S, Mishra SK, et al. Effect
+of empagliflozin on liver fat in patients with type
+2 diabetes and nonalcoholic fatty liver disease: a
+randomized controlled trial (E-LIFT Trial). Diabetes
+Care 2018;41:1801–1808
+22. Bolinder J, Ljunggren €O, Kullberg J, et al.
+Effects of dapagliflozin on body weight, total fat
+mass, and regional adipose tissue distribution in
+patients with type 2 diabetes mellitus with
+inadequate glycemic control on metformin. J Clin
+Endocrinol Metab 2012;97:1020–1031
+23. Sumida Y, Murotani K, Saito M, et al. Effect
+of luseogliflozin on hepatic fat content in type 2
+diabetes patients with non-alcoholic fatty liver
+disease: a prospective, single-arm trial (LEAD
+trial). Hepatol Res 2019;49:64–71
+24. Inoue M, Hayashi A, Taguchi T, et al. Effects
+of canagliflozin on body composition and hepatic
+fat content in type 2 diabetes patients with non-
+alcoholic fatty liver disease. J Diabetes Investig
+2019;10:1004–1011
+25. Cusi K, Bril F, Barb D, et al. Effect of
+canagliflozin treatment on hepatic triglyceride
+content and glucose metabolism in patients with
+type 2 diabetes. Diabetes Obes Metab 2019;
+21:812–821
+26. Latva-Rasku A, Honka M-J, Kullberg J, et al.
+The SGLT2 inhibitor dapagliflozin reduces liver
+fat but does not affect tissue insulin sensitivity: a
+randomized, double-blind, placebo-controlled
+study with 8-week treatment in type 2 diabetes
+patients. Diabetes Care 2019;42:931–937
+27. Akuta N, Watanabe C, Kawamura Y, et al.
+Effects of a sodium-glucose cotransporter 2
+inhibitor in nonalcoholic fatty liver disease
+complicated by diabetes mellitus: preliminary
+prospective study based on serial liver biopsies.
+Hepatol Commun 2017;1:46–52
+28. Lai L-L, Vethakkan SR, Nik Mustapha NR,
+Mahadeva S, Chan WK. Empagliflozin for the
+treatment of nonalcoholic steatohepatitis in
+patients with type 2 diabetes mellitus. Dig Dis Sci
+2020;65:623–631
+
+2074 Tofogliflozin Versus Glimepiride in NAFLD Diabetes Care Volume 45, September 2022
+
+
+
+29. Takahashi H, Kessoku T, Kawanaka M, et al.
+Ipragliflozin improves the hepatic outcomes of
+patients with diabetes with NAFLD. Hepatol
+Commun 2022;6:120–132
+30. Mazzotti A, Caletti MT, Marchignoli F, Forlani
+G, Marchesini G. Which treatment for type 2
+diabetes associated with non-alcoholic fatty liver
+disease? Dig Liver Dis 2017;49:235–240
+31. Marchesini G, Forlani G. Diabetes and
+hepatocellular cancer risk: not only a matter of
+hyperglycemia. Hepatology 2012;55:1298–1300
+32. Nascimbeni F, Aron-Wisnewsky J, Pais R,
+et al.; LIDO Study Group. Statins, antidiabetic
+medications and liver histology in patients with
+diabetes with non-alcoholic fatty liver disease.
+BMJ Open Gastroenterol 2016;3:e000075
+33. Cefalu WT, Leiter LA, Yoon K-H, et al. Efficacy
+and safety of canagliflozin versus glimepiride
+in patients with type 2 diabetes inadequately
+controlled with metformin (CANTATA-SU): 52 week
+results from a randomised, double-blind, phase 3
+non-inferiority trial. Lancet 2013;382:941–950
+34. Takeshita Y, Kanamori T, Tanaka T, et al.
+Study protocol for pleiotropic effects and safety
+of sodium-glucose cotransporter 2 inhibitor versus
+sulfonylurea in patients with type 2 diabetes and
+nonalcoholic fatty liver disease. Diabetes Ther
+2020;11:549–560
+35. Sakurai M, Takamura T, Ota T, et al. Liver
+steatosis, but not fibrosis, is associated with
+insulin resistance in nonalcoholic fatty liver
+disease. J Gastroenterol 2007;42:312–317
+36. Brunt EM, Janney CG, Di Bisceglie AM,
+Neuschwander-Tetri BA, Bacon BR. Nonalcoholic
+
+steatohepatitis: a proposal for grading and staging
+the histological lesions. Am J Gastroenterol
+1999;94:2467–2474
+37. Kleiner DE, Brunt EM, Van Natta M, et al.;
+Nonalcoholic Steatohepatitis Clinical Research
+Network. Design and validation of a histological
+scoring system for nonalcoholic fatty liver
+disease. Hepatology 2005;41:1313–1321
+38. Imajo K, Kessoku T, Honda Y, et al. Magnetic
+resonance imaging more accurately classifies
+steatosis and fibrosis in patients with nonalcoholic
+fatty liver disease than transient elastography.
+Gastroenterology 2016;150:626–637.e7
+39. Honda M, Nakamura M, Tateno M, et al.
+Differential interferon signaling in liver lobule and
+portal area cells under treatment for chronic
+hepatitis C. J Hepatol 2010;53:817–826
+40. Liao Y, Smyth GK, Shi W.The Subread aligner:
+fast, accurate and scalable read mapping by
+seed-and-vote. Nucleic Acids Res 2013;41:e108
+41. Anders S, Pyl PT, Huber W. HTSeq–a Python
+framework to work with high-throughput sequencing
+data. Bioinformatics 2015;31:166–169
+42. MacParland SA, Liu JC, Ma X-Z, et al. Single
+cell RNA sequencing of human liver reveals
+distinct intrahepatic macrophage populations.
+Nat Commun 2018;9:4383
+43. Takeshita Y, Takamura T, Honda M, et al. The
+effects of ezetimibe on non-alcoholic fatty liver
+disease and glucose metabolism: a randomised
+controlled trial. Diabetologia 2014;57:878–890
+44. Ratziu V, Charlotte F, Bernhardt C, et al.; LIDO
+Study Group. Long-term efficacy of rosiglitazone in
+nonalcoholic steatohepatitis: results of the fatty
+
+liver improvement by rosiglitazone therapy (FLIRT
+2) extension trial. Hepatology 2010;51:445–453
+45. Neuschwander-Tetri BA, Loomba R, Sanyal AJ,
+et al.; NASH Clinical Research Network. Farnesoid X
+nuclear receptor ligand obeticholic acid for non-
+cirrhotic, non-alcoholic steatohepatitis (FLINT): a
+multicentre, randomised, placebo-controlled trial.
+Lancet 2015;385:956–965
+46. Dougherty JA, Guirguis E, Thornby K-A. A
+systematic review of newer antidiabetic agents in
+the treatment of nonalcoholic fatty liver disease.
+Ann Pharmacother 2021;55:65–79
+47. Kumar J, Memon RS, Shahid I, et al.
+Antidiabetic drugs and non-alcoholic fatty liver
+disease: a systematic review, meta-analysis and
+evidence map. Dig Liver Dis 2021;53:44–51
+48. Ferrannini E, Muscelli E, Frascerra S, et al.
+Metabolic response to sodium-glucose cotransporter
+2 inhibition in type 2 diabetic patients. J Clin Invest
+2014;124:499–508
+49. Merovci A, Solis-Herrera C, Daniele G, et al.
+Dapagliflozin improves muscle insulin sensitivity
+but enhances endogenous glucose production. J
+Clin Invest 2014;124:509–514
+50. Wanders RJA, Waterham HR, Ferdinandusse
+S. Metabolic interplay between peroxisomes and
+other subcellular organelles including mitochondria
+and the endoplasmic reticulum. Front Cell Dev Biol
+2016;3:83
+51. Yanagitani A, Yamada S, Yasui S, et al. Retinoic
+acid receptor a dominant negative form causes
+steatohepatitis and liver tumors in transgenic mice.
+Hepatology 2004;40:366–375
+
+diabetesjournals.org/care Takeshita and Associates 2075
+
+

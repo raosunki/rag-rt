@@ -1,0 +1,967 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Atrial Myopathy and Ischemic Stroke in Heart Failure with Preserved Ejection Fraction
+
+
+Atrial Myopathy and Ischemic Stroke in Heart Failure with 
+Preserved Ejection Fraction
+
+Kassem Farhat, MD,
+
+Khaled Elkholey, MD,
+
+Zain Ul Abideen Asad, MD, MS,
+
+Stavros Stavrakis, MD, PhD
+
+Cardiovascular Section, University of Oklahoma Health Sciences Center, Oklahoma City, OK
+
+Abstract
+
+Recent studies suggested an association between atrial myopathy and stroke independent of 
+
+atrial fibrillation (AF). We examined the hypothesis that atrial myopathy may be associated with 
+
+ischemic stroke in patients with heart failure with preserved ejection fraction (HFpEF). This is 
+
+an exploratory, post-hoc analysis of the TOPCAT trial. Patients with sinus rhythm documented 
+
+at baseline ECG and without known AF were included in this analysis. Atrial myopathy was 
+
+defined by echocardiographic evidence of left atrial enlargement (left atrial diameter > 46mm 
+
+or left atrial volume index > 36 mL/m2) or elevated natriuretic peptides (BNP > 100 pg/mL or 
+
+NT-Pro-BNP > 400 pg/mL). We used Cox regression to investigate the effect of atrial myopathy 
+
+on incident ischemic stroke over the study period. Among 3445 patients in the TOPCAT trial, 
+
+2225 (mean age 67.5±4.9 years; female 54.8%) had normal sinus rhythm at baseline and no 
+
+history of AF. Atrial myopathy was present in 756 (34.0%) patients. During a median follow-up 
+
+of 2 years, 56 (2.5%) patients developed ischemic stroke, including 25 with atrial myopathy. Atrial 
+
+myopathy was associated with increased risk of stroke (HR=1.74, 95% CI 1.01 – 2.98, p=0.04) 
+
+in multivariate analysis. Diabetes (HR=2.02, 95% CI 1.19 – 3.43 p=0.01) was the only other 
+
+independent predictor of stroke. Among patients with HFpEF, atrial myopathy increases the risk of 
+
+ischemic stroke, in the absence of AF. Further investigations are needed to better characterize this 
+
+association and implement stroke prevention strategies.
+
+Keywords
+
+atrial fibrillation; stroke; heart failure with preserved ejection fraction; atrial myopathy
+
+Over the last decade, the prevalence of heart failure with preserved ejection fraction 
+
+(HFpEF) has increased, reaching approximately 50% of all heart failure cases1. Atrial 
+
+Address for correspondence: Stavros Stavrakis, MD, PhD, University of Oklahoma Health Sciences Center, 800 Stanton L Young 
+Blvd, Suite 5400, Oklahoma City, OK, 73104, Phone: 405-271-9696; Fax: 405-271-7455, stavros-stavrakis@ouhsc.edu. 
+
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our 
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review 
+of the resulting proof before it is published in its final form. Please note that during the production process errors may be discovered 
+which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Disclosures: The authors declare no conflicts of interest
+
+HHS Public Access
+Author manuscript
+Am J Cardiol. Author manuscript; available in PMC 2024 September 15.
+
+Published in final edited form as:
+Am J Cardiol. 2023 September 15; 203: 248–252. doi:10.1016/j.amjcard.2023.07.058.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+fibrillation (AF) and HFpEF are closely associated, and progressive left atrial (LA) 
+
+remodeling has been demonstrated to correlate with increasing AF burden in patients 
+
+with HFpEF2. However, it has been shown that atrial structural and electrical changes, 
+
+collectively referred to as atrial myopathy, occur even in the absence of AF3.4. While AF 
+
+increases stroke risk by 5-fold, the lack of temporal association between AF and stroke 
+
+events has led to the description of a new paradigm, where AF would be considered 
+
+a marker of atrial myopathy rather than the cause of stroke4–6. At present however, 
+
+there are no standard diagnostic criteria for atrial myopathy, even though biochemical, 
+
+electrocardiographic, and echocardiographic markers have been used to screen for atrial 
+
+myopathy in selected populations, including those with embolic stroke of unknown 
+
+significance (ESUS)6. Recent studies demonstrated a correlation of markers of atrial 
+
+myopathy with stroke events7,8. Importantly, LA enlargement and pro–B-type natriuretic 
+
+peptide (NT-proBNP) were found to predict ischemic stroke in patients without known 
+
+AF7,8. In light of the strong association of HFpEF with atrial myopathy3, we conducted 
+
+a post hoc analysis of the TOPCAT trial, to investigate the predisposing role of atrial 
+
+myopathy in developing ischemic stroke in a subpopulation of patients with HFpEF without 
+
+known AF.
+
+Methods
+
+The study design, inclusion criteria, and primary findings of TOPCAT have been previously 
+
+described9. The data and study materials were made available through the National Institutes 
+
+of Health. TOPCAT was a multicenter, randomized, double-blind, placebo-controlled trial 
+
+that evaluated the effects of spironolactone in patients with symptomatic HFpEF. Briefly, 
+
+the trial included patients older than 50 years with signs and symptoms of heart failure, 
+
+left ventricular ejection fraction >45%, controlled systolic blood pressure, serum potassium 
+
+levels <5 mmol/L, serum creatinine <2.5 mg/dL, and who fulfilled at least 1 of the following 
+
+inclusion criteria: (1) history of hospitalization for HF within the past 12 months; or (2) 
+
+brain natriuretic peptide (BNP) ≥100 pg/mL or an N-terminal-pro-BNP (NT-pro-BNP) ≥360 
+
+pg/mL within 60 days before randomization. The study included 3445 participants from 
+
+233 sites across the Americas and Europe. The mean duration of follow-up was 3.4 ± 1.7 
+
+years. The primary end point was time to first of cardiovascular death, HF hospitalization, 
+
+or aborted cardiac arrest. All end-points after randomization were adjudicated by a central 
+
+adjudication committee blinded to treatment assignment. The Institutional Review Board at 
+
+the University of Oklahoma Health Sciences Center approved the present analysis.
+
+For this analysis, the primary end point was incident ischemic stroke over the study period. 
+
+Among 3445 patients in the TOPCAT trial, we included 2225 patients with sinus rhythm 
+
+documented at baseline ECG and not known to have a history of AF. Patients were screened 
+
+for atrial myopathy with available echocardiographic and/ or laboratory data at baseline, 
+
+defined as left atrial enlargement (left atrial diameter > 46mm or left atrial volume index 
+
+> 36 mL/m2) or elevated natriuretic peptides (BNP > 100 pg/mL or NT-Pro-BNP > 400 
+
+pg/mL)10. Using this definition, atrial myopathy was present in 756 (34.0%) patients. 
+
+Echocardiographic variables were available for 575 (25.8%) patients and 840 (37.8 %) 
+
+patients had baseline natriuretic peptide values available for this analysis.
+
+Farhat et al. Page 2
+
+Am J Cardiol. Author manuscript; available in PMC 2024 September 15.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+Baseline characteristics including age, race, body mass index (BMI), waist circumference, 
+
+hypertension, dyslipidemia, diabetes, asthma, chronic obstructive pulmonary disease 
+
+(COPD), thyroid disease, peripheral artery disease, history of stroke, pacemaker, and 
+
+smoking were compared using the chi-square test and Student’s t-test test for categorical 
+
+and continuous variables, respectively. Stroke-free survival was calculated using the Kaplan-
+
+Meier method. Patients were censored if they were lost to follow up or died during the 
+
+follow up period before a stroke event occurred. Subgroups were compared using the 
+
+log-rank method. Associations between atrial myopathy, other variables and endpoints 
+
+were determined using Cox proportional hazards models. Hazard ratios (HR) and 95% 
+
+confidence intervals (CI) were calculated. Variables that were significant by univariate 
+
+analysis were entered into a multivariate Cox proportional hazard model with backwards 
+
+elimination to identify the most parsimonious model. Interaction between atrial myopathy 
+
+and other clinical variables were also considered, and were dropped from the model when 
+
+not statistically significant. P values <0.05 were considered statistically significant for main 
+
+and interaction effects. All analyses were performed using SAS 9.4 (SAS Institute, Cary, 
+
+NC).
+
+Results
+
+A total of 2225 patients with HFpEF without known history of AF at baseline were 
+
+included in this analysis. The mean age was 67.5± 4.9 years, and 54.8% were female. Atrial 
+
+myopathy was present in 756 (34.0%) patients. Of those, 58 had left atrial enlargement, 
+
+622 had elevated BNP and 74 had both. Over a median follow-up of 2 years, 56 (2.5%) 
+
+patients developed ischemic strokes, including 25 with atrial myopathy. During the follow 
+
+up period, 96 (4.3%) patients developed AF [49 (6.5%) and 47 (3.2%) with and without 
+
+atrial myopathy, respectively; p=0.0004]. Three (3.1%) of these patients who developed AF 
+
+during follow up, also developed stroke, including 2 patients with atrial myopathy. The 
+
+baseline characteristics of patients with and without atrial myopathy are summarized in 
+
+Table 1. Patients with atrial myopathy had more comorbidities, including diabetes (42.6%), 
+
+dyslipidemia (70.4%), peripheral arterial disease (13.3%), history of pacemaker implantation 
+
+(7.9%) and history of prior strokes (8.9%) compared to those without atrial myopathy. More 
+
+patients with atrial myopathy were on aspirin and warfarin, compared to those without atrial 
+
+myopathy (31.5% vs. 18.7%; p<0.001 and 4.8% vs. 1.3%; p<0.001, respectively), likely 
+
+reflecting the higher burden of comorbidities. In addition, atrial myopathy patients had 
+
+larger left atria and higher left ventricular filling pressures, as estimated by the ratio of the 
+
+mitral inflow velocity to the mitral annular velocity (E/e’).
+
+Incident stroke during follow up occurred in 25 (3.3%) patients with atrial myopathy and 31 
+
+(2.1%) patients without atrial myopathy (HR=1.94, 95% CI 1.14 – 3.31, p=0.01, Figure 1). 
+
+By univariate analysis, other variables associated with incident stroke included diabetes 
+
+(p=0.003), dyslipidemia (p=0.04) and aspirin use (p=0.001); Table 2). By multivariate 
+
+analysis, the only independent predictors of incident stroke were atrial myopathy (HR=1.74, 
+
+95% CI 1.01 – 2.98, p=0.04) and diabetes (HR=2.02, 95% CI 1.19 – 3.44, p=0.01; Table 2). 
+
+There was no interaction of atrial myopathy with age or diabetes.
+
+Farhat et al. Page 3
+
+Am J Cardiol. Author manuscript; available in PMC 2024 September 15.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+Furthermore, since the definition of atrial myopathy is still not well defined4–6, we 
+
+performed a sensitivity analysis by defining atrial myopathy using echocardiographic 
+
+parameters only (LA diameter >4.6cm and/or LA volume index >36ml/m2). Using this 
+
+definition, atrial myopathy was still associated with incident stroke (HR=2.43, 95% CI 1.02 
+
+– 5.99, p=0.03, Figure 2). We further divided the LA diameter into tertiles and assessed the 
+
+association of incident stroke by tertiles. Compared with those in the lowest tertile, those in 
+
+the highest tertile had a nearly 5-fold increase in the risk of incident stroke (HR=4.82, 95% 
+
+CI 1.04 – 22.35, p=0.04), whereas there was a numerical, albeit non-significant increase in 
+
+the risk of stroke in those in the middle tertile (HR=2.39, 95% CI 0.51–11.23, p=0.27).
+
+Discussion
+
+The current secondary analysis of the TOPCAT trial assessed the hypothesis that atrial 
+
+myopathy would increase the risk of incident stroke in patients with HFpEF independent 
+
+of the presence of AF. Our results, which support this hypothesis, are consistent with 
+
+recent evidence linking impaired left atrial function in HFpEF with adverse outcomes11. 
+
+Importantly, our results highlight the notion that structural and cellular changes in the 
+
+left atrium may be the final common pathway of multiple comorbidities, including AF, 
+
+predisposing to thrombogenesis, and eventually leading to thromboembolic stroke6. This 
+
+notion is being prospectively tested in the ARCADIA trial (Atrial Cardiopathy and 
+
+Antithrombotic Drugs in Prevention After Cryptogenic Stroke), in which patients with 
+
+ESUS and either left atrial enlargement, abnormally high P-wave terminal force in ECG lead 
+
+V1, or elevated N-terminal pro B-type natriuretic peptide are randomly assigned to either 
+
+apixaban or aspirin for secondary stroke prevention12. It should be noted that a universal 
+
+definition of atrial myopathy is lacking at present6,10. In our analysis, we used acceptable 
+
+markers for atrial myopathy, including LA dilation and elevated natriuretic peptides, based 
+
+on evidence from previous studies showing that these values are associated with elevated 
+
+thromboembolic risk6,10.
+
+The “atrial myopathy” concept reframes our understanding of the relationship between 
+
+AF and thromboembolism. Atrial myopathy refers to adverse atrial structural, electrical, 
+
+and functional abnormalities that can present irrespective of AF, but may lead to AF4–6. 
+
+Importantly, although AF may lead to the initiation and/or progression of atrial myopathy, 
+
+the presence of AF is not essential to the development and/or maintenance of the atrial 
+
+myopathic state6. Atrial myopathy is caused by comorbid conditions, including aging, 
+
+obesity, inflammation, oxidative stress, and stretching of the atria, which are prevalent in 
+
+patients with HFpEF3. At the cellular level, atrial myopathy is associated with alterations in 
+
+calcium cycling, ion channels, and gap junctions, as well as structural changes, manifesting 
+
+as fibrosis6. These changes, coupled with endothelial dysfunction and stasis, induce a 
+
+prothrombotic state, leading to thrombogenesis, independent of AF6. Clinical studies 
+
+corroborate these experimental findings. The ASSERT trial, that enrolled 2,580 patients 
+
+with cardiac implantable electronic devices demonstrated a lack of temporal association 
+
+between AF episodes and ischemic stroke, with only 8% of patients having AF episodes 
+
+within 30 days of stroke events13. In addition, rhythm control trials such as RACE 
+
+(Rate Control versus Electrical Cardioversion for Persistent Atrial Fibrillation Study) and 
+
+AFFIRM (Atrial Fibrillation Follow-up Investigation of Rhythm Management) failed to 
+
+Farhat et al. Page 4
+
+Am J Cardiol. Author manuscript; available in PMC 2024 September 15.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+demonstrate improvement in stroke prevention by maintaining sinus rhythm, suggesting 
+
+that local stasis during AF is not the primary cause of stroke14,15. Our results support this 
+
+concept and highlight the role of atrial myopathy and diabetes in the development of stroke 
+
+in patients with HFpEF. Taking this concept a step forward, it has been proposed that cardiac 
+
+inflammation, fibrosis and microvascular dysfunction represent the final common pathway 
+
+leading to both HFpEF and thromboembolism through atrial and ventricular myopathy, 
+
+while AF is a marker of atrial myopathy, rather than the cause of thromboembolism3. 
+
+Further studies are required to elucidate the complex association between HFpEF, atrial 
+
+myopathy and thromboembolism.
+
+A major hurdle in our understanding of the association of atrial myopathy with 
+
+thromboembolism is that a clear definition of atrial myopathy is not currently available. 
+
+Methods to identify atrial myopathy include atrial electrograms showing fractionation, 
+
+indicative of fibrosis, tissue biopsy showing fibrosis, cardiac imaging, including 
+
+echocardiography and cardiac magnetic resonance imaging, and serum biomarkers5. 
+
+Development of molecular imaging probes for detection of atrial myopathy might enable 
+
+early diagnosis, ultimately leading to improved treatment outcomes16. Meanwhile, the 
+
+most commonly diagnostic criteria of atrial myopathy include LA size, N-terminal pro–
+
+B-type natriuretic peptide levels (NT-proBNP), and P-wave terminal force in V16,10. These 
+
+parameters are being used to define atrial myopathy in the ongoing ARCADIA trial12. In our 
+
+study, we used LA enlargement and elevated natriuretic peptides to define atrial myopathy. 
+
+Notably, a systematic review including 67,875 patients underlined the predisposing role of 
+
+LA enlargement for stroke development in patients with sinus rhythm17. Moreover, a post 
+
+hoc analysis of the NAVIGATE ESUS, which failed to show a superiority of rivaroxaban 
+
+compared to aspirin in secondary stroke prevention in the overall study population with 
+
+ESUS, demonstrated that patients with enlarged left atrium (estimated as left atrial diameter 
+
+>4.6 cm, ≈10% of trial patients) had a significant reduction of recurrent strokes with 
+
+rivaroxaban than aspirin18. A recent prospective cohort study emphasized the association 
+
+between high NT-proBNP levels and increased risk of cardioembolic stroke in the general 
+
+population19. Another post-hoc analysis of the WARSS trial suggested a significant decrease 
+
+in secondary stroke risk in patients with elevated NT-proBNP (>750 pg/ml), who were 
+
+treated with warfarin rather than aspirin20. Our results are in line with the findings of 
+
+these two secondary analyses; however, this evidence should be regarded as hypothesis-
+
+generating and will require confirmation in a prospective trial. It also remains unclear 
+
+whether initiation of oral anticoagulation therapy in patients with markers of atrial myopathy 
+
+or with cryptogenic stroke or ESUS will decrease recurrent stroke events.
+
+There are several limitations of this analysis. This is a post-hoc exploratory analysis that 
+
+stratified patients according to the presence or absence of atrial myopathy and should thus 
+
+be regarded as hypothesis-generating only. Our findings may not be generalizable to the 
+
+general population since we included a specific population with HFpEF. Echocardiographic 
+
+data were available in a fraction of the total population, therefore, we elected to include 
+
+elevated natriuretic peptide values in the definition of atrial myopathy, acknowledging that 
+
+some patients may have such elevation due to heart failure rather than atrial myopathy. 
+
+However, in our sensitivity analysis including patients with atrial myopathy according 
+
+to echocardiographic left atrial dilation, corroborated our initial findings. These issues 
+
+Farhat et al. Page 5
+
+Am J Cardiol. Author manuscript; available in PMC 2024 September 15.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+highlight the need for a more accurate biomarker indicative of atrial myopathy, which is 
+
+lacking at present. AF may be underdiagnosed due to its intermittent nature; therefore, the 
+
+risk for misclassification bias cannot be excluded. Finally, due to a probable incomplete 
+
+ischemic stroke workup during the TOPCAT trial, it is possible that some patients with 
+
+new-onset stroke in this study did not have ESUS, but a different etiology for stroke.
+
+Atrial myopathy in patients with HFpEF patients without AF is associated with a high risk 
+
+of stroke. Further studies are warranted to confirm these findings and evaluate whether early 
+
+identification of atrial myopathy based on novel biomarkers may identify a subpopulation at 
+
+higher risk of stroke who might benefit from oral anticoagulation therapy.
+
+Funding:
+
+Funded in part by R01HL161008 to Stavros Stavrakis
+
+Declaration of interests
+
+Stavros Stavrakis reports financial support was provided by National Institutes of Health.
+
+References
+
+1. Dunlay SM, Roger VL and Redfield MM. Epidemiology of heart failure with preserved ejection 
+fraction. Nat Rev Cardiol 2017;14:591–602 [PubMed: 28492288] 
+
+2. Reddy YNV, Obokata M, Verbrugge FH, Lin G and Borlaug BA. Atrial Dysfunction in Patients 
+With Heart Failure With Preserved Ejection Fraction and Atrial Fibrillation. J Am Coll Cardiol 
+2020;76:1051–1064 [PubMed: 32854840] 
+
+3. Packer M HFpEF Is the Substrate for Stroke in Obesity and Diabetes Independent of Atrial 
+Fibrillation. JACC Heart Fail 2020;8:35–42 [PubMed: 31706838] 
+
+4. Goette A, Kalman JM, Aguinaga L, Akar J, Cabrera JA, Chen SA, Chugh SS, Corradi D, D’Avila A, 
+Dobrev D, Fenelon G, Gonzalez M, Hatem SN, Helm R, Hindricks G, Ho SY, Hoit B, Jalife J, Kim 
+YH, Lip GY, Ma CS, Marcus GM, Murray K, Nogami A, Sanders P, Uribe W, Van Wagoner DR and 
+Nattel S. EHRA/HRS/APHRS/SOLAECE expert consensus on atrial cardiomyopathies: Definition, 
+characterization, and clinical implication. Heart Rhythm 2017;14:e3–e40 [PubMed: 27320515] 
+
+5. Guichard JB and Nattel S. Atrial Cardiomyopathy: A Useful Notion in Cardiac Disease 
+Management or a Passing Fad? J Am Coll Cardiol 2017;70:756–765 [PubMed: 28774383] 
+
+6. Shen MJ, Arora R and Jalife J. Atrial Myopathy. JACC Basic Transl Sci 2019;4:640–654 [PubMed: 
+31768479] 
+
+7. Edwards JD, Healey JS, Fang J, Yip K and Gladstone DJ. Atrial Cardiopathy in the Absence of 
+Atrial Fibrillation Increases Risk of Ischemic Stroke, Incident Atrial Fibrillation, and Mortality and 
+Improves Stroke Risk Prediction. J Am Heart Assoc 2020;9:e013227 [PubMed: 32431188] 
+
+8. Kamel H, Bartz TM, Elkind MSV, Okin PM, Thacker EL, Patton KK, Stein PK, deFilippi CR, 
+Gottesman RF, Heckbert SR, Kronmal RA, Soliman EZ and Longstreth WT Jr., Atrial Cardiopathy 
+and the Risk of Ischemic Stroke in the CHS (Cardiovascular Health Study). Stroke 2018;49:980–
+986 [PubMed: 29535268] 
+
+9. Pitt B, Pfeffer MA, Assmann SF, Boineau R, Anand IS, Claggett B, Clausell N, Desai AS, Diaz 
+R, Fleg JL, Gordeev I, Harty B, Heitner JF, Kenwood CT, Lewis EF, O’Meara E, Probstfield JL, 
+Shaburishvili T, Shah SJ, Solomon SD, Sweitzer NK, Yang S, McKinlay SM and Investigators 
+T. Spironolactone for heart failure with preserved ejection fraction. N Engl J Med 2014;370:1383–
+1392 [PubMed: 24716680] 
+
+10. Schnabel RB, Haeusler KG, Healey JS, Freedman B, Boriani G, Brachmann J, Brandes A, 
+Bustamante A, Casadei B, Crijns H, Doehner W, Engstrom G, Fauchier L, Friberg L, Gladstone 
+DJ, Glotzer TV, Goto S, Hankey GJ, Harbison JA, Hobbs FDR, Johnson LSB, Kamel H, Kirchhof 
+P, Korompoki E, Krieger DW, Lip GYH, Lochen ML, Mairesse GH, Montaner J, Neubeck L, 
+
+Farhat et al. Page 6
+
+Am J Cardiol. Author manuscript; available in PMC 2024 September 15.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+Ntaios G, Piccini JP, Potpara TS, Quinn TJ, Reiffel JA, Ribeiro ALP, Rienstra M, Rosenqvist 
+M, Themistoclakis S, Sinner MF, Svendsen JH, Van Gelder IC, Wachter R, Wijeratne T and Yan 
+B. Searching for Atrial Fibrillation Poststroke: A White Paper of the AF-SCREEN International 
+Collaboration. Circulation 2019;140:1834–1850 [PubMed: 31765261] 
+
+11. Patel RB, Lam CSP, Svedlund S, Saraste A, Hage C, Tan RS, Beussink-Nelson L, Tromp J, 
+Sanchez C, Njoroge J, Swat SA, Faxen UL, Fermer ML, Venkateshvaran A, Gan LM, Lund LH 
+and Shah SJ. Disproportionate left atrial myopathy in heart failure with preserved ejection fraction 
+among participants of the PROMIS-HFpEF study. Sci Rep 2021;11:4885 [PubMed: 33649383] 
+
+12. Kamel H, Longstreth WT Jr., Tirschwell DL, Kronmal RA, Broderick JP, Palesch YY, Meinzer 
+C, Dillon C, Ewing I, Spilker JA, Di Tullio MR, Hod EA, Soliman EZ, Chaturvedi S, Moy 
+CS, Janis S and Elkind MS. The AtRial Cardiopathy and Antithrombotic Drugs In prevention 
+After cryptogenic stroke randomized trial: Rationale and methods. Int J Stroke 2019;14:207–214 
+[PubMed: 30196789] 
+
+13. Brambatti M, Connolly SJ, Gold MR, Morillo CA, Capucci A, Muto C, Lau CP, Van Gelder IC, 
+Hohnloser SH, Carlson M, Fain E, Nakamya J, Mairesse GH, Halytska M, Deng WQ, Israel CW, 
+Healey JS and Investigators A. Temporal relationship between subclinical atrial fibrillation and 
+embolic events. Circulation 2014;129:2094–2099 [PubMed: 24633881] 
+
+14. Van Gelder IC, Hagens VE, Bosker HA, Kingma JH, Kamp O, Kingma T, Said SA, Darmanata 
+JI, Timmermans AJ, Tijssen JG, Crijns HJ and Rate Control versus Electrical Cardioversion 
+for Persistent Atrial Fibrillation Study G. A comparison of rate control and rhythm control in 
+patients with recurrent persistent atrial fibrillation. N Engl J Med 2002;347:1834–1840 [PubMed: 
+12466507] 
+
+15. Wyse DG, Waldo AL, DiMarco JP, Domanski MJ, Rosenberg Y, Schron EB, Kellen JC, Greene 
+HL, Mickel MC, Dalquist JE, Corley SD and Atrial Fibrillation Follow-up Investigation of 
+Rhythm Management I. A comparison of rate control and rhythm control in patients with atrial 
+fibrillation. N Engl J Med 2002;347:1825–1833 [PubMed: 12466506] 
+
+16. Ezeani M, Hagemeyer CE, Lal S and Niego B. Molecular imaging of atrial myopathy: Towards 
+early AF detection and non-invasive disease management. Trends Cardiovasc Med 2022;32:20–31 
+[PubMed: 33338638] 
+
+17. Overvad TF, Nielsen PB, Larsen TB and Sogaard P. Left atrial size and risk of stroke in patients in 
+sinus rhythm. A systematic review. Thromb Haemost 2016;116:206–219 [PubMed: 27075168] 
+
+18. Healey JS, Gladstone DJ, Swaminathan B, Eckstein J, Mundl H, Epstein AE, Haeusler KG, 
+Mikulik R, Kasner SE, Toni D, Arauz A, Ntaios G, Hankey GJ, Perera K, Pagola J, Shuaib A, 
+Lutsep H, Yang X, Uchiyama S, Endres M, Coutts SB, Karlinski M, Czlonkowska A, Molina CA, 
+Santo G, Berkowitz SD, Hart RG and Connolly SJ. Recurrent Stroke With Rivaroxaban Compared 
+With Aspirin According to Predictors of Atrial Fibrillation: Secondary Analysis of the NAVIGATE 
+ESUS Randomized Clinical Trial. JAMA Neurol 2019;76:764–773 [PubMed: 30958508] 
+
+19. Folsom AR, Nambi V, Bell EJ, Oluleye OW, Gottesman RF, Lutsey PL, Huxley RR and 
+Ballantyne CM. T Troponin, N-terminal pro-B-type natriuretic peptide, and incidence of stroke: 
+the atherosclerosis risk in communities study. Stroke 2013;44:961–967 [PubMed: 23471272] 
+
+20. Longstreth WT Jr., Kronmal RA, Thompson JL, Christenson RH, Levine SR, Gross R, Brey RL, 
+Buchsbaum R, Elkind MS, Tirschwell DL, Seliger SL, Mohr JP and deFilippi CR. Amino terminal 
+pro-B-type natriuretic peptide, secondary stroke prevention, and choice of antithrombotic therapy. 
+Stroke 2013;44:714–719 [PubMed: 23339958] 
+
+Farhat et al. Page 7
+
+Am J Cardiol. Author manuscript; available in PMC 2024 September 15.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+Figure 1. 
+Cumulative event rates of recurrent ischemic stroke for those with and without atrial 
+
+myopathy over the study period.
+
+Farhat et al. Page 8
+
+Am J Cardiol. Author manuscript; available in PMC 2024 September 15.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+Figure 2. 
+Cumulative event rates of recurrent ischemic stroke for those with and without atrial 
+
+myopathy, defined as left atrial enlargement by echocardiography, over the study period.
+
+Farhat et al. Page 9
+
+Am J Cardiol. Author manuscript; available in PMC 2024 September 15.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+Farhat et al. Page 10
+
+Table 1.
+
+Baseline characteristics according to the presence or absence of atrial myopathy.
+
+Characteristic Atrial myopathy (n=756) No atrial myopathy (n=1469) P value
+
+Age, years 69.5 ± 10.0 65.8 ± 8.9 <0.001
+
+Female (%) 387 (51.2%) 832 (56.6%) 0.01
+
+Race
+White 607 (80.3%) 1340 (91.2%)
+
+< 0.001
+Non-white 149 (19.7%) 129 (8.8%)
+
+Body mass index (kg/m2) 32.3 ± 7.7 31.9 ± 6.9 0.29
+
+Waist circumference (cm) 105.8 ± 17.0 103.4 ± 16.7 0.002
+
+Chronic obstructive pulmonary disease 107 (14.1%) 126 (8.6%) < 0.001
+
+Hypertension 684 (90.5%) 1361 (92.7%) 0.08
+
+Diabetes 323 (42.7%) 435 (29.6%) < 0.001
+
+Dyslipidemia 534 (70.6 %) 776 (52.8%) < 0.001
+
+Peripheral arterial disease 99 (13.1%) 120 (8.2%) < 0.001
+
+Thyroid disease 103 (13.6%) 172 (11.7%) 0.18
+
+Current smoker 81 (10.7%) 200 (13.6%) 0.05
+
+Pacemaker 60 (7.9%) 33 (2.2%) < 0.001
+
+History of stroke 67 (8.9%) 82 (5.6%) 0.003
+
+Aspirin use 238 (31.5%) 275 (18.7%) < 0.001
+
+Warfarin use 36 (4.8%) 19 (1.3%) < 0.001
+
+Left ventricular ejection fraction 59.4 ± 8.3 60.1 ± 7.4 0.27
+
+Left atrial diameter 4.4 ± 0.6 3.8 ± 0.4 < 0.001
+
+Left atrial volume index 29.1 ± 10.3 22.4 ± 6.4 < 0.001
+
+E/e’ 14.7 ± 5.6 12.6 ± 5.1 0.002
+
+E/e’ = ratio of the early mitral inflow Doppler velocity to the early diastolic mitral annulus velocity
+
+Am J Cardiol. Author manuscript; available in PMC 2024 September 15.
+
+
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+Farhat et al. Page 11
+
+Table 2.
+
+Univariate analysis and multivariate regression analysis of the influence of baseline characteristics on the 
+
+stroke event rates.
+
+Univariate Analysis
+
+Parameter Hazard ratio 95% Confidence interval P-value
+
+Age 1.01 0.98 – 1.04 0.43
+
+Gender 0.94 0.56 – 1.59 0.82
+
+Race 1.24 0.66 – 2.30 0.50
+
+Body mass index 1.01 0.97 – 1.05 0.68
+
+Waist circumference 1.01 0.99 – 1.03 0.21
+
+Chronic obstructive pulmonary disease 1.60 0.76 – 3.38 0.25
+
+Hypertension 2.37 0.58 – 9.73 0.23
+
+Diabetes 2.19 1.30 – 3.71 0.003
+
+Dyslipidemia 1.85 1.04 – 3.31 0.04
+
+Peripheral arterial disease 1.43 0.65 – 3.15 0.38
+
+Current smoker 1.33 0.65 – 2.71 0.44
+
+History of Stroke 2.19 1.00 – 4.84 0.05
+
+Aspirin use 1.25 1.13 – 1.38 0.001
+
+Warfarin use 1.22 0.94 – 1.60 0.14
+
+Atrial myopathy 1.94 1.14 – 3.31 0.01
+
+Multivariate Analysis
+
+Parameter Hazard ratio 95% Confidence Interval P-value
+
+Diabetes 2.02 1.19 – 3.44 0.01
+
+Atrial myopathy 1.74 1.01 – 2.98 0.04
+
+Am J Cardiol. Author manuscript; available in PMC 2024 September 15.
+
+
+	Abstract
+	Methods
+	Results
+	Discussion
+	References
+	Figure 1.
+	Figure 2.
+	Table 1.
+	Table 2.
+

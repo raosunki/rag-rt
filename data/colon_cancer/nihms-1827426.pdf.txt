@@ -1,0 +1,4040 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Circulating Tumor DNA Analysis Guiding Adjuvant Therapy in Stage II Colon Cancer
+
+
+Circulating Tumor DNA Analysis Guiding Adjuvant Therapy in 
+Stage II Colon Cancer
+
+Jeanne Tie, M.D.#,
+
+Joshua D. Cohen, M.Phil.#,
+
+Kamel Lahouel, Ph.D.#,
+
+Serigne N. Lo, Ph.D.,
+
+Yuxuan Wang, M.D., Ph.D.,
+
+Suzanne Kosmider, M.B., B.S.,
+
+Rachel Wong, M.B., B.S.,
+
+Jeremy Shapiro, M.B., B.S.,
+
+Margaret Lee, M.B., B.S.,
+
+Sam Harris, M.B., B.S.,
+
+Adnan Khattak, M.B., B.S.,
+
+Matthew Burge, M.B., B.S.,
+
+Marion Harris, M.B., B.S.,
+
+James Lynam, M.B., B.S.,
+
+Louise Nott, M.B., B.S.,
+
+Fiona Day, Ph.D.,
+
+Theresa Hayes, M.B., B.S.,
+
+Sue-Anne McLachlan, M.B., B.S.,
+
+Belinda Lee, M.B., B.S.,
+
+Janine Ptak, M.S.,
+
+Natalie Silliman, B.S.,
+
+Lisa Dobbyn, B.A.,
+
+Maria Popoli, M.S.,
+
+Ralph Hruban, M.D.,
+
+Anne Marie Lennon, M.D., Ph.D.,
+
+Nicholas Papadopoulos, Ph.D.,
+
+Kenneth W. Kinzler, Ph.D.,
+
+Bert Vogelstein, M.D.,
+
+Cristian Tomasetti, Ph.D.#,
+
+Peter Gibbs, M.D.#,
+
+*A list of the principal investigators in the DYNAMIC trial is provided in the Supplementary Appendix, available at NEJM.org.
+
+Dr. Tie can be contacted at tie.j@wehi.edu.au.
+Dr. Tie, Mr. Cohen, and Dr. Lahouel and Drs. Tomasetti and Gibbs contributed equally to this article.
+
+HHS Public Access
+Author manuscript
+N Engl J Med. Author manuscript; available in PMC 2022 December 16.
+
+Published in final edited form as:
+N Engl J Med. 2022 June 16; 386(24): 2261–2272. doi:10.1056/NEJMoa2200075.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+DYNAMIC Investigators*
+
+Division of Personalised Oncology, Walter and Eliza Hall Institute of Medical Research (J.T., 
+R.W., M.L., B.L., P.G.), the Department of Medical Oncology, Peter MacCallum Cancer Centre 
+(J.T., B.L.), the Department of Medical Oncology, Western Health (J.T., S.K., M.L., P.G.), the 
+Faculty of Medicine, Dentistry, and Health Sciences, University of Melbourne (J.T., P.G.), the 
+Department of Medical Oncology, Eastern Health (R.W., M.L.), the Eastern Health Clinical 
+School, Faculty of Medicine, Nursing, and Health Sciences, Monash University (R.W., M.L.), the 
+Department of Medical Oncology, Cabrini Health (J.S.), the Department of Medical Oncology, 
+Monash Health (M.H.), the Department of Medical Oncology, St. Vincent’s Hospital (S.-A.M.), 
+and the Department of Medical Oncology, Northern Health (B.L.), Melbourne, VIC, the Research 
+and Biostatistics Group, Melanoma Institute Australia, and the Faculty of Medicine and Health, 
+University of Sydney, Sydney (S.N.L.), the Department of Medical Oncology, Bendigo Health, 
+Bendigo, VIC (S.H.), the Department of Medical Oncology, Fiona Stanley Hospital, and Edith 
+Cowan University, Perth, WA (A.K.), the Department of Medical Oncology, Royal Brisbane and 
+Women’s Hospital, and the University of Queensland, Brisbane, QLD (M.B.), Newcastle Private 
+Hospital (J.L.), and the Department of Medical Oncology, Calvary Mater Newcastle Hospital 
+(F.D.), Newcastle, NSW, the Department of Medical Oncology, Royal Hobart Hospital, Hobart, 
+TAS (L.N.), and South West Healthcare, Warrnambool, VIC (T.H.) — all in Australia; the Ludwig 
+Center for Cancer Genetics and Therapeutics (J.D.C., Y.W., J.P., N.S., L.D., M.P., N.P., K.W.K., 
+B.V.), the Division of Biostatistics and Bioinformatics (K.L., C.T.), Department of Oncology, Sidney 
+Kimmel Comprehensive Cancer Center (J.D.C., Y.W., J.P., N.S., L.D., M.P., R.H., A.M.L., N.P., 
+K.W.K., B.V.), the Sol Goldman Pancreatic Cancer Research Center (J.D.C., Y.W., J.P., N.S., L.D., 
+M.P., R.H., A.M.L., N.P., K.W.K., B.V.), and the Departments of Pathology (R.H.) and Medicine 
+(A.M.L.), Johns Hopkins University School of Medicine, the Howard Hughes Medical Institute 
+(J.P., N.S., B.V.), the Department of Biomedical Engineering, Johns Hopkins University (J.D.C.), 
+and the Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health (C.T.) — 
+all in Baltimore; and the Institute for Research and Medical Consultations, Imam Abdulrahman Bin 
+Faisal University, Dammam, Saudi Arabia (S.N.L.).
+
+# These authors contributed equally to this work.
+
+Abstract
+
+BACKGROUND—The role of adjuvant chemotherapy in stage II colon cancer continues to 
+
+be debated. The presence of circulating tumor DNA (ctDNA) after surgery predicts very poor 
+
+recurrence-free survival, whereas its absence predicts a low risk of recurrence. The benefit of 
+
+adjuvant chemotherapy for ctDNA-positive patients is not well understood.
+
+METHODS—We conducted a trial to assess whether a ctDNA-guided approach could reduce the 
+
+use of adjuvant chemotherapy without compromising recurrence risk. Patients with stage II colon 
+
+cancer were randomly assigned in a 2:1 ratio to have treatment decisions guided by either ctDNA 
+
+results or standard clinicopathological features. For ctDNA-guided management, a ctDNA-positive 
+
+result at 4 or 7 weeks after surgery prompted oxaliplatin-based or fluoropyrimidine chemotherapy. 
+
+Patients who were ctDNA-negative were not treated. The primary efficacy end point was 
+
+recurrence-free survival at 2 years. A key secondary end point was adjuvant chemotherapy use.
+
+Tie et al. Page 2
+
+N Engl J Med. Author manuscript; available in PMC 2022 December 16.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+RESULTS—Of the 455 patients who underwent randomization, 302 were assigned to ctDNA-
+
+guided management and 153 to standard management. The median follow-up was 37 months. A 
+
+lower percentage of patients in the ctDNA-guided group than in the standard-management group 
+
+received adjuvant chemotherapy (15% vs. 28%; relative risk, 1.82; 95% confidence interval [CI], 
+
+1.25 to 2.65). In the evaluation of 2-year recurrence-free survival, ctDNA-guided management 
+
+was noninferior to standard management (93.5% and 92.4%, respectively; absolute difference, 
+
+1.1 percentage points; 95% CI, −4.1 to 6.2 [noninferiority margin, −8.5 percentage points]). Three-
+
+year recurrence-free survival was 86.4% among ctDNA-positive patients who received adjuvant 
+
+chemotherapy and 92.5% among ctDNA-negative patients who did not.
+
+CONCLUSIONS—A ctDNA-guided approach to the treatment of stage II colon cancer reduced 
+
+adjuvant chemotherapy use without compromising recurrence-free survival. (Supported by the 
+
+Australian National Health and Medical Research Council and others; DYNAMIC Australian New 
+
+Zealand Clinical Trials Registry number, ACTRN12615000381583.)
+
+Colorectal cancer remains common worldwide.1 The current standard care for nonmetastatic 
+
+colon cancer is surgery, with histopathological staging informing the use of up to 6 
+
+months of adjuvant chemotherapy. Although the benefit of adjuvant chemotherapy has 
+
+been unequivocally established for patients with stage III colon cancer, its usefulness for 
+
+patients with stage II disease continues to be debated.2 Surgery alone can cure more than 
+
+80% of patients with stage II colon cancer, and no clear overall survival benefit has been 
+
+observed in trials of adjuvant therapy.3–5 Therefore, guidelines currently recommend that 
+
+adjuvant chemotherapy be considered for patients who have stage II colon cancer with 
+
+high-risk clinicopathological features, who may be more likely to benefit from adjuvant 
+
+treatment.6–8 However, the current definitions of “high risk” are inadequate, since many 
+
+patients who have cancer with high-risk features do not have disease recurrence, whereas 
+
+some with disease that is deemed low-risk do. Furthermore, the survival benefit conferred 
+
+by adjuvant chemotherapy remains modest (<5%) even when patients with high-risk 
+
+disease are selectively treated, and therefore many patients are exposed to unnecessary 
+
+chemotherapy.4,9,10
+
+More precise prediction of recurrence risk after surgery for stage II colon cancer could 
+
+address this clinical dilemma, limiting treatment to the group of patients who have disease 
+
+with well-defined high-risk features and are most likely to derive a survival benefit. This 
+
+approach would also allow patients who are at low risk for recurrence to be spared the 
+
+physical and financial cost of unnecessary treatment. To date, efforts to refine recurrence 
+
+risk for nonmetastatic colon cancer have focused on examinations of the resected tumor 
+
+with various biomarkers. Although such tissue-based biomarkers have been reported to be 
+
+associated with recurrence risk, the hazard ratios are typically modest, and their clinical 
+
+application is still contentious.11–14
+
+Circulating tumor DNA (ctDNA) analysis is a promising alternative strategy in which 
+
+peripheral blood (a “liquid biopsy”) is directly evaluated for evidence of minimal 
+
+residual disease that could ultimately be the source of a later clinical recurrence. Several 
+
+observational studies involving patients with solid tumors, including those with stage II 
+
+colon cancer, have confirmed a very high risk of recurrence (>80%) when ctDNA is 
+
+Tie et al. Page 3
+
+N Engl J Med. Author manuscript; available in PMC 2022 December 16.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+detected after curative-intent therapy without further adjuvant treatment.15–17 Nevertheless, 
+
+uncertainty remains as to whether adjuvant treatment is beneficial for these ctDNA-positive 
+
+patients who are at high risk for recurrence.
+
+The Circulating Tumour DNA Analysis Informing Adjuvant Chemotherapy in Stage II 
+
+Colon Cancer (DYNAMIC) trial was a randomized trial designed to investigate whether 
+
+a ctDNA-guided approach as compared with a standard approach in stage II colon cancer 
+
+could reduce the use of adjuvant treatment without compromising the risk of recurrence. 
+
+We further examined outcomes among ctDNA-positive patients who received adjuvant 
+
+chemotherapy, to assess the benefit of treating this high-risk group of patients, as well 
+
+as outcomes among ctDNA-negative patients whose disease was managed by surveillance 
+
+alone.
+
+METHODS
+
+PATIENTS
+
+We enrolled patients with resected histologically confirmed stage II (T3 or T4, N0, 
+
+M0)18 colon or rectal adenocarcinoma with negative resection margins. To be eligible 
+
+for enrollment, patients needed to have an Eastern Cooperative Oncology Group (ECOG) 
+
+performance-status score of 0 to 2 (scores range from 0 to 5, with higher numbers reflecting 
+
+greater disability) and had to be medically able to receive adjuvant oxaliplatinbased 
+
+or single-agent fluoropyrimidine chemotherapy. Patients with evidence of macroscopic 
+
+metastatic disease on computed tomography (CT) of the chest, abdomen, and pelvis 
+
+performed within 8 weeks before enrollment were excluded. Other exclusion criteria were a 
+
+history of another primary cancer within the previous 3 years, the presence of synchronous 
+
+primary colorectal cancer, or treatment with neoadjuvant chemoradiotherapy. Patients were 
+
+enrolled within 3 weeks after surgery, and an adequate specimen from the resected tumor 
+
+needed to be provided for mutation analysis by 4 weeks after surgery.
+
+TRIAL DESIGN AND INTERVENTIONS
+
+This trial was a phase 2, multicenter, randomized, controlled trial of biomarker-driven 
+
+adjuvant therapy. Patients were randomly assigned in a 2:1 ratio to have their disease 
+
+managed according to ctDNA results (ctDNA-guided management) or managed by the 
+
+treating clinician according to standard clinicopathological criteria (standard management). 
+
+Individual patients were assigned to trial groups with the use of block randomization 
+
+stratified according to the participating center location (regional or metropolitan) and tumor 
+
+stage (T3 or T4).
+
+Plasma specimens were obtained for ctDNA analysis from all patients at week 4 and week 7 
+
+after surgery. Patients underwent randomization after confirmation of adequate tumor tissue 
+
+by central pathological review and confirmation of an adequate week 4 blood specimen. 
+
+For patients assigned to ctDNA-guided management, week 4 and week 7 specimens were 
+
+analyzed concurrently, and ctDNA results were made available to the treating clinician 8 to 
+
+10 weeks after surgery. Patients with a positive ctDNA result at either week 4 or week 7 
+
+received adjuvant singleagent fluoropyrimidine or oxaliplatin-based chemotherapy, with the 
+
+Tie et al. Page 4
+
+N Engl J Med. Author manuscript; available in PMC 2022 December 16.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+treatment regimen chosen at the clinician’s discretion. Patients with negative ctDNA results 
+
+at both week 4 and week 7 were not treated with adjuvant chemotherapy.
+
+In the standard-management group, all treatment decisions were based on conventional 
+
+clinicopathological criteria. Acceptable chemotherapy regimens for patients in either group 
+
+are listed in Table S1 of the Supplementary Appendix, available with the full text of this 
+
+article at NEJM.org. Dose modifications to chemotherapy were made in accordance with 
+
+local standards.
+
+END POINTS AND ASSESSMENTS
+
+The primary efficacy end point was recurrence-free survival at 2 years. The recurrence-free 
+
+survival time was calculated from the date of randomization to the date of confirmation of 
+
+disease recurrence or death from any cause (whichever occurred earlier) or the last date 
+
+at which the patient was known to be free of disease (censoring time). Recurrence was 
+
+defined as local, regional, or distant relapse. A key secondary end point was treatment 
+
+with adjuvant chemotherapy. Other secondary end points included recurrence-free survival 
+
+among ctDNA-positive and ctDNA-negative patients in the ctDNA-guided group, time to 
+
+recurrence, and overall survival. Exploratory end points included the ctDNA clearance 
+
+rate in ctDNA-positive patients treated with adjuvant chemotherapy, levels of fear of 
+
+recurrence among the patients, and cost-effectiveness. Overall survival data and outcomes 
+
+for exploratory end points are not reported here.
+
+All patients were to be followed for 5 years, with carcinoembryonic antigen measured every 
+
+3 months for 24 months and then every 6 months for 36 months. Contrast-enhanced CT of 
+
+the chest, abdomen, and pelvis was performed every 6 months for 24 months and then at 
+
+36 months. Because only standard treatments were used in this trial, adverse events were 
+
+not assessed. Dose intensity and dose adjustments for administered chemotherapy were 
+
+recorded.
+
+TRIAL OVERSIGHT
+
+The trial was initiated by investigators based at the Walter and Eliza Hall Institute of 
+
+Medical Research (WEHI), which was responsible for overseeing the conduct of the 
+
+trial. All tumor and plasma specimens were analyzed by academic collaborators in a 
+
+central research laboratory (Ludwig Center at Johns Hopkins) using Safe-Sequencing 
+
+System tumor-informed personalized ctDNA assays.15,19 Further details are provided in 
+
+the Supplementary Appendix. The protocol, available at NEJM.org, was approved by the 
+
+institutional review board or ethics committee at the WEHI, Johns Hopkins Medicine, 
+
+and each participating site. All the participants provided written informed consent in 
+
+accordance with the principles of the Declaration of Helsinki. A statistical analysis plan was 
+
+written and made publicly accessible before the database lock, and the final analysis was 
+
+conducted accordingly.20 Trial data were collected and managed with the use of REDCap 
+
+electronic datacapture tools hosted at the WEHI.21,22 The authors vouch for the accuracy 
+
+and completeness of the data and for the adherence of the trial to the protocol. No one who 
+
+is not an author contributed to writing the article.
+
+Tie et al. Page 5
+
+N Engl J Med. Author manuscript; available in PMC 2022 December 16.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+STATISTICAL ANALYSIS
+
+The overall sample size was chosen to ensure a minimum of 30 patients with a ctDNA-
+
+positive result in the ctDNA-guided group and an acceptable noninferiority margin of 8.5 
+
+percentage points for the analysis of 2-year recurrence-free survival, to exclude the largest 
+
+absolute benefit that could be derived from adjuvant oxaliplatin-based chemotherapy for 
+
+patients with stage II disease.3,23 We calculated that a total sample of 450 patients would 
+
+provide 80% power with a type I error of 5% to show noninferiority of ctDNA-guided 
+
+management to standard management, under the assumption of a 2-year recurrence-free 
+
+survival of 84% with standard management and of 85% with ctDNA-guided management 
+
+and allowing for a 10% dropout rate. The trial was powered to detect a noninferiority 
+
+margin of 5 percentage points for the percentage of patients with recurrence within 2 
+
+years in a time-to-event analysis, as well as a 20-percentage-point difference between the 
+
+standard-management group and the ctDNA-guided group in the percentage of patients 
+
+treated with adjuvant chemotherapy, under the assumption that 30% of the patients in the 
+
+standard-management group and 10% of those in the ctDNA-guided group would receive 
+
+treatment.
+
+The primary efficacy end point was assessed in the intention-to-treat population, which 
+
+included all eligible patients who underwent randomization and had both week 4 and week 
+
+7 postsurgical blood specimens. A sensitivity analysis was performed in the per-protocol 
+
+population, which included patients who had undergone 24-month surveillance imaging 
+
+(unless recurrence or death had already occurred) and, for ctDNA-guided management, 
+
+ctDNA-positive patients who received at least 12 weeks of chemotherapy or ctDNA-
+
+negative patients who received no more than 4 weeks of chemotherapy. Noninferiority 
+
+of ctDNA-guided management to standard management was to be accepted if the lower 
+
+bound of the 95% confidence interval around the estimated difference in the 2-year 
+
+recurrence-free survival was above −8.5 percentage points. In addition, recurrence-free 
+
+survival and percentages of patients with recurrence within 1, 2, and 3 years in a time-
+
+to-event analysis were computed from the Kaplan–Meier survival curves along with the 
+
+associated 95% confidence intervals. Hazard ratios and associated 95% confidence intervals 
+
+were also reported after evaluation of the proportional hazards assumption with the use 
+
+of the Schoenfeld residuals test. The between-group difference in the use of adjuvant 
+
+chemotherapy was assessed as percentages of patients in each group and as relative risk. 
+
+No prespecified plan to control for multiplicity of testing was made, and therefore the 95% 
+
+confidence intervals cannot be used to infer effects. This analysis was conducted when the 
+
+last patient reached a minimum follow-up of 2 years. Statistical analyses were performed 
+
+with R software, version 3.6.1 (R Project for Statistical Computing), and SAS software, 
+
+version 9.4 (SAS Institute).
+
+RESULTS
+
+PATIENT CHARACTERISTICS AND FOLLOW-UP
+
+A total of 459 patients were enrolled from 23 Australian centers between August 10, 2015, 
+
+and August 2, 2019, of whom 455 underwent randomization. Of the 302 patients assigned 
+
+to ctDNA-guided management, 8 (3%) were excluded from the intention-to-treat population, 
+
+Tie et al. Page 6
+
+N Engl J Med. Author manuscript; available in PMC 2022 December 16.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+and of the 153 patients assigned to standard management, 6 (4%) were excluded (Fig. S1). 
+
+A successful ctDNA analysis was performed for 291 of 294 patients (99%) in the ctDNA-
+
+guided group. Of these patients, only 2 did not receive ctDNA-guided management of their 
+
+disease. Of the 45 ctDNA-positive patients in the ctDNA-guided group, 1 did not receive 
+
+adjuvant chemotherapy, and 1 ctDNA-negative patient received chemotherapy. The median 
+
+follow-up from randomization to database lock for analysis (October 15, 2021) was 37 
+
+months (37 months in the ctDNA-guided group and 38 months in the standard-management 
+
+group).
+
+The baseline characteristics of the patients in the main analysis population were generally 
+
+balanced between the two groups, with the exception of a higher percentage of patients 
+
+in the ctDNA-guided group than in the standard-management group having tumors on 
+
+the right side (Tables 1 and S3). The median age of the patients was 64 years, and the 
+
+majority of patients (99%) had an ECOG performance-status score of 0 or 1. T4 disease was 
+
+present in 15% of the patients, and 5% had a lymph node yield of less than 12. Clinical 
+
+high-risk disease, defined as one or more clinicopathological risk features (T4, poor tumor 
+
+differentiation, lymph node yield <12, lymphovascular invasion, tumor perforation, or bowel 
+
+obstruction) in association with a proficient mismatch-repair tumor, was present in 176 
+
+patients (40%). The baseline characteristics of the patients in the per-protocol population are 
+
+shown in Table S2.
+
+TREATMENT DELIVERED
+
+A summary of the treatment delivered and adherence in both trial groups is provided in 
+
+Table 2. A lower percentage of patients in the ctDNA-guided group than in the standard-
+
+management group received adjuvant chemotherapy (15% vs. 28%; relative risk, 1.82; 95% 
+
+confidence interval [CI], 1.25 to 2.65). This difference was observed across almost all 
+
+patient subgroups, with the exception of patients with a lymph node yield of less than 12 
+
+and patients older than 70 years of age (Fig. 1); the most notable difference was seen among 
+
+patients with T4 or poorly differentiated tumors (relative risk, 2.57 and 5.06, respectively). 
+
+For patients with high-risk clinicopathological features, the likelihood of receiving adjuvant 
+
+chemotherapy was 2.14 times as high in the standard-management group as in the ctDNA-
+
+guided group.
+
+Among those who received adjuvant chemotherapy, an oxaliplatin-based doublet was 
+
+administered to a higher percentage of patients in the ctDNA-guided group than in the 
+
+standardmanagement group (62% vs. 10%). In total, 8 of 86 patients (9%) with deficient 
+
+mismatch-repair tumors received adjuvant chemotherapy, 6 (75%) of whom (including 
+
+4 patients in the ctDNA-guided group) were treated with oxaliplatin-based combination 
+
+chemotherapy. The median time to the start of treatment after surgery was longer in the 
+
+ctDNA-guided group than in the standard-management group (83 days vs. 53 days); this 
+
+difference was driven by the wait time for the ctDNA result. No patient had disease 
+
+recurrence during this waiting period.
+
+Tie et al. Page 7
+
+N Engl J Med. Author manuscript; available in PMC 2022 December 16.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+EFFICACY ACCORDING TO TREATMENT GROUP
+
+At the time of database lock, 43 events of disease recurrence or death had occurred. 
+
+Noninferiority of ctDNA-guided management to standard management was confirmed in the 
+
+intention-to-treat population for both 2-year recurrence-free survival (absolute difference, 
+
+1.1 percentage points; 95% CI, −4.1 to 6.2) and the percentage of patients with recurrence 
+
+within 2 years in the time-to-event analysis (absolute difference, 0.7 percentage points; 
+
+95% CI, −4.3 to 5.7) (Figs. 2A, S2, S3, and S4). The percentages of patients surviving 
+
+without disease recurrence at 2 years and at 3 years were similar in the ctDNA-guided 
+
+group and the standard-management group (2-year recurrence-free survival, 93.5% and 
+
+92.4%, respectively; 3-year recurrence-free survival, 91.7% and 92.4%, respectively; hazard 
+
+ratio, 0.96; 95% CI, 0.51 to 1.82) (Fig. 2B). The analysis involving the per-protocol 
+
+population provided similar results (Figs. S6 and S7). Results were also generally similar in 
+
+prespecified subgroup analyses (Fig. S5).
+
+OUTCOMES ACCORDING TO CTDNA STATUS IN THE CTDNA-GUIDED GROUP
+
+In the ctDNA-guided group, recurrence or death occurred in 15 of 246 ctDNA-negative 
+
+patients (6%) and 8 of 45 ctDNA-positive patients (18%). The estimated 3-year recurrence-
+
+free survival was 92.5% among ctDNA-negative patients and 86.4% among ctDNA-positive 
+
+patients (hazard ratio, 1.83; 95% CI, 0.79 to 4.27) (Fig. 3), and the percentage of 
+
+patients who had had a recurrence at 3 years was 7% among ctDNA-negative patients, 
+
+as compared with 14% among ctDNA-positive patients (hazard ratio, 2.45; 95% CI, 1.00 
+
+to 5.99) (Fig. S8). Among the ctDNA-positive patients treated with adjuvant chemotherapy, 
+
+3-year recurrence-free survival was 92.6% among those who received oxaliplatin-based 
+
+chemotherapy and 76.0% among those who received single-agent fluoropyrimidine 
+
+chemotherapy.
+
+In accordance with current guidelines, clinicians routinely base treatment recommendations 
+
+on clinical risk, with a T4 tumor being the strongest risk factor.6–8 In a post hoc exploratory 
+
+analysis, we examined the effect of ctDNA-negative status on recurrence-free survival 
+
+among patients with low-risk or high-risk disease and T3 or T4 tumors. Among ctDNA-
+
+negative patients, 3-year recurrence-free survival was higher among patients with clinical 
+
+low-risk cancers than among those with high-risk cancers (96.7% vs. 85.1%; hazard ratio, 
+
+3.04; 95% CI, 1.26 to 7.34) (Fig. S9). Similarly, 3-year recurrence-free survival was higher 
+
+among patients with T3 tumors than among those with T4 tumors (94.2% vs. 81.3%; 
+
+hazard ratio, 2.60; 95% CI, 1.01 to 6.71) (Fig. S10). We did not investigate the effect of 
+
+ctDNA-positive status according to clinical risk because of the small total number of patients 
+
+with a ctDNA-positive result.
+
+DISCUSSION
+
+The risk of cancer recurrence after curative-intent surgery for solid tumors has traditionally 
+
+been estimated on the basis of formal histologic assessment of the resected specimen. This 
+
+type of analysis defines the tumor stage and determines the presence of any adverse features, 
+
+which inform the use of adjuvant chemotherapy. Efforts to improve treatment and outcomes 
+
+in stage II colon cancer have explored the effect of various adjuvant therapy combinations 
+
+Tie et al. Page 8
+
+N Engl J Med. Author manuscript; available in PMC 2022 December 16.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+or have been aimed at defining a subgroup of patients who are most likely to derive benefit 
+
+from treatment. To date, such approaches have led to limited progress. In this trial, we 
+
+found that a ctDNA-guided approach reduced the number of patients who received adjuvant 
+
+therapy and did not alter the risk of recurrence. Furthermore, ctDNA-positive patients 
+
+appeared to derive considerable benefit from adjuvant treatment, given the low percentage of 
+
+patients with recurrence in this trial as compared with previously reported high recurrence 
+
+rates in this subgroup of patients when no adjuvant chemotherapy was administered.15,24 We 
+
+confirm the very low risk of recurrence in untreated ctDNA-negative patients.
+
+Across various cohorts of patients with non-metastatic colon cancer and resected colorectal 
+
+liver metastases, the percentage of patients with disease recurrence among those who had 
+
+detectable ctDNA and did not receive adjuvant therapy has consistently been in excess of 
+
+80%.15,24–28 The time to recurrence in these studies was also short; all untreated ctDNA-
+
+positive patients in our previous study of stage II colon cancer had disease recurrence 
+
+within 2 years.15 In this context, the percentage of patients with recurrence within 3 
+
+years among the treated ctDNA-positive patients in the current trial (14%) is encouraging, 
+
+notwithstanding the longer median time to chemotherapy commencement in the ctDNA-
+
+guided group of 11.9 weeks, as compared with the guidelines-recommended time of 8 weeks 
+
+or less after surgery.8 However, more mature data are needed to rule out the possibility 
+
+that the treatment of ctDNA-positive patients with chemotherapy may have delayed rather 
+
+than prevented recurrence in some instances. It is conceivable that earlier initiation of 
+
+chemotherapy for ctDNA-positive patients could lead to even more favorable outcomes. 
+
+Because the turnaround time from the time a blood specimen is obtained to the time a 
+
+ctDNA result is available is approximately 2 weeks, it would be useful for future studies 
+
+to consider analyzing blood specimens at week 4 and week 7 after surgery (or later) 
+
+sequentially instead of concurrently, with a positive week 4 ctDNA result triggering the start 
+
+of adjuvant chemotherapy within the time frame recommended in guidelines. In addition, 
+
+serial ctDNA analysis for patients who are ctDNA-negative after surgery may reduce the risk 
+
+of undertreatment because of an initially false negative ctDNA result.
+
+At the clinician’s discretion, the majority of ctDNA-positive patients in the ctDNA-guided 
+
+group received oxaliplatin-based therapy rather than fluoropyrimidine alone. This approach 
+
+was likely to have been driven by the known prognostic significance of ctDNA positivity 
+
+and previous data suggesting a benefit for oxaliplatin-based therapy in patients with high-
+
+risk stage II colon cancer.23 Given the fact that our trial design predates the International 
+
+Duration Evaluation of Adjuvant Therapy (IDEA) meta-analysis,29 the majority of patients 
+
+were scheduled for 24 weeks of treatment, with 84% of the patients in the ctDNA-guided 
+
+group and 78% of those in the standard-management group completing the planned 
+
+treatment. Although we observed numerically better recurrence-free survival among ctDNA-
+
+positive patients treated with oxaliplatin-based treatment than among those treated with 
+
+single-agent fluoropyrimidine, this finding should be considered hypothesis-generating only. 
+
+Further studies with much larger sample sizes will be required in order to define the 
+
+relative effect of fluoropyrimidine alone as compared with an oxaliplatin-based combination 
+
+regimen, as well as to define appropriate treatment duration in this subgroup of patients.
+
+Tie et al. Page 9
+
+N Engl J Med. Author manuscript; available in PMC 2022 December 16.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+Along with defining a subgroup of patients with stage II colon cancer who benefit from 
+
+adjuvant therapy, defining a subgroup in whom treatment can be avoided with minimal 
+
+risk of recurrence is also an important goal. To this end, our results indicated an overall 
+
+very low risk of recurrence in untreated patients who were ctDNA-negative, with 3-year 
+
+recurrence-free survival of 92.5%. Given the current focus of using clinicopathological 
+
+risk to select patients with stage II colon cancer for adjuvant therapy,6–8,23 we explored 
+
+outcomes among patients with high-risk or low-risk disease. Most notable was the 3-
+
+year recurrence-free survival of 96.7% among patients with low-risk disease, indicating 
+
+that adjuvant therapy should not be considered for ctDNA-negative patients who are at 
+
+clinicopathological low risk. This is an important observation, because in routine clinical 
+
+practice adjuvant chemotherapy is still administered to some patients at low risk (11% in our 
+
+standard-management group), particularly younger patients.
+
+The strength of our trial is the random assignment of patients to receive ctDNA-guided 
+
+or standard treatment. However, there are several limitations. The trial was adequately 
+
+powered to address the primary end point, but a larger trial might have provided more 
+
+definitive findings for specific patient subgroups. We did not examine the effect of a 
+
+ctDNA-guided approach beyond the initial decision for adjuvant chemotherapy, because 
+
+this would have compromised the trial end points. We did not randomly assign the ctDNA-
+
+positive and ctDNA-negative patients to receive treatment or no treatment, a trial design 
+
+that would have provided more definitive evidence of the effect of treatment or lack thereof 
+
+in each subgroup. Multiple other groups are exploring additional ways in which ctDNA 
+
+analysis could inform adjuvant therapy for nonmetastatic colon cancer, including therapeutic 
+
+approaches in patients who remain ctDNA-positive after completing standard adjuvant 
+
+therapy (e.g., ClinicalTrials.gov numbers, NCT03803553 and NCT03832569, among other 
+
+studies30–36). Data from these studies are eagerly awaited.
+
+The results of this trial suggest that a survival benefit from adjuvant chemotherapy may be 
+
+obtained in a well-defined subgroup of patients with stage II colon cancer — namely, those 
+
+with detectable ctDNA after surgery. Treating only the patients who had detectable ctDNA 
+
+reduced the percentage of patients who received adjuvant therapy as compared with standard 
+
+management and did not compromise recurrence-free survival.
+
+Supplementary Material
+
+Refer to Web version on PubMed Central for supplementary material.
+
+Acknowledgments
+
+Supported by a grant (APP1085531) from the Australian National Health and Medical Research Council, a 
+grant (APP1194970) from the Medical Research Future Fund, the Marcus Foundation, the Virginia and D.K. 
+Ludwig Fund for Cancer Research, the Lustgarten Foundation, the Conrad R. Hilton Foundation, the Sol Goldman 
+Charitable Trust, John Templeton Foundation, grants (CA62924, CA009071, GM136577, and CA06973) from the 
+National Institutes of Health, and a Linda Williams Memorial Grant from the Eastern Health Research Foundation.
+
+Disclosure forms provided by the authors are available with the full text of this article at NEJM.org.
+
+A data sharing statement provided by the authors is available with the full text of this article at NEJM.org.
+
+Tie et al. Page 10
+
+N Engl J Med. Author manuscript; available in PMC 2022 December 16.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+http://ClinicalTrials.gov
+https://clinicaltrials.gov/ct2/show/NCT03803553
+https://clinicaltrials.gov/ct2/show/NCT03832569
+http://NEJM.org/
+http://NEJM.org/
+
+
+We thank the patients and their caregivers and the study coordinators who participated in this trial; Michael Christie 
+for providing central pathological review of tumor tissue; Matthew Chapman for providing assistance with project 
+management; Siavash Foroughi for developing the electronic database used in the trial; and Cherie Blair for sample 
+management.
+
+References
+
+1. Bray F, Ferlay J, Soerjomataram I, Siegel RL, Torre LA, Jemal A. Global cancer statistics 2018: 
+GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA 
+Cancer J Clin 2018; 68: 394–424. [PubMed: 30207593] 
+
+2. Rebuzzi SE, Pesola G, Martelli V, Sobrero AF. Adjuvant chemotherapy for stage II colon cancer. 
+Cancers (Basel) 2020; 12: 2584. [PubMed: 32927771] 
+
+3. Figueredo A, Coombes ME, Mukherjee S. Adjuvant therapy for completely resected stage II colon 
+cancer. Cochrane Database Syst Rev 2008; 3: CD005390.
+
+4. André T, de Gramont A, Vernerey D, et al. Adjuvant fluorouracil, leucovorin, and oxaliplatin in 
+stage II to III colon cancer: updated 10-year survival and outcomes according to BRAF mutation 
+and mismatch repair status of the MOSAIC study. J Clin Oncol 2015; 33: 4176–87. [PubMed: 
+26527776] 
+
+5. Böckelman C, Engelmann BE, Kaprio T, Hansen TF, Glimelius B. Risk of recurrence in patients 
+with colon cancer stage II and III: a systematic review and meta-analysis of recent literature. Acta 
+Oncol 2015; 54:5–16. [PubMed: 25430983] 
+
+6. Costas-Chavarri A, Nandakumar G, Temin S, et al. Treatment of patients with early-stage colorectal 
+cancer: ASCO resource-stratified guideline. J Glob Oncol 2019; 5:1–19.
+
+7. National Comprehensive Cancer Network. Colon cancer: NCCN guidelines with evidence blocks 
+(version 1.2022) (https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1428).
+
+8. Argilés G, Tabernero J, Labianca R, et al. Localised colon cancer: ESMO clinical practice guidelines 
+for diagnosis, treatment and follow-up. Ann Oncol 2020;31: 1291–305. [PubMed: 32702383] 
+
+9. O’Connor ES, Greenblatt DY, LoConte NK, et al. Adjuvant chemotherapy for stage II colon cancer 
+with poor prognostic features. J Clin Oncol 2011; 29: 3381–8. [PubMed: 21788561] 
+
+10. Verhoeff SR, van Erning FN, Lemmens VE, de Wilt JH, Pruijt JF. Adjuvant chemotherapy is not 
+associated with improved survival for all high-risk factors in stage II colon cancer. Int J Cancer 
+2016; 139: 187–93. [PubMed: 26914273] 
+
+11. Yamanaka T, Oki E, Yamazaki K, et al. 12-Gene Recurrence Score assay stratifies the recurrence 
+risk in stage II/III colon cancer with surgery alone: the SUNRISE study. J Clin Oncol 2016; 34: 
+2906–13. [PubMed: 27325854] 
+
+12. Venook AP, Niedzwiecki D, Lopatin M, et al. Biologic determinants of tumor recurrence in stage 
+II colon cancer: validation study of the 12-gene recurrence score in cancer and leukemia group B 
+(CALGB) 9581. J Clin Oncol 2013; 31: 1775–81. [PubMed: 23530100] 
+
+13. Kopetz S, Tabernero J, Rosenberg R, et al. Genomic classifier ColoPrint predicts recurrence in 
+stage II colorectal cancer patients more accurately than clinical factors. Oncologist 2015; 20: 
+127–33. [PubMed: 25561511] 
+
+14. Pagès F, Mlecnik B, Marliot F, et al. International validation of the consensus Immunoscore for the 
+classification of colon cancer: a prognostic and accuracy study. Lancet 2018; 391:2 128–39.
+
+15. Tie J, Wang Y, Tomasetti C, et al. Circulating tumor DNA analysis detects minimal residual disease 
+and predicts recurrence in patients with stage II colon cancer. Sci Transl Med 2016; 8: 346ra92.
+
+16. Christensen E, Birkenkamp-Demtröder K, Sethi H, et al. Early detection of metastatic relapse and 
+monitoring of therapeutic efficacy by ultra-deep sequencing of plasma cell-free DNA in patients 
+with urothelial bladder carcinoma. J Clin Oncol 2019; 37: 1547–57. [PubMed: 31059311] 
+
+17. Moding EJ, Liu Y, Nabet BY, et al. Circulating tumor DNA dynamics predict benefit from 
+consolidation immunotherapy in locally advanced non-small cell lung cancer. Nat Cancer 2020; 1: 
+176–83. [PubMed: 34505064] 
+
+18. Edge SB, Compton CC. The American Joint Committee on Cancer: the 7th edition of the AJCC 
+cancer staging manual and the future of TNM. Ann Surg Oncol 2010; 17:1 471–4.
+
+Tie et al. Page 11
+
+N Engl J Med. Author manuscript; available in PMC 2022 December 16.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1428
+
+
+19. Kinde I, Wu J, Papadopoulos N, Kinzler KW, Vogelstein B. Detection and quantification of rare 
+mutations with massively parallel sequencing. Proc Natl Acad Sci U S A 2011; 108: 9530–5. 
+[PubMed: 21586637] 
+
+20. Tie J, Lo SN, Cohen JD, et al. Circulating tumour DNA analysis informing adjuvant chemotherapy 
+in stage II colon cancer (DYNAMIC trial): statistical analysis plan. September 6, 2021 
+(10.1101/2021.09.02.21262816v1). preprint.
+
+21. Harris PA, Taylor R, Thielke R, Payne J, Gonzalez N, Conde JG. Research electronic data capture 
+(REDCap) — a meta-data-driven methodology and workflow process for providing translational 
+research informatics support. J Biomed Inform 2009; 42: 377–81. [PubMed: 18929686] 
+
+22. Harris PA, Taylor R, Minor BL, et al. The REDCap consortium: building an international 
+community of software platform partners. J Biomed Inform 2019; 95: 103208. [PubMed: 
+31078660] 
+
+23. Tournigand C, André T, Bonnetain F, et al. Adjuvant therapy with fluorouracil and oxaliplatin in 
+stage II and elderly patients (between ages 70 and 75 years) with colon cancer: subgroup analyses 
+of the Multicenter International Study of Oxaliplatin, Fluorouracil, and Leucovorin in the Adjuvant 
+Treatment of Colon Cancer trial. J Clin Oncol 2012; 30: 3353–60. [PubMed: 22915656] 
+
+24. Tie J, Cohen JD, Wang Y, et al. Serial circulating tumour DNA analysis during multimodality 
+treatment of locally advanced rectal cancer: a prospective biomarker study. Gut 2019; 68:6 63–71.
+
+25. Parikh AR, Van Seventer EE, Siravegna G, et al. Minimal residual disease detection using a 
+plasma-only circulating tumor DNA assay in patients with colorectal cancer. Clin Cancer Res 
+2021; 27: 5586–94. [PubMed: 33926918] 
+
+26. Tie J, Wang Y, Cohen J, et al. Circulating tumor DNA dynamics and recurrence risk in patients 
+undergoing curative intent resection of colorectal cancer liver metastases: a prospective cohort 
+study. PLoS Med 2021; 18(5): e1003620.
+
+27. Loupakis F, Sharma S, Derouazi M, et al. Detection of molecular residual disease using 
+personalized circulating tumor DNA assay in patients with colorectal cancer undergoing resection 
+of metastases. JCO Precis Oncol 2021; 5: 1166–77.
+
+28. Diehl F, Schmidt K, Choti MA, et al. Circulating mutant DNA to assess tumor dynamics. Nat Med 
+2008; 14: 985–90. [PubMed: 18670422] 
+
+29. Grothey A, Sobrero AF, Shields AF, et al. Duration of adjuvant chemotherapy for stage III colon 
+cancer. N Engl J Med 2018; 378: 1177–88. [PubMed: 29590544] 
+
+30. Taïeb J, Benhaim L, Laurent Puig P, et al. Decision for adjuvant treatment in stage II colon cancer 
+based on circulating tumor DNA: the CIRCULATE-PRODIGE 70 trial. Dig Liver Dis 2020; 52: 
+730–3. [PubMed: 32482534] 
+
+31. Taniguchi H, Nakamura Y, Kotani D, et al. CIRCULATE-Japan: circulating tumor DNA-guided 
+adaptive platform trials to refine adjuvant therapy for colorectal cancer. Cancer Sci 2021; 112: 
+2915–20. [PubMed: 33931919] 
+
+32. Schraa SJ, van Rooijen KL, van der Kruijssen DEW, et al. Circulating tumor DNA guided adjuvant 
+chemotherapy in stage II colon cancer (MEDOCC-CrEATE): study protocol for a trial within a 
+cohort study. BMC Cancer 2020; 20: 790. [PubMed: 32819390] 
+
+33. Anandappa G, Starling N, Peckitt C, et al. TRACC: tracking mutations in cell-free DNA to predict 
+relapse in early colorectal cancer — a randomized study of circulating tumour DNA (ctDNA) 
+guided adjuvant chemotherapy versus standard of care chemotherapy after curative surgery in 
+patients with high risk stage II or stage III colorectal cancer (CRC). J Clin Oncol 2020;3 8: Suppl 
+15: TPS4120.
+
+34. Morris VK, Yothers G, Kopetz S, et al. Phase II/III study of circulating tumor DNA as a 
+predictive biomarker in adjuvant chemotherapy in patients with stage II colon cancer: NRG-GI005 
+(COBRA). J Clin Oncol 2020; 38: Suppl 15: TPS4121.
+
+35. Folprecht G, Reinacher-Schick A, Tannapfel A, et al. Circulating tumor DNA-based decision for 
+adjuvant treatment in colon cancer stage II evaluation: (CIRCULATE-trial) AIO-KRK-0217. J 
+Clin Oncol 2020; 38: Suppl 4: TPS273.
+
+36. Nors J, Henriksen TV, Gotschalck KA, et al. IMPROVE-IT2: implementing non-invasive 
+circulating tumor DNA analysis to optimize the operative and postoperative treatment for patients 
+
+Tie et al. Page 12
+
+N Engl J Med. Author manuscript; available in PMC 2022 December 16.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+with colorectal cancer — intervention trial 2. Study protocol. Acta Oncol 2020; 59: 336–41. 
+[PubMed: 31920137] 
+
+Tie et al. Page 13
+
+N Engl J Med. Author manuscript; available in PMC 2022 December 16.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+Figure 1. Receipt of Adjuvant Chemotherapy in the Intention-to-Treat Population According to 
+Subgroup.
+The relative risk and 95% confidence intervals for the receipt of adjuvant chemotherapy 
+
+in the standard-management group as compared with the circulating tumor DNA (ctDNA)–
+
+guided group are shown. The intention-to-treat population included all eligible patients who 
+
+underwent randomization and had both week 4 and week 7 postsurgical blood specimens. 
+
+The size of each square corresponds to the size of the subgroup. For the subgroup with 
+
+poorly differentiated tumors, the relative risk lies beyond the upper limit of the horizontal 
+
+axis and is not shown.
+
+Tie et al. Page 14
+
+N Engl J Med. Author manuscript; available in PMC 2022 December 16.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+Figure 2. Outcomes with ctDNA-Guided as Compared with Standard Management in the 
+Intention-to-Treat Population.
+Panel A shows the absolute difference in recurrence-free survival over time between the 
+
+ctDNA-guided and standard-management groups; shading indicates the 95% confidence 
+
+interval. The noninferiority margin of −8.5 percentage points for the primary end point of 
+
+recurrence-free survival at 2 years is indicated by the dashed red line; the I bar indicates the 
+
+95% confidence interval at 2 years, the lower bound of which (−4.1 percentage points) lies 
+
+above −8.5 percentage points, which confirms noninferiority of ctDNA-guided management 
+
+to standard management. Kaplan–Meier estimates of recurrence-free survival according to 
+
+Tie et al. Page 15
+
+N Engl J Med. Author manuscript; available in PMC 2022 December 16.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+the assigned management group are shown in Panel B. Tick marks indicate censored data. 
+
+At 3 years, 91.7% of the patients in the ctDNA-guided group and 92.4% of those in the 
+
+standard-management group were alive without disease recurrence.
+
+Tie et al. Page 16
+
+N Engl J Med. Author manuscript; available in PMC 2022 December 16.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+Figure 3. Recurrence-free Survival in the ctDNA-Guided Group According to ctDNA Status.
+Kaplan–Meier estimates of recurrence-free survival according to ctDNA result (positive or 
+
+negative) are shown. The 3-year recurrence-free survival was 92.5% among ctDNA-negative 
+
+patients who did not receive adjuvant chemotherapy and 86.4% among ctDNA-positive 
+
+patients who received adjuvant chemotherapy. Tick marks indicate censored data.
+
+Tie et al. Page 17
+
+N Engl J Med. Author manuscript; available in PMC 2022 December 16.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+Tie et al. Page 18
+
+Ta
+b
+
+le
+ 1
+
+.
+
+C
+ha
+
+ra
+ct
+
+er
+is
+
+tic
+s 
+
+of
+ th
+
+e 
+Pa
+
+tie
+nt
+
+s 
+at
+
+ B
+as
+
+el
+in
+
+e 
+in
+
+ th
+e 
+
+In
+te
+
+nt
+io
+
+n-
+to
+
+-T
+re
+
+at
+ P
+
+op
+ul
+
+at
+io
+
+n.
+*
+
+C
+ha
+
+ra
+ct
+
+er
+is
+
+ti
+c
+
+St
+an
+
+da
+rd
+
+ M
+an
+
+ag
+em
+
+en
+t 
+
+(N
+ =
+
+ 1
+47
+
+)
+ct
+
+D
+N
+
+A
+-G
+
+ui
+de
+
+d 
+M
+
+an
+ag
+
+em
+en
+
+t 
+(N
+
+ =
+ 2
+
+94
+)
+
+O
+ve
+
+ra
+ll 
+
+(N
+ =
+
+ 4
+41
+
+)
+
+M
+al
+
+e 
+se
+
+x 
+—
+
+ n
+o.
+
+ (
+%
+
+)
+81
+
+ (
+55
+
+)
+15
+
+4 
+(5
+
+2)
+23
+
+5 
+(5
+
+3)
+
+M
+ed
+
+ia
+n 
+
+ag
+e 
+
+(r
+an
+
+ge
+) 
+
+—
+ y
+
+r
+62
+
+ (
+28
+
+–8
+4)
+
+65
+ (
+
+30
+–9
+
+4)
+64
+
+ (
+28
+
+–9
+4)
+
+A
+ge
+
+ g
+ro
+
+up
+ —
+
+ n
+o.
+
+ (
+%
+
+)
+
+ 
+≤7
+
+0 
+yr
+
+11
+3 
+
+(7
+7)
+
+20
+7 
+
+(7
+0)
+
+32
+0 
+
+(7
+3)
+
+ 
+>
+
+70
+ y
+
+r
+34
+
+ (
+23
+
+)
+87
+
+ (
+30
+
+)
+12
+
+1 
+(2
+
+7)
+
+E
+C
+
+O
+G
+
+ p
+er
+
+fo
+rm
+
+an
+ce
+‑s
+
+ta
+tu
+
+s 
+sc
+
+or
+e 
+
+—
+ n
+
+o.
+/to
+
+ta
+l n
+
+o.
+ (
+
+%
+)†
+
+ 
+0
+
+12
+4/
+
+14
+7 
+
+(8
+4)
+
+22
+6/
+
+29
+3 
+
+(7
+7)
+
+35
+0/
+
+44
+0 
+
+(8
+0)
+
+ 
+1
+
+20
+/1
+
+47
+ (
+
+14
+)
+
+65
+/2
+
+93
+ (
+
+22
+)
+
+85
+/4
+
+40
+ (
+
+19
+)
+
+ 
+2
+
+3/
+14
+
+7 
+(2
+
+)
+2/
+
+29
+3 
+
+(1
+)
+
+5/
+44
+
+0 
+(1
+
+)
+
+Ty
+pe
+
+ o
+f 
+
+ce
+nt
+
+er
+ —
+
+ n
+o.
+
+ (
+%
+
+)
+
+ 
+M
+
+et
+ro
+
+po
+lit
+
+an
+12
+
+1 
+(8
+
+2)
+24
+
+0 
+(8
+
+2)
+36
+
+1 
+(8
+
+2)
+
+ 
+R
+
+eg
+io
+
+na
+l
+
+26
+ (
+
+18
+)
+
+54
+ (
+
+18
+)
+
+80
+ (
+
+18
+)
+
+Pr
+im
+
+ar
+y 
+
+tu
+m
+
+or
+ s
+
+ite
+ —
+
+ n
+o.
+
+ (
+%
+
+)‡
+
+ 
+L
+
+ef
+t s
+
+id
+e
+
+78
+ (
+
+53
+)
+
+12
+6 
+
+(4
+3)
+
+20
+4 
+
+(4
+6)
+
+ 
+R
+
+ig
+ht
+
+ s
+id
+
+e
+69
+
+ (
+47
+
+)
+16
+
+8 
+(5
+
+7)
+23
+
+7 
+(5
+
+4)
+
+T
+um
+
+or
+ s
+
+ta
+ge
+
+ —
+ n
+
+o.
+ (
+
+%
+)
+
+ 
+T
+
+3
+12
+
+7 
+(8
+
+6)
+25
+
+0 
+(8
+
+5)
+37
+
+7 
+(8
+
+5)
+
+ 
+T
+
+4
+20
+
+ (
+14
+
+)
+44
+
+ (
+15
+
+)
+64
+
+ (
+15
+
+)
+
+Po
+or
+
+ tu
+m
+
+or
+ d
+
+if
+fe
+
+re
+nt
+
+ia
+tio
+
+n 
+—
+
+ n
+o.
+
+ (
+%
+
+)
+17
+
+ (
+12
+
+)
+43
+
+ (
+15
+
+)
+60
+
+ (
+14
+
+)
+
+Ly
+m
+
+ph
+ n
+
+od
+e 
+
+yi
+el
+
+d 
+<
+
+12
+ —
+
+ n
+o.
+
+ (
+%
+
+)
+7 
+
+(5
+)
+
+13
+ (
+
+4)
+20
+
+ (
+5)
+
+T
+um
+
+or
+ p
+
+er
+fo
+
+ra
+tio
+
+n 
+—
+
+ n
+o.
+
+ (
+%
+
+)
+7 
+
+(5
+)
+
+7 
+(2
+
+)
+14
+
+ (
+3)
+
+B
+ow
+
+el
+ o
+
+bs
+tr
+
+uc
+tio
+
+n 
+—
+
+ n
+o.
+
+/to
+ta
+
+l n
+o.
+
+ (
+%
+
+)†
+18
+
+/1
+47
+
+ (
+12
+
+)
+26
+
+/2
+91
+
+ (
+9)
+
+44
+/4
+
+38
+ (
+
+10
+)
+
+Ly
+m
+
+ph
+ov
+
+as
+cu
+
+la
+r 
+
+in
+va
+
+si
+on
+
+ —
+ n
+
+o.
+ (
+
+%
+)
+
+38
+ (
+
+26
+)
+
+82
+ (
+
+28
+)
+
+12
+0 
+
+(2
+7)
+
+D
+ef
+
+ic
+ie
+
+nt
+ m
+
+is
+m
+
+at
+ch
+
+ r
+ep
+
+ai
+r 
+
+—
+ n
+
+o.
+ (
+
+%
+)
+
+27
+ (
+
+18
+)
+
+59
+ (
+
+20
+)
+
+86
+ (
+
+20
+)
+
+C
+lin
+
+ic
+al
+
+ r
+is
+
+k 
+gr
+
+ou
+p 
+
+—
+ n
+
+o.
+/to
+
+ta
+l n
+
+o.
+ (
+
+%
+)§
+
+ 
+H
+
+ig
+h
+
+60
+/1
+
+47
+ (
+
+41
+)
+
+11
+6/
+
+29
+3 
+
+(4
+0)
+
+17
+6/
+
+44
+0 
+
+(4
+0)
+
+ 
+L
+
+ow
+87
+
+/1
+47
+
+ (
+59
+
+)
+17
+
+7/
+29
+
+3 
+(6
+
+0)
+26
+
+4/
+44
+
+0 
+(6
+
+0)
+
+M
+ed
+
+ia
+n 
+
+tim
+e 
+
+fr
+om
+
+ s
+ur
+
+ge
+ry
+
+ to
+ r
+
+an
+do
+
+m
+iz
+
+at
+io
+
+n 
+(I
+
+Q
+R
+
+) 
+—
+
+ d
+ay
+
+s
+33
+
+ (
+28
+
+–4
+1)
+
+32
+ (
+
+28
+–3
+
+9)
+32
+
+ (
+28
+
+–3
+9.
+
+5)
+
+N Engl J Med. Author manuscript; available in PMC 2022 December 16.
+
+
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+Tie et al. Page 19
+* T
+
+he
+ a
+
+bb
+re
+
+vi
+at
+
+io
+n 
+
+ct
+D
+
+N
+A
+
+ d
+en
+
+ot
+es
+
+ c
+ir
+
+cu
+la
+
+tin
+g 
+
+tu
+m
+
+or
+ D
+
+N
+A
+
+, a
+nd
+
+ I
+Q
+
+R
+ in
+
+te
+rq
+
+ua
+rt
+
+ile
+ r
+
+an
+ge
+
+.
+
+† E
+as
+
+te
+rn
+
+ C
+oo
+
+pe
+ra
+
+tiv
+e 
+
+O
+nc
+
+ol
+og
+
+y 
+G
+
+ro
+up
+
+ (
+E
+
+C
+O
+
+G
+) 
+
+pe
+rf
+
+or
+m
+
+an
+ce
+
+-s
+ta
+
+tu
+s 
+
+sc
+or
+
+es
+ r
+
+an
+ge
+
+ f
+ro
+
+m
+ 0
+
+ to
+ 5
+
+, w
+ith
+
+ h
+ig
+
+he
+r 
+
+nu
+m
+
+be
+rs
+
+ r
+ef
+
+le
+ct
+
+in
+g 
+
+gr
+ea
+
+te
+r 
+
+di
+sa
+
+bi
+lit
+
+y.
+
+‡ A
+ tu
+
+m
+or
+
+ o
+n 
+
+th
+e 
+
+le
+ft
+
+ s
+id
+
+e 
+w
+
+as
+ d
+
+ef
+in
+
+ed
+ a
+
+s 
+a 
+
+tu
+m
+
+or
+ a
+
+ri
+si
+
+ng
+ in
+
+ th
+e 
+
+ar
+ea
+
+ f
+ro
+
+m
+ th
+
+e 
+sp
+
+le
+ni
+
+c 
+fl
+
+ex
+ur
+
+e 
+to
+
+ th
+e 
+
+re
+ct
+
+um
+; a
+
+ tu
+m
+
+or
+ o
+
+n 
+th
+
+e 
+ri
+
+gh
+t s
+
+id
+e 
+
+w
+as
+
+ d
+ef
+
+in
+ed
+
+ a
+s 
+
+a 
+tu
+
+m
+or
+
+ a
+ri
+
+si
+ng
+
+ in
+ th
+
+e 
+ar
+
+ea
+ f
+
+ro
+m
+
+ th
+e 
+
+ce
+cu
+
+m
+ to
+
+ th
+e 
+
+tr
+an
+
+sv
+er
+
+se
+ c
+
+ol
+on
+
+.
+
+§ C
+lin
+
+ic
+al
+
+ h
+ig
+
+h 
+ri
+
+sk
+ w
+
+as
+ d
+
+ef
+in
+
+ed
+ a
+
+s 
+th
+
+e 
+pr
+
+es
+en
+
+ce
+ o
+
+f 
+tu
+
+m
+or
+
+s 
+w
+
+ith
+ p
+
+ro
+fi
+
+ci
+en
+
+t m
+is
+
+m
+at
+
+ch
+ r
+
+ep
+ai
+
+r 
+al
+
+on
+g 
+
+w
+ith
+
+ a
+ny
+
+ c
+lin
+
+ic
+op
+
+at
+ho
+
+lo
+gi
+
+ca
+l r
+
+is
+k 
+
+fe
+at
+
+ur
+e,
+
+ in
+cl
+
+ud
+in
+
+g 
+T
+
+4 
+ex
+
+te
+ns
+
+io
+n,
+
+ p
+oo
+
+r 
+tu
+
+m
+or
+
+ d
+if
+
+fe
+re
+
+nt
+ia
+
+tio
+n,
+
+ a
+ ly
+
+m
+ph
+
+ n
+od
+
+e 
+yi
+
+el
+d 
+
+of
+ le
+
+ss
+ th
+
+an
+ 1
+
+2,
+ ly
+
+m
+ph
+
+ov
+as
+
+cu
+la
+
+r 
+in
+
+va
+si
+
+on
+, t
+
+um
+or
+
+ p
+er
+
+fo
+ra
+
+tio
+n,
+
+ o
+r 
+
+bo
+w
+
+el
+ o
+
+bs
+tr
+
+uc
+tio
+
+n.
+ C
+
+lin
+ic
+
+al
+ lo
+
+w
+ r
+
+is
+k 
+
+w
+as
+
+ d
+ef
+
+in
+ed
+
+ a
+s 
+
+th
+e 
+
+pr
+es
+
+en
+ce
+
+ o
+f 
+
+a 
+tu
+
+m
+or
+
+ w
+ith
+
+ d
+ef
+
+ic
+ie
+
+nt
+ m
+
+is
+m
+
+at
+ch
+
+ r
+ep
+
+ai
+r 
+
+or
+ a
+
+ tu
+m
+
+or
+ w
+
+ith
+ p
+
+ro
+fi
+
+ci
+en
+
+t 
+m
+
+is
+m
+
+at
+ch
+
+ r
+ep
+
+ai
+r 
+
+an
+d 
+
+no
+ne
+
+ o
+f 
+
+th
+e 
+
+ab
+ov
+
+e 
+ri
+
+sk
+ f
+
+ea
+tu
+
+re
+s.
+
+ O
+ne
+
+ c
+as
+
+e 
+co
+
+ul
+d 
+
+no
+t b
+
+e 
+cl
+
+as
+si
+
+fi
+ed
+
+ b
+ec
+
+au
+se
+
+ o
+f 
+
+m
+is
+
+si
+ng
+
+ in
+fo
+
+rm
+at
+
+io
+n 
+
+on
+ b
+
+ow
+el
+
+ o
+bs
+
+tr
+uc
+
+tio
+n.
+
+N Engl J Med. Author manuscript; available in PMC 2022 December 16.
+
+
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+Tie et al. Page 20
+
+Ta
+b
+
+le
+ 2
+
+.
+
+T
+re
+
+at
+m
+
+en
+t D
+
+el
+iv
+
+er
+y 
+
+an
+d 
+
+A
+dh
+
+er
+en
+
+ce
+.*
+
+T
+re
+
+at
+m
+
+en
+t 
+
+C
+ha
+
+ra
+ct
+
+er
+is
+
+ti
+c
+
+St
+an
+
+da
+rd
+
+ M
+an
+
+ag
+em
+
+en
+t 
+
+(N
+ =
+
+ 1
+47
+
+)
+ct
+
+D
+N
+
+A
+-G
+
+ui
+de
+
+d 
+M
+
+an
+ag
+
+em
+en
+
+t 
+(N
+
+ =
+ 2
+
+94
+)
+
+R
+el
+
+at
+iv
+
+e 
+R
+
+is
+k 
+
+(9
+5%
+
+ C
+I)
+
+A
+dj
+
+uv
+an
+
+t c
+he
+
+m
+ot
+
+he
+ra
+
+py
+ r
+
+ec
+ei
+
+ve
+d 
+
+—
+ n
+
+o.
+ (
+
+%
+)
+
+ 
+N
+
+o
+10
+
+6 
+(7
+
+2)
+24
+
+9 
+(8
+
+5)
+
+ 
+Y
+
+es
+41
+
+ (
+28
+
+)
+45
+
+ (
+15
+
+)
+1.
+
+82
+ (
+
+1.
+25
+
+–2
+.6
+
+5)
+
+C
+he
+
+m
+ot
+
+he
+ra
+
+py
+ r
+
+eg
+im
+
+en
+ r
+
+ec
+ei
+
+ve
+d 
+
+—
+ n
+
+o.
+/to
+
+ta
+l n
+
+o.
+ (
+
+%
+)
+
+ 
+O
+
+xa
+lip
+
+la
+tin
+
+-b
+as
+
+ed
+ d
+
+ou
+bl
+
+et
+4/
+
+41
+ (
+
+10
+)
+
+28
+/4
+
+5 
+(6
+
+2)
+
+ 
+Si
+
+ng
+le
+
+-a
+ge
+
+nt
+ f
+
+lu
+or
+
+op
+yr
+
+im
+id
+
+in
+e
+
+37
+/4
+
+1 
+(9
+
+0)
+17
+
+/4
+5 
+
+(3
+8)
+
+2.
+39
+
+ (
+1.
+
+62
+–3
+
+.5
+2)
+
+M
+ed
+
+ia
+n 
+
+tim
+e 
+
+fr
+om
+
+ s
+ur
+
+ge
+ry
+
+ to
+ s
+
+ta
+rt
+
+ o
+f 
+
+ch
+em
+
+ot
+he
+
+ra
+py
+
+ (
+IQ
+
+R
+) 
+
+—
+ d
+
+ay
+s
+
+53
+ (
+
+49
+–6
+
+1)
+83
+
+ (
+76
+
+–8
+9)
+
+M
+ed
+
+ia
+n 
+
+tr
+ea
+
+tm
+en
+
+t d
+ur
+
+at
+io
+
+n 
+(I
+
+Q
+R
+
+) 
+—
+
+ w
+k
+
+24
+ (
+
+21
+–2
+
+4)
+24
+
+ (
+19
+
+–2
+4)
+
+R
+ea
+
+so
+n 
+
+fo
+r 
+
+st
+op
+
+pi
+ng
+
+ c
+he
+
+m
+ot
+
+he
+ra
+
+py
+ —
+
+ n
+o.
+
+/to
+ta
+
+l n
+o.
+
+ (
+%
+
+)
+
+ 
+C
+
+om
+pl
+
+et
+io
+
+n 
+of
+
+ p
+la
+
+nn
+ed
+
+ tr
+ea
+
+tm
+en
+
+t
+32
+
+/4
+1 
+
+(7
+8)
+
+38
+/4
+
+5 
+(8
+
+4)
+
+ 
+D
+
+is
+ea
+
+se
+ r
+
+el
+ap
+
+se
+1/
+
+41
+ (
+
+2)
+0/
+
+45
+ (
+
+0)
+
+ 
+Pa
+
+tie
+nt
+
+ r
+eq
+
+ue
+st
+
+1/
+41
+
+ (
+2)
+
+1/
+45
+
+ (
+2)
+
+ 
+To
+
+xi
+c 
+
+ef
+fe
+
+ct
+s
+
+7/
+41
+
+ (
+17
+
+)
+6/
+
+45
+ (
+
+13
+)
+
+Pe
+rc
+
+en
+ta
+
+ge
+ o
+
+f 
+fu
+
+ll 
+do
+
+se
+ d
+
+el
+iv
+
+er
+ed
+
+ 
+M
+
+ea
+n
+
+77
+±
+
+26
+74
+
+±
+24
+
+ 
+M
+
+ed
+ia
+
+n 
+(I
+
+Q
+R
+
+)
+84
+
+ (
+64
+
+–1
+00
+
+)
+78
+
+ (
+56
+
+–1
+00
+
+)
+
+* Pl
+us
+
+–m
+in
+
+us
+ v
+
+al
+ue
+
+s 
+ar
+
+e 
+m
+
+ea
+ns
+
+ ±
+SD
+
+. C
+I 
+
+de
+no
+
+te
+s 
+
+co
+nf
+
+id
+en
+
+ce
+ in
+
+te
+rv
+
+al
+.
+
+N Engl J Med. Author manuscript; available in PMC 2022 December 16.
+
+
+	Abstract
+	METHODS
+	PATIENTS
+	TRIAL DESIGN AND INTERVENTIONS
+	END POINTS AND ASSESSMENTS
+	TRIAL OVERSIGHT
+	STATISTICAL ANALYSIS
+
+	RESULTS
+	PATIENT CHARACTERISTICS AND FOLLOW-UP
+	TREATMENT DELIVERED
+	EFFICACY ACCORDING TO TREATMENT GROUP
+	OUTCOMES ACCORDING TO CTDNA STATUS IN THE CTDNA-GUIDED GROUP
+
+	DISCUSSION
+	References
+	Figure 1.
+	Figure 2.
+	Figure 3.
+	Table 1.
+	Table 2.
+

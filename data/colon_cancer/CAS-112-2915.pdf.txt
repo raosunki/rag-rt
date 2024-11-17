@@ -1,0 +1,662 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CIRCULATE‐Japan: Circulating tumor DNA–guided adaptive platform trials to refine adjuvant therapy for colorectal cancer
+
+
+Cancer Science. 2021;112:2915–2920.     |  2915wileyonlinelibrary.com/journal/cas
+
+ 
+
+Received: 9 March 2021  |  Accepted: 13 April 2021
+
+DOI: 10.1111/cas.14926  
+
+R E P O R T
+
+CIRCULATE- Japan: Circulating tumor DNA– guided adaptive 
+platform trials to refine adjuvant therapy for colorectal cancer
+
+Hiroya Taniguchi1,2*  |   Yoshiaki Nakamura1,3* |   Daisuke Kotani1 |   Hiroki Yukami1 |   
+Saori Mishima1 |   Kentaro Sawada1 |   Hiromichi Shirasu4  |   Hiromichi Ebi5  |   
+Takeharu Yamanaka6 |   Alexey Aleshin7 |   Paul R. Billings7 |   Matthew Rabinowitz7 |   
+Eiji Oki8  |   Ichiro Takemasa9 |   Takeshi Kato10 |   Masaki Mori8,11 |   Takayuki Yoshino1
+
+This is an open access article under the terms of the Creative Commons Attribution- NonCommercial- NoDerivs License, which permits use and distribution in 
+any medium, provided the original work is properly cited, the use is non- commercial and no modifications or adaptations are made.
+© 2021 The Authors. Cancer Science published by John Wiley & Sons Australia, Ltd on behalf of Japanese Cancer Association.
+
+1Department of Gastroenterology and 
+Gastrointestinal Oncology, National Cancer 
+Center Hospital East, Kashiwa, Japan
+2Department of Clinical Oncology, Aichi 
+Cancer Center Hospital, Nagoya, Japan
+3Translational Research Support Section, 
+National Cancer Center Hospital East, 
+Kashiwa, Japan
+4Division of Gastrointestinal Oncology, 
+Shizuoka Cancer Center, Sunto- gun, Japan
+5Division of Molecular Therapeutics, Aichi 
+Cancer Center Research Institute, Nagoya, 
+Japan
+6Department of Biostatistics, National 
+Cancer Center Hospital East, Kashiwa, Japan
+7Natera, Inc., San Carlos, CA, USA
+8Department of Surgery and Science, 
+Graduate School of Medical Sciences, 
+Kyushu University, Fukuoka, Japan
+9Department of Surgery, Surgical Oncology 
+and Science, Sapporo Medical University, 
+Sapporo, Japan
+10Department of Surgery, National Hospital 
+Organization Osaka National Hospital, 
+Osaka, Japan
+11Tokai University School of Medicine, 
+Isehara, Japan
+
+Correspondence
+Hiroya Taniguchi, Department of  Clinical 
+Oncology, Aichi Cancer Center Hospital, 
+1- 1 Kanokoden, Chikusaku, Nagoya, Aichi, 
+4648681, Japan.
+Email: hirtanig@east.ncc.go.jp
+
+Abstract
+Adjuvant chemotherapy has reduced the risk of tumor recurrence and improved sur-
+vival in patients with resected colorectal cancer. Potential utility of circulating tumor 
+DNA (ctDNA) prior to and post surgery has been reported across various solid tumors. 
+We initiated a new type of adaptive platform trials to evaluate the clinical benefits of 
+ctDNA analysis and refine precision adjuvant therapy for resectable colorectal can-
+cer, named CIRCULATE- Japan including three clinical trials. The GALAXY study is a 
+prospectively conducted large- scale registry designed to monitor ctDNA for patients 
+with clinical stage II to IV or recurrent colorectal cancer who can undergo complete 
+surgical resection. The VEGA trial is a randomized phase III study designed to test 
+whether postoperative surgery alone is noninferior to the standard therapy with 
+capecitabine plus oxaliplatin for 3 months in patients with high- risk stage II or low- 
+risk stage III colon cancer if ctDNA status is negative at week 4 after curative surgery 
+in the GALAXY study. The ALTAIR trial is a double- blind, phase III study designed to 
+establish the superiority of trifluridine/tipiracil as compared with placebo in patients 
+with resected colorectal cancer who show circulating tumor– positive status in the 
+GALAXY study. Therefore, CIRCULATE- Japan encompasses both “de- escalation” and 
+“escalation” trials for ctDNA- negative and - positive patients, respectively, and helps 
+to answer whether measuring ctDNA postoperatively has prognostic and/or predic-
+tive value. Our ctDNA- guided adaptive platform trials will accelerate clinical devel-
+opment toward further precision oncology in the field of adjuvant therapy. Analysis 
+of ctDNA status could be utilized as a predictor of risk stratification for recurrence 
+and to monitor the effectiveness of adjuvant chemotherapy. ctDNA is a promising, 
+noninvasive tumor biomarker that can aid in tumor monitoring throughout disease 
+management.
+
+*Hiroya Taniguchi and Yoshiaki Nakamura are equally contributed as first author.
+
+[Correction added on 2 July 2021, after first online publication: the surname of the eleventh author has been corrected from ‘Bllings’ to ‘Billings’.]  
+
+www.wileyonlinelibrary.com/journal/cas
+mailto:﻿
+https://orcid.org/0000-0003-1407-6682
+https://orcid.org/0000-0001-7952-5528
+https://orcid.org/0000-0003-3155-7576
+https://orcid.org/0000-0002-9763-9366
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+mailto:hirtanig@east.ncc.go.jp
+
+
+2916  |     TANIGUCHI eT Al.
+
+1  | INTRODUC TION
+
+Circulating tumor DNA (ctDNA) is a promising, noninvasive tumor 
+biomarker that can aid in tumor monitoring throughout disease man-
+agement. Results from GOZILA, a large- scale nationwide registry for 
+comprehensive ctDNA sequencing of metastatic colorectal cancer 
+(mCRC), reinforced the relevance of matching targetable oncogenic 
+drivers to the appropriate targeted therapy for individual patients. 
+Thus, ctDNA sequencing can potentially accelerate precision treat-
+ment of cancer.1
+
+The monitoring of ctDNA levels in the blood has shown to accu-
+rately detect molecular residual disease (MRD) and aid in measuring 
+therapeutic effects after curative treatment. Signatera™ (Natera, Inc) 
+is a novel, patient- specific, custom- built ctDNA monitoring assay for 
+MRD detection (bespoke, mPCR- NGS) that tracks 16 patient- specific 
+somatic single- nucleotide variants in the patient's plasma, according 
+to the variants identified via whole- exome sequencing of the tumor 
+tissue. This assay has shown >95% sensitivity at 0.01% variant allele 
+frequency with high specificity.2 Among 122 patients with stages 
+I to III CRC, ctDNA was preoperatively detectable in 108 (88.5%). 
+After definitive treatment, longitudinal ctDNA analysis identified 
+14 (87.5%) of 16 relapses. Furthermore, at postoperative day 30, 
+ctDNA- positive patients are significantly more likely to relapse than 
+ctDNA- negative patients (hazard ratio, 7.2; 95% confidence inter-
+val, 2.7- 19.0; P < .001), regardless of stage. In addition, serial ctDNA 
+analyses revealed disease recurrence up to 16.5 months ahead of 
+standard- of- care radiologic imaging (mean, 8.7 months).3
+
+We launched a large platform, enrolling patients with resectable 
+CRC to evaluate the clinical utility of ctDNA analysis, named the 
+CIRCULATE- Japan project (Figure 1). Here, we provide an overview 
+
+of CIRCULATE- Japan, composed of one observational study and 
+two randomized phase III trials. This project aims to detect MRD and 
+measure treatment responsiveness in resectable CRC using ctDNA 
+testing. Ultimately, CIRCULATE- Japan aims to use ctDNA to guide 
+the administration of more precise adjuvant therapy treatment reg-
+imens in patients.
+
+2  | GAL A X Y STUDY
+
+The GALAXY study is a prospectively conducted large- scale nation-
+wide registry designed to monitor ctDNA status for patients with 
+clinical stage II to IV CRC who can undergo complete surgical re-
+section. Key eligibility criteria are shown in Table 1. A personalized, 
+tumor- informed ctDNA assay from Natera, Inc, (bespoke, mPCR- 
+NGS), is used in this study. The blood samples will be collected be-
+fore surgery and 4, 12, 24, 36, 48, 72, and 96 weeks after surgery. 
+Computed tomography (CT) will be performed every 6 months after 
+surgery for 7 years. Investigators will receive the results of ctDNA 
+assay in a timely manner and, based on ctDNA status, can consider 
+patients for enrollment into the VEGA or ALTAIR trials. Residual 
+blood and frozen and formalin- fixed tissue samples will be collected 
+for further analyses, including RNA sequencing. A total of 2500 pa-
+tients will be enrolled.
+
+3  | VEGA TRIAL
+
+The VEGA trial is a randomized phase III study designed to test 
+whether postoperative surgery alone is noninferior to the standard 
+
+Funding information
+Japan Agency for Medical Research and 
+Development, Grant/Award Number: 
+JP19ck0106447; Taiho Pharmaceutical
+
+K E Y W O R D S
+
+adaptive clinical trial design, adjuvant chemotherapy, circulating tumor DNA, colorectal 
+cancer, trifluridine
+
+F I G U R E  1   CIRCULATE- Japan overview. ctDNA, circulating tumor DNA; F/U, follow up; FTD/TPI, trifluridine/tipiracil; mo, month; NAC, 
+neoadjuvant chemotherapy; Op, operative; WES, whole- exome sequencing
+
+
+
+     |  2917TANIGUCHI eT Al.
+
+CAPOX therapy. Key eligibility criteria are (a) primary tumor location 
+in the colon; (b) R0 resection performed with colectomy with D2 or 
+D3 lymph node dissection, (c) high- risk stage II or low- risk stage III 
+(T1- 3 and N1) colon cancer, and (d) ctDNA- negative status at week 4 
+after surgery in the GALAXY study (Table 2). Patients are randomly 
+assigned in a 1:1 ratio to either undergo surgery alone (observa-
+tional group) or receive CAPOX therapy for 3 months (control group: 
+1- 14 days of capecitabine, 2000 mg/m2/d and oxaliplatin, 130 mg/
+m2/d once every 3 weeks). Randomization is stratified by age (<70 
+vs ≥70 years), stage (high- risk stage II vs low- risk stage III), primary 
+tumor location (right- sided vs left- sided vs rectosigmoid colon), and 
+RAS status (mutant vs wild type). The primary endpoint is disease 
+free survival (DFS). Key secondary endpoints include time to treat-
+ment failure, overall survival, adverse events, relative dose intensity, 
+
+and ctDNA status at each timepoint. Contrast medium– enhanced CT 
+is performed once every 6 months for up to 7 years after enrollment.
+
+The 3- year DFS rate among standard CAPOX patients is assumed 
+to be 85%. However, the reported DFS hazard ratio for postoper-
+ative ctDNA- positive vs ctDNA- negative patients is 7.24,5, and the 
+ctDNA- positive rate is assumed to be 10%. Based on these previous 
+data, we assume that the 3- year DFS rate among ctDNA- negative 
+patients will be 91%. With an acceptable 3% decrease in 3- year DFS 
+(ie, from 91% to 88%) associated with switching to no chemother-
+apy, which corresponds to a noninferiority margin of 1.355, a total of 
+1240 (620 per arm) will provide a statistical power of 70% to test the 
+noninferiority hypothesis at a one- sided significance level of 10%, 
+with enrollment and follow- up periods of 2 and 3 years, respectively. 
+This trial has been registered in the Japan Registry of Clinical Trials 
+(jRCT1031200006).
+
+4  | ALTAIR TRIAL
+
+The ALTAIR trial is a randomized, double- blind, phase III study de-
+signed to establish the superiority of trifluridine/tipiracil (FTD/TPI) 
+as compared with placebo in patients with CRC who show ctDNA- 
+positive status with the Signatera® assay at any time after curative 
+resection for up to 2 years after surgery. Key eligibility criteria are 
+(a) having undergone radical resection of primary and/or metastatic 
+tumors, (b) a history of standard adjuvant chemotherapy, (c) posi-
+tive ctDNA status within the previous 3 months at any time postop-
+eratively, and (d) no obvious relapse confirmed by chest, abdominal, 
+and pelvic CT scans (Table 3). Patients will be randomly assigned in 
+a 1:1 ratio to receive either 6 months of oral FTD/TPI (35 mg/m2 
+twice daily on days 1- 5 and days 8- 12 in a 28- day cycle) or a match-
+ing course of placebo. Randomization is stratified by age (<70 vs 
+≥70 years), stage (stage II or lower vs stage III vs stage IV or M1), 
+primary tumor location (right- sided vs left- sided colon vs rectum), 
+ctDNA status at 1 month (positive vs negative or unmeasurable), and 
+institution. The primary endpoint is DFS. Key secondary endpoints 
+include rate of conversion from positive to negative ctDNA status, 
+overall survival, adverse events, and quality of life.
+
+The mean time from ctDNA- positive status to detectable recur-
+rence on CT has been reported to be 8.7 months.3 Based on the 
+data, we assume that the median DFS in the placebo group will be 
+approximately 8 months. A total of 240 patients (120 per arm) will 
+provide 80% power to detect an expected DFS hazard ratio of 0.667 
+at two- sided significance level of .05, with an enrollment period of 
+2 years and a follow- up period of 1 year. This trial has been regis-
+tered in the Japan Registry of Clinical Trials (JapicCTI- 205363) and 
+at Clinicaltrials.gov (NCT04457297).
+
+5  | DISCUSSION
+
+The CIRCULATE- Japan study provides multilayer testing platforms, 
+comprising a large- scale patient- screening registry (GALAXY) 
+
+TA B L E  1   Eligibility criteria of the GALAXY trial
+
+Inclusion criteria
+
+1. Histopathologically diagnosed with adenocarcinoma
+2. The primary location of the tumor is the colon (cecum, colon, 
+
+and rectosigmoid) or rectum (excluding appendix and anal canal 
+cancer)
+
+3. The clinical stage is stage II, III, IV or relapse (M1) for which R0 
+resection has been scheduled (UICC TNM Classification, 8th 
+Edition)
+
+4. The age at the time of acquisition of informed consent is 20 y or 
+older
+
+5. Eastern Cooperative Oncology Group Performance Status is 0 or 1
+6. The subject has given a written informed consent for 
+
+participation in this study
+
+Exclusion criteria
+
+1. Two or ore synchronous colorectal cancer (multiple 
+cancer)**Patients with clinical stage Tis or T1a colorectal cancer 
+judged to be cured by local treatment may be included in this 
+study
+
+2. Active double cancer*
+*However, patients with a relapse- free survival period of 5 y 
+
+or longer or patients with skin basal cell or spinocellular cell 
+carcinoma which has been considered cured by local treatment, 
+superficial bladder cancer, cervical cancer, carcinoma in situ 
+(intraepithelial cancer) that can be treated endoscopically, lesions 
+equivalent to intramucosal cancer, or nonmetastatic prostate 
+cancer that does not require systemic treatment may be enrolled
+
+3. History of surgery, chemotherapy, immunotherapy, or 
+radiotherapy within 6 mo before enrollment with clinical stage II 
+or III colon cancer (cecum, colon, rectum sigmoid)
+
+4. Pregnant or breastfeeding women
+5. Serious complication
+6. Positive for hepatitis B surface (HBs) antigen or positive for 
+
+hepatitis C virus (HCV) antibody
+7.  Human immunodeficiency virus (HIV) antibody positive (a patient 
+
+may enroll even if HIV antibody has not been tested)
+8. Active novel coronavirus infection (COVID- 19) is present*
+*Patients with positive SARS- CoV- 2 PCR or suspected COVID- 19 
+
+based on clinical symptoms; patients with confirmed negative 
+SARS- CoV- 2 PCR or other tests and no symptoms of COVID- 19 
+may be included in this study. However, if the physician deems that 
+the patients will affect the evaluation of this study, the patients are 
+ineligible (COVID- 19 testing is not required)
+
+9. The study doctor deemed that it is ineligible for this study
+
+
+
+2918  |     TANIGUCHI eT Al.
+
+followed by two ctDNA- guided phase III trials (VEGA and ALTAIR), 
+which aim to refine adjuvant therapy in patients with resectable 
+CRC. In the GALAXY study, ctDNA testing is performed for MRD 
+detection. Patients with stage II or III colon cancer and negative 
+MRD status 4 weeks after resection are enrolled in the VEGA study, 
+whereas patients with positive MRD status at any time after stand-
+ard adjuvant therapy are enrolled in the ALTAIR study. CIRCULATE- 
+Japan will thus encompass both “de- escalation” and “escalation” 
+trials for ctDNA- negative and - positive patients, respectively, and 
+
+help to answer whether measuring ctDNA postoperatively has 
+prognostic and/or predictive value in patients with resectable CRC.
+
+The GALAXY trial also aims to generate a large dataset with 
+high- quality clinical data and comprehensive genomic profiling 
+(whole- exome sequencing) of resected tumor tissue. Real- world 
+evidence based on high- quality registries and longitudinal health 
+care databases outside of randomized control trials (RCTs) has 
+recently been used as an alternative to RCTs for regulatory deci-
+sion making, especially for a biomarker- guided therapy, in a small 
+
+TA B L E  2   Eligibility criteria of the VEGA trial
+
+Inclusion criteria
+
+1. Histopathological diagnosis has been made as primary colonic adenocarcinoma
+2. Based on the operative findings and resected specimen findings, the primary location of the tumor is the colon* (does not include the appendix, 
+
+rectum, and anal canal)*Includes the rectosigmoid part defined in the Japanese Classification of Colorectal, Appendiceal, and Anal Carcinoma, 
+Ninth Edition
+
+3. A colectomy including systematic lymph node dissection of D2 or D3 has been performed
+4. At the time of completion of surgery, residual cancer is considered to be R0
+5. The disease stage based on overall findings is high- risk stage II (having at least one of the following risk factors [a] to [f] for relapse) or low- risk 
+
+stage III (T1- 3N1) (UICC TNM Classification, 8th Edition)*
+*N1c (UICC TNM Classification, 8th Edition) is also considered to be eligible (tumor deposits, or satellite nodules, are seen in the adjacent 
+
+soft tissues of the colon or rectum without subserosal layer or peritoneal coat, but no regional lymph node metastasis). (a) T4 (SE/SI/AI), (b) 
+Intestinal tract obstruction (clinical), (c) Intestinal tract perforation/penetration (clinical), (d) <12 dissected lymph nodes, (e) Poorly differentiated 
+adenocarcinoma, signet- ring cell carcinoma, or mucinous carcinoma, (f) Positive for lymphatic invasion, venous invasion, or neuroinvasion
+
+6. Positive ctDNA within 4 wk preoperatively and negative ctDNA at 28 d ± 7 d postoperatively
+*The results of ctDNA testing are based on the test results in the GALAXY study (UMIN000039205)
+7. Test using tumor samples shows BRAF V600E wild type
+8. Microsatellite stable or proficient mismatch repair based on tumor testing
+9. Enrollment can be performed within 8 wk after the curative resection, and treatment can be started within 2 wk after enrollment
+10. The age at the time of acquisition of informed consent is 20 y or older
+11. Eastern Cooperative Oncology Group Performance Status 0 or 1
+12. No history of chemotherapy, immunotherapy, or radiotherapy within 6 mo prior to enrollment, including treatment for other types of cancer
+13. The organ function is met according to the following laboratory values measured within 14 d prior to enrollment
+
+-  Neutrophil count ≥1500/mm3
+
+-  Platelet count ≥100 000/mm3
+
+-  Creatinine clearance ≥30 mL/min
+-  Total bilirubin ≤2.0 mg/dL
+-  Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ≤100 IU/
+-  Carcinoembryonic antigen ≤10 ng/mL
+
+14. Voluntary consent to participation in the study has been obtained
+
+Exclusion criteria
+
+1. There are two or more infiltrating cancers of the large intestine origin at the same time. An infiltrating cancer is defined as cancer infiltrating to 
+the submucosa or deeper, and does not include intramucosal cancer
+
+2. History of a malignant tumor
+3. Pregnant or breastfeeding women
+4. Women of childbearing potential and men with reproductive capacity**Men and women who agreed to use contraception during and up to 
+
+30 d after the treatment with CAPOX and understand the risks with pregnancy may be enrolled
+5. Patients with complications of uncontrolled infections
+6. Patients with peripheral sensory/motor neuropathy
+7. Patients with complications of uncontrolled diabetes
+8. Patients with complications of uncontrolled congestive heart failure, angina, hypertension, or arrhythmia
+9. Continuous systemic administration of steroids (≥10 mg/d of prednisolone equivalent) (either oral or IV administration)
+10. History or complication of neurologically or mentally significant illness
+11. Positive HBs antigen or positive HCV antibody
+12. Positive HIV antibody (a patient may enroll even if HIV antibody has not been tested)
+13. Known deficiency of DPD
+14. History of allergy to oxaliplatin and/or capecitabine
+15. Any other cases which are judged to be inappropriate for participation in this clinical study by a physician
+
+Abbreviations: ctDNA, circulating tumor DNA; DPD, dihydoropyrimidine dehydrogenase.
+
+
+
+     |  2919TANIGUCHI eT Al.
+
+population.6 The data collected in the GALAXY study could be 
+used as a reference, especially in new molecularly stratified treat-
+ments and/or to further investigate the MRD- positive space.
+
+The clinical question of the VEGA trial is whether or not to elimi-
+nate an immediate adjuvant chemotherapy for patients who are less 
+likely to benefit from it. If the noninferiority of surgery alone against 
+chemotherapy is proven, it will become the new standard of care in 
+patients with MRD- negative status 4 weeks after surgery for high- 
+risk stage II or low- risk stage III colon cancer. This would represent a 
+substantial treatment paradigm shift. The key objective of the VEGA 
+trial is to provide individual patient data into a multinational collab-
+orative project, called “Circulate IDEA,” which we will plan to launch 
+to compare surgery alone vs adjuvant CAPOX in this population. We 
+will design the Circulate IDEA to prospectively combine and analyze 
+data from several trials as in the original IDEA Collaboration and to 
+provide more than 80% of statistical power to test noninferiority of 
+surgery alone against adjuvant CAPOX at a one- sided significance 
+level of 2.5%.
+
+The aim of the ALTAIR trial is to establish the clinical significance 
+of early intervention in patients with MRD at an early stage by mon-
+itoring ctDNA status during the surveillance period. FTD/TPI exhib-
+its antitumor effects against 5- fluorouracil– resistant tumors that are 
+similar to those exerted in 5- fluorouracil– sensitive tumors and has 
+demonstrated a survival benefit in chemotherapy- refractory mCRC 
+even when disease has been refractory to 5- fluorouracil– containing 
+regimens.7 Thus, we expect FTD/TPI to have antitumor effect on 
+any existing MRD, even on tumors refractory to standard adjuvant 
+therapy, including 5- fluorouracil. This trial will be of great value be-
+cause there is no confirmative prospective trial developing therapy 
+for resected CRC patients with ctDNA- positive status.
+
+In summary, using a ctDNA assay that has high sensitivity and 
+specificity for detecting MRD is most likely to enable suitable pa-
+tients to receive appropriate adjuvant therapy. Our ctDNA- guided 
+adaptive platform trials will accelerate clinical development toward 
+further precision oncology in the field of adjuvant therapy. In ad-
+dition, the resulting CIRCULATE- Japan database, consisting of mul-
+tiomics data, ctDNA results, and clinical outcomes, will serve as a 
+reference in further development of adjuvant therapy but also con-
+tribute to the understanding of the nature of cancer itself or through 
+international harmonization with other data platforms.
+
+ACKNOWLEDG MENTS
+CIRCULATE- Japan receives financial supports from the Japan 
+Agency for Medical Research and Development (AMED; Grant 
+Number JP19ck0106447) and from Taiho Pharmaceutical Co., Ltd., 
+through Alpha- A Inc. Investigational drugs, FTD/TPI, and placebo 
+were provided by Taiho Pharmaceutical Co., Ltd. The funders had no 
+role in the study design; in data collection, analysis, or interpretation; 
+or in the writing of the report.
+
+DISCLOSURE
+Alexey Aleshin, Paul R Billings, Matthew Rabinowitz are from Natera 
+Inc, San Carlos, CA, USA. Hiroya Taniguchi received lecture fees 
+from Taiho and Chugai. Yoshiaki Nakamura received research funds 
+from Taiho and Chugai. Eiji Oki received lecture fees from Taiho and 
+Chugai. Daisuke Kotani received lecture fees from Taiho and Chugai. 
+
+TA B L E  3   Eligibility criteria of the ALTAIR trial
+
+Inclusion criteria
+
+ 1. Patients who have been histopathologically diagnosed with 
+colorectal adenocarcinoma
+
+ 2. Patients who have undergone radical resection of the primary 
+and metastatic tumors
+
+ 3. In case of patients with colon cancer of stage III, a past history 
+of standard postoperative chemotherapy
+
+ 4. Patients who tested positive for ctDNA by an analysis of blood 
+samples using Signatera® within 3 mo prior to enrollment
+
+ 5. Patients with no obvious relapse confirmed by chest, 
+abdominal, and pelvic CT scans
+
+ 6. Patients who are capable of oral ingestion
+ 7. Patients aged 20 y or older at the time of informed consent
+ 8. Patients with an Eastern Cooperative Oncology Group 
+
+Performance Status of 0 or 1
+ 9. Patients who have no severe disorder in major organs and meet 
+
+the following criteria
+ 10. Neutrophil count ≥1500/mm3
+
+ 11. Platelet count ≥100 000/mm3
+
+ 12. Hemoglobin ≥8.0 g/dL
+ 13. Serum creatinine ≤1.5 mg/dL
+ 14. Total bilirubin <1.5 mg/dL
+ 15. Alanine aminotransferase and AST ≤100 U/L
+ 16. Patients with no diarrhea or stomatitis of grade 2 or higher 
+
+according to Common Terminology Criteria for Adverse Events 
+(CTCAE) v5.0
+
+ 17. Patients who voluntarily gave written consent to participate 
+in the trial after receiving a thorough explanation of the trial 
+before enrolling in the trial
+
+Exclusion criteria
+
+ 1. Patients with a history of treatment with FTD/TPI
+ 2. Patients with a history of treatment with two or more regimens 
+
+of postoperative adjuvant chemotherapy (perioperative 
+chemotherapy will not be counted as a regimen)
+
+ 3. Patients with a past history of a malignant tumor
+ 4. Patients with a local or systemic active infection requiring 
+
+intervention
+ 5. Patients who are positive for HBs antigen or positive for HCV 
+
+antibody
+ 6. Patients who are positive for HIV antibody
+ 7. Patients with poorly controlled infections or diabetes
+ 8. Patients with a past history of interstitial lung diseases requiring 
+
+treatment or extensive findings of these diseases on CT
+ 9. Patients with a serious complication
+ 10. Patients who have been receiving systemic administration (oral 
+
+or intravenous) of steroids (for 2 wk or more at a dose of the 
+equivalent of ≥10 mg/d of prednisolone)
+
+ 11. Patients for whom enrollment in the trial is difficult because of 
+clinically problematic psychiatric disorders
+
+ 12. Pregnant or lactating women
+ 13. Patients with reproductive potential who do not wish to 
+
+use adequate contraceptive measures during the period of 
+participation in the trial and during the contraception period
+
+ 14. Patients who are judged by the attending physician to be 
+ineligible for enrollment in the trial for other reasons
+
+Abbreviations: CT, computed tomography; ctDNA, circulating tumor 
+DNA; FTD/TPI, trifluridine/tipiracil.
+
+
+
+2920  |     TANIGUCHI eT Al.
+
+Takeshi Kato received lecture fees from Taiho and  Chugai. Masaki 
+Mori received research funds from Taiho and Chugai, and received 
+lecture fee from Taiho and Chugai. Takayuki Yoshino received lec-
+ture fees from Taiho and Chugai, and research funds from Taiho and 
+Chugai.
+
+ORCID
+Hiroya Taniguchi  https://orcid.org/0000-0003-1407-6682 
+Hiromichi Shirasu  https://orcid.org/0000-0001-7952-5528 
+Hiromichi Ebi  https://orcid.org/0000-0003-3155-7576 
+Eiji Oki  https://orcid.org/0000-0002-9763-9366 
+
+R E FE R E N C E S
+ 1. Nakamura Y, Taniguchi H, Ikeda M, et al. Clinical utility of circu-
+
+lating tumor DNA sequencing in advanced gastrointestinal can-
+cer: SCRUM- Japan GI- SCREEN and GOZILA studies. Nat Med. 
+2020;26:1859- 1864.
+
+ 2. Coombes RC, Page K, Salari R, et al. Personalized detection of cir-
+culating tumor DNA antedates breast cancer metastatic recurrence. 
+Clin Cancer Res. 2019;25:4255- 4263.
+
+ 3. Reinert T, Henriksen TV, Christensen E, et al. Analysis of plasma cell- 
+free DNA by ultradeep sequencing in patients with stages I to III col-
+orectal cancer. JAMA Oncol. 2019;5:1124- 1131.
+
+ 4. Grothey A, Sobrero AF, Shields AF, et al. Duration of adjuvant chemo-
+therapy for stage III colon cancer. N Engl J Med. 2018;378:1177- 1188.
+
+ 5. Yoshino T, Yamanaka T, Oki E, et al. Efficacy and long- term peripheral 
+sensory neuropathy of 3 vs 6 months of oxaliplatin- based adjuvant 
+chemotherapy for colon cancer: the ACHIEVE phase 3 randomized 
+clinical trial. JAMA Oncol. 2019;5:1574- 1581.
+
+ 6. Khozin S, Blumenthal GM, Pazdur R. Real- world data for clinical evi-
+dence generation in oncology. J Natl Cancer Inst. 2017;109:djx187.
+
+ 7. Mayer RJ, Van Cutsem E, Falcone A, et al. RECOURSE Study Group: 
+randomized trial of TAS- 102 for refractory metastatic colorectal can-
+cer. N Engl J Med. 2015;372:1909- 1919.
+
+How to cite this article: Taniguchi H, Nakamura Y, Kotani D, et 
+al. CIRCULATE- Japan: Circulating tumor DNA– guided adaptive 
+platform trials to refine adjuvant therapy for colorectal cancer. 
+Cancer Sci. 2021;112:2915– 2920. https://doi.org/10.1111/
+cas.14926
+
+https://orcid.org/0000-0003-1407-6682
+https://orcid.org/0000-0003-1407-6682
+https://orcid.org/0000-0001-7952-5528
+https://orcid.org/0000-0001-7952-5528
+https://orcid.org/0000-0003-3155-7576
+https://orcid.org/0000-0003-3155-7576
+https://orcid.org/0000-0002-9763-9366
+https://orcid.org/0000-0002-9763-9366
+https://doi.org/10.1111/cas.14926
+https://doi.org/10.1111/cas.14926
+

@@ -1,0 +1,2088 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WNL-2023-000248 238..252
+
+
+RESEARCH ARTICLE OPEN ACCESS
+
+Efficacy and Safety of Elamipretide in Individuals With
+Primary Mitochondrial Myopathy
+The MMPOWER-3 Randomized Clinical Trial
+
+Amel Karaa, MD, Enrico Bertini, MD, Valerio Carelli, MD, PhD, Bruce H. Cohen, MD, Gregory M. Enns, MB, ChB,
+
+Marni J. Falk, MD, Amy Goldstein, MD, Gráinne Siobhan Gorman, PhD, Richard Haas, MD, Michio Hirano, MD,
+
+Thomas Klopstock, MD, Mary Kay Koenig, MD, Cornelia Kornblum, MD, Costanza Lamperti, MD,
+
+Anna Lehman, MD, Nicola Longo, MD, PhD, Maria Judit Molnar, MD, Sumit Parikh, MD, Han Phan, MD,
+
+Robert D.S. Pitceathly, MD, PhD, Russell Saneto, MD, Fernando Scaglia, MD, Serenella Servidei, MD,
+
+Mark Tarnopolsky, MD, Antonio Toscano, MD, Johan L.K. Van Hove, MD, PhD, John Vissing, MD,
+
+Jerry Vockley, MD, Jeffrey S. Finman, PhD, David A. Brown, PhD, James A. Shiffer, RPh, and
+
+Michelango Mancuso, MD, for the MMPOWER-3 Trial Investigators
+
+Neurology® 2023;101:e238-e252. doi:10.1212/WNL.0000000000207402
+
+Correspondence
+
+Dr. Karaa
+
+akaraa@mgh.harvard.edu
+
+Abstract
+Background and Objectives
+Primary mitochondrial myopathies (PMMs) encompass a group of genetic disorders that impair
+mitochondrial oxidative phosphorylation, adversely affecting physical function, exercise capacity,
+and quality of life (QoL). Current PMM standards of care address symptoms, with limited clinical
+impact, constituting a significant therapeutic unmet need. We present data fromMMPOWER-3,
+a pivotal, phase-3, randomized, double-blind, placebo-controlled clinical trial that evaluated the
+efficacy and safety of elamipretide in participants with genetically confirmed PMM.
+
+Methods
+After screening, eligible participants were randomized 1:1 to receive either 24 weeks of elamipretide
+at a dose of 40 mg/d or placebo subcutaneously. Primary efficacy endpoints included change from
+baseline to week 24 on the distance walked on the 6-minute walk test (6MWT) and total fatigue on
+the Primary Mitochondrial Myopathy Symptom Assessment (PMMSA). Secondary endpoints
+includedmost bothersome symptom score on the PMMSA,NeuroQoLFatigue Short-Form scores,
+and the patient global impression and clinician global impression of PMM symptoms.
+
+Results
+Participants (N = 218) were randomized (n = 109 elamipretide; n = 109 placebo). The m0ean
+age was 45.6 years (64% women; 94% White). Most of the participants (n = 162 [74%]) had
+mitochondrial DNA (mtDNA) alteration, with the remainder having nuclear DNA (nDNA)
+defects. At screening, the most frequent bothersome PMM symptom on the PMMSA was
+
+MORE ONLINE
+
+Class of Evidence
+Criteria for rating
+therapeutic and diagnostic
+studies
+
+NPub.org/coe
+
+H0 Null Hypothesis
+A collection of negative,
+inconclusive, or replication
+studies; in partnership with
+the Center for Biomedical
+Research Transparency
+
+NPub.org/Null
+
+From the Massachusetts General Hospital (A.K.), Harvard Medical School Boston; Neuromuscular Unit (E.B.), Bambino Gesù Ospedale Pediatrico, IRCCS, Rome; IRCCS Istituto delle
+Scienze Neurologiche di Bologna (V.C.), Programma di Neurogenetica; Department of Biomedical and Neuromotor Sciences (V.C.), University of Bologna, Italy; Rebecca D. Considine
+Research Institute (B.H.C.), Akron Children’s Hospital, OH; Stanford University School of Medicine (G.M.E.), CA; Mitochondrial Medicine Frontier Program (M.J.F., A.G.), Division of
+Human Genetics, Department of Pediatrics, Children’s Hospital of Philadelphia and University of Pennsylvania Perelman School of Medicine; Royal Victoria Infirmary (G.S.G.),
+Newcastle upon Tyne, United Kingdom; University of California (R.H.), San Diego, La Jolla; Columbia University Irving Medical Center (M.H.), New York; Friedrich-Baur-Institute (T.K.),
+Department of Neurology, LMU Hospital, Ludwig Maximilian University of Munich; German Center for Neurodegenerative Diseases (DZNE); Munich Cluster for Systems Neurology
+(SyNergy), Germany; Department of Pediatrics (M.K.K.), University of Texas McGovern Medical School, Houston; Department of Neurology, Neuromuscular Diseases Section (C.K.),
+University Hospital of Bonn, Germany; Fondazione IRCCS IstitutoNeurologico Carlo Besta (C.L.), Milano, Italy; Vancouver General Hospital (A.L.), British Columbia, Canada; University of
+Utah (N.L.), Salt Lake City; Institute of Genomic Medicine and Rare Disorders (M.J.M.), Semmelweis University, Budapest, Hungary; Cleveland Clinic Neurological Institute (S.P.), OH;
+Rare Disease Research (H.P.), Atlanta, GA; Department of Neuromuscular Diseases (R.D.S.P.), UCL Queen Square Institute of Neurology and The National Hospital for Neurology and
+Neurosurgery, London, United Kingdom; Seattle Children’s Hospital (R.S.), WA; Baylor College ofMedicine (F.S.), Houston, TX; Texas Children’s Hospital (F.S.); Joint BCM-CUHK Center of
+Medical Genetics (F.S.), Hong Kong SAR; Fondazione Policlinico Universitario A. Gemelli and Istituto di Neurologia (S.S.), Università Cattolica del Sacro Cuore, Rome, Italy; McMaster
+UniversityMedical Center (M.T.), Hamilton, Ontario, Canada; Neurology andNeuromuscular Unit (A.T.), Department of Clinical and Experimental Medicine, University ofMessina, Italy;
+University of Colorado and Children’s Hospital Colorado (J.L.K.V.H.), Aurora; Copenhagen Neuromuscular Center (John Vissing), Rigshospitalet University of Copenhagen, Denmark;
+Children’s Hospital of Pittsburgh (Jerry Vockley), University of Pittsburgh School of Medicine, PA; Jupiter Point Pharma Consulting (J.S.F.), LLC; Stealth BioTherapeutics (D.A.B.)Write On
+Time Medical Communications (J.A.S.), LLC; and Department of Clinical and Experimental Medicine (M.M.), Neurological Institute, University of Pisa, Italy.
+
+Go to Neurology.org/N for full disclosures. Funding information and disclosures deemed relevant by the authors, if any, are provided at the end of the article.
+
+The Article Processing Charge was funded by Stealth Biotherapeutics.
+
+Coinvestigators are listed at links.lww.com/WNL/C860.
+
+This Null Hypothesis article is published as part of a collaborative effort between Neurology® and CBMRT.
+
+This is an open access article distributed under the terms of the Creative Commons Attribution License 4.0 (CC BY), which permits unrestricted use, distribution, and reproduction in any
+medium, provided the original work is properly cited.
+
+e238 Copyright © 2023 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the American Academy of Neurology.
+
+http://dx.doi.org/10.1212/WNL.0000000000207402
+mailto:akaraa@mgh.harvard.edu
+http://NPub.org/coe
+http://NPub.org/Null
+https://n.neurology.org/lookup/doi/10.1212/WNL.0000000000207402
+http://links.lww.com/WNL/C860
+http://creativecommons.org/licenses/by/4.0/
+
+
+tiredness during activities (28.9%). At baseline, the mean distance walked on the 6MWT was 336.7 ± 81.2 meters, the mean
+score for total fatigue on the PMMSA was 10.6 ± 2.5, and the mean T score for the Neuro-QoL Fatigue Short-Form was 54.7 ±
+7.5. The study did not meet its primary endpoints assessing changes in the 6MWT and PMMSA total fatigue score (TFS).
+Between the participants receiving elamipretide and those receiving placebo, the difference in the least squares mean (SE) from
+baseline to week 24 on distance walked on the 6MWT was −3.2 (95% CI −18.7 to 12.3; p = 0.69) meters, and on the PMMSA,
+the total fatigue score was −0.07 (95% CI −0.10 to 0.26; p = 0.37). Elamipretide treatment was well-tolerated with most adverse
+events being mild to moderate in severity.
+
+Discussion
+Subcutaneous elamipretide treatment did not improve outcomes in the 6MWT and PMMSA TFS in patients with PMM.
+However, this phase-3 study demonstrated that subcutaneous elamipretide is well-tolerated.
+
+Trial Registration Information
+Trial registered with clinicaltrials.gov, Clinical Trials Identifier: NCT03323749; submitted on October 12, 2017; first patient
+enrolled October 9, 2017. clinicaltrials.gov/ct2/show/NCT03323749?term = elamipretide&draw = 2&rank = 9.
+
+Classification of Evidence
+This study provides Class I evidence that elamipretide does not improve the 6MWT or fatigue at 24 weeks compared with
+placebo in patients with primary mitochondrial myopathy.
+
+A consensus of experts define primary mitochondrial myop-
+athies (PMMs) as a diverse group of genetically confirmed
+disorders of the mitochondria, affecting predominantly, but
+not exclusively, skeletal muscle, thereby adversely affecting
+physical function and quality of life.1,2 The result is muscle
+weakness, muscle atrophy, limited exercise capacity, and
+symptoms of fatigue and pain.1,2 PMM severity is variable, but
+the progressive reduction in exercise capacity eventually im-
+pairs participants’ ability to perform activities of daily living.3-5
+
+Primary mitochondrial diseases (PMDs) caused by both mito-
+chondrial (mtDNA) and nuclear DNA (nDNA) alteration are
+among the most common inherited metabolic disorders.2 PMDs
+have been reported to affect at least 1 in 4,300 people in the
+general population6 or an estimated 40,000 total individuals in the
+United States.6 Because most patients with PMDs are reported to
+experience PMM, the prevalence of PMMspecifically is estimated
+to be slightly less than the overall prevalence of all PMDs (aside
+from patients with Leber hereditary optic neuropathy [LHON])
+who do not experience a skeletal muscle component).6,7
+
+Currently, available standards of care primarily use dietary
+supplements that have limited clinical impact.8 Therefore, a
+significant unmet clinical need for new therapies exists.8
+
+However, there have been a number of historical challenges to
+
+the development of mitochondrial therapies, including the
+lack of a specific molecular target in mitochondria to promote
+adenosine triphosphate synthesis and a drug development
+process that is driven by disease-specific approaches.9
+
+Elamipretide is an investigational mitochondrial-targeting
+agent in development for treating patients with a variety of
+mitochondrial diseases.10-13 Elamipretide is a water-soluble,
+aromatic, cationic, mitochondria-targeting tetrapeptide that
+readily penetrates and transiently localizes to the inner mito-
+chondrial membrane where it associates with cardiolipin to
+improve membrane stability and restore supercomplex for-
+mation, thereby enhancing adenosine triphosphate synthesis
+in several organs including the heart, kidney, neurons, and
+skeletal muscle, and reduce reactive oxygen species (ROS)
+production.10,13-26 High-resolution respirometry studies in
+human and animal models of myopathy have demonstrated
+elamipretide-mediated improvement of respiration across var-
+ious electron transport chain complexes.27,28 These effects
+corresponded with significantly improved mitochondrial and
+cristae morphology,27 which are known to be altered across
+many mitochondrial myopathies.29
+
+The elamipretide clinical development program included
+MMPOWER-1 and MMPOWER-2, whereby treatment with
+
+Glossary
+6MWT = 6-minute walk test; AE = adverse event; CGI = clinician global impression; eGFR = estimated glomerular filtration
+rate; ITT = intention to treat; LHON = Leber hereditary optic neuropathy; MMRM = mixed-model repeated measures;
+mtDNA = mitochondrial DNA; nDNA = nuclear DNA; PGI = patient global impression; PMDs = primary mitochondrial
+diseases; PMMs = primary mitochondrial myopathies; PMMSA = Primary Mitochondrial Myopathy Symptom Assessment;
+PP = per-protocol; PROs = patient-reported outcomes; QoL = quality of life; ROS = reactive oxygen species; TFS = total
+fatigue score.
+
+Neurology.org/N Neurology | Volume 101, Number 3 | July 18, 2023 e239
+
+http://clinicaltrials.gov
+https://clinicaltrials.gov/ct2/show/NCT03323749?term=elamipretide&draw=2&rank=9
+https://clinicaltrials.gov/ct2/show/NCT03323749?term=elamipretide&draw=2&rank=9
+https://clinicaltrials.gov/ct2/show/NCT03323749?term=elamipretide&draw=2&rank=9
+https://clinicaltrials.gov/ct2/show/NCT03323749?term=elamipretide&draw=2&rank=9
+http://neurology.org/n
+
+
+elamipretide demonstrated meaningful improvements in
+patient-reported outcomes (PROs) for patients with con-
+firmed PMM.10,11 MMPOWER-3 was a pivotal, phase 3,
+randomized, double-blind, placebo-controlled clinical trial
+designed to evaluate the efficacy and safety of 40 mg of ela-
+mipretide subcutaneously (SC) once daily for 24 weeks as a
+treatment for patients with PMM using the 6-minute walk test
+(6MWT) and fatigue questionnaires as outcome measures.
+MMPOWER-3 was designed to provide important baseline
+characteristics and data on how treatment may affect func-
+tional changes and PROs.
+
+Methods
+Study Design and Participants
+MMPOWER-3 was a 24-week , randomized, double-blind,
+parallel-group, placebo-controlled clinical trial for adults with
+PMM conducted at 27 clinical research centers in 7 countries
+(Canada, Denmark, England, Germany, Hungary, Italy, and
+the United States).
+
+MMPOWER-3 trial participants were primarily identified by
+the RePOWER registry, a global, prospective, noninterven-
+tional registry enrolling 413 ambulatory individuals 16–80
+years of age with signs and/or symptoms of PMM.30 Registry
+individuals provided demographic, genetic/phenotypic, func-
+tional, and clinical assessments, which were used to confirm
+genotypic-phenotypic correlations and identify potential phase
+3 trial participants before MMPOWER-3 screening.30
+
+After screening (7–28 days), eligible participants were ran-
+domized in a 1:1 ratio to receive either 24-weeks of once-daily
+SC dosing of 40 mg of elamipretide or placebo. Study drug or
+placebo was self-administered subcutaneously by trained
+participants or their caregivers, at rotating sites around 4
+quadrants of the abdomen or the thighs. Treatment began at
+the baseline visit with assessments at weeks 4, 12, and 24.
+
+Eligible participants were those between 16 years or older and
+80 years or younger (18 years or older in Germany), di-
+agnosed with PMM with a confirmed sequence alteration
+affecting mitochondrial function, and those with symptoms
+(i.e., exercise intolerance, fatigue, muscle weakness) and/or
+physical examination findings consistent with a myopathy as
+the predominant manifestation of their mitochondrial disease.
+In addition, participants had to be willing and able to provide
+consent and adhere to trial requirements for inclusion. An
+acceptable form of birth control was required of participants
+of childbearing potential during the study.
+
+Participants walking <100 meters or >450 meters during the
+6MWT at screening/baseline were also excluded. Participants
+were not allowed to have had a recent (within 30 days) or
+planned hospitalization/procedure and were excluded if they
+had a clinically significant end-organ damage in the opinion of
+the investigator.30
+
+Standard Protocol Approvals, Registrations,
+and Patient Consents
+MMPOWER-3 was conducted in accordance with in-
+ternational ethics guidelines, including the Declaration of
+Helsinki, Council for International Organizations of Medical
+Sciences International Ethical Guidelines, ICH GCP guide-
+lines, and all applicable laws and regulations. The study was
+approved by institutional review boards, and all participants
+provided written informed consent (clinicaltrials.gov, Clinical
+Trials Identifier: NCT03323749.).
+
+Randomization and Masking
+Assignment to treatment groups within each cohort for the
+randomized portion of the study was determined by a
+computer-generated random sequence using an Interactive
+Web-Response System to assign identical glass vials con-
+taining either the elamipretide or a placebo, which consisted
+of the same formulation without elamipretide. Participants
+were stratified by the subclassification of the specific sequence
+alteration causing their PMM, as determined by the adjudi-
+cation committee formed to review and confirm eligibility for
+study enrollment.3 The pharmacists, investigators and trial
+staff, sponsor, and participants were blinded to treatment.
+
+Study Assessments and Procedures
+MMPOWER-3 was designed to assess the safety and efficacy
+of elamipretide through primary and secondary clinical study
+endpoints.
+
+Efficacy Assessments
+Coprimary endpoints evaluated the effect of elamipretide for
+24 weeks including the distance walked (in meters) on the
+6MWT and the total fatigue score on the Primary Mito-
+chondrial Myopathy Symptom Assessment (PMMSA), pre-
+viously described in detail.31 The full PMMSA assesses the
+severity of 10 of the most common symptoms of PMM using
+the following 4-point scale (not at all1 to severe4; described
+later). PMMSA total fatigue score (TFS) focuses on myo-
+pathic symptoms most commonly associated with PMM
+(severity of tiredness and muscle weakness at rest and during
+activities, as described by participants).
+
+Most bothersome symptom score on the PMMSA and the
+NeuroQoL Short-Form fatigue scores were secondary end-
+points. The Neuro-QoL evaluates and monitors sensations
+ranging from tiredness to an overwhelming, debilitating, and
+sustained sense of exhaustion that decreases capacity for
+physical, functional, social, and mental activities, based on a
+5-point scale (1 = never, 2 = rarely, 3 = sometimes, 4 = often,
+and 5 = always).
+
+Other secondary endpoints included the patient global im-
+pression (PGI) and clinician global impression (CGI) of
+PMM symptoms. PGI and CGI assess patient and clinician
+overall assessment of the severity of patients’ symptoms re-
+lated to PMM on a 5-point scaled question scored 0 to 4 (0 =
+none, 1 = mild, 2 = moderate, 3 = severe, and 4 = very Severe)
+
+e240 Neurology | Volume 101, Number 3 | July 18, 2023 Neurology.org/N
+
+http://clinicaltrials.gov
+http://neurology.org/n
+
+
+and changes to their symptoms on a 7-point scale scored −3 to
+3 (−3 = very much worse, −2 = moderately worse, −1 = a little
+worse, 0 = no change, 1 = a little better, 2 = moderately better,
+and 3 = very much better).
+
+The PMMSA was performed during screening, baseline, and
+daily throughout the 24-week study period. Other efficacy
+endpoints were performed at screening, baseline, and at weeks
+4, 12, and 24 of randomized treatment.
+
+Safety Assessments
+Safety and tolerability of elamipretide at a dose of 40 mg/d SC
+were assessed through recording of adverse events (AEs),
+ascertained through self-report, vital signs, physical examina-
+tion, ECGs, and clinical laboratory evaluations. Adverse
+events were assessed for severity and relationship to study
+medication throughout the 24-week study. Safety measures
+were assessed during screening, baseline and weeks 4, 12,
+and 24.
+
+Statistical Analysis
+A sample size of 202 participants, with 101 participants in
+each treatment arm, was determined to provide 90% power to
+detect a 30-meter difference between treatment groups in the
+6MWT and a 90% power to detect a 1-unit difference in the
+PMMSA TFS. This was assuming standard deviations of 60
+meters for 6MWT and 2 units for the PMMSA TFS, at an
+alpha level of 0.025, as established from a previous study of
+elamipretide in patients with PMM.11 The 2-sided alpha level
+of 0.025 was used to account for a possible multiplicity ad-
+justment for the primary efficacy endpoints.
+
+Efficacy was assessed in the intention-to-treat (ITT) pop-
+ulation, defined as all participants who received at least 1 dose
+of investigational medication, and the per-protocol (PP)
+population, which included all ITT participants without de-
+fined protocol violations/deviations identified per blinded
+data review before database lock. These protocol violations/
+deviations included not meeting inclusion/exclusion criteria
+or having a selected major protocol deviation deemed to
+potentially affect efficacy findings; not completing the study;
+not receiving investigational treatment within 2 days before
+the week 24 visit; having <80% compliance to investigational
+product; and not completing the study. Safety was assessed in
+the safety population, defined as all participants who received
+at least 1 dose of investigational medication.
+
+Primary and secondary efficacy outcomes were assessed as the
+change from baseline to each on-treatment time point with
+the primary time point being end of treatment (week 24).
+Analyses of continuous endpoints were conducted using a
+mixed-model repeated measures approach, with fixed effects
+for treatment, visit, the treatment-by-visit interaction, and
+participant as a random effect. The baseline value and a
+baseline-by-visit interaction for the endpoint were included as
+covariates. A family-wise alpha level of 0.05 was maintained
+for the primary endpoints, using Hochberg procedure at the
+primary time point of 24 weeks. If both primary endpoints
+were significantly different from placebo at the 0.05 (2-sided )
+level of significance in favor of elamipretide, then both end-
+points were considered statistically significant. If not, the
+endpoint with the smaller p value of the 2 was considered
+statistically significant if the p value was ≤0.025 (2-sided ).
+
+Figure 1 Participant Disposition
+
+Two hundred ninety-six participants were screened, and 218 participants were randomized to treatment. Two participants in the elamipretide group and 1
+patient in the placebo grouphad the treatment withdrawn due to adverse event before study discontinuation. The ITT population included 109 participants in
+the elamipretide group and 109participants in the placebo group. ThePP population included 102 participants in the elamipretide group and 103participants
+in the placebo group. ITT = intention-to-treat; PP = per-protocol.
+
+Neurology.org/N Neurology | Volume 101, Number 3 | July 18, 2023 e241
+
+http://neurology.org/n
+
+
+In the event that both endpoints in the primary endpoint
+family were significant at the 5% level, then secondary end-
+points were to be tested at week 24 with type I error control,
+achieved by testing sequentially using a 2-sided alpha level of
+0.05. The endpoints and hierarchy of comparisons were as
+follows: (1) change from baseline in Neuro-QoL Fatigue
+Short-Form (T score); (2) change from baseline in PGI of
+PMM symptoms; (3) change from baseline in CGI of PMM
+symptoms; and (4) change from baseline in most bothersome
+symptom score on the PMMSA. Sequential comparisons to
+control type I error were only to be completed if previous
+comparisons were statistically significant. For these analyses,
+p values were nominal.
+
+Subgroup Analyses by PMM Genotype
+Given the extensive genetic heterogeneity of the study pop-
+ulation, an exploratory analysis of genetic subgroups by ge-
+nomic alteration (mtDNA and nDNA) was performed using
+the same methods as described for the primary efficacy end-
+points earlier (ITT population using similar mixed-model
+repeated measure [MMRM] models).
+
+Because of a potential data entry error, which was later
+identified in post hoc data analysis, 3 participants were mis-
+classified in the clinical study report as having a pathogenic
+mtDNA variant. Post hoc analyses revealed that these 3 par-
+ticipants instead had nDNA alteration, either in POLG (2
+participants) or TWNK (in 1 participant). Accordingly, these
+participants were moved from the mtDNA group into the
+nDNA cohort for the included genetic alteration analyses.
+6MWT for 1 participant at week 24 was deemed unusable
+
+Table 1 Baseline Participant Demographics
+
+Elamipretide
+(n = 109)
+
+Placebo
+(n = 109)
+
+Age, y
+
+Mean (SD) 45.5 (15.7) 44.3 (14.3)
+
+Median 47 46
+
+Range 16–75 16–74
+
+Women, n (%) 67 (61.5) 73 (67.0)
+
+Race, n (%)
+
+White 103 (94.5) 100 (91.7)
+
+Black/African American 1 (0.9) 0
+
+Asian 2 (1.8) 5 (4.6)
+
+American Indian/Alaska Native 1 (0.9) 0
+
+Other/multiple 2 (1.8) 4 (3.7)
+
+Weight (kg)
+
+Mean (SD) 64.8 (20.3) 67.2 (17.3)
+
+Median 62.5 64.2
+
+Range 29.7–181.4 31.4–123.3
+
+Height (cm)
+
+Mean (SD) 165.6 (10.7) 165.7 (10.2)
+
+Median 165.0 165.0
+
+Range 123.0–197.3 137.5–192.8
+
+BMI (kg/m2)
+
+Mean (SD) 23.5 (6.1) 24.4 (5.8)
+
+Median 22.2 23.2
+
+Range 12.4–48.9 11.7–45.9
+
+Distance in 6MWT (meters)a ’
+
+Mean (SD) 324.95 (79.1) 335.65 (73.8)
+
+Median 343.33 351.00
+
+Range 112.07–480.00 140.88–449.60
+
+Total fatigue score in PMMSAb
+
+Mean (SD) 10.6 (2.5) 10.5 (2.5)
+
+Median 10.3 10.3
+
+Range 4–16 5–16
+
+Neuro-QoL Fatigue—Short-Form
+(total T scores)
+
+Mean (SD) 55.0 (7.5) 54.4 (7.5)
+
+Median 55.4 56.6
+
+Range 36.5–74.1 38.2–74.1
+
+PGI in PMM symptoms
+
+Mean (SD) 2.1 (0.8) 2.0 (0.8)
+
+Table 1 Baseline Participant Demographics (continued)
+
+Elamipretide
+(n = 109)
+
+Placebo
+(n = 109)
+
+Median 2 2
+
+Range 0–4 0–4
+
+CGI in PMM symptoms
+
+Mean (SD) 1.9 (0.8) 1.9 (0.8)
+
+Median 2 2
+
+Range 0–4 0–4
+
+Most bothersome symptom score in
+PMMSAb
+
+Mean (SD) 2.99 (0.69) 2.84 (0.69)
+
+Median 3.0 3.0
+
+Range 1.0–4.0 1.1–4.0
+
+Abbreviations: 6MWT = six-minute walk test; BMI = body mass index; CGI =
+ClinicianGlobal Impression; PGI = patient global impression; PMM=primary
+mitochondrial myopathy; PMMSA = Primary Mitochondrial Myopathy
+Symptom Assessment.
+a n = 108 for placebo group.
+b n = 107 for placebo group.
+
+e242 Neurology | Volume 101, Number 3 | July 18, 2023 Neurology.org/N
+
+http://neurology.org/n
+
+
+because the participant inadvertently received walking assistance
+and was therefore not included in the 6MWT analyses. Study
+protocol and statistical analysis plan were published on Clin-
+icalTrials.gov updated on January 24th 2022 (NCT03323749).32
+
+Pharmacokinetic Analysis
+The PK population included 106 participants randomized and
+treated with elamipretide, with at least 1 PK sample taken
+during their participation. PK modeling for elamipretide and
+its metabolites, M1 and M2, were performed using NON-
+MEM computer software. Covariates, such as age, genotype,
+weight, height, lean body mass, body mass index, liver func-
+tion tests, serum creatinine, and renal function (as described
+by estimated glomerular filtration rate [eGFR]) were ana-
+lyzed. The exposure-response analysis examined response
+based on the 6MWT as a function of steady-state exposure to
+elamipretide and its metabolites.
+
+Role of the Funding Source
+The funding source for this study participated in the de-
+velopment of the study design. All authors participated in
+data collection, data interpretation, and the clinical study
+report writing. The manuscript lead author had full access
+to the totality of the study data. The remaining authors
+were provided with an aggregate data analysis. All authors
+had final responsibility for the decision to submit for
+publication.
+
+Data Availability
+Anonymized data not published within this article will be
+made available by request from any qualified investigator.
+
+Protocol and Statistical Analysis Plan
+The study protocol and statistical analysis plan were
+published.32
+
+Results
+Participants
+Of the 296 participants screened for eligibility inMMPOWER-3,
+218 were enrolled and randomized to treatment (elamipretide
+n = 109; placebo n = 109) between October 2017 and De-
+cember 2019 (Figure 1). Of those receiving investigational
+product (n = 218), 205 (94%) completed the double-blind pe-
+riod of the study, with a similar percentage of participants for
+each treatment group completing (n = 102 [93.6%] elamipretide
+and n = 103 [94.5%] placebo). Thirteen randomized partici-
+pants (6.0%) discontinued treatment (main reason being par-
+ticipant decision; n = 9 [4.1%]).Most of the participants (90.8%;
+n = 198/218) were included in the PP patient population (n =
+96 [88.1%] for elamipretide and n = 102 [93.6%] for placebo).
+
+Participant demographics at baseline were similar between
+treatment groups, and characteristics demonstrated similar
+impairment in PMM (Table 1). Of the 218 treatment-
+randomized participants, the mean age was 44.9 years with
+participants mostly being White (94%; n = 203/218) and fe-
+male (64.2% n = 140/218). The mean weight was 66.0 (±18.9)
+kg, height was 165.7 (±10.4) cm, and BMI was 24.0 (±6.0) kg/
+m2. Among the participants who completed the 6MWT at
+baseline, the average distance walked was 330.28 (±76.5) me-
+ters. One participant had a protocol violation of walking >450
+meters on the 6MWT at baseline. The mean PMMSATFS was
+10.6 (±2.5). The Neuro-QoL Fatigue Short-Form average T
+score was 55.0 (±7.5) points. At screening, participants
+reported tiredness during activities (28.9%; n = 63), muscle
+weakness during activities, (21.1%; n = 46), balance problems
+(11.5%; n = 25), and tiredness at rest (10.6%; n = 23) on the
+PMMSA as the most bothersome symptoms of the 10 symp-
+toms of PMM, with bothersome symptoms varying slightly
+between treatment groups (Table 2).
+
+Baseline genetic test results showed most of the participants
+(74%, n = 162) had mtDNA alteration, with the remainder
+(26%, n = 56) having nDNA defects (Table 3 and eFigure 1,
+links.lww.com/WNL/C851). Because participants were
+stratified by the subclassification of the genetic class, the
+distribution of genetic class between mtDNA and nDNA was
+similar between treatment groups. Three participants were
+misclassified in the clinical study report (identified in a post
+hoc analysis) as having a pathogenic mtDNA variant. Instead,
+these 3 participants had nDNA alteration (either in POLG [2
+participants] orTWNK [in 1 participant]). Accordingly, these
+participants were moved from the mtDNA group into the
+nDNA cohort for the genetic alteration analyses, resulting in
+73% (n = 159) withmtDNA alteration and the remaining 27%
+(n = 59) with nDNA defects.
+
+Efficacy
+
+Primary Endpoints of Overall ITT
+Analysis of the 6MWT at the end of treatment showed the
+least squares mean (LS) (SE) of change from baseline in
+
+Table 2 MostBothersomeSymptom inPMMSAat Screening
+
+Elamipretide
+(n = 109) n (%)
+
+Placebo
+(n = 109) n (%)
+
+Tiredness at rest 9 (8.3) 14 (12.8)
+
+Tiredness during activities 37 (33.9) 26 (23.9)
+
+Muscle weakness at rest 4 (3.7) 5 (4.6)
+
+Muscle weakness during activities 24 (22.0) 22 (20.2)
+
+Balance problems 11 (10.1) 14 (12.8)
+
+Vision problems 10 (9.2) 7 (6.4)
+
+Abdominal discomfort 5 (4.6) 2 (1.8)
+
+Muscle pain 7 (6.4) 9 (8.3)
+
+Numbness 1 (0.9) 2 (1.8)
+
+Headache 1 (0.9) 8 (7.3)
+
+Abbreviation: PMMSA = Primary Mitochondrial Myopathy Symptom
+Assessment.
+
+Neurology.org/N Neurology | Volume 101, Number 3 | July 18, 2023 e243
+
+http://ClinicalTrials.gov
+http://ClinicalTrials.gov
+http://links.lww.com/WNL/C851
+http://neurology.org/n
+
+
+distance walked at week 24 was 14.1 (±5.7) meters for par-
+ticipants receiving elamipretide and 17.3 (±5.7) meters for
+participants receiving placebo, a −3.2-meter difference be-
+tween the 2 groups (95% CI −18.7 to 12.3; p = 0.69)
+(Figure 2A). The per-protocol (PP) participant analysis
+demonstrated a −2.2-meter difference between the 2 groups
+(95% CI −16.9 to 12.5; p = 0.77).
+
+Elamipretide-treated participants reported more total fatigue at
+baseline and less total fatigue at end of treatment, as assessed by
+the PMMSA TFS. The LS mean (SE) of change from baseline
+to week 24 on the PMMSA TFS was −1.13 (±0.22) for par-
+ticipants receiving elamipretide and −1.05 (±0.22) for partici-
+pants receiving placebo, a −0.07 difference between the 2
+groups (95% CI −0.69 to 0.54; p = 0.81) (Figure 2B). The PP
+participant analysis demonstrated a 0.09 difference between the
+2 groups (95% CI −0.54 to 0.72; p = 0.78).
+
+Secondary endpoint results are summarized in eTable 1
+(links.lww.com/WNL/C852). Analyses of change from
+baseline in PGI of PMM symptoms and CGI of PMM
+symptoms at the end of treatment are provided in Figure 2, C
+and D, respectively.
+
+Analyses by Genetic Subgroup: mtDNA vs nDNA
+mtDNA: Subgroup analysis for participants with mtDNA
+alteration of the 6MWT at the end of treatment showed the
+LS mean (SE) of change from baseline in distance walked at
+week 24 was 14.0 (±6.1) meters for participants receiving
+elamipretide (n = 74) and 25.0 (±6.1) meters for participants
+receiving placebo (n = 79), an −11.0-meter between-group
+difference favoring placebo (95% CI −28.1 to 6.1; p = 0.21;
+Figure 3A).
+
+nDNA: For participants with nDNA alteration (post hoc
+analysis), the LS mean (SE) change from baseline in distance
+walked at week 24 was 25.5 (±8.0) meters for participants
+receiving elamipretide (n = 29) and 0.3 (±7.7) meters for
+participants receiving placebo (n = 29), a 25.2-meter differ-
+ence between the 2 groups favoring elamipretide (95% CI
+3.1–47.3; p = 0.03; Figure 3B).
+
+For participants with mtDNA alteration, the LS mean (SE) of
+change from baseline at week 24 on the PMMSA TFS was
+−1.3 (±0.2424) for participants receiving elamipretide and
+−1.1 (±0.2525) for participants receiving placebo, a −0.21
+difference between the 2 groups (95% CI −0.9 to 0.5; p =
+0.55). For participants with nDNA alteration (post hoc
+analysis), LS mean (SE) of change from baseline at week 24
+was −0.45 (±0.25) for participants receiving elamipretide and
+−0.48 (±0.24) for participants receiving placebo, a 0.03 dif-
+ference between the groups (p = 0.93).
+
+Safety
+In total, 109 participants received elamipretide and 109 re-
+ceived placebo. AEs during the treatment period were
+reported by a higher percentage of elamipretide-treated par-
+ticipants (98.2% [n = 107/109]) than placebo-treated par-
+ticipants (76.1% [n = 83/109]) (Table 4). Most AEs in the
+elamipretide group (97.2%) and half of AEs in the placebo
+group (51.4%) were reported as treatment-related AEs. Most
+of the AEs were mild or moderate in intensity. The most
+commonly reported AEs for participants receiving elamipre-
+tide (frequency >10%) were injection site reactions (see
+Table 4). Injection site reactions experienced with elamipre-
+tide included erythema, pruritus, pain, swelling, induration,
+bruising, hemorrhage, urticaria, and injection site nodules and
+masses. A low percentage of serious adverse events (SAEs)
+were reported for participants in the elamipretide (n = 5/109
+[4.6%]) and the placebo groups (n = 3/109 [2.8%]) and were
+not deemed to be treatment related. The incidence of AEs
+leading to discontinuation was greater in the elamipretide
+group (n = 8/109 [7.3%] and n = 2/109 [1.8%] for placebo,
+respectively). No participants had an AE with an outcome of
+death or hospitalization.
+
+Pharmacokinetics
+Population pharmacokinetic models were fit successfully to 3
+analytes, elamipretide and 2 metabolites, M1 and M2. For
+elamipretide, systemic parameters scaled allometrically. No
+covariates influenced the systemic or absorption parameters.
+For M1 and M2, apparent clearance decreased with age and
+increased with renal function. No other covariates influenced
+
+Table 3 Participants’ Genetic Classifications
+
+Elamipretide
+(n = 109) n (%)
+
+Placebo
+(n = 109) n (%)
+
+All participants
+(N = 218) n (%)
+
+mtDNA alteration 79 (72.5) 80 (73.4) 159 (72.9)
+
+Impaired mitochondrial protein synthesis in toto 79 (72.5) 79 (72.5) 158 (72.5)
+
+Affect the subunits of the respiratory chain 0 1 (0.9) 1 (0.5)
+
+nDNA alteration 30 (27.5) 29 (26.6) 59 (27.1)
+
+Genes encoding subunits or ancillary proteins of the respiratory chain 3 (2.7) 4 (0.7) 7 (3.2)
+
+Defects of mtDNA maintenance 27 (24.8) 25 (22.9) 52 (23.9)
+
+Abbreviations: mtDNA = mitochondrial DNA; nDNA = nuclear DNA.
+
+e244 Neurology | Volume 101, Number 3 | July 18, 2023 Neurology.org/N
+
+http://links.lww.com/WNL/C852
+http://neurology.org/n
+
+
+the systemic parameters. In the exposure-response analysis,
+participants with an nDNA alteration had an increase in the
+change and fractional change at week 24 compared with that
+at day 1 (i.e., baseline) value for the 6MWT as a function of
+the elamipretide steady state area under the curve (p = 0.0262
+and p = 0.0345, respectively).
+
+Discussion
+We present the results of the first phase 3 trial in PMM with
+elamipretide. Overall, participants who received elamipretide
+did not meet either primary or secondary endpoints. Specif-
+ically, there were no statistically significant changes between
+elamipretide and placebo in the 6MWT or the PMMSA Total
+Fatigue Score. MMPOWER-3 uncovered several findings,
+specifically the importance of considering pathogenic geno-
+types within the PMM population when evaluating the effect
+of investigational treatments. Among the most interesting
+findings of the trial, identified in a post hoc analysis, was that
+participants with PMM with nDNA defects performed sig-
+nificantly better on the 6MWT, whereas participants with
+mtDNA alteration did not differ from placebo. The insight
+
+from these subgroups are novel findings and are expected to
+contribute substantially to future PMM studies.
+
+Patient improvements in 6MWT and PMMSA TFS from this
+study showed a similar trend as those results obtained from
+the phase 1/2 (MMPOWER-1) and phase 2 (MMPOWER-
+2) clinical trials of elamipretide in patients with PMM.10,11
+
+MMPOWER-110 informed the dose selection for the phase 2
+and 3 studies, while the results from the phase 2 study,
+MMPOWER-2,11 provided an efficacy signal and data to
+support the initiation of this phase 3 study.
+
+While this study did not meet either of its primary endpoints
+(changes in the 6MWT and PMMSA Total Fatigue Score),
+participants treated with elamipretide did report slightly less
+total fatigue (between-group difference was not statistically
+significant) at the end of treatment, as assessed by the
+PMMSA Total Fatigue Score. Future studies are needed to
+elucidate whether the slight change in PMMSA Total fatigue
+score in treated and untreated participants is within the test
+variability range or a true measure of fatigue improvement not
+reaching statistical significance due to the mild-to-moderate
+
+Figure 2 MMPOWER3 Change in Endpoints From Baseline to End of Treatment (Week 24)
+
+In 6-minute walk test (6MWT) (A), in Primary Mitochondrial Myopathy Symptom Assessment Total Fatigue Score (PMMSA) (B), in patient global impression
+(PGI) of Primary Mitochondrial Myopathy Symptoms (C), and in clinician global impression (CGI) of Primary Mitochondrial Myopathy Symptoms (D). aNo
+baseline measurements for 2 participants in the placebo group.
+
+Neurology.org/N Neurology | Volume 101, Number 3 | July 18, 2023 e245
+
+http://neurology.org/n
+
+
+impairment of participants at baseline and increased hetero-
+geneity in participant selection.
+
+The response in 6MWT in the nDNA cohort, as a function
+of plasma area under the curve (AUC0-24), demonstrates a
+statistically significant correlation, which supports this sub-
+group finding, and suggests that the therapeutic dose may
+not be optimized. It is possible that the exposure-response
+relationship may differ by genotype/phenotype. These
+findings warrant further investigation and clearly underscore
+the importance of considering genetic subtypes in mito-
+chondrial myopathy and the drug mechanism of action. All
+
+the genes responsible for mtDNA maintenance are
+expressed in the nuclear genome.33 Mitochondrial proteins/
+enzymes that are synthesized from nDNA must be trans-
+ported across the inner mitochondrial membrane, enriched
+with cardiolipin.34 These metabolite and nucleotide trans-
+porters depend on cardiolipin for their assembly and
+activity,35,36 and cardiolipin is known to stabilize mtDNA
+packaging into nucleoids.37 It is intriguing to speculate that
+elamipretide’s benefit in the nDNA cohort was caused by
+improved enzyme/metabolite transport into mitochon-
+dria, improved assembly and morphology of mitochondria,
+augmented mtDNA stability, reductions in ROS, or any
+
+Figure 3 Change From Baseline to End of Treatment (Week 24) in 6-Minute Walk Test: Subgroup Analysis by
+Genetic Abnormality
+
+Subgroup analysis by genetic abnormality for change from baseline to end of treatment (week 24) in 6MWT for (A) participants with mtDNA alteration and
+(B) participants with nDNA alteration.
+
+e246 Neurology | Volume 101, Number 3 | July 18, 2023 Neurology.org/N
+
+http://neurology.org/n
+
+
+combination thereof. Although these presumptions are sup-
+ported by preclinical work where elamipretide improved mito-
+chondrial protein import and mitochondrial morphology,13,27,38
+
+further investigation will advance our understanding of the
+6MWT increase in the nDNA cohort.
+
+Although the patient population with PMM included in the
+MMPOWER-3 study was impaired on the 6MWT at baseline
+compared with literature-based healthy controls (655 [±91]
+meters),33 the phase 3 population was only moderately im-
+paired based on the average PMMSA fatigue score and only
+slightly more impaired than the population norm on the
+Neuro-QoL Fatigue Short-Form T score (mean T score ≥50
+points at baseline). In these mildly to moderately impaired
+participants, elamipretide did not demonstrate statistically
+significant changes on the primary endpoints (6MWT and
+PMMSA TFS) from baseline to 24 weeks compared with
+placebo. Additional analyses involving functional and patient
+reported outcomes are necessary to assess the ability of ela-
+mipretide to affect positive changes in genetically defined
+subgroups of this patient population.
+
+In this phase-3 study, elamipretide was generally well toler-
+ated. Most AEs were mild to moderate in severity, with the
+most commonly reported AEs including injection site reac-
+tions. This safety was similar to that observed in the
+MMPOWER-2 study11 and the TAZPOWER study in pa-
+tients with Barth syndrome with no serious AEs or deaths.12
+
+There are important lessons to be learned from this clinical
+trial regarding trial design in PMD. The first is that a better
+understanding of the natural history of PMM will help in
+future studies. Although the RePOWER pretrial, non-
+interventional registry30 did not facilitate the ability to study
+effort-dependent endpoints, it did enhance the understanding
+of disease mechanisms and derisk/homogenize disease group
+selection for trial participants according to the specific drug-
+intended targets but not the effort-dependent endpoints.
+
+The second lesson is that there is a clear need to further study
+meaningful endpoints in this patient population. Fatigue has
+been identified as the primary issue which this patient pop-
+ulation experiences, identifying a definitive focal point to be
+addressed in future therapeutic trials. Refining the sensitivity of
+the PMMSA fatigue scores in PMD and PMM further to cap-
+ture signals is tantamount for future studies to address data gaps.
+
+The lack of available biomarkers for PMM also presented
+challenges. The variability of participant responses to the
+PMMSATotal Fatigue score, which is susceptible to a placebo
+effect were all challenges that skewed the objectivity of the
+study endpoints. Furthermore, the mild-to-moderate fatigue
+scores observed at baseline point to a lack of sensitivity of this
+endpoint. The identification of objective endpoints or bio-
+markers assessing PMM would be beneficial for future trial
+design because the availability of biomarkers helps to target
+individuals who are most likely to respond to treatment,
+providing the ability to verify target engagement, which could
+allow the use of enrichment strategies and reduce reliance on
+effort-dependent endpoints. For example, altered plasma
+acylcarnitine levels have previously been seen in patients with
+PMM,39 and elamipretide has been shown to reduce plasma
+acylcarnitines in other PMD,40 but the relation of this
+
+Table 4 Adverse Events for Participants in the
+Elamipretide and Placebo Groups
+
+Elamipretide
+(n = 109) n (%)
+
+Placebo
+(n = 109) n (%)
+
+AE category
+
+Any AE 107 (98.2) 83 (76.1)
+
+Any treatment-related AE 106 (97.2) 56 (51.4)
+
+Any SAEa 5 (4.6) 3 (2.8)
+
+Any treatment-related SAE 0 0
+
+Any AE leading to treatment
+discontinuation
+
+8 (7.3) 2 (1.8)
+
+Any AE leading to treatment
+interruption
+
+13 (11.9) 5 (4.6)
+
+Death 0 0
+
+AEs reported by ≥ 5% of
+participants in either treatment
+group
+
+Injection site erythema 94 (86.2) 31 (28.4)
+
+Injection site pruritus 82 (75.2) 10 (9.2)
+
+Injection site pain 43 (39.4) 20 (18.3)
+
+Injection site swelling 42 (38.5) 7 (6.4)
+
+Injection site induration 31 (28.4) 6 (5.5)
+
+Injection site urticaria 14 (12.8) 0
+
+Injection site nodule 11 (10.1) 2 (1.8)
+
+Injection site bruising 9 (8.3) 18 (16.5)
+
+Injection site mass 9 (8.3) 2 (1.8)
+
+Injection site hemorrhage 7 (6.4) 10 (9.2)
+
+Injection site hematoma 0 7 (6.4)
+
+Headache 8 (7.3) 4 (3.7)
+
+Nasopharyngitis 8 (7.3) 2 (1.8)
+
+Eosinophil count increased 7 (6.4) 0
+
+Upper respiratory
+tract infection
+
+7 (6.4) 7 (6.4)
+
+Dizziness 6 (5.5) 3 (2.8)
+
+Fall 6 (5.5) 3 (2.8)
+
+Nausea 5 (4.6) 8 (7.3)
+
+Diarrhea 3 (2.8) 9 (8.3)
+
+Abbreviations: AE = adverse event; SAE = serious adverse event.
+a The only treatment-related AEs leading to discontinuation were injection
+site related.
+
+Neurology.org/N Neurology | Volume 101, Number 3 | July 18, 2023 e247
+
+http://neurology.org/n
+
+
+biomarker to clinically meaningful changes in daily life needs
+to be established.
+
+The third lesson is from the basket design fromMMPOWER-
+3, which pooled both nDNA and mtDNA participants. The
+placebo effect on 6MWT was prominent in mtDNA partici-
+pants in the prespecified subgroup analysis, and given the size
+of this subgroup, this drove the placebo effect observed in the
+trial. Conversely, there was not a discernible placebo response
+on 6MWT in nDNA participants (depicted in Figure 3B), as
+identified in a post hoc analysis. Based on these observations,
+it seems that the MMPOWER-3 basket trial design in-
+troduced insurmountable heterogeneity. It has been shown
+that substantial efficiencies are possible in basket trial design
+only if the investigational drug works in most or all baskets in
+the clinical study, with losses of power and statistical signifi-
+cance if the investigational drug only works in a single bas-
+ket.41 The basket trial design used in MMPOWER-3
+introduced significant heterogeneity between participants
+with mtDNA and nDNA alteration, which was particularly
+apparent with 6MWT results seen in the prespecified sub-
+group analysis by genetic abnormality. Therefore, it is
+doubtful that a separation in efficacy between active treatment
+and placebo would have been observed regardless of the
+length of the trial. This critical lesson advances our un-
+derstanding of the various PMM genotypes and highlights the
+need to critically consider particular genotypes in the design
+of future trials.
+
+The MMPOWER clinical development program was the
+most advanced and complete in PMM and provided signifi-
+cant lessons regarding study design and patient enrollment
+parameters. MMPOWER-3 was the first trial that progressed
+into phase 3 to assess a therapy for participants with PMM.
+Although the primary endpoints were not met for the overall
+population, the observation of the improvement in the
+6MWT in the nDNA subgroup is encouraging and hypothesis
+generating. Efforts are currently underway to confirm this
+positive benefit and these findings in a follow-up and targeted
+phase 3 trial in participants with PMM with pathogenic
+nDNA variants.
+
+Acknowledgment
+The authors thank the investigators, healthcare providers,
+research staff, participants, and caregivers who participated in
+the MMPOWER-3 study. The authors thank the following
+staff who have significantly contributed to the study: Erica
+Lynn Kelly and Michele Guyette, Massachusetts General
+Hospital, Boston, MA, United States. Statistical analyses were
+performed by the biostats team at Everest Clinical Research,
+Everest Clinical Research Corp, Markham, ON. Post hoc
+analyses were performed by Jeffrey S. Finman, PhD. Jupiter
+Point Pharma Consulting, LLC. Writing and editing
+assistance, including preparation of a draft manuscript under
+the direction and guidance of the authors, incorporating
+author feedback, was provided by James A. Shiffer, RPh
+(Write On Time Medical Communications, LLC), David A.
+
+Brown, PhD. (Stealth BioTherapeutics), and Gene Kelly, RPh
+(Stealth BioTherapeutics). The authors thank Jim Carr,
+PharmD, and Anthony Aiudi, PharmD (Stealth BioTher-
+apeutics) for their support of the clinical study endpoints,
+statistical analysis, and interpretation of the study results. The
+authors also thank the Mito Action and UnitedMitochondrial
+Disease Foundation for helping with recruitment. They also
+acknowledge TCRC/Harvard Catalyst (catalyst.harvard.edu)
+supported by Grant Number 1UL1TR002541-01. The
+University College London Hospitals/University College
+London Queen Square Institute of Neurology sequencing
+facility receives a proportion of funding from the Department
+of Health’s National Institute for Health Research Biomedical
+Research Centers funding scheme. The clinical and diagnos-
+tic “Rare Mitochondrial Disorders” Service in London is
+funded by the UK NHS Highly Specialized Commissioners.
+The work of R.D.S.P. is supported by a Medical Research
+Council Clinician Scientist Fellowship (MR/S002065/1) and
+a Medical Research Council strategic award to establish an
+International Center for Genomic Medicine in Neuromus-
+cular Diseases (ICGNMD) (MR/S005021/1). This support
+was funded by Stealth BioTherapeutics.
+
+Study Funding
+This trial was funded by Stealth BioTherapeutics, Newton,
+MA. All payments from Stealth BT were directly pertaining
+to travel for investigator meetings and the conduct of this
+clinical trial.
+
+Disclosure
+A. Karaa: received research grant, reimbursement for travel,
+and consulting payments from Stealth BT, Sanofi Genzyme,
+and Takeda; received research grant and reimbursement for
+travel from Protalix and REATA; received research grants
+from Astellas, MitoBridge, Cyclerion, PTC therapeutics, and
+Idorsia; received consulting payments from MitoBridge,
+Astellas, Alexion, Lumleian, Homology, MitoBridge, Akros,
+Neurovive, Reneo, and Zogenix; and is on the medical advi-
+sory board of MitoAction and on the scientific and medical
+advisory board of the United Mitochondrial Disease Foun-
+dation; is a founder and board member of the mitochondrial
+care network, President of the Mitochondrial Medicine So-
+ciety; and is an investigator in the North American Mito-
+chondrial Disease Consortium. E. Bertini: received funds for
+consulting and Advisory Board from PTC, Roche, Novartis,
+Biogen, and Sarepta and is responsible for an HCP that is part
+of both the European Rare Neurologic Disorders (ERN
+RND) and the ERN-NMD (neuromuscular disorders) net-
+work. V. Carelli: received research grant from Stealth Bio-
+Therapeutics; consulting payments for Advisory Board and
+speaker honoraria from Chiesi Farmaceutici; clinical trial
+funding from Stealth BioTherapeutics, Santhera Pharmaceu-
+ticals, and GenSight Biologics; research grants from the Italian
+Ministry of Health, Italian Ministry of University and Re-
+search, Telethon-Italy, and European Union (Horizon
+2020 program); and research funding from patient dona-
+tions and serves the scientific advisory board of IFOND and
+
+e248 Neurology | Volume 101, Number 3 | July 18, 2023 Neurology.org/N
+
+https://catalyst.harvard.edu
+http://neurology.org/n
+
+
+MITOCON. G. M. Enns: Consulting—Evvia Therapeutics/
+cofounder, AllStripes/consultant, Glycomine/consultant,
+Hemoshear/consultant, Homology Medicines/consultant,
+Moderna Therapeutics/consultant, M6P Therapeutics/
+consultant, Ultragenyx/consultant. DMC member—Amicus
+Therapeutics, Audentes Therapeutics, Biomarin, Modis
+Therapeutics, Paradigm Biopharmaceuticals, Passage Bio,
+RegenxBio. Clinical Trials (site PI)—Aeglea Biotherapeutics,
+Artcurus Therapeutics, Astellas Pharma, Biomarin, LogicBio,
+Moderna, PTC Therapeutics, Stealth BioTherapeutics, and
+University of Florida. M.J. Falk: Marni J. Falk, MD, is engaged
+with several companies involved in mitochondrial disease
+therapeutic preclinical and/or clinical stage development not
+directly related to the work, including as an advisory board
+member with equity interest in RiboNova, Inc., as a scientific
+board member as a paid consultant with Khondrion and
+Larimar Therapeutics, as a paid consultant (Astellas [formerly
+Mitobridge] Pharma Inc., Casma Therapeutics, Cyclerion
+Therapeutics, Epirium Bio, HealthCap VII Advisor AB, Imel
+Therapeutics, Minovia Therapeutics, NeuroVive Pharma-
+ceutical AB, Reneo Therapeutics, Stealth BioTherapeutics,
+and Zogenix Inc.), and/or as a sponsored research collabo-
+rator (AADI Bioscience, Astellas Pharma Inc., Cyclerion
+Therapeutics, Epirium Bio (formerly Cardero Therapeutics),
+Imel Therapeutics, Khondrion, Minovia Therapeutics Inc.,
+Mission Therapeutics, NeuroVive Pharmaceutical AB, PTC
+Therapeutics, Raptor Therapeutics, REATA Inc., Reneo
+Therapeutics, RiboNova Inc., Standigm Inc., and Stealth
+BioTherapeutics). MJF also receives royalties from Elsevier,
+speaker fees from Agios Pharmaceuticals, and educational
+honorarium from PlatformQ. G. Gorman: received research
+grant, consulting payments for Advisory Board, and clinical
+trial funding from Stealth BioTherapeutics. R. Haas: received
+research grant, reimbursement for travel, and consulting
+payments from Stealth BT; is on the scientific and medical
+advisory board of the United Mitochondrial Disease Foun-
+dation and the advisory board for MitoBridge; received clin-
+ical trial funding from Edison Pharmaceuticals, Stealth
+BioTherapeutics, Horizon Pharma (previously Raptor),
+Reneo Pharmaceuticals, PTC Therapeutics, Acadia Pharma-
+ceuticals, and Sarepta Therapeutics; and received grant
+funding through the FDA Orphan Products Clinical Trials
+Grants Program (previously Orphan Products Grants;
+#1RO1FD004147) and the NIH (U54 NS078059). M. Hir-
+ano: has received research support, honoraria, or both from
+Stealth BioTherapeutics, Entrada Therapeutics, and Modis
+Therapeutics (wholly owned subsidiary of Zogenix) and grant
+support from the NIH (U54 NS078059 and P01 HD32062),
+Department of Defense (FPAW81XWH2010807), Muscular
+Dystrophy Association (577392), and J. Willard and Alice S.
+Marriott Foundation. Columbia University has a patent for
+deoxynucleoside therapies for mitochondrial DNA depletion
+syndrome including TK2 deficiency, which is licensed to
+Modis Therapeutics, a wholly owned subsidiary of Zogenix
+Inc.; this relationship is monitored by an unconflicted external
+academic researcher. Dr. Hirano is a coinventor of this patent.
+CUIMC has received royalty payments related to the
+
+development and commercialization of the technology; Dr.
+Hirano has received shares of the royalty payments following
+Columbia University policies. He is on the scientific and
+medical advisory board of the United Mitochondrial Disease
+Foundation and Barth Syndrome Foundation and the Re-
+search Advisory Committee of the Muscular Dystrophy As-
+sociation. T. Klopstock: received clinical trial funding from
+Stealth BioTherapeutics, Santhera Pharmaceuticals, Khond-
+rion, and GenSight Biologics; received reimbursement for
+travel and consulting payments from Santhera Pharmaceuti-
+cals, GenSight Biologics, and Chiesi GmbH; and is the
+Speaker of the German network for mitochondrial disorders
+(mitoNET). Thomas Klopstock is supported by the German
+Federal Ministry of Education and Research (BMBF, Bonn,
+Germany) through grants to the German Network for Mi-
+tochondrial Disorders (mitoNET, 01 GM1906A) and to the
+E-Rare project GENOMIT (01 GM1920B). M. K. Koenig:
+receives research/grant support from Stealth BT, EryDel
+S.p.A., Ultragenyx Pharmaceuticals, BioElectron Technology
+Corporation/PTC Therapeutics, NIH, People Against Leigh
+Syndrome, Marinus Pharmaceuticals, TEVA Pharmaceuticals,
+Esai Pharmaceuticals, and Reneo Pharmaceuticals; serves on
+speaker’s bureau/advisory board for Novartis Pharmaceuti-
+cals, Greenwich Pharmaceuticals, Stealth BT, Taysha Gene
+Therapies, and Modis Therapeutics; serves on scientific and
+medical advisory board for the Mitochondrial Medicine So-
+ciety, Tuberous Sclerosis Complex Alliance, TANGO2 Re-
+search Foundation, and People Against Leigh Syndrome;
+coinventor of “Topical Rapamycin Therapy” licensed to LAM
+Therapeutics. C. Kornblum: has received travel funding and/
+or speaker honoraria from Sanofi Genzyme, Novartis, San-
+thera, and Fulcrum Therapeutics, acknowledges financial
+support as advisory board member and/or primary in-
+vestigator for Stealth BioTherapeutics, Inc., Sanofi Genzyme,
+Amicus Therapeutics, Roche Pharma AG, Hormosan, Ful-
+crum Therapeutics, receives research support from the Ger-
+man Federal Ministry of Education and Research (BMBF),
+and is a member of the European Reference Network for
+neuromuscular diseases (EURO-NMD) and cocoordinator of
+mitoNET (BMBF funded). C. Lamperti: received research
+grant from and is supported by the Telethon (GSP16001)
+and by the E-Rare project GENOMIT (01 GM1920B), Italian
+Ministry of health RF: 2016–02361495, and Chiesi far-
+amceuticis, member of the European Reference Network for
+neuromuscular diseases (EURO-NMD. A. Lehman: has re-
+ceived research grants, reimbursement for travel, or consul-
+ting payments from Shire-Takeda, Sanofi-Genzyme,
+Ultragenyx, Horizon Pharma, and Amicus. N. Longo: has
+received speaker honoraria from Alnylam, Amicus Thera-
+peutics, ACI Clinical trials, BioMarin, BridgeBio/CoA Ther,
+Censa/PTC Ther., Chiesi/Protalix, CTI-Clinical Trial,
+Genzyme/Sanofi, Hemoshear, Horizon Pharma, Jaguar Gene
+Therapy, Leadiant Biosciences, Moderna, Nestle’ Pharma,
+Recordati, Reneo, Shire/Takeda, Synlogic, and Ultragenix;
+also receives clinical trial support from Aeglea, Amicus
+Therapeutics, Audentes/Astellas, AvroBio, BioMarin, Censa/
+PTC Ther., Chiesi/Protalix, Genzyme/Sanofi, Hemoshear,
+
+Neurology.org/N Neurology | Volume 101, Number 3 | July 18, 2023 e249
+
+http://neurology.org/n
+
+
+Homology, Horizon Pharma, Moderna, Nestle’ Pharma,
+Pfizer, Reneo, Retrophin, Shire/Takeda, Stealth Bio-
+Therapeutics, Synlogic, and Ultragenix. M. Judit Molnar: re-
+ceived research grant, reimbursement for travel, and
+consulting payments from Stealth BT, Sanofi Genzyme,
+Biogen, Amicus Therapeutics, PTC Therapeutics, Novartis
+Pharma, Takeda, and Richter Gedeon Plc. Molnar MJ is
+supported by the National Brain Foundation 2.0. H.Phan:
+received research grant, reimbursement for travel, and con-
+sulting payments from Stealth BT, Shire, Sarepta, Fibrogen,
+Pfizer, Ovid, Emalex, GeneTx, Genetech, Applied Thera-
+peutics, Teva, Italofarmaco, and Eisai. S. Parikh: has no rele-
+vant disclosures to report R. D.S. Pitceathly: received
+reimbursement for travel and consulting payments from
+Stealth BioTherapeutics; a research grant, reimbursement for
+travel, and consulting payments from Reneo Pharmaceuticals;
+and consulting payments from Abliva. F. Scaglia: has received
+research grants from Stealth BT, Reata Pharmaceuticals, PTC
+Therapeutics (Edison Pharma), Horizon Pharma (Raptor
+Pharma), Entrada Therapeutics, Astellas Pharma, Modis
+Therapeutics, and the NIH (U54 NS078059). He has re-
+ceived research support from the Mervar Foundation and the
+Courage for a Cure Foundation. He is on the Board of the
+Mitochondrial Medicine Society and is an investigator for the
+North American Mitochondrial Disease Consortium and the
+Frontiers in Congenital Disorders of Glycosylation Consor-
+tium. S. Servidei: responsible for an HCP that is part of the
+European Rare Neurologic (ERN) NMD network. R. P.
+Saneto: received research grant and reimbursement for travel
+and consulting payments from Stealth Bio Therapeutics, re-
+ceived clinical trial funding from Edison Pharmaceuticals, and
+served on the DSMB board for REATA Pharmaceuticals. M.
+Tarnopolsky: has received speaker honoraria from Sanofi-
+Genzyme. He is the President and CEO of Exerkine Corpo-
+ration that produces nutraceuticals that target mitochondrial
+dysfunction in obesity and aging. A. Toscano: has received
+reimbursement for educational activities from Sanofi Gen-
+zyme and Amicus and honorarium as component of Sanofi
+Genzyme Pompe Disease European Board. J. Van Hove: has
+received reimbursement for travel and consulting payments
+from Stealth BT. J. Vissing: has received research and/or
+travel support and/or speaker honoraria from UCB Pharma,
+Edgewise Therapeutics, Sanofi/Genzyme, Fulcrum Thera-
+peutics, Argenx, Biogen, Lupin Limited, and Alexion Phar-
+maceuticals and served on advisory boards or as a consultant
+for Argenx, Roche, Viela Bio, Biogen, Amicus Therapeutics,
+Genethon, PTC Therapeutics, Sanofi/Genzyme, Ultragenyx
+Pharmaceutical, Fulcrum Therapeutics, ML Bio Solutions,
+Sarepta Therapeutics, Novartis Pharma AG, Stealth Bio-
+therapeutics, Zogenix, Regeneron, UCB Pharma, Viela Bio,
+Lundbeck Pharma, and Lupin Limited. J. Vockley: received
+research grant, reimbursement for travel, and consulting
+payments from Stealth BioTherapeutics. M. Mancuso: re-
+ceived research grant, reimbursement for travel, and consul-
+ting payments from Stealth BT, Shire, Sanofi Genzyme,
+Khondrion, Abliva, Reneo, and Zogenix. Mancuso is sup-
+ported by the Telethon (GSP16001) and by the E-Rare
+
+project GENOMIT (01 GM1920B). Mancuso is part of the
+European Rare Neurologic (ERN) NMD network. B. H.
+Cohen: received research grant, reimbursement for travel, and
+consulting payments from Stealth BT; received research
+grants from Reata pharmaceuticals, BioElectron Technology
+(Edison Pharma), and Horizon Pharma (Raptor Pharma);
+received travel support from Reata; serves on the UMDF
+Board of Trustees; and is an investigator for the NAMDC. D.
+A. Brown is an employee of Stealth BioTherapeutics and re-
+ceives compensation and benefits commensurate with full-
+time employment. J. Finman and James Schiffer are con-
+sultants for Stealth Biotherapeutics and receive compen-
+sation commensurate with their consulting activities. Go to
+Neurology.org/N for full disclosures.
+
+Publication History
+Received by Neurology February 3, 2022. Accepted in final form
+March 27, 2023. Submitted and externally peer reviewed. The handling
+editor was Associate Editor Anthony Amato, MD, FAAN.
+
+Appendix 1 Authors
+
+Name Location Contribution
+
+Amel Karaa,
+MD
+
+Massachusetts General
+Hospital, Harvard Medical
+School Boston
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; study concept or
+design; and analysis or
+interpretation of data
+
+Enrico
+Bertini, MD
+
+Neuromuscular Unit,
+Bambino Gesù Ospedale
+Pediatrico, IRCCS, Rome,
+Italy
+
+Drafting/revision of the
+article for content,
+including medical writing for
+content; major role in the
+acquisition of data; and
+analysis or interpretation of
+data
+
+Valerio
+Carelli, MD,
+PhD
+
+IRCCS Istituto delle Scienze
+Neurologiche di Bologna,
+Programma di
+Neurogenetica; Department
+of Biomedical and
+Neuromotor Sciences,
+University of Bologna, Italy
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; and analysis or
+interpretation of data
+
+Bruce H.
+Cohen, MD
+
+Rebecca D. Considine
+Research Institute, Akron
+Children’s Hospital, OH
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; study concept or
+design; and analysis or
+interpretation of data
+
+Gregory M.
+Enns, MB,
+ChB
+
+Stanford University School
+of Medicine, CA
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; and analysis or
+interpretation of data
+
+Marni J. Falk,
+MD
+
+Mitochondrial Medicine
+Frontier Program, Division
+of Human Genetics,
+Department of Pediatrics,
+Children’s Hospital of
+Philadelphia and University
+of Pennsylvania Perelman
+School of Medicine
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; and analysis or
+interpretation of data
+
+e250 Neurology | Volume 101, Number 3 | July 18, 2023 Neurology.org/N
+
+https://n.neurology.org/lookup/doi/10.1212/WNL.0000000000207402
+http://neurology.org/n
+
+
+Appendix 1 (continued)
+
+Name Location Contribution
+
+Amy
+Goldstein,
+MD
+
+Mitochondrial Medicine
+Frontier Program, Division
+of Human Genetics,
+Department of Pediatrics,
+Children’s Hospital of
+Philadelphia and University
+of Pennsylvania Perelman
+School of Medicine
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; and analysis or
+interpretation of data
+
+Gráinne
+Siobhan
+Gorman, PhD
+
+Royal Victoria Infirmary,
+Newcastle upon Tyne,
+United Kingdom
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; and analysis or
+interpretation of data
+
+Richard
+Haas, MD
+
+University of California, San
+Diego, La Jolla
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; study concept or
+design; and analysis or
+interpretation of data
+
+Michio
+Hirano, MD
+
+Columbia University Irving
+Medical Center, New York
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; and analysis or
+interpretation of data
+
+Thomas
+Klopstock,
+MD
+
+Friedrich-Baur-Institute,
+Department of Neurology,
+LMU Hospital, Ludwig
+Maximilian University of
+Munich; German Center for
+Neurodegenerative
+Diseases (DZNE); Munich
+Cluster for Systems
+Neurology (SyNergy),
+Germany
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; and analysis or
+interpretation of data
+
+Mary Kay
+Koenig, MD
+
+Department of Pediatrics,
+University of Texas
+McGovern Medical School,
+Houston
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; and analysis or
+interpretation of data
+
+Cornelia
+Kornblum,
+MD
+
+Department of Neurology,
+Neuromuscular Diseases
+Section, University Hospital
+of Bonn, Germany
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; and analysis or
+interpretation of data
+
+Costanza
+Lamperti,
+MD
+
+Fondazione IRCCS Istituto
+Neurologico Carlo Besta,
+Milano, Italy
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; and analysis or
+interpretation of data
+
+Anna
+Lehman, MD
+
+Vancouver General Hospital,
+British Columbia, Canada
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; and analysis or
+interpretation of data
+
+Nicola Longo,
+MD, PhD
+
+University of Utah, Salt Lake
+City
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; and analysis or
+interpretation of data
+
+Appendix 1 (continued)
+
+Name Location Contribution
+
+Maria Judit
+Molnar, MD
+
+Institute of Genomic
+Medicine and Rare
+Disorders, Semmelweis
+University, Budapest,
+Hungary
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; and analysis or
+interpretation of data
+
+Sumit Parikh,
+MD
+
+Cleveland Clinic
+Neurological Institute, OH
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; and analysis or
+interpretation of data
+
+Han Phan,
+MD
+
+Rare Disease Research,
+Atlanta, GA
+
+Drafting/revision of the
+article for content,
+including medical writing
+for content; major role in
+the acquisition of data; and
+analysis or interpretation of
+data
+
+Robert D.S.
+Pitceathly,
+MD, PhD
+
+Department of
+Neuromuscular Diseases,
+UCL Queen Square Institute
+of Neurology and The
+National Hospital for
+Neurology and
+Neurosurgery, London,
+United Kingdom
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; and analysis or
+interpretation of data
+
+Russell
+Saneto, MD
+
+Seattle Children’s Hospital,
+WA
+
+Drafting/revision of the
+article for content,
+including medical writing for
+content; major role in the
+acquisition of data; and
+analysis or interpretation of
+data
+
+Fernando
+Scaglia, MD
+
+Baylor College of Medicine,
+Houston; Texas Children’s
+Hospital; Joint BCM-CUHK
+Center of Medical Genetics,
+Hong Kong SAR
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; and analysis or
+interpretation of data
+
+Serenella
+Servidei, MD
+
+Fondazione Policlinico
+Universitario A. Gemelli and
+Istituto di Neurologia,
+Università Cattolica del
+Sacro Cuore, Rome, Italy
+
+Drafting/revision of the
+article for content,
+including medical writing for
+content; major role in the
+acquisition of data; and
+analysis or interpretation of
+data
+
+Mark
+Tarnopolsky,
+MD
+
+McMaster University
+Medical Center, Hamilton,
+Ontario, Canada
+
+Drafting/revision of the
+article for content,
+including medical writing for
+content; major role in the
+acquisition of data; and
+analysis or interpretation of
+data
+
+Antonio
+Toscano, MD
+
+Neurology and
+Neuromuscular Unit,
+Department of Clinical and
+Experimental Medicine,
+University of Messina, Italy
+
+Drafting/revision of the article
+for content, including medical
+writing for content; major role
+in the acquisition of data; and
+analysis or interpretation of
+data
+
+Johan L.K Van
+Hove, MD,
+PhD
+
+University of Colorado and
+Children’s Hospital
+Colorado, Aurora
+
+Drafting/revision of the
+article for content,
+including medical writing for
+content; major role in the
+acquisition of data; and
+analysis or interpretation of
+data
+
+Continued
+
+Neurology.org/N Neurology | Volume 101, Number 3 | July 18, 2023 e251
+
+http://neurology.org/n
+
+
+References
+1. Mancuso M, Hirano M. NORD physician guide to mitochondrial myopathies (MM).
+
+Nat Org Rare Disord. 2016:1-8.
+2. MancusoM,McFarland R, Klopstock T, HiranoM. International workshop: outcome
+
+measures and clinical trial readiness in primary mitochondrial myopathies in children
+and adults. Neuromuscul Disord. 2017;27(12):1126-1137.
+
+3. Rahman J, Rahman S. Mitochondrial medicine in the omics era. Lancet. 2018;
+391(10139):2560-2574.
+
+4. Pfeffer G, Chinnery P. Diagnosis and treatment of mitochondria myopathies. Ann
+Med. 2013;45:4-16.
+
+5. Tarnopolsky M. Exercise testing as a diagnostic entity in mitochondrial myopathies.
+Mitochondrion. 2004;4(5-6):529-542.
+
+6. Gorman GS, Schaefer AM, Ng Y, et al. Prevalence of nuclear and mitochondrial DNA
+mutations related to adult mitochondrial disease. Ann Neurol. 2015;77(5):753-759.
+
+7. Genge A, Massie R, Shefner J, Dashe J.Mitochondrial Myopathies: Clinical Features and
+Diagnosis. UpToDate® (Wolters Kluwer); 2013.
+
+8. Ahmed S, Craven L, Russell OM, Turnbull DM, Vincent AE. Diagnosis and treatment
+of mitochondrial myopathies. Neurotherapeutics. 2018;15(4):943-953.
+
+9. Szeto HH, Birk AV. Serendipity and the discovery of novel compounds that restore
+mitochondrial plasticity. Clin Pharmacol Ther. 2014;96:672-683.
+
+10. Karaa A, Haas R, Goldstein A, Vockley J, Weaver WD, Cohen BH. Randomized dose-
+escalation trial of elamipretide in adults with primary mitochondrial myopathy.
+Neurology. 2018;90(14):e1212-e1221.
+
+11. Karaa A, Haas R, Goldstein A, et al. A randomized crossover trial of elamipretide in
+adults with primary mitochondrial myopathy. J Cachexia Sarcopenia Muscle. 2020;
+11(4):909-918.
+
+12. Thompson RW, Hornby B, Manuel R, et al. A phase 2/3 randomized clinical trial
+followed by an open-label extension to evaluate the effectiveness of elamipretide in
+Barth syndrome, a genetic disorder of mitochondrial cardiolipin metabolism. Genet
+Med. 2021;23(3):471-478.
+
+13. Sabbah HN, Gupta RC, Singh-Gupta V, Zhang K. Effects of elamipretide on skeletal
+muscle in dogs with experimentally induced heart failure. ESC Heart Fail. 2019;6:
+328-335.
+
+14. Xu Y, Malhotra A, Ren M, Schlame M. The enzymatic function of tafazzin. J Biol
+Chem. 2006;281:39217-39224.
+
+15. Grazioli S, Pugin J. Mitochondrial Damage-associated molecular patterns: from in-
+flammatory signaling to human diseases. Front Immunol. 2018;9:832.
+
+16. Birk A, Liu S, Soong Y, et al. Themitochondrial-targeted compound SS-31 reenergizes
+ischemic mitochondria by interacting with cardiolipin. J Am Soc Nephrol. 2013;24(8):
+1250-1261.
+
+17. Birk AV, Chao WM, Bracken C, Warren JD, Szeto HH. Targeting mitochondrial
+cardiolipin and the cytochrome c/cardiolipin complex to promote electron transport
+and optimize mitochondrial ATP synthesis. Br J Pharmacol. 2014;171(8):2017-2028.
+
+18. Brown DA, Hale SL, Baines CP, et al. Reduction of early reperfusion injury with the
+mitochondria-targeting peptide Bendavia. J Cardiovasc Pharmacol. 2014;19(1):
+121-132.
+
+19. Eirin A, Ebrahimi B, Zhang X, et al. Mitochondrial protection restores renal function
+in swine atherosclerotic renovascular disease. Cardiovasc Res. 2014;103(4):461-472.
+
+20. Nickel A, Kohlhaas M, Maack C. Mitochondrial reactive oxygen species production
+and elimination. J Mol Cell Cardiol. 2014;73:1-8.
+
+21. Roshanravan B, Liu SZ, Ali AS, et al. In vivo mitochondrial ATP production is
+improved in older adult skeletal muscle after a single dose of elamipretide in a
+randomized trial. PLoS One. 2021;16(7):e0253849.
+
+22. Siegel M, Kruse S, Percival J, et al. Mitochondrial-targeted peptide rapidly improves
+mitochondrial energetic and skeletal muscle performance in aged mice. Aging Cell.
+2013;12(5):763-771.
+
+23. Stauffer B, Sparagna G, Chau S, et al. MTP131, a cardiolipin targeting peptide,
+improves mitochondrial activity in the failing human heart. Eur J Heart Fail Abstr
+Suppl. 2016;18:289.
+
+24. Szeto HH, Liu S, Soong Y, et al. Mitochondria-targeted peptide accelerates ATP
+recovery and reduces ischemic kidney injury. J Am Soc Nephrol. 2011;22(6):
+1041-1052.
+
+25. Szeto HH, Schiller PW. Novel therapies targeting inner mitochondrial
+membrane—from discovery to clinical development. Pharm Res. 2011;28(11):
+2669-2679.
+
+26. Zhao K, Luo G, Giannelli S, Szeto HH. Mitochondria-targeted peptide prevents
+mitochondrial depolarization and apoptosis induced by tert-butyl hydroperoxide in
+neuronal cell lines. Biochem Pharmacol. 2005;70(12):1796-1806.
+
+27. Allen ME, Pennington ER, Perry JB, et al. Mitochondrial cristae networks in the post-
+ischemic heart: mitigation of ultrastructural and functional derangements with a cardiolipin-
+binding peptide. Nat Commun Biol. 2020;3(389). doi. 10.1038/s42003-020-1101-3
+
+28. Chatfield KC, Sparagna GC, Chau S, et al. Elamipretide improves mitochondrial
+function in the failing human heart. JACC Basic Transl Sci. 2019;4(2):147-157.
+
+29. Vincent AE, Ng YS, White K, et al. The spectrum of mitochondrial ultrastructural
+defects in mitochondrial myopathy. Sci Rep. 2016;6:30610.
+
+30. An Observational Study of Patients With Primary Mitochondrial Disease (SPIMM-300)
+(RePOWER). Accessed June 7, 2021. clinicaltrials.gov/ct2/show/NCT03048617?
+term = repower&draw = 2&rank = 1
+
+31. Gwaltney C, Stokes J, Aiudi A, et al. Development of a patient-reported outcome
+questionnaire to evaluate primary mitochondrial myopathy symptoms: the primary
+mitochondrial myopathy symptom assessment. J Clin Neuromuscul Dis. 2020;22(2):
+65-76.
+
+32. A Trial to Evaluate Safety and Efficacy of Elamipretide PrimaryMitochondrialMyopathy
+Followed by Open-Label Extension (MMPOWER-3). Accessed August 25, 2021.
+clinicaltrials.gov/ct2/show/NCT03323749?term = elamipretide&draw = 2&rank = 9
+
+33. El-Hattab AW, Craigen WJ, Scaglia F. Mitochondrial DNA maintenance defects.
+Biochim Biophys Acta Mol Basis Dis. 2017;1863(6):1539-1555.
+
+34. Brown DA, Sabbah HN, Shaikh SR. Mitochondrial inner membrane lipids and pro-
+teins as targets for decreasing cardiac ischemia/reperfusion injury. Pharmacol Ther.
+2013;140(3):258-266.
+
+35. Gebert N, Joshi AS, Kutik S, et al. Mitochondrial cardiolipin involved in outer-
+membrane protein biogenesis: implications for Barth syndrome. Curr Biol. 2009;
+19(24):2133-2139.
+
+36. Chicco AJ, Sparagna GC. Role of cardiolipin alterations in mitochondrial dysfunction
+and disease. Am J Physiol Cell Physiol. 2007;292(1):C33-C44.
+
+37. Luévano-Mart́ınez LA, Forni MF, dos Santos VT, Souza-Pinto NC, Kowaltowski AJ.
+Cardiolipin is a key determinant for mtDNA stability and segregation during mito-
+chondrial stress. Biochim Biophys Acta 2015;1847(6-7):587-598.
+
+38. Zhao H, Li H, Hao S, et al. Peptide SS-31 upregulates frataxin expression and im-
+proves the quality of mitochondria: implications in the treatment of Friedreich ataxia.
+Sci Rep. 2017;7(1):9840.
+
+39. Vissing CR, Dunø M, Wibrand F, Christensen M, Vissing J. Hydroxylated long-chain
+acylcarnitines are biomarkers of mitochondrial myopathy. J Clin Endocrinol Metab.
+2019;104(12):5968-5976.
+
+40. Oates PJ, Brown DA, Vernon HJ, Gangoiti JA, Barshop BA. Metabolomic biomarkers
+from patients with Barth syndrome treated with elamipretide: insights from the TAZ-
+POWER study. medRxiv. 2020.11.20.20235580. doi. 10.1101/2020.11.20.20235580
+
+41. Cunanan KM, Iasonos A, Shen R, et al. An efficient basket trial design. Stat Med. 2017;
+36(10):1568-1579.
+
+Appendix 1 (continued)
+
+Name Location Contribution
+
+John Vissing,
+MD
+
+Copenhagen
+Neuromuscular Center,
+Rigshospitalet University of
+Copenhagen, Denmark
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; and analysis or
+interpretation of data
+
+Jerry
+Vockley, MD
+
+Children’s Hospital of
+Pittsburgh, University of
+Pittsburgh School of
+Medicine, PA
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; study concept or
+design; and analysis or
+interpretation of data
+
+Jeffrey S.
+Finman, PhD
+
+Jupiter Point Pharma
+Consulting, LLC
+
+Analysis or interpretation of
+data
+
+David A.
+Brown, PhD
+
+Stealth BioTherapeutics Analysis or interpretation of
+data
+
+James A.
+Shiffer, RPh
+
+Write On Time Medical
+Communications, LLC
+
+Drafting/revision of the
+article for content, including
+medical writing for content
+
+Michelango
+Mancuso, MD
+
+Department of Clinical and
+Experimental Medicine,
+Neurological Institute,
+University of Pisa, Italy
+
+Drafting/revision of the
+article for content, including
+medical writing for content;
+major role in the acquisition
+of data; study concept or
+design; and analysis or
+interpretation of data
+
+Appendix 2 Coinvestigators
+
+Coinvestigators are listed at links.lww.com/WNL/C860.
+
+e252 Neurology | Volume 101, Number 3 | July 18, 2023 Neurology.org/N
+
+https://clinicaltrials.gov/ct2/show/NCT03048617?term%20=%20repower&draw%20=%202&rank%20=%201
+https://clinicaltrials.gov/ct2/show/NCT03048617?term%20=%20repower&draw%20=%202&rank%20=%201
+https://clinicaltrials.gov/ct2/show/NCT03048617?term%20=%20repower&draw%20=%202&rank%20=%201
+https://clinicaltrials.gov/ct2/show/NCT03048617?term%20=%20repower&draw%20=%202&rank%20=%201
+https://clinicaltrials.gov/ct2/show/NCT03048617?term%20=%20repower&draw%20=%202&rank%20=%201
+https://clinicaltrials.gov/ct2/show/NCT03323749?term%20=%20elamipretide&draw%20=%202&rank%20=%209
+https://clinicaltrials.gov/ct2/show/NCT03323749?term%20=%20elamipretide&draw%20=%202&rank%20=%209
+https://clinicaltrials.gov/ct2/show/NCT03323749?term%20=%20elamipretide&draw%20=%202&rank%20=%209
+https://clinicaltrials.gov/ct2/show/NCT03323749?term%20=%20elamipretide&draw%20=%202&rank%20=%209
+http://links.lww.com/WNL/C860
+http://neurology.org/n
+

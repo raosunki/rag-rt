@@ -1,0 +1,1905 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JAAOSGlobal-D-22-00168 1..13
+
+
+original
+reports
+
+Preoperative Chemotherapy for Operable
+Colon Cancer: Mature Results of an International
+Randomized Controlled Trial
+Dion Morton, MD1; Matthew Seymour, MD2; Laura Magill, PhD3; Kelly Handley, PhD3; James Glasbey, MD1; Bengt Glimelius, MD4;
+
+Andy Palmer3; Jenny Seligmann, MD2; Søren Laurberg, MD5; Keigo Murakami, MD6; Nick West, MD6; Philip Quirke, FMedSci6; and
+
+Richard Gray, MSc7; on behalf of the FOxTROT Collaborative Group
+
+abstract
+
+PURPOSE Neoadjuvant chemotherapy (NAC) has potential advantages over standard postoperative chemo-
+therapy for locally advanced colon cancer but requires formal evaluation.
+
+METHODS Patients with radiologically staged T3-4, N0-2, M0 colon cancer were randomly allocated (2:1) to
+6 weeks oxaliplatin-fluoropyrimidine preoperatively plus 18 postoperatively (NAC group) or 24 weeks post-
+operatively (control group). Patients with RAS-wildtype tumors could also be randomly assigned 1:1 to receive
+panitumumab or not during NAC. The primary end point was residual disease or recurrence within 2 years.
+Secondary outcomes included surgical morbidity, histopathologic stage, regression grade, completeness of
+resection, and cause-specific mortality. Log-rank analyses were by intention-to-treat.
+
+RESULTS Of 699 patients allocated to NAC, 674 (96%) started and 606 (87%) completed NAC. In total,
+686 of 699 (98.1%) NAC patients and 351 of 354 (99.2%) control patients underwent surgery. Thirty
+patients (4.3%) allocated to NAC developed obstructive symptoms requiring expedited surgery, but there
+were fewer serious postoperative complications with NAC than with control. NAC produced marked T
+and N downstaging and histologic tumor regression (all P , .001). Resection was more often histo-
+pathologically complete: 94% (648/686) versus 89% (311/351), P , .001. Fewer NAC than control
+patients had residual or recurrent disease within 2 years (16.9% [118/699] v 21.5% [76/354]; rate ratio,
+0.72 [95% CI, 0.54 to 0.98]; P 5 .037). Tumor regression correlated strongly with freedom from re-
+currence. Panitumumab did not enhance the benefit from NAC. Little benefit from NAC was seen in
+mismatch repair–deficient tumors.
+
+CONCLUSION Six weeks of preoperative oxaliplatin-fluoropyrimidine chemotherapy for operable colon cancer can
+be delivered safely, without increasing perioperative morbidity. This chemotherapy regimen, when given
+preoperatively, produces marked histopathologic down-staging, fewer incomplete resections, and better 2-year
+disease control. Histologic regression after NAC is a strong predictor of lower postoperative recurrence risk so
+has potential use as a guide for postoperative therapy. Six weeks of NAC should be considered as a treatment
+option for locally advanced colon cancer.
+
+J Clin Oncol 41:1541-1552. © 2023 by American Society of Clinical Oncology
+
+Licensed under the Creative Commons Attribution 4.0 License
+
+INTRODUCTION
+
+Colorectal cancer is the second commonest cancer
+worldwide, with 1.7 million diagnoses annually.1
+
+Standard treatment is surgery followed by adju-
+vant oxaliplatin-fluoropyrimidine chemotherapy for
+those with a moderate- to high-risk disease.2 Despite
+adjuvant chemotherapy (AC), 20%-30% of patients
+develop recurrent disease that is usually
+incurable.3,4 Preoperative or neoadjuvant chemo-
+therapy (NAC) has substantially improved outcomes
+in other gastrointestinal cancers5,6 and has potential
+advantages over postoperative AC in colon cancer.
+Shrinking tumors before surgery may reduce the risk
+of incomplete resection and tumor cell-shedding
+
+during surgery.7 NAC can start many weeks ear-
+lier than AC so could be more effective in eradicating
+micrometastases,8 particularly as surgery induces
+growth factor activity, potentially stimulating tumor
+proliferation before AC is started.9 In addition, re-
+sponse to NAC, unlike AC, is observable, so could
+potentially guide subsequent treatment decisions.
+
+However, there are potential disadvantages of NAC
+that have delayed its evaluation in colon cancer. Might
+toxicity during NAC compromise fitness for surgery or
+increase perioperative complications? Might chemo-
+resistant cancers progress during NAC reducing the
+chance of surgical cure? Given the imprecision of
+radiologic staging, might low-risk patients be exposed
+
+ASSOCIATED
+CONTENT
+
+See accompanying
+editorial on
+page 1514
+
+Appendix
+
+Data Supplement
+
+Protocol
+
+Author affiliations
+and support
+information (if
+applicable) appear
+at the end of this
+article.
+
+Accepted on October
+20, 2022 and
+published at
+ascopubs.org/journal/
+jco on January 19,
+2023: DOI https://doi.
+org/10.1200/JCO.22.
+00046
+
+Volume 41, Issue 8 1541
+
+http://ascopubs.org/doi/full/10.1200/JCO.22.02108
+https://ascopubs.org/doi/suppl/10.1200/JCO.22.00046
+https://ascopubs.org/doi/suppl/10.1200/JCO.22.00046
+http://ascopubs.org/journal/jco
+http://ascopubs.org/journal/jco
+http://ascopubs.org/doi/full/10.1200/JCO.22.00046
+http://ascopubs.org/doi/full/10.1200/JCO.22.00046
+http://ascopubs.org/doi/full/10.1200/JCO.22.00046
+
+
+to the toxicities and inconvenience of chemotherapy when
+surgery alone might have been considered sufficient?
+
+By 2008, oxaliplatin-fluoropyrimidine combinations had
+demonstrated good efficacy and tolerability as both adju-
+vant and advanced disease treatment,3,10 and spiral
+computed tomography (CT) scans could more reliably
+identify moderate- to high-risk colon cancers.11 We
+therefore initiated Fluorouracil, Oxaliplatin and Targeted
+Receptor pre-Operative Therapy (FOxTROT),12 a ran-
+domized trial assessing the benefits and risks of advancing
+part of standard AC into the NAC setting. A short duration of
+NAC—just 6 weeks—was chosen to minimize the risk of
+on-treatment progression or residual toxicity.10,13 The
+planned total duration of chemotherapy was equal in both
+arms, allowing evaluation of sequencing rather than du-
+ration. An optional subrandomization evaluated whether, as
+in RAS-wildtype (wt) metastatic disease,12,14,15 adding
+panitumumab enhances response to NAC. An internal
+safety and feasibility pilot was included.12
+
+METHODS
+
+Trial Procedures
+
+The initial factorial (2 3 2) design randomly assigned par-
+ticipants 2:1 to NAC-surgery-AC (NAC group) versus surgery-
+AC (control group), with RAS-wt tumors also randomly
+assigned 1:1 to receive panitumumab or not during the first
+6 weeks of chemotherapy. From June 2011, with the addition
+of cetuximab to AC having proven ineffective,16,17 the pan-
+itumumab subrandomization was restricted to the NAC group.
+In 2014, with ongoing international studies examining 12-week
+AC,4 a protocol modification allowed the option of a shorter
+12-week chemotherapy duration (6-week NAC 1 6-week
+AC v 12-week AC) in lower-risk or older patients.
+
+The eligibility criteria included biopsy-confirmed colon can-
+cer, CT-predicted T3-4 with extramural extension $ 5 mm
+(modified to$ 1 mm after the pilot phase), M0, and being fit
+for both surgery and chemotherapy. Patients with bowel
+obstruction were eligible if first defunctioned with a stoma.
+
+Treatment allocations were done by telephone or internet,
+using a minimized random assignment procedure bal-
+ancing for age, CT-predicted T stage and N stage (T3/T4;
+Nx/N0/N1/N2), site of tumor, chosen chemotherapy
+(oxaliplatin-fluorouracil [OxFU]/OxCap), and defunctioning
+colostomy (yes/no).
+
+National and institutional approvals were obtained for the
+Protocol (online only). Patients provided written informed
+consent. An Independent Data Monitoring Committee
+reviewed the accumulating data yearly.
+
+Treatment
+
+OxFU was given using a modified FOLFOX schedule13:
+oxaliplatin 85 mg/m2 plus l-folinic acid 175 mg 2-hour
+infusion, fluorouracil 400 mg/m2 bolus, 2,400 mg/m2
+
+46-hour infusion, repeated once every 2 weeks. A total of
+24 (or, optionally, 12) weeks’ treatment was planned (3
+NAC cycles1 9 [or 3] AC; or 12 [or 6] AC). Dose reductions,
+treatment delays, and early cessation for toxicity were
+permissible as in routine practice.
+
+Panitumumab, if allocated, was infused at 6 mg/kg over
+30-90minutes before each of the first three cycles of OxFU.
+If randomization for panitumumab was not planned,
+OxCap18 could be used instead of OxFU: oxaliplatin
+130 mg/m2 1-hour IV infusion day 1, then oral capecitabine
+1,000 mg/m2 twice a day days 1-14, repeated 3-weekly
+(2 cycles NAC 1 6 [or, optionally, 2] AC; or 8 [or 4] AC).
+
+Surgery was scheduled 4-6 weeks after completing NAC or,
+for control group patients, as soon as possible after random
+
+CONTEXT
+
+Key Objective
+To determine whether giving the first 6 weeks of chemotherapy preoperatively might safely reduce recurrence risk in
+
+patients with locally advanced but operable colon cancer.
+Knowledge Generated
+Neoadjuvant oxaliplatin-fluoropyrimidine chemotherapy for radiologically selected locally advanced operable colon cancer
+
+can be delivered safely and results in marked tumor down-staging, increased complete resection rates, and better
+disease control at 2 years than the same chemotherapy given postoperatively. Histologic tumor regression correlates
+strongly with freedom from recurrence. Less response was seen in mismatch repair (MMR)–deficient than in MMR-
+proficient cancers. Panitumumab did not enhance the benefit of neoadjuvant chemotherapy.
+
+Relevance (A.H. Ko)
+A short course of neoadjuvant chemotherapy represents a reasonable treatment option for patients with clinical stage
+
+T31 operable, MMR-proficient colon cancer. However, further study and validation are required before adopting this as
+the preferred standard of care over up-front surgical resection.*
+
+*Relevance section written by JCO Associate Editor Andrew H. Ko, MD, FASCO.
+
+1542 © 2023 by American Society of Clinical Oncology Volume 41, Issue 8
+
+Morton et al
+
+
+
+assignment. AC was scheduled to start 6-10 weeks after
+surgery regardless of the histologic stage at resection.
+Despite this intent, if chemotherapy was not given, reasons
+for its omission were recorded. Clinical follow-up was
+according to routine practice except that, to identify any
+recurrent disease for the primary outcome, a full clinical
+assessment (including carcinoembryonic antigen and a
+pelvis/thorax/abdomen CT scan) at 2 years after random
+assignment was mandatory. Six-monthly carcinoembryonic
+antigen and yearly abdominal CT scans were recom-
+mended for the first 3 years.
+
+Radiologic and Pathologic Staging
+
+Lead histopathologists, radiologists, surgeons, and oncol-
+ogists were appointed at each center. Radiology and his-
+topathology training sessions were held, reaching over 300
+consultants. Analyses are based on local radiologists’ and
+histopathologists’ reports, with an additional central review
+of regression grade, blinded to treatment allocation and
+outcome.
+
+Outcome Measures
+
+The primary outcome was residual or recurrent disease
+within 2 years from random assignment. This was chosen to
+maximize statistical power, as chemotherapy effects on
+recurrence are concentrated in this period.19 Residual
+disease was defined as no resection, or macrosocopic
+incomplete resection (ie, residual tumor or metastases)
+after surgery but did not include those classified as R1 or
+R2 on pathologic review. To avoid lead-time bias, patients
+who did not have curative resections were classified as
+having the residual disease on day one after random as-
+signment. Short-term efficacy was assessed by the rate of
+complete resection (R0) versus incomplete (R1, R2) or no
+resection, pathologic tumor, nodes, metastases stage
+(version 5), extramural venous invasion (EMVI), depth of
+invasion beyond muscularis propria, and Dworak tumor
+regression grade.20 The primary outcome for the pan-
+itumumab subrandomization was the depth of extramural
+spread. Adverse effects of chemotherapy (CTCAE V3.0)
+and perioperative morbidity were recorded on case record
+forms. Recurrence and survival status was updated an-
+nually. In addition, dates and causes of death were ob-
+tained through national registries.
+
+Statistical Methods
+
+FOxTROT aimed to randomly assign 1,050 patients to
+detect a 25% proportional reduction in 2-year recurrence
+with NAC (eg, 32% reduced to 24%) with 80% power at
+P, .05. Log-rank, intention-to-treat analyses, including all
+randomly assigned patients and ignoring panitumumab
+allocation, were used to assess the statistical significance of
+differences in event rates. Some of the scheduled 2-year
+after random assignment scans were done later than 2
+years, and it was assumed that recurrences (12 NAC,
+six control) detected on late (median 26 [IQR, 8-70] days
+later) scans would have been detected if the scan had been
+
+undertaken on day 730 as scheduled. Results with and
+without this assumption were similar (Data Supplement,
+online only). Deaths from noncolorectal cancer causes
+without recorded recurrence were treated as censoring
+events, ie, not counted as primary outcomes. T tests and
+Mantel-Haenszel tests of association used SAS 9.4 software
+(SAS Institute, Cary, NC). Planned subgroup analyses were
+of NAC efficacy by randomization stratification variables
+and by biomarkers potentially predictive of treatment
+efficacy.
+
+RESULTS
+
+Characteristics of the Patients
+
+Between May 15, 2008, and December 23, 2016, 1,053
+(41%) of 2,591 potentially eligible patients were randomly
+assigned 2:1 to the NAC group (n 5 699) or control group
+(n 5 354), from 85 centers: 79 in the the United Kingdom
+(n5 949), three in Denmark (n5 88), and three in Sweden
+(n 5 16). Baseline characteristics were balanced across
+groups (Data Supplement). Chosen chemotherapy was
+OxFU in 756 (72%), OxCap in 297 (28%); the planned total
+chemotherapy duration was 24 weeks in 992 (94%), and
+12 weeks in 61 (6%). A total of 279 patients participated in
+the NAC 6 panitumumab subrandomization. The median
+age was 63 years; baseline CT suggested T4 disease in 268
+(25%) and lymph-node involvement in 792 (75%). The
+median follow-up was 3.1 (IQR, 2.5-4.9) years.
+
+Treatment Delivery
+
+Nine patients (eight NAC, one control) withdrew immedi-
+ately after random assignment, providing no trial-specific
+follow-up. Of 691 allocated to NAC who provided clinical
+follow-up (Fig 1), 674 (97.5%) started NAC, at a median of
+11 (IQR, 7-14) days after random assignment, and 606
+(90%) completed the full 6-week course (Data Supple-
+ment); of 17 (2.5%) who did not start NAC, seven received
+AC, so 681 of 691 (98.6%) received chemotherapy at some
+point in their treatment. In total, 30 of 691 (4.3%) patients
+allocated to NAC developed symptoms of obstruction be-
+fore, during, or after receiving NAC, of whom one died of
+stroke and 29 underwent primary tumor resection (five after
+stenting). Two NAC patients withdrew after chemotherapy
+and three died beforehand, so 686 of 689 (99.6%) patients
+with follow-up went for surgery. Of 354 control patients, one
+withdrew, two died before surgery, and 351 (99.2%) went
+for surgery at a median of 14 days (IQR, 9.0-20.0) after
+random assignment.
+
+Tolerability
+
+There were, if anything, fewer serious perioperative com-
+plications after NAC than after immediate surgery (Table 1);
+fewer had anastomotic leaks or abdominal abscesses:
+4.7% (32/682) versus 7.4% (26/350), P 5 .072. Fewer
+required emergency reoperation (4.3% [29] v 7.1% [25],
+P 5 .050), or suffered complications prolonging hospital
+stay: 11.6% (79) versus 14.3% (50), P5 .21. Fewer deaths
+
+Journal of Clinical Oncology 1543
+
+Preoperative Chemotherapy for Operable Colon Cancer
+
+
+
+from noncolon cancer causes without recorded recurrence
+occurred within 2 years from random assignment: 4 (0.6%)
+of 699 NAC patients compared with 6 (1.7%) of 354 control
+patients (P5 .076) (Data Supplement). Toxicities reported
+during NAC or AC were those expected with OxFU and
+OxCap chemotherapy (Data Supplement).
+
+Histopathologic Outcomes
+
+Substantial reductions in T stage, N stage, and EMVI were
+seen in the NAC group, compared with controls (Data
+Supplement). Notably, T4 disease was reduced from 107
+of 351 (31%) in the control group to 142 of 686 (21%)
+after NAC, P , .001. More NAC than control patients
+had histopathologically complete (R0) resections: 94%
+(648/686) versus 89% (311/351), P , .001. Incomplete
+resection (R1, R2, or residual metastases) was reduced:
+5.1% (35/686) compared with 10.3% (36/351), as was the
+risk of undergoing surgery with no attempted resection:
+0.3% (2/686) versus 1.1% (4/351) (Data Supplement).
+Patients allocated to NAC also had significant reductions in
+a range of other measures of tumor dimension and nodal
+invasion, in particular, tumor regression grading: complete
+regression in 24 (4%), with marked, moderate, or mild
+
+regression in a further 412 (62%) patients. By contrast,
+82% (273) allocated to control were scored by the central
+blinded review as showing no evidence of regression:
+Figure 2A and Data Supplement.
+
+Of 351 control patients undergoing surgery, 83 (24%) did
+not meet standard criteria for AC out-with the trial21: nine
+were stage I (T# 2, N0, M0), and 74 were low-risk stage II
+(T3, N0, M0, EMVI-negative, not high tumor grade or
+budding): Data Supplement.
+
+Postoperative Chemotherapy
+
+Despite postoperative AC being recommended regardless
+of histology, AC was started more often in the NAC
+(584/686 [85%]) than control group (260/351 [74%]), at
+median postoperative intervals of 49 (IQR, 41-56) days and
+48 (IQR, 42-56) days, respectively. In patients with histo-
+logically high-risk tumors (node-positive, T4 or EMVI),
+uptake of chemotherapy was similar in the NAC and control
+groups: 88% (344/390) versus 88% (223/253), P 5 .98.
+By contrast, patients with low-risk histology were much
+more likely to start AC if allocated to NAC than control (81%
+[240/296] v39%[37/94],P, .0001,Data Supplement). There
+
+Patient choice        (n = 8)
+  Refused line         (n = 1)
+  Wanted surgery   (n = 7)
+
+Resection attempted (n = 351)
+
+Did not finish chemotherapy
+(including 1 who died
+within adjuvant
+chemotherapy timeframe)  (n = 86)
+
+R unknown
+(n = 1)
+
+Assessed for eligibility (n = 4,907)
+
+Eligible (n = 2,591)
+
+Randomly assigned (n = 1,053)
+
+Ineligible (n = 2,316)
+
+Declined (n = 1,538)
+
+Pre- and postoperative
+chemotherapy (n = 699)
+
+Withdrawn                               (n = 8)
+    All follow‐up                         (n = 4)
+    Clinical but not registry FU (n = 4)
+
+Did not start
+chemotherapy
+
+(n = 17)
+
+Started
+chemotherapy
+
+(n = 674)
+
+Did not finish
+chemotherapy
+
+(n = 68)
+
+Finished
+chemotherapy
+
+(n = 606)
+
+Withdrew
+    from clinical
+     FU                (n = 2)
+     Died             (n = 1)
+
+Died
+(n = 2)
+
+Clinical decision          (n = 9)
+   Perforation               (n = 4)
+   Risk of obstruction  (n = 4)
+   Low‐risk tumor        (n = 1)
+
+Postoperative chemotherapy
+(n = 354)
+
+Withdrawn from all FU   (n = 1)
+    Died before surgery
+    (including 1 who          (n = 2)
+    declined surgery)
+
+R0 (n = 311) R1 (n = 31) R2 (n = 2)
+Metastases
+
+(n = 3)
+Unresectable
+
+(n = 4)
+
+Withdrew                  (n = 2)
+Died                           (n = 4)
+
+Chemotherapy NOT
+started (n = 91)
+
+Chemotherapy started
+(n = 260)
+
+Finished postoperative 
+chemotherapy (n = 174)
+
+2‐year status: 75 residual or recurrent disease, 7 died no
+recurrence, 261 alive no recurrence, 11 less than
+2 years of FU (including 3 withdrawn from all FU)
+
+Resection attempted (n = 686)
+
+Withdrawn                               (n = 9)
+   All follow‐up                         (n = 1)
+   Clinical but not registry FU  (n = 8)
+
+Chemotherapy NOT started (n = 102)
+(including 5 who died within adjuvant
+
+chemotherapy timeframe)
+
+2‐year status: 117 residual or recurrent disease, 5 died no
+recurrence, 559 alive no recurrence, 18 less than 2 years of FU
+
+(including 5 withdrawn from all FU)
+
+Chemotherapy started (n = 584)
+
+Did not finish
+chemotherapy (n = 137)
+
+Finished postoperative 
+chemotherapy (n = 447)
+
+R0 (n = 648) R1 (n = 26) R2 (n = 2) Metastases
+(n = 7)
+
+Unresectable
+(n = 2)
+
+FIG 1. CONSORT diagram showing flow of patients through the FOxTROT trial. FOxTROT, Fluorouracil, Oxaliplatin, and Targeted Receptor preoperative
+therapy.
+
+1544 © 2023 by American Society of Clinical Oncology Volume 41, Issue 8
+
+Morton et al
+
+
+
+were five recurrences within 2 years among the 57 control
+patients with low-risk histology who did not receive AC.
+
+Recurrence and Survival
+
+The primary outcome, residual or recurrent disease within 2
+years, occurred less often in NAC group patients: 16.9%
+(118/699) NAC versus 21.5% (76/354) control. This cor-
+responded to a 28% lower recurrence rate with NAC than
+control: rate ratio (RR) 5 0.72 (95% CI, 0.54 to 0.98,
+P 5 .037, Fig 3). The proportional reductions in colon
+cancer–specific mortality (RR 5 0.74 [95% CI, 0.52 to
+1.05, P5 .095]), and all-cause mortality (RR5 0.76 [95%
+CI, 0.55 to 1.06, P 5 .104]) were of similar magnitude but
+did not reach statistical significance. There was no differ-
+ence in death from noncolon cancer causes: 19 (2.7%) of
+699 neoadjuvant chemotherapy (NAC) patients compared
+with 9 (2.5%) of 354 control patients (P 5 .87).
+
+Risk of recurrence was strongly related to histologic re-
+gression grade (Fig 2B): 5-year recurrence was 30% for
+those with no regression, falling progressively to 22% in
+mild, 13% inmoderate, 7% inmarked, and 0% in complete
+regression categories. Conversely, in the control group (not
+
+receiving NAC), the recurrence rate for the few tumors with
+a histologic appearance scored as mild (58/333 [17%]) or
+moderate (2/333 [1%]) regression was, if anything, higher
+than in tumors with no regression (RR 5 1.66 [95% CI,
+0.91 to 3.03], P 5 .102, Fig 2C).
+
+Panitumumab
+
+There was no indication that panitumumab enhanced the
+efficacy of NAC in RAS-wt patients: depth of extramural
+invasion was similar with versus without panitumumab: 6.2
+versus 7.2 mm, P 5 .48. Seventeen percent (23/137)
+NAC 1 panitumumab versus 23% (30/133) NAC alone
+showed moderate or greater primary tumor regression
+(Data Supplement). The 2-year risk of residual or recurrent
+disease did not differ significantly: 18 versus 24 events;
+RR 5 0.67 (95% CI, 0.36 to 1.23), P 5 .19, Data
+Supplement.
+
+Subgroup Analyses
+
+There was limited statistical power to investigate hetero-
+geneity between subgroups in the effect of NAC on 2-year
+recurrence (Data Supplement). The more highly powered
+comparison of tumor regression rates within subgroups
+
+TABLE 1. NAC Versus Control: intraoperative and postoperative complications
+Category NAC (n 5 699) Control (n 5 354) Treatment Effect and 95% CI P
+
+Intraoperative forms received 686 352
+
+Forms not received 13 3
+
+Withdrew before surgery 10 1
+
+Died before surgery 3 2a
+
+Resection attempted 686 351
+
+Procedure resulting in a stoma, No. (%) 79/673 (11.7) 31/344 (9.0) 1.30 (0.88 to 1.93) .189
+
+Missing 13 7
+
+30-Day Postoperative Form Received 682 350 Rate ratio (95% CI) P
+
+Participant experienced, No. (%)
+
+Anastomotic leak or intra-abdominal abscess 32 (4.7) 26 (7.4) 0.63 (0.38 to 1.04) .072
+
+Wound infection 58 (8.5) 31 (8.9) 0.96 (0.63 to 1.46) .85
+
+Bronchopneumonia 12 (1.8) 11 (3.1) 0.56 (0.25 to 1.26) .159
+
+Pulmonary embolism or DVT 17 (2.5) 2 (0.6) 4.36 (1.01 to 18.77) .048
+
+UTI 7 (1.0) 7 (2.0) 0.51 (0.18 to 1.45) .21
+
+Rash 5 (0.7) 1 (0.3) 2.57 (0.30 to 21.88) .39
+
+Neutropenia 1 (0.2) 0 (0) — .47
+
+Postoperative death 4 (0.6) 2 (0.6) 1.03 (0.19 to 5.58) .98
+
+Other 115 (16.9) 58 (16.6) 1.01 (0.76 to 1.36) .91
+
+Complication prolonging hospital stay, No. (%) 79 (11.6) 50 (14.3) 0.81 (0.58 to 1.13) .21
+
+Further abdominal surgery required, No. (%) 29 (4.3) 25 (7.1) 0.60 (0.35 to 1.00) .050
+
+Abbreviations: DVT, deep vein thrombosis; NAC, neoadjuvant chemotherapy; UTI, urinary tract infection.
+aIncludes one patient who elected not to have surgery.
+
+Journal of Clinical Oncology 1545
+
+Preoperative Chemotherapy for Operable Colon Cancer
+
+
+
+A
+
+4 4
+
+13
+
+45
+
+0 0 1
+
+17
+35
+
+82
+
+0
+
+20
+
+40
+
+60
+
+Pe
+rc
+
+en
+ta
+
+ge
+
+Complete
+Regression
+
+Marked
+Regression
+
+No
+Regression
+
+Moderate
+Regression
+
+Mild
+Regression
+
+80
+
+100
+
+NAC
+
+Control
+
+B
+
+No. at risk:
+
+Time to Recurrence (years)
+
+No regression 232 200 167 116 73 48
+
+Mild regression 300 273 236 167 101 58
+
+Moderate regression 84 82 71 56 40 27
+
+Marked regression 28 28 24 17 7 5
+
+Complete regression 24 24 22 15 6 6
+
+Regression grade Recurrence/N
+
+No regression 64/232
+
+Mild regression 60/300
+
+Moderate regression 12/84
+
+Marked regression 2/28
+
+Complete regression 0/24
+
+Pe
+rc
+
+en
+ta
+
+ge
+ R
+
+ec
+ur
+
+re
+d
+
+29
+
+22
+
+13
+
+7
+
+1 2 3 4 50
+0
+
+25
+
+50
+
+0
+
+C
+
+No. at risk:
+
+Time to Recurrence (years)
+
+No regression 273 243 191 142 86 51
+
+Mild or moderate 60 48 38 31 20 13
+
+Regression grade Recurrence/N
+
+Mild/moderate regression 18/60
+
+No regression 58/273
+
+RR = 1.69 (95% CI 0.92 to 3.11), P = .090
+
+Pe
+rc
+
+en
+ta
+
+ge
+ R
+
+ec
+ur
+
+re
+d
+
+1 2 3 4 50
+0
+
+25
+
+50
+
+34
+
+25
+
+FIG 2. (A) Tumor regression grade by treatment allocation in the NAC group, and recurrence after surgery by regression grade
+in (B) NAC and (C) control groups. NAC, neoadjuvant chemotherapy; RR, rate ratio.
+
+1546 © 2023 by American Society of Clinical Oncology Volume 41, Issue 8
+
+Morton et al
+
+
+
+A
+
+No. at risk:
+
+Control 354 304 237 180 107 64
+
+NAC 699 625 534 379 228 145
+
+Control 76/354
+
+NAC 117/699
+
+RR (95% CI) 0.72 (0.54 to 0.98)
+P = .037
+
+2‐Year
+
+Recurrence
+
+23
+
+0 1 2 3 4 5
+
+Time to Recurrence (years)
+
+Pe
+rc
+
+en
+ta
+
+ge
+ R
+
+ec
+ur
+
+re
+d
+
+17
+
+0
+
+25
+
+50
+
+29
+
+22
+
+B
+
+No. at risk:
+
+Control 354 330 285 211 121 74
+
+NAC 699 669 605 426 256 164
+
+Deaths/N
+
+Control 54/354
+
+NAC 86/699
+
+RR = 0.74 (95% CI 0.50 to 1.05), P = .095
+
+0 1 2 3 4 5
+
+Time to Death (years)
+
+Pe
+rc
+
+en
+ta
+
+ge
+ D
+
+yi
+ng
+
+0
+
+25
+
+50
+
+22
+
+16
+
+C
+
+No. at risk:
+
+Control 354 330 285 211 121 74
+
+NAC 699 669 605 426 256 164
+
+Deaths/N
+
+Control 63/354
+
+NAC 105/699
+
+RR = 0.76 (95% CI 0.55 to 1.06), P = .104
+
+0 1 2 3 4 5
+
+Time to Death (years)
+
+Pe
+rc
+
+en
+ta
+
+ge
+ D
+
+yi
+ng
+
+0
+
+25
+
+50
+
+23
+19
+
+FIG 3. Risk of (A) recurrence or persistent disease, (B) death from colon cancer, and (C) death from any cause: NAC v control.
+NAC, neoadjuvant chemotherapy; RR, rate ratio.
+
+Journal of Clinical Oncology 1547
+
+Preoperative Chemotherapy for Operable Colon Cancer
+
+
+
+(Data Supplement) showed similar efficacy of NAC in dif-
+ferent radiologic T and N stages, left- and right-sided tu-
+mors, age groups, sexes, with OxCap and OxFU, with
+shorter or longer proposed treatment duration, whether
+RAS-wt or mutant, and whether or not randomly assigned
+for panitumumab. The only strong association seen was
+with mismatch repair (MMR) status: moderate or greater
+regression after NAC was seen in just 7% (8/115) of MMR-
+deficient (dMMR) compared with 23% (128/553) of MMR-
+proficient (pMMR) tumors (P , .001): Figure 4A and Data
+Supplement. Similarly, there was no apparent reduction in
+2-year disease recurrence in NAC patients with dMMR
+tumors (RR 5 0.86 [0.42 to 1.76], P 5 .68), whereas, in
+pMMR tumors, the reduction in 2-year recurrence was
+significant: RR5 0.69 (0.50 to 0.97), P5 .043: Figure 4. A
+similar pattern was seen for deaths from colon cancer (Data
+Supplement).
+
+DISCUSSION
+
+FOxTROT is, to our knowledge, the first phase III trial
+evaluating NAC in operable colon cancer. It shows that
+short-course (6-week) NAC can be delivered safely and
+produces substantial tumor regression and downstaging,
+reducing the likelihood of incomplete resection. The
+primary objective—to detect a reduction in residual or
+recurrent disease within 2 years—was achieved, with a
+28% lower event rate with NAC than AC. Chemotherapy
+toxicity was similar whether given before or after surgery,
+and surgical complications were, if anything, less in the
+NAC group.
+
+FOxTROT results indicate that NAC then AC may be su-
+perior to conventional postoperative chemotherapy. Cur-
+rent clinical guidelines recommend preoperative
+chemotherapy as an option only for cT4 colon cancer
+because of low-quality evidence.2,22 It is therefore espe-
+cially important to scrutinize the validity of the FOxTROT
+findings, and what guidance these provide for those con-
+sidering implementing NAC.
+
+Perhaps the first question is whether the observed re-
+duction in 2-year residual or recurrent disease is sufficient
+to support a change in practice. This primary outcome was
+chosen because chemotherapy effects on recurrence are
+concentrated in the first 2 years,19 so we anticipated that
+any greater efficacy of NAC over AC would also be seen in
+this period, and this was precisely what we found. Also,
+most postoperative therapies that reduce early colorectal
+cancer recurrence also improve long-term survival.19,23,24
+
+Hence, 3-year disease-free survival (DFS) is accepted as a
+basis to change practice. Unlike DFS, deaths from causes
+unrelated to cancer were not included in our primary
+outcome as, with both groups receiving chemotherapy,
+similar numbers were anticipated. Such deaths provide an
+important safety signal but are not a measure of efficacy.25
+
+There were just 10 within 2 years and, reassuringly, fewer in
+the NAC than control group. So, had we used DFS rather
+
+than 2-year recurrence as primary outcome, the results
+would have been similar: RR, 0.69; 95% CI, 0.52 to 0.93;
+P 5 .014 (Data Supplement). So, also, would a crude
+comparison of proportions of patients disease-free at the
+2-year time point (82.5% [577/699] NAC v 76.8%
+[272/354] control, P 5 .027).
+
+FOxTROT was not powered to detect differences in overall
+recurrence, cancer-specific survival, and overall survival,
+though the proportional reductions in these longer-term
+outcomes were of similar magnitude and add to the clinical
+relevance of the reduction in 2-year recurrence. Longer
+follow-up of FOxTROT and meta-analysis with more recent
+studies26-28 may help determine whether these outcomes
+are also improved.
+
+Another question is whether the observed effect might be
+attributable to less complete compliance in the control
+than NAC group. FOxTROT was designed to compare the
+same total quantity of chemotherapy in the two arms;
+however, 98% allocated to NAC started chemotherapy,
+whereas 25% of controls did not receive any chemo-
+therapy. Most, predictably, had low-risk tumors of whom
+only five recurred within 2 years. Had they received
+chemotherapy, we estimate that one recurrence might
+have been prevented, which would make no material
+difference to the study findings. Hence, poor compliance
+with AC in lower-risk patients cannot account for the
+overall trial result.
+
+The main disadvantage of NAC is that some patients
+with radiologically misclassified low-risk tumors receive
+unnecessary chemotherapy. In FOxTROT, 24% of con-
+trol patients were found to have T3, N0 tumors without
+additional risk factors. For such patients whose recur-
+rence risk is low, chemotherapy benefits are usually
+considered insufficient to justify the toxicity.21 Our on-
+going review of FOxTROT radiology, and advances in
+radiologic techniques,29 should help improve the risk
+stratification algorithm for the deselection of patients with
+these lowest-risk cancers.
+
+It should also be noted that overtreatment occurs with
+adjuvant chemotherapy as well as NAC: even for high-risk
+operable colon cancer, around 10 patients are treated to
+prevent one recurrence. Regression grade after NAC might
+be useful in identifying which patients do and do not benefit
+from chemotherapy. For example, AC may not be needed
+for those with marked histologic regression after NAC who
+have a low risk of subsequent recurrence. This would need
+rigorous evaluation since it is also possible that patients with
+an excellent response to NAC are those who would benefit
+most from postoperative AC. Only randomized trials, per-
+haps incorporating circulating tumor DNA monitoring, can
+resolve these uncertainties.
+
+Interestingly, apparent regression was associated with
+worse outcomes in control group patients. This may be
+because appearances similar to those associated with
+
+1548 © 2023 by American Society of Clinical Oncology Volume 41, Issue 8
+
+Morton et al
+
+
+
+A
+
+4 5
+1 2
+
+23
+
+70
+
+27
+
+50
+
+15
+
+3
+0
+
+10
+
+20
+
+30
+
+Complete
+Regression
+
+Marked
+Regression
+
+No
+Regression
+
+Moderate
+Regression
+
+Mild
+Regression
+
+50
+
+80
+
+70
+
+60
+
+40
+
+pMMR
+
+dMMR
+
+C
+
+Control 13/68
+
+NAC 19/117
+
+RR (95% CI) 0.86 (0.42 to 1.76)
+P = .68
+
+No. at risk:
+
+Control 68 60 52 42 26 15
+
+NAC 117 102 88 62 36 24
+
+2-Year
+
+Recurrence
+
+Events/N
+
+19
+
+16
+
+Time to Recurrence (years)
+
+Pe
+rc
+
+en
+ta
+
+ge
+ R
+
+ec
+ur
+
+re
+d
+
+1 2 3 4 50
+0
+
+25
+
+50
+
+20
+
+23
+
+B
+2-Year
+
+Recurrence
+
+Events/N
+
+Control 63/286
+
+NAC 99/581
+
+RR (95% CI) 0.69 (0.50 to 0.97)
+P = .032
+
+24
+
+18
+
+No. at risk:
+
+Control 286 243 185 138 81 49
+
+NAC 581 523 446 317 192 121
+
+Time to Recurrence (years)
+
+Pe
+rc
+
+en
+ta
+
+ge
+ R
+
+ec
+ur
+
+re
+d
+
+Pe
+rc
+
+en
+ta
+
+ge
+
+1 2 3 4 50
+0
+
+25
+
+50
+
+23
+
+30
+
+FIG 4. (A) Regresssion grade by MMR status in preoperative chemotherapy group and (B and C) recurrence or residual disease by
+treatment allocation for patients with pMMR or unknown MMR statusa tumors and for dMMR tumors. aSeventy-six of five hundred fifty-
+three (14%) had unknown MMR status. dMMR, MMR-deficient; MMR, mismatch repair; pMMR, MMR-proficient; RR, rate ratio.
+
+Journal of Clinical Oncology 1549
+
+Preoperative Chemotherapy for Operable Colon Cancer
+
+
+
+response to NAC are, in untreated patients, instead, in-
+dicative of high tumor stromal content, a poor prognostic
+feature.30 Since histologic regression is only prognostic after
+NAC, it must be an indicator of chemosensitivity, and not
+simply a surrogate for innately better-prognosis tumors.
+Hence, regression may reflect the effect of chemotherapy
+not just on the primary tumor but also on distant micro-
+metastases and, consequently, long-term oncologic out-
+comes. This makes regression grade a potentially useful
+surrogate end point for future trials that might allow a more
+rapid assessment of novel NAC schedules.
+
+FOxTROT, when launched in 2008, did not prespecify that
+lesser benefit was expected in dMMR tumors; however,
+dMMR has since been reported to predict nonbenefit from
+adjuvant fluoropyrimidine chemotherapy in colon cancer,31
+
+and from NAC in gastroesophageal cancer.32 Consistent
+with these studies, tumor regression was far less common
+in dMMR than pMMR tumors, although four pathologic
+complete regressions were seen. No reduction in recur-
+rence was seen in patients with dMMR tumors. FOxTROT
+has demonstrated the feasibility of rapid KRAS testing
+before the panitumumab random assignment, and clini-
+cians considering using NAC could implement rapid MMR
+assessment of diagnostic biopsies to exclude dMMR pa-
+tients for whom neoadjuvant immunotherapy seems amore
+promising option.33
+
+We chose a short, 6-week neoadjuvant treatment to reduce
+the risk of toxicity impairing surgical fitness, and chemo-
+resistant cancers progressing to inoperability. This choice
+appears justified: NAC was well tolerated, with high com-
+pletion rates. Surgical morbidity appeared lower rather than
+
+higher, which may be due to tumor downsizing after NAC.
+Despite the fact that one third of NAC patients showed no
+discernible histologic regression, only 4% developed ob-
+structive symptoms requiring expedited surgery, and all but
+one who did so were still able to undergo successful primary
+cancer resection. Therefore, pending randomized trials to
+explore longer durations, a 6-week NAC treatment remains
+our recommendation.
+
+Over 80 hospitals took part in FOxTROT indicating that
+the results of this real world trial are generalizable to
+clinical practice. The median age of patients was 63,
+somewhat younger than in an unselected colon cancer
+population, but similar to that in pivotal AC trials. Just 28%
+(292/1,052) were aged over 70 years, compared with
+about 50% of incident cases, so they are likely to rep-
+resent a fitter subset of older patients. However, it is still
+notable that they benefited at least as much from NAC as
+the younger patients.
+
+In summary, patients with locally advanced but resectable
+colon cancer, selected using standard CT, may safely
+undergo 6 weeks of NAC before colon resection and then
+completion of AC. This does not increase perioperative
+morbidity, substantial tumor regression is achieved, and
+disease control is significantly better at 2 years than with the
+same chemotherapy given entirely postoperatively. NAC,
+like AC, is of less certain benefit in dMMR than pMMR
+cancers. Tumor regression after NAC is a strong predictor of
+lower postoperative recurrence risk and may provide a
+useful guide for later treatment. Six weeks of NAC should be
+considered as a treatment option for patients with locally
+advanced colon cancer.
+
+AFFILIATIONS
+1University Hospital Birmingham, Birmingham, United Kingdom
+2St James’s University Hospital, Leeds, United Kingdom
+3University of Birmingham Clinical Trials Unit, Birmingham, United
+Kingdom
+4Uppsala University, Uppsala, Sweden
+5Aarhus University, Aarhus, Denmark
+6Division of Pathology and Data Analytics, School of Medicine, University
+of Leeds, Leeds, United Kingdom
+7Nuffield Department of Population Health, University of Oxford, Oxford,
+United Kingdom
+
+CORRESPONDING AUTHOR
+Laura Magill, PhD, Birmingham Clinical Trials Unit (BCTU), Institute of
+Applied Health Research, College of Medical and Dental Sciences,
+University of Birmingham, Edgbaston, Birmingham B15 2TT, United
+Kingdom; e-mail: e.l.magill@bham.ac.uk.
+
+PRIOR PRESENTATION
+Presented in part at the 2019 ASCO annual meeting, Chicago, IL, May
+31-June 4, 2019.
+
+SUPPORT
+FOxTROT was funded by Cancer Research UK (grant reference:
+C551/A8283; recipient: D.M.). Additional support was provided by the
+Birmingham and Leeds ECMC network, the RCS Eng and Rosetrees Trust,
+and the Swedish Cancer Society. Panitumumab was provided free of
+charge by Amgen, who also supported RAS testing and additional CT
+scans (recipient: D.M.). P.Q., N.W., and M.S. are supported by Yorkshire
+Cancer Research, R.G. by the Medical Research Council. The funders
+had no role in study design, conduct, interpretation or reporting.
+Manuscript production, and the decision to submit for publication, were
+the sole responsibility of the Writing Committee, who vouch for the
+accuracy and completeness of this report.
+
+CLINICAL TRIAL INFORMATION
+NCT00647530 (FOxTROT)
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF
+INTEREST
+Disclosures provided by the authors are available with this article at DOI
+https://doi.org/10.1200/JCO.22.00046.
+
+1550 © 2023 by American Society of Clinical Oncology Volume 41, Issue 8
+
+Morton et al
+
+mailto:e.l.magill@bham.ac.uk
+https://www.clinicaltrials.gov/ct2/show/NCT00647530
+https://ascopubs.org/doi/full/10.1200/jco.22.00046
+
+
+AUTHOR CONTRIBUTIONS
+Conception and design: Dion Morton, Matthew Seymour, Laura Magill,
+Richard Gray
+Collection and assembly of data: Laura Magill, Bengt Glimelius, Andy
+Palmer, Søren Laurberg, Keigo Murakami, Nick West, Philip Quirke,
+Richard Gray
+Data analysis and interpretation: Dion Morton, Matthew Seymour, Kelly
+Handley, James Glasbey, Bengt Glimelius, Jenny Seligmann, Søren
+Laurberg, Keigo Murakami, Nick West, Philip Quirke, Richard Gray
+Manuscript writing: All authors
+Final approval of manuscript: All authors
+Accountable for all aspects of the work: All authors
+
+ACKNOWLEDGMENT
+We wish to thank the patients who participated in FOxTROT and all staff
+who have supported the trial. The patient representative for the trial was
+Alf Oliver. He contributed for the entire duration of the trial and was an
+active member of the trial management group.
+See Appendix 1 (online only) for the full list of FOxTROT collaborators.
+
+REFERENCES
+1. GBD 2016 Disease and Injury Incidence and Prevalence Collaborators: Global, regional, and national incidence, prevalence, and years lived with disability for
+
+328 diseases and injuries for 195 countries, 1990–2016: A systematic analysis for the Global Burden of Disease Study 2016. Lancet 390:1211-1259, 2017
+
+2. National Institute for Health and Care Excellence: Colorectal Cancer. NICE Guideline [NG151]. London, UK, 2020. https://www.nice.org.uk/guidance/ng151
+
+3. André T, Boni C, Mounedji-Boudiaf L, et al: Oxaliplatin, fluorouracil, and leucovorin as adjuvant treatment for colon cancer. N Engl J Med 350:2343-2351, 2004
+
+4. Grothey A, Sobrero AF, Shields AF, et al: Duration of adjuvant chemotherapy for stage III colon cancer. N Engl J Med 378:1177-1188, 2018
+
+5. Medical Research Council Oesophageal Cancer Working Party: Surgical resection with or without preoperative chemotherapy in oesophageal cancer: A
+randomised controlled trial. Lancet 359:1727-1733, 2002
+
+6. Cunningham D, Allum WH, Stenning SP, et al: For the MAGIC trial participants: Perioperative chemotherapy versus surgery alone for resectable gastro-
+esophageal cancer. N Engl J Med 355:11-20, 2006
+
+7. Alieva M, van Rheenen J, Broekman MLD: Potential impact of invasive surgical procedures on primary tumor growth and metastasis. Clin Exp Metastasis 35:
+319-331, 2018
+
+8. Hu Z, Ding J, Ma Z, et al: Quantitative evidence for early metastatic seeding in colorectal cancer. Nat Genet 51:1113-1122, 2019
+
+9. Zeamari S, Roos E, Stewart FA: Tumour seeding in peritoneal wound sites in relation to growth-factor expression in early granulation tissue. Eur J Cancer 40:
+1431-1440, 2004
+
+10. Seymour MT, Maughan TS, Ledermann JA, et al: Different strategies of sequential and combination chemotherapy for patients with poor prognosis advanced
+colorectal cancer (MRC FOCUS): A randomised controlled trial. Lancet 370:143-152, 2007
+
+11. Smith NJ, Bees N, Barbachano Y, et al: Pre-operative computed tomography staging of non-metastatic colon cancer predicts outcome: Implications for clinical
+trials. Br J Cancer 96:1030-1036, 2007
+
+12. FOxTROT Collaborative Group: Feasibility of preoperative chemotherapy for locally advanced, operable colon cancer: The pilot phase of a randomised
+controlled trial. Lancet Oncol 13:1152-1160, 2012
+
+13. Cheeseman SL, Joel S, Chester JD, et al: A "modified de Gramont" regimen of fluorouracil, alone (MdG) and with oxaliplatin (OxMdG), for advanced colorectal
+cancer. Br J Cancer 87:393-399, 2002
+
+14. Maughan TS, Adams RA, Smith CG, et al: Addition of cetuximab to oxaliplatin-based first-line combination chemotherapy for treatment of advanced colorectal
+cancer: Results of the randomised phase 3 MRC COIN trial. Lancet 377:2103-2114, 2011
+
+15. Douillard JY, Siena S, Cassidy J, et al: Randomized, phase III trial of panitumumab with infusional fluorouracil, leucovorin, and oxaliplatin (FOLFOX4) versus
+FOLFOX4 alone as first-line treatment in patients with previously untreated metastatic colorectal cancer: The PRIME study. J Clin Oncol 28:4697-4705, 2010
+
+16. Alberts SR, Sargent DJ, Nair S, et al: Effect of oxaliplatin, fluorouracil, and leucovorin with or without cetuximab on survival among patients with resected stage III
+colon cancer—A randomized trial. JAMA 307:1383-1393, 2012
+
+17. Taieb J, Tabernero J, Mini E, et al: Oxaliplatin, fluorouracil, and leucovorin with or without cetuximab in patients with resected stage III colon cancer (PETACC-8):
+An open-label, randomised phase 3 trial. Lancet Oncol 15:862-873, 2014
+
+18. Schmoll H-J, Tabernero J, Maroun J, et al: Capecitabine plus oxaliplatin compared with fluorouracil/folinic acid as adjuvant therapy for stage III colon cancer:
+Final results of the NO16968 randomized controlled phase III trial. J Clin Oncol 33:3733-3740, 2015
+
+19. QUASAR Collaborative Group: Adjuvant chemotherapy versus observation in patients with colorectal cancer: A randomised study. Lancet 370:2020-2029,
+2007
+
+20. Dworak O, Keilholtz L, Hoffmann A: Pathological features of rectal cancer after preoperative radiochemotherapy. Int J Colorectal Dis 12:19-23, 1997
+
+21. Baxter NN, Kennedy EB, Bergsland E, et al: Adjuvant therapy for stage II colon cancer: ASCO guideline update. J Clin Oncol 40:892-910, 2021
+
+22. National Comprehensive Cancer Network: NCCN clinical practice guidelines in oncology: Colon cancer, version 2.2022. https://www.nccn.org/professionals/
+physician_gls/pdf/colon.pdf
+
+23. Sargent DJ, Wieand HS, Haller DG, et al: Disease-free survival versus overall survival as a primary end point for adjuvant colon cancer studies: Individual patient
+data from 20,898 patients on 18 randomized trials. J Clin Oncol 23:8664-8670, 2005
+
+24. André T, Boni C, NavarroM, et al: Improved overall survival with oxaliplatin, fluorouracil, and leucovorin as adjuvant treatment in stage II or III colon cancer in the
+MOSAIC trial. J Clin Oncol 27:3109-3116, 2009
+
+25. Cuzick J: Primary endpoints for randomised trials of cancer therapy. Lancet 371:2156-2158, 2008
+
+26. Karoui M, Gallois C, Piessen G, et al: Does neoadjuvant FOLFOX chemotherapy improve the prognosis of high-risk stage II and III colon cancers? Three years’
+follow-up results of the PRODIGE22 phase II randomized multicentre trial. Colorectal Dis 23:1357-1369, 2021
+
+27. Hu H, Huang M, Li Y, et al: Perioperative chemotherapy with mFOLFOX6 or CAPOX for patients with locally advanced colon cancer (OPTICAL): A multicenter,
+randomized, phase 3 trial. J Clin Oncol 40, 2022 (supp 16; abstr 3500)
+
+28. Liu F, Tong T, Huang D, et al: CapeOX perioperative chemotherapy versus postoperative chemotherapy for locally advanced resectable colon cancer: Protocol
+for a two period randomised controlled phase III trial. BMJ Open 9:e017637, 2019
+
+29. Nerad E, Lahaye MJ, Maas M, et al: Diagnostic accuracy of CT for local staging of colon cancer: A systematic review and meta-analysis. Am J Roentgenol 207:
+984-995, 2016
+
+Journal of Clinical Oncology 1551
+
+Preoperative Chemotherapy for Operable Colon Cancer
+
+https://www.nice.org.uk/guidance/ng151
+https://www.nccn.org/professionals/physician_gls/pdf/colon.pdf
+https://www.nccn.org/professionals/physician_gls/pdf/colon.pdf
+
+
+30. Hutchins GGA, Treanor D, Wright A, et al: Intratumoral stromal morphometry predicts disease recurrence but not response to 5-fluorouracil-results from the
+QUASAR trial of colorectal cancer. Histopathology 72:391-404, 2018
+
+31. Sargent DJ, Marsoni S, Monges G, et al: Defective mismatch repair as a predictive marker for lack of efficacy of fluorouracil-based adjuvant therapy in colon
+cancer. J Clin Oncol 28:3219-3226, 2010
+
+32. Pietrantonio F, Miceli R, Raimondi A, et al: Individual patient data meta-analysis of the value of microsatellite instability as a biomarker in gastric cancer. J Clin
+Oncol 37:3392-3400, 2019
+
+33. Chalabi M, Fanchi LF, Dijkstra KK, et al: Neoadjuvant immunotherapy leads to pathological responses in MMR-proficient and MMR-deficient early-stage colon
+cancers. Nat Med 26:566-576, 2020
+
+n n n
+
+1552 © 2023 by American Society of Clinical Oncology Volume 41, Issue 8
+
+Morton et al
+
+
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST
+
+Preoperative Chemotherapy for Operable Colon Cancer: Mature Results of an International Randomized Controlled Trial
+
+The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated unless otherwise noted.
+Relationships are self-held unless noted. I5 Immediate Family Member, Inst5My Institution. Relationships may not relate to the subject matter of this manuscript.
+For more information about ASCO’s conflict of interest policy, please refer to www.asco.org/rwc or ascopubs.org/jco/authors/author-center.
+
+Open Payments is a public database containing information reported by companies about payments made to US-licensed physicians (Open Payments).
+
+Matthew Seymour
+
+Research Funding: Amgen (Inst), AstraZeneca (Inst)
+
+Bengt Glimelius
+
+Consulting or Advisory Role: PledPharma
+Research Funding: Amgen
+
+Jenny Seligmann
+
+Honoraria: Pierre Fabre, Merck Serono, SERVIER
+Consulting or Advisory Role: Pierre Fabre, Zentalis
+Travel, Accommodations, Expenses: Bristol Myers Squibb/Medarex
+
+Nick West
+
+Consulting or Advisory Role: Bristol Myers Squibb, Astellas Pharma
+
+Philip Quirke
+
+Honoraria: Roche
+Consulting or Advisory Role: Roche, Adlai Nortye, Avacta Life Sciences, Amgen,
+Bayer, Colonode
+Research Funding: Roche, GeneFirst, ONI
+Patents, Royalties, Other Intellectual Property: Roche have filed a patent jointly
+with my University I may receive income but none to date (Inst)
+Travel, Accommodations, Expenses: Roche, Bayer, Amgen
+
+No other potential conflicts of interest were reported.
+
+Journal of Clinical Oncology
+
+Preoperative Chemotherapy for Operable Colon Cancer
+
+http://www.asco.org/rwc
+https://ascopubs.org/jco/authors/author-center
+https://openpaymentsdata.cms.gov/
+
+
+APPENDIX 1. BIRMINGHAM CLINICAL TRIALS UNIT WITH
+BIRMINGHAM SURGICAL TRIALS CONSORTIUM
+Laura Magill, Richard Gray, Kelly Handley, Adrian Wilcockson, Zoe
+Gray, Dominic Lancaster, James Brown, Andrew Palmer, Ladan Adie,
+Georgia Kennedy
+
+Clinical Trial Information
+
+NCT00647530
+
+Writing Committee: Dion Morton, MD1; Matthew Seymour, MD2; Laura
+Magill, PhD3; Kelly Handley, PhD3; Gina Brown, MD4; David Ferry,
+MD5; James Glasbey, MD1; Bengt Glimelius, MD6; Andy Palmer3;
+Jenny Seligmann, MD2; Søren Laurberg, MD7; Keigo Murakami, MD8;
+Nick West, MD8; Philip Quirke, FMedSci8; and Richard Gray, MSc9
+
+1University Hospital Birmingham, Birmingham, United Kingdom
+2St James’s University Hospital, Leeds, United Kingdom
+3University of Birmingham Clinical Trials Unit, Birmingham, United
+Kingdom
+4The Royal Marsden Hospital, London, United Kingdom
+5Russell’s Hall Hospital, Dudley, United Kingdom
+6Uppsala University, Uppsala, Sweden
+7Aarhus University, Aarhus, Denmark
+8Division of Pathology and Data Analytics, School of Medicine, Uni-
+versity of Leeds, Leeds, United Kingdom
+9Clinical Trial Service Unit, University of Oxford, Oxford, United
+Kingdom
+
+Contributions
+
+Fluorouracil, Oxaliplatin and Targeted Receptor pre-Operative Therapy
+trial was designed by Dion Morton, Richard Gray, Matthew Seymour,
+Laura Magill, Gina Brown, David Ferry, Philip Quirke, and Bryan
+Warren. Analyses were undertaken by Kelly Handley, Richard Gray,
+Dion Morton, and Laura Magill. Nick West, Bryan Warren and Philip
+Quirke developed the pathology protocol, delivered the training, and
+undertook central pathological review. Keigo Murakami undertook
+central review of the tumor regression grading. Gina Brown designed
+and led the training for radiologists and provided support for central
+review of X-rays. Keigo Murakami, Alice Westwood and Nick West
+reported the mismatch repair protein immunohistochemistry. RAS
+testing was coordinated by Susan Richman (Leeds) and Philippe
+Taniere (Birmingham). Dion Morton, Matthew Seymour and Richard
+Gray drafted the report and revised it with input from all writing
+committee members.
+
+Data Monitoring Committee: T. Crosby, J. Olliff, R. Peto (Chair)
+
+Trial Management Committee: Gina Brown, David Ferry, Bengt Gli-
+melius, Richard Gray, Kelly Handley, Tariq Ismail, Søren Laurberg,
+Laura Magill, Dion Morton, Alf Oliver, Phil Quirke, Matthew Seymour,
+Nigel Scott, Jenny Seligman, Ian Swift, Bryan Warren, Nick West
+
+Trial Steering Committee: J. Northover, M. Parmar (Chair), M. Slevin
+
+Fluorouracil, Oxaliplatin and Targeted Receptor pre-Operative Therapy
+Collaborators
+
+Aalborg University Hospital—Eld M., Holt G., Jensen D., Jensen F.,
+Olesen B., Yilmaz* M., Andersen L.; Aarhus University Hospital—
+Dawar M., Emmertsen K., Garm Spendler* K., Hansen F., Husted-
+Madsen A., Jørgensen J., Kold-PetersenH., Kristensen E., Laurberg S.,
+Løve U., Nerstrøm P., Rosenkilde M., Spangsperg I., Stribolt K.,
+Strobel T., Ugianskis A.; Arrowe Park Hospital, The Wirral—Abgamu
+D., Day* N., Walsh C.; Barnsley District General Hospital—Bannister
+J., Furniss D., Morgan S., Walkington* L., Williams K., Yates S.;
+Basingstoke and North Hampshire Hospital—Arnold S., Branagan G.,
+Cecil T., Ilesley I., Mohamed F., Mustajab A., O’Neil H., Rees* C.,
+Smith J., Venkatasubramaniam A.; Birmingham Heartlands Hospi-
+tal—Bowley D., Geh I., Goldstein M., Hendrickse* C., Kelly A., Kus-
+saibati R., Langman G., McArthur D., Pallan A.; Bradford Royal
+
+Infirmary—Bradley C., Cockroft K., Conn* A., Davies J., Lowe A.,
+Ostrowski J., Rehman S., StewardM.;Bristol Royal Infirmary—Ayre G.,
+Brooks H., Burt C., Callaway M., Chandratreya N., Drury K., Falk S.,
+Gray E., Hargreaves S., Longman R., Mason J., Melegh Z., Miller K.,
+Philips S., Pollentine A., Pullyblank A., Roach H., Robinson T., Roe A.,
+Shelley-Fraser G., Slack N., Thomas* M., Tiliet T., Vassallo K., Walther
+A., Wong N.; Castle Hill Hospital, Hull—Cast J., Dhadda A., Fuller C.,
+Gunn J., Hartley J., Hunter I., Khan M., MacDonald A., O’Grady H.,
+Roy* R., Tiam R., Sanni L.; Charing Cross Hospital, London—Ahmad
+R., Aldin Z., Blunt D., Buchanan G., Cleator* S., Cohen P., Dawson P.,
+Gajapathy V., George N., Goldin R., Gujral D., Imseeh G., Joseph M.,
+Kabuubi P., Limbu P., Lloyd J., Lowdell C., Ng-Cheng-Hin B., Oommen
+N., Osborn M., Paraskeva B., Petkar I., Ramesh A., Ramsey C., Riddle
+P., Smith J., Springall R., Vanree K., Ward D., Ziprin P.; Chesterfield
+Royal Hospital—Clenton S., Dewdney A., Euinton H., Furniss D.,
+Gupta R., Pritchard K., Tarapowewalla D., Wilshaw* V.; Christie
+Hospital, Manchester—Anderson I., Armstrong G., Benbow E.,
+Braun*M., Carlson G., Chakrabarty B., Chow S., Hill J., Jones D., Kasir
+D., Kushwaha R., Laasch H., Lees N., Marti F., McGrath S., Mes-
+callado N., Mullamitha S., Pritchard S., Royle J., Saunders M., Slade
+D., Watson D., Westwood T.; Clatterbridge Center For Oncology, The
+Wirral—Anderson R., Artioukh D., Campbell F., Eardley N., Hughes
+M., Hughes P., Johnson M., McFaul C., McNicol F., Moss A., Palmer*
+D., Ramachandran I., Rooney P., Shabbir J., Shaker A., Shelouh A.,
+Wall M., Yesildag P.; Countess of Chester Hospital—Abbott G., Hamid
+B., Prichard K., Vimalachandran* D.; Cumberland Infirmary,
+Carlisle—Berry J., Hinson F., Jehangir E., Maarouf Z., Nicoll* J.,
+Wilkinson B., Young F.; Derriford Hospital, Plymouth—Adams C.,
+Armstrong E., Bracey T., Denson J., Eastlake L., Fox B., Froud J.,
+Jackson S., Oppong F., Sherriff* D., Shirley J., Sleigh K.; Diana,
+Princess of Wales Hospital, Grimsby—Kweka E., McAdam G., Newton
+M., Pearson H., Peters M., Rajendran T., Rehman K., Roy* R., Sasapu
+K., Sheth A., Sumbwanyambe N., Wallace T.; Doncaster Royal
+Infirmary—Khaira* M., Kurien G., Robinson J., Wadsley J., White D.,
+Wilkinson N., Young R.;Dorset County Hospital—Bostanci G., D’arrigo
+C., Dega R., Flubacher M., Hogben K., Lamparelli M., Lawrence K.,
+Lewis M., Mikel J., Orbell* J., Osborne R., Talwar A., Taylor P., Thomas
+T.; George Eliot Hospital, Nuneaton—Abdulkarim J., Gopalakrishnan
+K., Jadhav V., Klear P., Marimuthu K., Palit A., Piramanayagam B.,
+Scott-Brown* M., Shatrughan S., Vallance K.; Good Hope Hospital,
+Sutton Coldfield—Baijal* S., ChapmanM., Glaholm J., Kelly A., Nelson
+C., Singh R.; Harrogate District Hospital—Buxton A., Culverwell A.,
+Darby A., Harrison J., Last* K., Leinhardt D., Mahon C., Mawhinney R.,
+Scott D., Scullion D.; Hospital Malarsjukhuset Eskilstuna—Lind* P.,
+Milosavljevic Z., Nordén A.; Huddersfield Royal Infirmary—Anwar S.,
+Brown N., Cowley J., Dent* J., Gonsalves S., Gupta P., Hofmann U.,
+Holdsworth P., Hyde J., Ilsley D., Knights R., Littleford S., Raja U.,
+Roberts C., Wood T.; Ipswich Hospital—Chapman J., Crabtree M., Ng
+R., Orrell J., Sherwin* E., Smith S., Soomal R.; Leighton Hospital,
+Crewe—Adamson V., Braun* M., De A., Hardman J., Khan A.,
+Nockolds C., TeeM.;Macclesfield District General Hospital—KhanU.,
+Lavin V., Lawrence M., McBain C., Radharkrishna* G., Sil R., Tang A.,
+Weerasinghe S., Wilkinson L.; Manchester Royal Infirmary—Gray G.,
+Hill* J., Lee S., Wright P.;Manor Hospital, Walsall—Church R., Hartley
+A., Holland C., HoweR., Kunene* V., Marshall K., Muscroft T., Odogwu
+S., Ramaema D., Thompson A., Wagstaff L.; Mount Vernon Hospital,
+Greater London—Chiu M., Glynne-Jones* R., Goh V., Gupta A.,
+Ilangovan R., Langner E., Livingstone J., Richman P., Russell J., Train
+M.;Musgrove Park Hospital, Taunton—Barlow* C., Burn P., Edwards
+T., Eyre-Brook I., Geraghty J., Karnati G., Mackey P., Taylor J., Walther
+J.; New Cross Hospital, Wolverhampton—Grumett* S., King M., Li P.,
+Mangalika S., Mehra R., Qaiyum M., Rao A., Williams G.; North
+Middlesex Hospital—Borgstein R., Bridgewater* J., Firth J., Melville
+D., Ng M., Oluwajobi O., Rees J., Van Someren C.; Northern Center for
+Cancer Treatment, Newcastle upon Tyne—Coxon* F., Hainsworth P.,
+Needham S., Scott J.; Odense University Hospital—Andersen I.,
+Andersen P., Asmussen J., Hansen T., Hoffmann A., Jensen K.,
+Madsen G., Pfeiffer* P., Salomon S., Thode Sorensen M.; Pinderfields
+General Hospital, Wakefield—Alkhaldi* A., Anathhanam A., Britten-
+den J., Fawole A., Jackson A., Jackson A., Kamposioras K., Kerr S.,
+
+© 2023 by American Society of Clinical Oncology Volume 41, Issue 8
+
+Morton et al
+
+https://www.clinicaltrials.gov/ct2/show/NCT00647530
+
+
+Kumaran G., Lupton S., Macklin C., Morrison C., Parchment-Smith C.,
+Rogers M.; Poole General Hospital—Alexander J., Clarke A.,
+Harinarayanan S., Harle* A., Heckford L., Hickish T., Lee-Elliot C.,
+Leonard A., Martland G., Nash G., Qureshi T., Talbot R., Tarver D.,
+Williams S., Wood A.; Princess Alexandra Hospital, Harlow—Bridge-
+water* J., Goonewardene T., Lalude O., Melcher L., Moe M., Partridge
+W., Sundaresan V., Vazquez I., Vivekanandan S.; Queen Alexandra
+Hospital, Portsmouth—Agrawal N., Atchley J., Beable R., Conti J.,
+Cowlishaw D., Higginson A., Khan J., Marley N., McCartney J.,
+Muthuramalingam* S., O’Leary D., O’Callaghan A., Pares D., Parvaiz
+A., Senapati A.; Queen Elizabeth Hospital Birmingham—Adedeji O.,
+Bach S., Christensen J., DeshmukhN., ElbrøndH., Forde C., Gareja J.,
+Hejmadi R., Iatrapoulos G., Ismail T., Jain A., Keh C., Levi F., McAvin
+L., McCafferty I., Middleton* G., Nygaard T., Page A., Radley S., Rafii
+S., Steven N., Suggett N., Taniere P., Tattersall D.; Queen Elizabeth
+Hospital, Gateshead—Devarajan G., Gulati M., Kerwat R., Maisey N.,
+Mikhaeel* G.; Queen’s Hospital, Romford—Ball S., Banerjee S.,
+Bhargava A., Gershuny A., Gutmann J., Huang J., Igbokwe U.,
+Johnston D., Raouf* S., Ray A., Saeed I., Tanner P., Wain M., Ward A.,
+Wilson E.; Queens Medical Center, Nottingham—Acheson A., Arora
+A., Banerjea A., Dhingsa R., Dunn W., Hameed K., Ilyas M., Lopez
+Escola* C., Maxwell-Armstrong C., Mills J., Mohan V., Newcombe K.,
+Potter V., RobinsonM., Scholefield J., Walker G., Walter K., Williams J.,
+Zaitoun A.; Raigmore Hospital, Inverness—Arnott S., Eason D.,
+McPhail N., Mmeka* W., Stenhouse G., Walker K., Watson A., Whillis
+D.; Randers Regional Hospital—Andersen L., Cristensen J., Nygaard
+T., Spangsberg I.; Regional Hospital Horsens—Kristensen E., Madsen
+G., Rasmussen J.; Royal Derby Hospital—Chondra A., Kulkarni R.,
+Lund* J., Menon S., Semeraro D., Singh R., Speake W., Tyriakidis K.,
+Worth C.; Royal Devon & Exeter Hospital—Chandler I., Daniels I.,
+Edwards D., Harries S., Osborne* M.; Royal Free Hospital, London—
+Bell J., Krell* D., Mayer A., Meaden L., Ogunbiyi O., Planche K.,
+Watkins J.; Royal Lancaster Infirmary—Bronder C., Eaton* D.,
+Mapstone N., Taylor A., Tibke C.; Royal Marsden Hospital, London/
+Sutton—Brown G., Cunningham* D., Hatt S., Tekkis P., Thomas J.,
+Wotherspoon A.; Royal Preston Hospital—Dobson M., Lau S.,
+Mitchell* P., Peristerakis I., Pitt M., Scott N., Susnerwala S.; Royal
+Stoke University Hospital—Adab F., Britton I., Clarke A., Dawson R.,
+Farmer M., Ghiridaran* S., Hall C., Howitt C., Kalyanasundaram K.,
+Kirby R., Latifaj B., Lengyel A., Parkinson K., Smith V.; Royal United
+Hospital Bath—Biddlestone L., Brydon-Hill R., Courtney E., Cox A.,
+Dalton S., De Winton* E., Gangadhara S., Gibbs L., MacDonald K.,
+Medley L., Meehan C., Phillips A., Williamson M.; Russells Hall
+Hospital, Dudley—Abbas H., Ashgar S., De Naurois J., Ferry D., Gerai
+S., Grumett* S., Hall A., Ibrahim A., Kaur J., Kawesha A., Maleki K.,
+Momtahan N., Murukesh N., Patel R., Ramaiah S., Sherif A., Shinde
+V., Watts A., Youssef A.; Salford Royal Hospital—Burnett H., Hayes S.,
+Soop* M., Vinod C.; Salisbury District Hospital—Agombar A., Attlee J.,
+Branagan* G., Burroughs S., Chave H., Cook I., Cook S., Fuller C.,
+Iveson T., McGee S., Shablak A., Sleight S., Watts C., WheaterM., Willis
+M.; Sandwell and West Birmingham Hospitals—Cruickshank N.,
+Davies M., Joy H., Muzaffar S., Orme* A., Punia P., Rea D.; Scun-
+thorpe General Hospital—Ahmad S., Coup A., Dent K., Hamid A.,
+Moore P., Muzaffar Ahmad S., O’Toole* L., Pai D.; Southampton
+General Hospital—Armstrong L., Bateman A., Bateman* A., Beck N.,
+Bennett J., Blaquiere R., Bradbury J., Breen D., Bryant T., Carr N.,
+Chau C., Dudding T., Ellis S., Grierson C., King A., Knight J., Lane C.,
+Nichols P., Smallwood J., Sommerlad M.; Southend Hospital—
+Chappell M., Dworkin M., Jain S., Malhotra A., Nichols L., Praveen B.,
+Tsang* D.; Southmead Hospital—Hopkins K., Loveday E., Lyons* A.,
+Rooney N., Santamaria M.; Southport & Formby District General
+Hospital—Ali N., Chatterjee* M., Chiphang A., Dundas S., Morris A.,
+
+Sun Myint A., ZeidermanM.; St George’s Hospital, London—Beddows
+E., Beharry N., Chong H., Chung E., Finlayson C., Greenhalgh R.,
+Hagger R., Lofts* F., Melville D., Quarrell M., Ramwell A., Samol J.; St
+James’ University Hospital, Leeds—Ambrose N., Anthoney A., Baker
+R., Baker H., Birbeck K., Botterill I., Burke D., Cairns A., Collinson F.,
+Cooper R., Crossley A., Daverdede L., Dearden D., Finan P., Foltran L.,
+Godfrey E., Grabsch H., Griffiths B., Guthrie A., Hall P., Hance J.,
+Hyland R., Jayne D., Johnson R., Lambie H., Mekki R., Miskovic D.,
+Rohatgi N., Rotimi O., Saunders R., Scott N., Seymour* M., Siller C.,
+Sivakumar R., Swift S., Swinson D., Tolan D., Urquhart G., West N.,
+Zubair S.; St Mark’s Hospital, Maidenhead—Anyamene* N., Burling
+D., Kennedy R., Mahmud S., Moorghen M.; Stepping Hill Hospital,
+Stockport—Agrawal S., Gohar M., Hasan* J., Hodgkinson S., Howarth
+V., Lewinski M., Mehta S., Rai S., Saeed M.; Svendborg Hospital—
+Andersen P., Hoffmann A., Salomon S.; The Royal Liverpool University
+Hospital—Bermingham N., Campbell F., Carter P., Healey P., Heath
+R., Hughes M., Madi A., Montazeri A., Rooney* P., Smith D., Smith F.;
+University College Hospital, London—Ahmed M., Arkenau T.,
+Hochhauser D., Obichere A., Rodriguez-Justo M., Shiu* K., Taylor S.,
+Wong S.; University Hospital Coventry—Baragwanath P., Correa* P.,
+James S., Shatwell W., Suotamo S., Williams N.; University Hospital
+Lewisham—Birch D., Brady* J., Byrne C., Hinsell J., Lanaspre E.,
+Mikhaeel G., Roy R., Shah A., SingheraM.;University Hospital of North
+Tees, Stockton—Ahmad M., Garg D., Gill* T., Rao V., Wardle H.,
+Wilson D.; University Hospital of Wales—Adams* R., Beehen R.,
+Morgan M., Williams M.; University Hospital Umeå—Lindh B., Sjodin
+M.;Uppsala University Hospital—AhlstromH., Birgisson H., Dukic M.,
+Folkesson J., Glimelius* B., Lidén A., Siilin H., Sköldberg F., Terman
+A.; Velindre Hospital, Cardiff—Adams* R., Bowden C., Hargest R.,
+Horwood H., Jackson A., Morgan M., Owen R.;Warrington Hospital—
+Ford A., Gopal K., Madew R., Pranesh* N., Shareef D., Tighe M.;
+Warwick Hospital—Busby K., Correa* P., Flook M., Hartwell L., Patel
+R., Sanders S., Sinha R.; West Middlesex University Hospital—
+Ahmad* R., Desai S., Ramesh S., Swallow J.;Weston General Hospital,
+Weston-Super-Mare—Dymond H., Hilman* S., Lott M., O’Brien J.,
+Radstone D., Sheffield E., Tomlinson M., West D.; Weston Park
+Hospital, Sheffield—Adam I., Alzouebi M., Amarnath T., Amin S.,
+Balamurugan R., Chapple K., Coker O., Das T., Garikipati S., Genever
+A., Goodfellow P., Hampton J., Harris H., Hornbuckle* J., Kitsanta P.,
+Kumar V., Martin J., Muzaffar M., Pledge S., Rao J., Rogers S.,
+Svrinivasan D., Tiffin N., Waweru A., White T., Williams K.; Wexham
+Park Hospital, Slough—Ali M., Baxter S., Brown R., Charig M., De
+Souza F., Desai A., Gilbert J., Hadaki M., Hall* M., Harris C., Hassan
+A., Sharif H., Thyveetil M.; Whittington Hospital, London—Arul D.,
+Hochhauser D., Leonard* P., Mukhtar H., Murray D.; Worcestershire
+Royal Hospital—Baxter A., Churn* M., Farrugia D., Lake S., Roberts
+T., Smith G.; Wrexham Maelor Hospital—Bansal A., Bersassi A.,
+Billings P., Chandran P., Corr C., Dixon R., Gollins* S., Kodavatiganti
+R., Pradeep K., Stockport J., Thornton M.; Wythenshawe Hospital,
+Manchester—Davenport A., McCartin F., Saunders* M., Sukumar S.;
+Yeovil District Hospital—Allison A., Bathurst N., Beaumont* E.,
+Cooper E., Francis N., Hay M., Ockrim J., Perry J., Sephton M.,
+Sparrow G.; York Hospital—Alexander D., Bandyopadhyay D., Bed-
+ford I., Chan S., Chintapatla S., Clarke A., Haselden J., Kell K., Last* K.,
+Maughan N., Petty D., Stojkovic S., Woodcock N.; Ysbyty Glan Clwyd,
+Rhyl—Atkinson M., Evans S., Favill E., Gollins* S., Gupta M., Maw A.,
+Rajagopal R.; Ysbyty Gwynedd District General Hospital, Bangor—
+Abdullah N., Bale* C., Bhalerao S., Fuller C., Lala A., Lord M., Saxton
+W.
+
+*Represents the Local Principal Investigator.
+
+Journal of Clinical Oncology
+
+Preoperative Chemotherapy for Operable Colon Cancer
+
+
+	Preoperative Chemotherapy for Operable Colon Cancer: Mature Results of an International Randomized Controlled Trial
+	INTRODUCTION
+	METHODS
+	Trial Procedures
+	Treatment
+	Radiologic and Pathologic Staging
+	Outcome Measures
+	Statistical Methods
+
+	RESULTS
+	Characteristics of the Patients
+	Treatment Delivery
+	Tolerability
+	Histopathologic Outcomes
+	Postoperative Chemotherapy
+	Recurrence and Survival
+	Panitumumab
+	Subgroup Analyses
+
+	DISCUSSION
+	REFERENCES
+	APPENDIX 1. Birmingham Clinical Trials Unit With Birmingham Surgical Trials ConsortiumLaura Magill, Richard Gray, Kelly Han ...
+	APPENDIX 1. Birmingham Clinical Trials Unit With Birmingham Surgical Trials Consortium
+
+

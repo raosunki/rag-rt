@@ -1,0 +1,1534 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DC221710_proof.pdf
+
+
+Tirzepatide Reduces Appetite, Energy Intake, and Fat Mass in
+People With Type 2 Diabetes
+
+Tim Heise, J. Hans DeVries, Shweta Urva, Jing Li, Edward J. Pratt, Melissa K. Thomas, Kieren J. Mather,
+Chrisanthi A. Karanikas, Julia Dunn, Axel Haupt, Zvonko Milicevic, and Tamer Coskun
+
+Diabetes Care 2023;46(5):998–1004 | https://doi.org/10.2337/dc22-1710
+
+Tirzepatide reduces fat, calorie intake, and appetite in people with type 2 diabetes
+
+Adults with type 2 diabetes
+were randomized across
+
+three groups and
+monitored for 28 weeks
+
+Tirzepatide led to significant improvements over semaglutide and placebo on body
+weight and fat mass.
+
+Tirzepatide and semaglutide similarly reduced fasting appetite and energy intake
+during ad libitum lunch.
+
+More work is needed to understand the mechanistic differences between tirzepatide and semaglutide
+in promoting weight loss, reduced calorie intake, and reduced appetite. VAS, visual analog score.
+
+Placebo
+(n = 28)
+
+Semaglutide
+1 mg
+
+(n = 45)
+
+Tirzepatide
+15 mg
+
+(n = 48)
+
+Body weight Fat mass
+
+Satiety
+
+y g
+
+Calorie intake
+
+28
+600
+
+800
+
+1000
+
+1200
+
+1400
+
+Time (week)
+
+En
+er
+
+gy
+ in
+
+ta
+ke
+
+,
+ac
+
+tu
+al
+
+ v
+al
+
+ue
+ (k
+
+ca
+l)
+
+Baseline 8 16
+
+*,†
+† **,††
+
+-15
+
+-10
+
+-5
+
+0
+
+5
+
+Time (week)
+
+Bo
+dy
+
+ w
+ei
+
+gh
+t,
+
+ch
+an
+
+ge
+ fr
+
+om
+ba
+
+se
+lin
+
+e 
+(k
+
+g)
+
+Baseline 5 9 13 17 21 25 28
+
+**#
+
+**#
+
+**#
+**#
+
+**#
+**##
+
+**##
+
+y
+
+-15
+
+-10
+
+-5
+
+0
+
+Fa
+t m
+
+as
+s,
+
+ch
+an
+
+ge
+ fr
+
+om
+ba
+
+se
+lin
+
+e 
+(k
+
+g)
+
+p = 0.002
+**
+
+**
+
+0 (0%)
+
+-5.9 (-16.1%)
+
+-9.7 (-26.5%)
+
+**p < 0.001 vs placebo; #p < 0.05 and ##p < 0.001 tirzepatide vs semaglutide.
+
+*p < 0.05 and **p < 0.001 tirzepatide vs placebo; †p < 0.05 and ††p < 0.001
+semaglutide vs placebo.
+
+Rating of satiety as measured by fasting visual analog score. *p < 0.05 tirzepatide vs
+placebo; †p < 0.05 semaglutide vs placebo.
+
+**p < 0.001 vs placebo.
+
+28
+0
+
+20
+
+40
+
+60
+
+80
+
+Time (week)
+
+ F
+as
+
+tin
+g 
+
+sa
+tie
+
+ty
+VA
+
+S 
+sc
+
+or
+e
+
+Baseline 5 9 13 17 21 25
+
+*,† *,†*
+*
+
+ARTICLE HIGHLIGHTS
+
+• The effects of once weekly glucose-dependent insulinotropic polypeptide and glucagon-like peptide 1 (GLP-1) re-
+ceptor agonist tirzepatide were assessed on body weight and composition, appetite, and energy intake in a
+phase 1 randomized, placebo-controlled study.
+
+• At 28 weeks, tirzepatide (15 mg) demonstrated significant body weight reduction compared with selective GLP-1
+receptor agonist, semaglutide (1 mg), which was mainly due to fat mass reduction.
+
+• Both tirzepatide and semaglutide significantly reduced fasting appetite and ad libitum energy intake during lunch.
+• These data highlight greater effects of tirzepatide than semaglutide on total body mass and fat mass reduction in
+
+people with type 2 diabetes.
+
+
+
+Tirzepatide Reduces Appetite,
+Energy Intake, and Fat Mass in
+People With Type 2 Diabetes
+Diabetes Care 2023;46:998–1004 | https://doi.org/10.2337/dc22-1710
+
+Tim Heise,1 J. Hans DeVries,1
+
+Shweta Urva,2 Jing Li,2 Edward J. Pratt,2
+
+Melissa K. Thomas,2 Kieren J. Mather,2
+
+Chrisanthi A. Karanikas,2 Julia Dunn,2
+
+Axel Haupt,2 Zvonko Milicevic,2 and
+
+Tamer Coskun2
+
+OBJECTIVE
+
+To evaluate the effects of tirzepatide on body composition, appetite, and energy
+intake to address the potential mechanisms involved in body weight loss with
+tirzepatide.
+
+RESEARCH DESIGN AND METHODS
+
+In a secondary analysis of a randomized, double-blind, parallel-arm study, the
+effects of tirzepatide 15 mg (N = 45), semaglutide 1 mg (N = 44), and placebo
+(N = 28) on body weight and composition, appetite, and energy intake were as-
+sessed at baseline and week 28.
+
+RESULTS
+
+Tirzepatide treatment demonstrated significant reductions in body weight com-
+pared with placebo and semaglutide, resulting in greater fat mass reduction. Tir-
+zepatide and semaglutide significantly reduced appetite versus placebo. Appetite
+scores and energy intake reductions did not differ between tirzepatide and
+semaglutide.
+
+CONCLUSIONS
+
+Differences in energy intake during ad libitum lunch were not sufficient to explain
+the different weight outcomes. Further evaluation is needed to assess mechanis-
+tic differences related to tirzepatide actions on 24-h energy intake, substrate utili-
+zation, and energy expenditure.
+
+Tirzepatide, a glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like
+peptide 1 (GLP-1) receptor agonist, is approved for the treatment of type 2 diabe-
+tes (T2D). Tirzepatide causes robust body weight loss mainly by reduction in energy
+intake and by increasing energy expenditure in preclinical models (1) and has dem-
+onstrated robust body weight reductions in people with T2D (2). We hypothesized
+that body weight loss with tirzepatide is mainly driven by reduced energy intake.
+
+RESEARCH DESIGN AND METHODS
+
+Study Design and Participants
+Measurements of body composition, appetite, and energy intake were performed
+as secondary assessments in a mechanism of action study, with main objectives
+and safety results published (3). Eligible patients were randomized (3:3:2) to re-
+ceive once weekly 15 mg tirzepatide (N 5 45), 1 mg semaglutide (N 5 44), or pla-
+cebo (N 5 28) (Supplementary Material).
+
+1Profil, Neuss, Germany
+2Eli Lilly and Company, Indianapolis, IN
+
+Corresponding author: Tamer Coskun, coskun_
+tamer@lilly.com
+
+Received 1 September 2022 and accepted 31
+January 2023
+
+Clinical trial reg. no. NCT03951753, clinicaltrials
+.gov
+
+This article contains supplementary material online
+at https://doi.org/10.2337/figshare.21984596.
+
+© 2023 by the American Diabetes Association.
+Readers may use this article as long as the
+work is properly cited, the use is educational
+and not for profit, and the work is not altered.
+More information is available at https://www
+.diabetesjournals.org/journals/pages/license.
+
+B
+R
+IE
+F
+R
+EP
+
+O
+R
+T
+
+998 Diabetes Care Volume 46, May 2023
+
+https://doi.org/10.2337/figshare.21984596
+mailto:coskun_tamer@lilly.com
+mailto:coskun_tamer@lilly.com
+https://clinicaltrials.gov/ct2/show/NCT03951753
+https://www.clinicaltrials.gov
+https://www.clinicaltrials.gov
+https://doi.org/10.2337/figshare.21984596
+https://www.diabetesjournals.org/journals/pages/license
+https://www.diabetesjournals.org/journals/pages/license
+http://crossmark.crossref.org/dialog/?doi=10.2337/dc22-1710&domain=pdf&date_stamp=2023-04-18
+
+
+Procedures
+Body weight was measured every 4 weeks,
+and body composition (BOD PODmeasure-
+ment system; COSMED, Rome, Italy) was
+assessed at baseline and week 28. Fasting
+visual analog scale (VAS) ratings of hunger,
+satiety, fullness, and prospective food con-
+sumption were completed, and a compos-
+ite of the four scores was used to calculate
+an overall appetite score (4–6). Energy in-
+take was determined by measuring ad
+libitum food intake during a 45-minute
+buffet-style lunch performed at baseline
+and weeks 8, 16, and 28 (Supplementary
+Material).
+
+Objectives
+Energy metabolism objectives assessed
+the effects of tirzepatide versus placebo
+and semaglutide on body weight, body
+composition, fasting appetite, and en-
+ergy intake during ad libitum lunch.
+
+Statistical Analysis
+Analyses were conducted on data from
+all randomized patients who received at
+least one dose of the study drug and
+had evaluable pharmacodynamic data
+(pharmacodynamic analysis set). Analysis
+of variance was conducted for baseline
+comparisons across groups. Analysis of co-
+variance was conducted for fat mass and
+fat-free mass with study treatment as a
+fixed effect and baseline measurement as
+a covariate. Mixed-model repeated meas-
+ures were conducted for bodyweight, fast-
+ing overall appetite, the four individual
+VAS appetite scores, and energy intake us-
+ing a restrictedmaximum likelihood–based
+approach for parameter estimation. Analy-
+ses included fixed effects of study treat-
+ment, visit, treatment-by-visit interaction,
+and baselinemeasurement as a covariate.
+Significance tests were conducted at
+
+a5 0.05 (two-sided). Estimated treatment
+differenceswere presented as least squares
+mean and 95% CIs in brackets.We did not
+imputefor missing data and multiplicity ad-
+justment in this exploratory analysis. Statis-
+tical analyses were done using SAS version
+9.4, unless otherwise specified. Additional
+details are in SupplementaryMaterial.
+
+Data and Resource Availability
+Eli Lilly and Company provides access to
+all individual participant data collected
+during the trial, after anonymization,
+with the exception of pharmacokinetic
+or genetic data. Data are available to
+request 6 months after the indication
+
+studied has been approved in the U.S. and
+European Union and after primary publica-
+tion acceptance, whichever is later. No ex-
+piration date of data requests is currently
+set once data aremade available. Access is
+provided after a proposal has been ap-
+proved by an independent review commit-
+tee identified for this purpose and after
+receipt of a signed data sharing agree-
+ment. Data and documents, including the
+study protocol, statistical analysis plan,
+clinical study report, and blank or anno-
+tated case report forms, will be provided in
+a secure data sharing environment. For de-
+tails on submitting a request, see the in-
+structions provided at www.vivli.org.
+
+RESULTS
+
+Baseline demographics and clinical charac-
+teristics were balanced, except for longer
+T2D duration andmore older patients ran-
+domly assigned to semaglutide (Table 1).
+Safety outcomes were published (3); the
+overall pattern of adverse events was con-
+sistent with incretin class molecules and
+comparable between treatment groups.
+
+Body Weight Assessment
+Body weight significantly reduced from
+baseline with tirzepatide and semaglu-
+tide (P < 0.001, all time points) (Fig. 1A).
+Treatment differences were observed as
+early as week 5 with tirzepatide (�2.6 kg)
+versus placebo (�1.0 kg; estimated treat-
+ment differences [95% CI]: �1.5 kg [�2.3,
+�0.8]; P < 0.001) and semaglutide
+(�1.9 kg; �0.7 kg [�1.4, �0.1]; P 5
+0.029), and continued throughout the
+trial. At week 28, tirzepatide-treated patients
+achieved �11 kg of weight reduction, vs.
+0 kg with placebo (�11.2 kg [�14.0,�8.4];
+P < 0.001) and ��7 kg with semaglutide
+(�4.3 kg [�6.8,�1.9];P< 0.001) (Fig. 1B).
+
+Body Composition Assessment
+At week 28, fat mass and fat-free mass
+significantly reduced from baseline with
+tirzepatide and semaglutide, but not
+with placebo (Fig. 1C and D). Fat mass
+reductions differed in tirzepatide versus
+placebo (�9.6 kg [�12.4, �6.9]; P <
+0.001) and semaglutide (�3.8 kg [�6.2,
+�1.4]; P 5 0.002). Similarly, percentage
+of fat mass loss was greater with tir-
+zepatide (�7.1%) versus semaglutide
+(�4.0%) (�3.1% [�4.9, �1.2]; P 5
+0.001) (Fig. 1C). Fat-free mass reduc-
+tions differed in tirzepatide versus pla-
+cebo (�1.5 kg [�2.3, �0.7]; P < 0.001)
+
+and semaglutide (�0.8 kg [�1.5, �0.1];
+P 5 0.018) (Fig. 1D). Body weight loss
+with tirzepatide was predominantly driven
+by fat mass reduction (Fig. 1B, D, E).
+
+Fasting Appetite
+At week 28, appetite reduced from base-
+line, as reflected by higher overall appetite
+scores, with tirzepatide and semaglutide
+(P < 0.001) but not placebo (P 5 0.241)
+(Fig. 2A). This effect differed in tirzepatide
+versus placebo (15.0 [4.1, 25.9]; P 5
+0.007) but not versus semaglutide (5.3
+[�4.0, 14.6]; P 5 0.260). Longitudinal in-
+creases in component VAS scores for sati-
+ety and fullness and decreases in scores
+for hunger and prospective food consump-
+tion were observed with tirzepatide and
+semaglutide (Fig. 2B–E).
+
+Energy Intake During Ad Libitum
+Buffet-Style Lunch
+Baseline energy intake was similar be-
+tween groups. At week 8, energy intake
+significantly reduced from baseline in all
+groups (Fig. 3A). Reductions were greater
+with tirzepatide versus placebo (�185.3 kcal
+[�312.7, �57.8]; P 5 0.005), semaglutide
+versus placebo (�130.2 kcal [�257.4,�3.0];
+P 5 0.045), and were numerically, but not
+significantly, higher with tirzepatide versus
+semaglutide (�55.1 kcal [�165.0, 54.9];
+P 5 0.323). At week 16, all groups con-
+sumed significantly fewer calories com-
+pared with baseline (Fig. 3A). Compared
+with placebo, reductions from baseline
+in energy intake were greater with sema-
+glutide (�143.4 kcal [�282.4,�4.4]; P5
+0.043) and trended toward greater re-
+ductions with tirzepatide (�129.9 kcal
+[�269.5, 9.7]; P 5 0.068). At week 28,
+energy intake significantly reduced from
+baseline with tirzepatide and semaglu-
+tide, but not with placebo. These reduc-
+tions were greater with tirzepatide versus
+placebo (�309.8 kcal [�423.0, �196.6];
+P < 0.001) and were numerically, but not
+significantly, greaterwith tirzepatide versus
+semaglutide (�64.3 kcal [�160.3, 31.7];
+P5 0.187) (Fig. 3B).
+
+CONCLUSIONS
+
+Tirzepatide achieved significant weight re-
+duction versus placebo in people with T2D.
+Body composition analyses demonstrated
+that the body weight loss was mainly due
+to fat mass reduction. Semaglutide pro-
+duced substantial, albeit smaller, weight
+reduction that was also predominantly
+
+diabetesjournals.org/care Heise and Associates 999
+
+https://doi.org/10.2337/figshare.21984596
+https://doi.org/10.2337/figshare.21984596
+https://doi.org/10.2337/figshare.21984596
+http://www.vivli.org
+https://diabetesjournals.org/care
+
+
+explained by fat mass loss. Tirzepatide and
+semaglutide significantly reduced fasting
+appetite and energy intake during ad libi-
+tum lunch. Assessing the effect of tirzepa-
+tide on 24-h energy intake and energy
+expenditure using respiratory chambers is
+ongoing (clinical trial no. NCT04081337).
+
+Tirzepatide and semaglutide decreased
+weight primarily through a reduction in fat
+mass. Nevertheless, the absolute changes
+in total and fat mass were greater with tir-
+zepatide, suggesting that the added effi-
+cacy of tirzepatide may be achieved by
+utilizing body fat more effectively than
+semaglutide. The underlying mechanisms
+of this effect are unclear, and not ex-
+plained by changes in energy intake during
+lunch. Actions of tirzepatide to modulate
+adipose lipid storage through actions at
+GIP receptors have been described in pre-
+clinical and clinical studies (7) and may
+contribute to such differential actions of
+tirzepatide.
+
+In a 12-week crossover trial, 1 mg
+semaglutide significantly reduced total
+energy intake across all ad libitum meals
+by �24% versus placebo (8). The effect
+was primarily observed during ad libitum
+
+lunch (35% reduction with semaglutide
+versus placebo) (8). Therefore, we fo-
+cused on ad libitum lunch energy intake
+assessment and observed similar reduc-
+tions in energy intake for the two active
+treatments versus placebo. At week 28, a
+numerically, but not significantly, greater
+reduction in energy intake during ad libi-
+tum lunch was observed with tirzepatide
+versus semaglutide (�64 kcal difference).
+Such a difference during ad libitum lunch
+may contribute to the differences inweight
+reduction between tirzepatide and sema-
+glutide, particularly if considering total
+daily energy intake. Hence, up to week
+16, reductions in energy intake during
+lunch were similar for tirzepatide and
+semaglutide, whereas weight reductions
+started to separate as early as week 5.
+Therefore, the differences in total energy
+intake, in addition to other mechanisms,
+may contribute to the differences in body
+weight loss observed with tirzepatide ver-
+sus semaglutide (8).
+
+Study limitations include limited study
+population diversity, thus limiting general-
+izability, andmodest differences in baseline
+characteristics between groups. Although
+
+these analyses were prespecified and hy-
+pothesis driven, the study sample size was
+not explicitly powered for these second-
+ary and exploratory outcomes. The evalu-
+ation of energy intake was guided by
+lunch-specific treatment effects observed
+with semaglutide (8), which reflected a
+single meal. However, this focused mea-
+surement of energy intake may not fully
+reflect the treatment differences on total
+energy intake. Animal data suggest that
+food intake reduction is more prolonged
+with tirzepatide compared with selective
+GLP-1 receptor agonist (1), and maybe a
+separation of energy intakemayoccur later.
+The energy intake measures may have
+been influenced by the artificial setting of
+the research clinic, the specific food choices
+provided in the buffet, and the assessment
+being limited to only lunch. Overall, these
+observations emphasize the value of in-
+cluding a placebo group, particularly where
+the background treatment includes a
+study-wide dietary intervention to ex-
+plain treatment effect. The measurement
+of appetite VAS under fasting conditions
+prevented observations of treatment
+group differences inmeal-related appetite
+
+Table 1—Patient demographics and clinical characteristics
+
+Parameters Placebo, N 5 28 Semaglutide 1 mg, N 5 44 Tirzepatide 15 mg, N 5 45
+
+Age, years 60.4 ± 7.6 63.7 ± 5.9 61.1 ± 7.1
+
+Sex, male, n (%) 21 (75.0) 34 (77.3) 31 (68.9)
+
+Race, n (%)
+
+Black or African American 0 0 1 (2.2)
+White 28 (100.0) 44 (100.0) 44 (97.8)
+
+Ethnicity, n (%)
+
+Hispanic or Latino 0 0 0
+Not Hispanic or Latino 28 (100.0) 44 (100.0) 45 (100.0)
+
+HbA1c concentration
+
+% 7.9 ± 0.5 7.7 ± 0.6 7.8 ± 0.7
+mmol/mol 62.9 ± 5.5 60.7 ± 6.6 62.1 ± 7.9
+
+Fasting glucose, mg/dL 126.6 ± 23.6 128.6 ± 25.0 139.3 ± 30.2
+
+Diabetes duration, years 11.0 ± 6.8 12.7 ± 6.1 10.2 ± 5.8
+
+Waist circumference, cma 109.2 ± 12.0 109.7 ± 9.2 113.5 ± 8.9
+
+BMI, kg/m2 32.2 ± 4.0 30.8 ± 3.8 31.3 ± 5.0
+
+Weight, kg 98.7 ± 14.6 92.7 ± 14.0 94.2 ± 14.0
+
+Fat mass, kga 38.6 ± 10.7 35.3 ± 8.0 36.8 ± 11.5
+
+Fat-free mass, kga 59.1 ± 10.3 56.3 ± 10.3 57.7 ± 9.3
+
+Energy intake, kcala,b 1,252.7 ± 483.2 1,131.0 ± 375.6 1,105.0 ± 343.7
+
+Data are mean ± SD for the safety population, unless otherwise indicated. n, number of patients in the specified category; N, all randomly assigned
+patients who took at least one dose of study drug. aTotal N 5 112 (tirzepatide 15 mg, n 5 43; semaglutide 1 mg, n 5 43; placebo, n 5 26) for
+waist circumference and energy intake; total N 5 108 (tirzepatide 15 mg, n 5 41; semaglutide, n 5 43; placebo, n 5 24) for fat mass and fat-
+free mass from the pharmacodynamic analysis set. bEnergy intake during ad libitum buffet-style lunch.
+
+1000 Tirzepatide Effects on People With T2D Diabetes Care Volume 46, May 2023
+
+
+
+Placebo
+
+Semaglutide 1 mg
+
+Tirzepatide 15 mg
+
+Week 28 body weight, kg
+(LSM±SE):                               94.6±1.10              87.7±0.86             83.4±0.86
+
+Overall mean baseline fat-free mass = 57.4 kg
+
+-15
+
+-10
+
+-5
+
+0
+
+5
+
+Time (week)
+
+B
+od
+
+y
+W
+
+ei
+gh
+
+t,
+ch
+
+an
+ge
+
+ fr
+om
+
+ba
+se
+
+lin
+e
+
+(k
+g)
+
+Baseline 5 9 13 17 21 25 28
+
+**#
+
+**#
+
+**#
+
+**#
+
+**#
+
+**##
+**##
+
+Semaglutide 1 mg
+
+Tirzepatide 15 mg 1 mg
+
+0.25 mg 0.5 mg 1 mg
+
+2.5 mg 5 mg 15 mg7.5 mg 10 mg 12.5 mg
+
+Overall mean baseline body weight = 94.5 kg
+
+-15
+
+-10
+
+-5
+
+0
+
+-11.2
+
+-6.9
+
+B
+od
+
+y
+W
+
+ei
+gh
+
+t,
+ch
+
+an
+ge
+
+ fr
+om
+
+ba
+se
+
+lin
+e
+
+(k
+g)
+
+††
+
+**p<0.001
+
+0
+
+-15
+
+-10
+
+-5
+
+0
+
+Fa
+tM
+
+as
+s,
+
+ch
+an
+
+ge
+ fr
+
+om
+ba
+
+se
+lin
+
+e
+(k
+
+g)
+
+p=0.002 **
+
+††
+
+0 (0%)
+
+-5.9 (-16.1%)
+
+-9.7 (-26.5%)
+
+-15
+
+-10
+
+-5
+
+0
+Fa
+
+t-
+Fr
+
+ee
+M
+
+as
+s,
+
+ch
+an
+
+ge
+ fr
+
+om
+ba
+
+se
+lin
+
+e
+(k
+
+g)
+
+**p=0.018
+
+-0.1 (-0.2%)
+-0.8 (-1.4%)
+
+-1.6 (-2.8%)
+
+Overall mean baseline fat mass = 36.6 kg
+
+Placebo Semaglutide 1 mg Tirzepatide 15 mg
+0
+
+10
+20
+30
+40
+50
+60
+70
+80
+90
+
+100
+
+B
+od
+
+y
+C
+
+om
+p
+
+os
+it
+
+io
+n
+
+(k
+g)
+
+Fat Mass Fat-Free Mass
+
+36.6±1.11
+(38.6%)
+
+30.7±0.83
+(34.7%)
+
+26.9±0.85
+(31.6%)
+
+57.3±0.32
+(61.4%)
+
+56.7±0.24
+(65.3%)
+
+55.8±0.25
+(68.4%)
+
+Overall mean baseline fat mass = 36.6 kg (38.7%)
+Overall mean baseline fat-free mass = 57.4 kg (61.3%)
+
+n=24                     n=43                     n=41
+
+A B
+
+C D
+
+E
+
+Figure 1—Change from baseline in body weight and body composition and effect on fat mass reduction on body composition. Data are LSM ± SE
+of ANCOVA or MMRM on postbaseline or change from baseline values from the pharmacodynamic analysis set. (A) Change from baseline in body
+weight over time. (B) Change from baseline in body weight at 28 weeks. (C) Change from baseline in fat mass at 28 weeks (percent changes from
+baseline are in parentheses). (D) Change from baseline in fat-free mass at 28 weeks (percent changes from baseline are in parentheses). (E) Effect
+of fat mass on body composition (percent of fat or fat-free mass in body mass at 28 weeks are in parentheses). **P< 0.001 versus placebo, ##P< 0.05
+and P < 0.001 tirzepatide versus semaglutide 1 mg for MMRM on change from baseline (A and B) and for ANCOVA on change from baseline (C and D).
+LSM, least squares mean; MMRM, mixed model repeated measures.
+
+diabetesjournals.org/care Heise and Associates 1001
+
+https://diabetesjournals.org/care
+
+
+Placebo
+
+Semaglutide 1 mg
+
+Tirzepatide 15 mg
+
+28
+0
+
+20
+
+40
+
+60
+
+80
+
+Time (week)
+
+V
+A
+
+S 
+Sc
+
+or
+e
+
+Baseline 5 9 13 17 21 25
+
+*,† *,† *,† *,†
+
+*
+
+Fasting Overall Appetite
+
+28
+0
+
+20
+
+40
+
+60
+
+80
+
+Time (week)
+
+Fa
+st
+
+in
+g 
+
+Sa
+tie
+
+ty
+ V
+
+A
+S 
+
+Sc
+or
+
+e
+
+Baseline 5 9 13 17 21 25
+
+*,† * *,†
+
+*
+
+Fasting Satiety
+
+28
+0
+
+20
+
+40
+
+60
+
+80
+
+Time (week)
+
+Fa
+st
+
+in
+g 
+
+Fu
+lln
+
+es
+s V
+
+A
+S 
+
+Sc
+or
+
+e
+
+Baseline 5 9 13 17 21 25
+
+*,† *,† *
+
+Fasting Fullness
+
+28
+20
+
+40
+
+60
+
+80
+
+Time (week)
+
+Fa
+st
+
+in
+g 
+
+H
+un
+
+ge
+r 
+
+V
+A
+
+S 
+Sc
+
+or
+e
+
+Baseline 5 9 13 17 21 25
+
+*,† *,†
+*
+
+Fasting Hunger
+
+28
+0
+
+20
+
+40
+
+60
+
+80
+
+Time (week)
+
+Fa
+st
+
+in
+g 
+
+Pr
+os
+
+pe
+ct
+
+iv
+e 
+
+Fo
+od
+
+ C
+on
+
+su
+m
+
+pt
+io
+
+n
+V
+
+A
+S 
+
+Sc
+or
+
+e
+
+Baseline 5 9 13 17 21 25
+
+*
+† *,† *,† *,†
+
+**,†
+
+Fasting Prospective Food 
+Consumption
+
+Semaglutide 1 mg
+
+Tirzepatide 15 mg 1 mg
+
+0.25 mg 0.5 mg 1 mg
+
+2.5 mg 5 mg 15 mg7.5 mg 10 mg 12.5 mg
+
+Semaglutide 1 mg
+
+Tirzepatide 15 mg 1 mg
+
+0.25 mg 0.5 mg 1 mg
+
+2.5 mg 5 mg 15 mg7.5 mg 10 mg 12.5 mg
+
+Semaglutide 1 mg
+
+Tirzepatide 15 mg 1 mg
+
+0.25 mg 0.5 mg 1 mg
+
+2.5 mg 5 mg 15 mg7.5 mg 10 mg 12.5 mg
+
+Semaglutide 1 mg
+
+Tirzepatide 15 mg 1 mg
+
+0.25 mg 0.5 mg 1 mg
+
+2.5 mg 5 mg 15 mg7.5 mg 10 mg 12.5 mg
+
+Semaglutide 1 mg
+
+Tirzepatide 15 mg 1 mg
+
+0.25 mg 0.5 mg 1 mg
+
+2.5 mg 5 mg 15 mg7.5 mg 10 mg 12.5 mg
+
+A B
+
+C D
+
+E
+
+Figure 2—Fasting overall VAS score and individual components over time. Data are LSM ± SE of ANOVA on baseline (actual values) and MMRM
+postbaseline values over time from the pharmacodynamic analysis set. (A) Fasting overall appetite score over time. Note: A higher overall score in-
+dicated less appetite. (B) Fasting satiety score over time. Note: A higher overall score indicated less satiety. (C) Fasting fullness score over time.
+Note: A higher overall score indicated less fullness. (D) Fasting hunger score over time. (E) Fasting prospective food consumption score over time.
+*P < 0.05 and **P < 0.001 tirzepatide versus placebo; †P < 0.05 semaglutide versus placebo. LSM, least squares mean; MMRM, mixed-model
+repeated measures.
+
+1002 Tirzepatide Effects on People With T2D Diabetes Care Volume 46, May 2023
+
+
+
+effects. While fat-free mass was calcu-
+lated from body weight and fat mass
+rather than directly measured, previous
+studies showed a high reliability of
+these data compared with direct meas-
+urements (9).
+These data highlight greater effects of
+
+tirzepatide than semaglutide on total body
+mass and fat mass reduction in people
+with T2D. As the effects of tirzepatide and
+semaglutide on appetite and energy intake
+were similar, we posit that additionalmech-
+anisms contributed to an energy balance
+that underlies the greater weight reduction
+benefit of tirzepatide. Whether and how
+the difference inweight reduction between
+tirzepatide and semaglutide is related to
+GIP receptor agonism by tirzepatide needs
+to be elucidated in future studies.
+
+Acknowledgments. The authors thank Charlie
+Harris (Eli Lilly and Company) for his critical
+review.
+Funding and Duality of Interest. Funding
+for this study was provided by Eli Lilly and Com-
+pany. T.H. is shareholder of the private research
+institute Profil, which received research funds
+from Adocia, AstraZeneca, Biocon, Boehringer
+Ingelheim, Crinetics, Eli Lilly and Company, Gan
+
+& Lee Pharmaceuticals, Genova, Nestl�e, Neuraly,
+NovoNordisk, Sanofi, and ZealandPharma; received
+speaker honoraria and travel grants from Eli Lilly
+and Company, Gan & Lee Pharmaceuticals, and
+Novo Nordisk; and is a member of advisory panels
+for Novo Nordisk. J.H.D. was on advisory boards for
+Adocia, NovoNordisk, and Zealand. He is nowat the
+European Medicines Agency, where he will not be
+involved in matters relating to tirzepatide. The clini-
+cal studies presented here preceded his second-
+ment to the European Medicines Agency. S.U., J.L.,
+E.J.P., M.K.T., K.J.M., C.A.K., J.D., A.H., Z.M., and T.C.
+are employees and shareholders of Eli Lilly and
+Company. M.K.T. also reports support for patents
+(planned, issued, or pending) from Eli Lilly and
+Company and participation in the steering commit-
+tee for the Accelerating Medicines Partnership for
+CommonMetabolic Diseases. A.H. also reports par-
+ticipation on a data safety monitoring board for
+multiple compounds. No other potential conflicts
+of interest relevant to this article were reported.
+Author Contributions. T.H., J.H.D., S.U., E.J.P.,
+M.K.T., A.H., Z.M., and T.C. contributed to the
+study design. J.H.D. and Z.M. provided medical
+oversight during the trial. J.L. was responsible for
+the statistical analyses. All authors participated in
+interpretation of the data and critical review of
+the manuscript and approved of this manuscript
+to be submitted for publication. T.C. is the guar-
+antor of this work and, as such, had full access
+to all the data in the study and takes responsibil-
+ity for the integrity of the data and the accuracy
+of the data analysis.
+Prior Presentation. Parts of this study were
+presented in abstract form at the 82nd
+
+Scientific Sessions of the American Diabetes As-
+sociation, New Orleans, LA, 3–7 June 2022; at
+the 58th European Association for the Study of
+Diabetes Annual Meeting, Stockholm, Sweden,
+19–23 September 2022; and at ObesityWeek
+2022, San Diego, CA, 1–4 November 2022.
+
+References
+1. Coskun T, Sloop KW, Loghin C, et al. LY3298176,
+a novel dual GIP and GLP-1 receptor agonist for
+the treatment of type 2 diabetes mellitus: from
+discovery to clinical proof of concept. Mol Metab
+2018;18:3–14
+2. Fr�ıas JP, Davies MJ, Rosenstock J, et al.;
+SURPASS-2 Investigators. Tirzepatide versus se-
+maglutide once weekly in patients with type 2
+diabetes. N Engl J Med 2021;385:503–515
+3. Heise T, Mari A, DeVries JH, et al. Effects of
+subcutaneous tirzepatide versus placebo or se-
+maglutide on pancreatic islet function and insulin
+sensitivity in adults with type 2 diabetes: a
+multicentre, randomised, double-blind, parallel-arm,
+phase 1 clinical trial. Lancet Diabetes Endocrinol
+2022;10:418–429
+4. Aitken RC. Measurement of feelings using
+visual analogue scales. Proc R Soc Med 1969;62:
+989–993
+5. van Can J, Sloth B, Jensen CB, Flint A, Blaak EE,
+Saris WH. Effects of the once-daily GLP-1 analog
+liraglutide on gastric emptying, glycemic parameters,
+appetite and energy metabolism in obese, non-
+diabetic adults. Int J Obes 2014;38:784–793
+6. Flint A, Raben A, Blundell JE, Astrup A.
+Reproducibility, power and validity of visual
+analogue scales in assessment of appetite sen-
+
+Placebo
+
+Semaglutide 1 mg
+
+Tirzepatide 15 mg
+
+28
+600
+
+800
+
+1000
+
+1200
+
+1400
+
+Time (week)
+
+E
+ne
+
+rg
+y 
+
+In
+ta
+
+ke
+,
+
+ac
+tu
+
+al
+ v
+
+al
+ue
+
+ (k
+ca
+
+l)
+
+Baseline 8 16
+
+*,†
+
+† **,††
+
+-500
+
+-400
+
+-300
+
+-200
+
+-100
+
+0
+
+-348.4
+
+-284.1
+
+-38.6
+
+E
+ne
+
+rg
+y 
+
+In
+ta
+
+ke
+,
+
+ch
+an
+
+ge
+ fr
+
+om
+ b
+
+as
+el
+
+in
+e 
+
+(k
+ca
+
+l)
+
+††
+
+**
+p=0.187
+
+Semaglutide 1 mg
+
+Tirzepatide 15 mg 1 mg
+
+0.25 mg 0.5 mg 1 mg
+
+2.5 mg 5 mg 15 mg7.5 mg 10 mg 12.5 mg
+
+A B
+
+Figure 3—Energy intake during ad libitum buffet-style lunch. Data are LSM ± SE of ANOVA on baseline and MMRM on postbaseline or change from
+baseline values from the pharmacodynamic analysis set. (A) Energy intake during ad libitum buffet-style lunch actual values over time. (B) Energy
+intake during ad libitum buffet-style lunch change from baseline at 28 weeks. *P < 0.05 and **P < 0.001 tirzepatide versus placebo, †P < 0.05
+semaglutide versus placebo, and ††P < 0.001 semaglutide versus placebo for MMRM on change from baseline. LSM, least squares mean; MMRM,
+mixed-model repeated measures.
+
+diabetesjournals.org/care Heise and Associates 1003
+
+https://diabetesjournals.org/care
+
+
+sations in single test meal studies. Int J Obes
+Relat Metab Disord 2000;24:38–48
+7. Samms RJ, Coghlan MP, Sloop KW. How may
+GIP enhance the therapeutic efficacy of GLP-1?
+Trends Endocrinol Metab 2020;31:410–421
+
+8. Blundell J, Finlayson G, Axelsen M, et al.
+Effects of once-weekly semaglutide on appetite,
+energy intake, control of eating, food preference
+and body weight in subjects with obesity. Diabetes
+ObesMetab 2017;19:1242–1251
+
+9. Smith-Ryan AE, Mock MG, Ryan ED, Gerstner
+GR, Trexler ET, Hirsch KR. Validity and reliability of
+a 4-compartment body composition model using
+dual energy x-ray absorptiometry-derived body
+volume. Clin Nutr 2017;36:825–830
+
+1004 Tirzepatide Effects on People With T2D Diabetes Care Volume 46, May 2023
+
+

@@ -1,0 +1,2451 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JCO.22.00032 2546..2565
+
+
+original
+reports
+
+Organ Preservation in Patients With
+Rectal Adenocarcinoma Treated With Total
+Neoadjuvant Therapy
+Julio Garcia-Aguilar, MD, PhD1; Sujata Patil, PhD2; Marc J. Gollub, MD3; Jin K. Kim, MD1; Jonathan B. Yuval, MD1;
+
+Hannah M. Thompson, MD1; Floris S. Verheij, MD1; Dana M. Omer, MD1; Meghan Lee, BS1; Richard F. Dunne, MD4; Jorge Marcet, MD5;
+
+Peter Cataldo, MD6; Blase Polite, MD7; Daniel O. Herzig, MD8; David Liska, MD9; Samuel Oommen, MD10; Charles M. Friel, MD11;
+
+Charles Ternent, MD12; Andrew L. Coveler, MD13; Steven Hunt, MD14; Anita Gregory, MD15; Madhulika G. Varma, MD16;
+
+Brian L. Bello, MD17; Joseph C. Carmichael, MD18; John Krauss, MD19; Ana Gleisner, MD20; Philip B. Paty, MD1; Martin R. Weiser, MD1;
+
+Garrett M. Nash, MD1; Emmanouil Pappou, MD1; José G. Guillem, MD21; Larissa Temple, MD22; Iris H. Wei, MD1; Maria Widmar, MD1;
+
+Sabrina Lin, MS2; Neil H. Segal, MD, PhD23; Andrea Cercek, MD23; Rona Yaeger, MD23; J. Joshua Smith, MD, PhD1;
+
+Karyn A. Goodman, MD24; Abraham J. Wu, MD25; and Leonard B. Saltz, MD23
+
+abstract
+
+PURPOSE Prospective data on the efficacy of a watch-and-wait strategy to achieve organ preservation in patients
+with locally advanced rectal cancer treated with total neoadjuvant therapy are limited.
+
+METHODS In this prospective, randomized phase II trial, we assessed the outcomes of 324 patients with stage II
+or III rectal adenocarcinoma treated with induction chemotherapy followed by chemoradiotherapy (INCT-CRT)
+or chemoradiotherapy followed by consolidation chemotherapy (CRT-CNCT) and either total mesorectal ex-
+cision (TME) or watch-and-wait on the basis of tumor response. Patients in both groups received 4 months of
+infusional fluorouracil-leucovorin-oxaliplatin or capecitabine-oxaliplatin and 5,000 to 5,600 cGy of radiation
+combined with either continuous infusion fluorouracil or capecitabine during radiotherapy. The trial was
+designed as two stand-alone studies with disease-free survival (DFS) as the primary end point for both groups,
+with a comparison to a null hypothesis on the basis of historical data. The secondary end point was TME-free
+survival.
+
+RESULTS Median follow-up was 3 years. Three-year DFS was 76% (95% CI, 69 to 84) for the INCT-CRT group
+and 76% (95% CI, 69 to 83) for the CRT-CNCT group, in line with the 3-year DFS rate (75%) observed
+historically. Three-year TME-free survival was 41% (95%CI, 33 to 50) in the INCT-CRT group and 53% (95%CI,
+45 to 62) in the CRT-CNCT group. No differences were found between groups in local recurrence-free survival,
+distant metastasis-free survival, or overall survival. Patients who underwent TME after restaging and patients who
+underwent TME after regrowth had similar DFS rates.
+
+CONCLUSION Organ preservation is achievable in half of the patients with rectal cancer treated with total
+neoadjuvant therapy, without an apparent detriment in survival, compared with historical controls treated with
+chemoradiotherapy, TME, and postoperative chemotherapy.
+
+J Clin Oncol 40:2546-2556. © 2022 by American Society of Clinical Oncology
+
+INTRODUCTION
+
+Neoadjuvant chemoradiotherapy (CRT), total meso-
+rectal excision (TME), and adjuvant chemotherapy is a
+standard treatment for patients with locally advanced
+rectal adenocarcinoma.1 This multimodality treatment,
+although effective in achieving tumor control, is as-
+sociated with significant morbidity, with bowel, urinary,
+and sexual dysfunction that can impair patients’
+quality of life permanently.2 In addition, many patients
+with distal rectal cancer are left with a permanent
+colostomy.2 As most of the sequelae from the multi-
+modality therapy are related to surgery,3 there is a
+strong incentive to explore nonsurgical treatment
+options.
+
+The excellent survival of patients with a pathologic
+complete response (pCR) to neoadjuvant therapy4
+
+challenges the added benefit of TME for these pa-
+tients.5 Retrospective case series and prospective
+observational studies suggest that organ preservation
+is feasible for selected patients treated with variable
+neoadjuvant CRT regimens6,7; however, prospective
+information on organ preservation for patients with
+locally advanced rectal cancer treated with total
+neoadjuvant therapy (TNT) is limited.7
+
+Delivering chemotherapy before surgery, either before
+or after CRT, is a newer treatment approach referred to
+as TNT, which aims to improve compliance with
+systemic chemotherapy and treat micrometastasis
+
+ASSOCIATED
+CONTENT
+
+See accompanying
+editorial on
+page 2515
+
+Appendix
+
+Protocol
+
+Author affiliations
+and support
+information (if
+applicable) appear
+at the end of this
+article.
+
+Accepted on March
+17, 2022 and
+published at
+ascopubs.org/journal/
+jco on April 28, 2022:
+DOI https://doi.org/10.
+1200/JCO.22.00032
+
+2546 Volume 40, Issue 23
+
+http://ascopubs.org/doi/full/10.1200/JCO.22.00506
+https://ascopubs.org/doi/suppl/10.1200/JCO.22.00032
+http://ascopubs.org/journal/jco
+http://ascopubs.org/journal/jco
+http://ascopubs.org/doi/full/10.1200/JCO.22.00032
+http://ascopubs.org/doi/full/10.1200/JCO.22.00032
+
+
+earlier.8-11 Although preliminary data suggest that the se-
+quence of chemotherapy and CRT affects the rate of tumor
+response,12 the impact on organ preservation is unknown.
+
+We conducted a prospective, randomized, multicenter
+clinical trial (ClinicalTrials.gov identifier: NCT02008656) to
+test the hypothesis that patients with stage II and III rectal
+adenocarcinoma treated with TNT followed by either TME
+or a selective watch-and-wait (WW) approach on the basis
+of tumor response will have better disease-free survival
+(DFS) compared with historical DFS in patients treated with
+a standard therapy of CRT, TME, and intended postoper-
+ative adjuvant chemotherapy. We also evaluated whether
+the organ preservation rates would differ between patients
+who underwent induction chemotherapy (INCT) followed
+by CRT (INCT-CRT) and patients who underwent CRT
+followed by consolidation chemotherapy (CRT-CNCT).
+
+METHODS
+
+Study Design
+
+The Organ Preservation for Rectal Adenocarcinoma
+(OPRA) Trial was a randomized, nonblinded, phase II trial
+conducted at 18 US institutions. The trial protocol (Pro-
+tocol, online only) was approved by the institutional review
+boards of all participating institutions. All participants
+provided written informed consent.
+
+Eligible patients were older than 18 years of age and had
+clinical stage II (T3-4, N0) or stage III (any T, N1-2) biopsy-
+proven rectal adenocarcinoma staged with magnetic res-
+onance imaging (MRI) according to a specified rectal
+cancer protocol, a full colonoscopy, and computed to-
+mography (CT) of the chest, abdomen, and pelvis. Patients
+with recurrent rectal cancer, evidence of distant metastasis
+at diagnosis, or history of pelvic irradiation were excluded
+(Protocol).
+
+Random Assignment
+
+Patients were recruited after required assessment and
+tumor staging and before starting treatment. They were
+randomly assigned to INCT-CRT or CRT-CNCT (Appendix
+Fig A1, online only) using the clinical research database
+CRDBi-Multicenter. Random assignment was stratified per
+institution and accomplished by the method of random
+permuted block.
+
+Procedures
+
+Radiotherapy was planned using a multiple-field technique
+with either intensity-modulated radiotherapy or three-
+dimensional conformal radiotherapy to deliver 4,500 cGy
+in 180 cGy over 25 fractions to regional pelvic nodes (in-
+cluding inguinal nodes for primary tumors involving the
+anus). A total dose of 5,000-5,600 cGy was delivered to the
+primary tumor and involved nodes with either a simulta-
+neous integrated boost and/or a sequential boost. Patients
+received either capecitabine (825 mg/m2 twice a day orally)
+or continuous infusion fluorouracil (FU; 225mg/m2/d) during
+radiotherapy permedical oncologist preference. Patients also
+received eight cycles of infusional fluorouracil, leucovorin,
+and oxaliplatin (FOLFOX; oxaliplatin 85 mg/m2 intravenous
+[IV], leucovorin 400 mg/m2 IV, FU 400 mg/m2 IV push, and
+FU 2,400 mg/m2 over 46-48 hours by continuous infusion,
+repeated on a 14-day cycle) or five cycles of capecitabine
+and oxaliplatin (CAPEOX; oxaliplatin 130 mg/m2 on day 1
+and capecitabine at 1,000 g/m2 twice a day on days 1-14,
+repeated on a 21-day cycle) before or after CRT.
+
+Tumor restaging was performed by digital rectal examina-
+tion, endoscopic examination, MRI, and CT of the chest,
+abdomen, and pelvis, within 8 (64) weeks after TNT. Re-
+sponse was graded as complete, near-complete, or in-
+complete according to previously defined criteria. Patients
+with incomplete clinical response were recommended TME.
+
+CONTEXT
+
+Key Objective
+Can a potentially rectum-preserving treatment approach for locally advanced rectal cancer achieve outcomes similar to
+
+those of standard resection-based treatment?
+Knowledge Generated
+Oncologic outcomes of patients treated with total neoadjuvant therapy and selective watch-and-wait or total mesorectal
+
+excision (on the basis of tumor response) are comparable to the outcomes of patients treated with neoadjuvant therapy
+and total mesorectal excision. The order of chemoradiation and systemic chemotherapy does not affect disease-free
+survival, but chemoradiation followed by consolidation chemotherapy appears to be associated with a higher rate of organ
+preservation.
+
+Relevance
+The potentially rectum-preserving treatment approach for locally advanced rectal cancer appears to be safe in patients with
+
+a complete or near-complete response to total neoadjuvant therapy who are willing to undergo a strict surveillance
+protocol. This treatment approach can help patients maintain a higher quality of life compared with standard resection-
+based treatment.
+
+Journal of Clinical Oncology 2547
+
+OPRA Trial
+
+https://www.clinicaltrials.gov/ct2/show/NCT02008656
+
+
+Patients with clinical complete response (cCR) or near-
+complete response were offered participation in a stan-
+dardizedWW protocol consisting of digital rectal examination
+and flexible sigmoidoscopy every 4 months for the first
+2 years from the time of assessment of response, and every
+6 months for the following 3 years. Rectal MRI was to be
+performed every 6 months for the first 2 years and yearly for
+the following 3 years.13 However, patients were evaluated at
+more frequent intervals if considered necessary by the in-
+vestigators. Patients with sustained clinical response com-
+pared with the previous evaluation were recommended to
+continue the WW follow-up protocol. Patients with signs of
+lack of ongoing response compared with their previous
+evaluation or with signs of tumor regrowth on endoscopy or
+MRI were recommended to undergo TME. Biopsies of the
+primary tumor sites for patients on WW were not required by
+protocol. All patients were to have CT scans of the chest,
+abdomen, and pelvis at least once a year. Patients who had
+TME were surveyed according to current guidelines.1 All
+patients had surveillance colonoscopy according to current
+guidelines.14
+
+Outcomes
+
+The primary end point was DFS, defined as the interval from
+random assignment to the first occurrence of locoregional
+failure, distant metastasis, a new invasive colorectal pri-
+mary cancer, or death from any cause. Locoregional failure
+was defined as either an unresectable rectal primary tumor
+following protocol neoadjuvant treatment, an R2 resection
+for the rectal primary tumor, or recurrence in the primary
+tumor bed after an R0-R1 resection. Tumor regrowth in the
+rectal wall or in regional lymph nodes after a cCR or near-
+complete response and a period of WW was not considered
+a locoregional failure if it was followed by an R0-R1 re-
+section. Organ preservation, defined as TME-free survival
+measured in the intention-to-treat population, was the
+secondary end point. Other secondary outcomes included
+adverse events, local recurrence, distant recurrence, and
+overall survival. Additional end points included bowel,
+urinary, and sexual function and quality of life. Adverse
+events during TNT were measured using the Common
+Terminology Criteria for Adverse Events version 4.0.
+
+ Assessed for eligibility 
+(N = 360)
+
+Excluded from random assignment       (n = 36)
+  Did not meet inclusion criteria              (n = 26)
+  Withdrew consent before random       (n = 10) 
+      assignment  
+
+Randomly assigned (n = 324)
+
+INCT-CRT patients restaged (n = 146)
+
+Assigned to INCT-CRT group                          (n = 158)       
+Withdrew consent before initiating INCT         (n = 2)
+Withdrew consent during INCT                         (n = 5)
+Disease progression during INCT                     (n = 1)
+Emergency TME during INCT                            (n = 1) 
+Died during INCT                                                (n = 3)    
+
+Assigned to CRT-CNCT group                               (n = 166)
+Withdrew consent before initiating CNCT             (n = 3)
+Withdrew consent during CNCT                             (n = 2) 
+Died during CNCT                                                     (n = 3)
+
+CRT-CNCT patients restaged (n = 158)
+
+NOM
+recommended (n = 105)
+
+Continued
+surveillance (n = 63)
+
+Continued
+surveillance (n = 87)
+
+NOM
+recommended (n = 120)
+
+Primary and
+secondary
+analyses
+
+Surgery                        (n = 41)
+recommended
+Underwent TME       (n = 38)
+Underwent LE             (n = 2)      
+Declined surgery        (n = 1)
+
+Developed local regrowth         (n = 42)
+during surveillance
+Underwent TME                       (n = 35)
+Underwent LE                            (n = 2)
+Declined surgery                       (n = 5) 
+
+Developed local regrowth            (n = 33)
+during surveillance
+Underwent TME                          (n = 27) 
+Underwent LE                               (n = 3)   
+Declined surgery                           (n = 1)
+Surgery withheld                          (n = 2)
+
+     because of disease progression
+
+Surgery                            (n = 38)     
+recommended              
+Underwent TME           (n = 33)
+
+  Underwent LE                  (n = 1)
+  Declined surgery            (n = 3)  
+  Surgery withheld           (n = 1)
+
+  because of disease
+    progression
+
+FIG 1. CONSORT diagram illustrating the eligibility, random assignment, outcomes, and follow-up of the trial cohort. Primary and secondary analyses of
+the 158 INCT-CRT and 166 CRT-CNCT patients followed an intention-to-treat principle. CRT-CNCT, chemoradiotherapy followed by consolidation
+chemotherapy; INCT-CRT, induction chemotherapy followed by chemoradiotherapy; LE, local excision; NOM, nonoperative management; TME, total
+mesorectal excision.
+
+2548 © 2022 by American Society of Clinical Oncology Volume 40, Issue 23
+
+Garcia-Aguilar et al
+
+
+
+Statistical Analysis
+
+The trial was designed as two stand-alone phase II studies
+with similar hypotheses. Power and sample size calculations
+were based on an estimated 75% 3-year DFS for similar
+patients treated according to a standard approach of che-
+moradiation and TME.4 We hypothesized that 85% of pa-
+tients with locally advanced rectal cancer treated with TNT
+and selective organ preservation would be alive and disease-
+free at 3 years. Each group was designed to discriminate
+between 3-year DFS rates of 75% and 85%. Assuming
+accrual rates of 2-4 per group and month, and a two-sided
+type I error of 5%, we required 101 patients evaluable for the
+primary end point per group to have 85% power.15
+
+For the secondary end point, we used pCR rates from
+previous data, 20% for the INCT-CRT group and 35% for
+the CRT-CNCT group (Protocol). If both arms met the end
+point in primary objective, we planned to use the organ
+preservation rate to determine the regimen for further
+study, using a pick-the-winner strategy. We estimated that
+the 202 patients (plus 10% to account for dropout) re-
+quired for the primary aim would be sufficient to detect
+differences in organ preservation rates. Following the ac-
+crual of the first 101 evaluable patients in each group, and
+
+after finding a higher rate of complete response than an-
+ticipated in both arms, the study consortium elected to
+allow accrual and random assignment to continue to
+provide additional data for better estimates of survival and
+organ preservation rates (Protocol, Amendment 18A). All
+analyses done on the final cohort were also performed on
+the initial cohort: 101 evaluable patients in the INCT-CRT
+group and 106 evaluable patients in the CRT-CNCT group.
+
+DFS, organ preservation, local recurrence-free survival,
+distant metastasis-free survival, and overall survival were
+analyzed using Cox regression and summarized using
+Kaplan-Meier curves. Tumor regrowth from restaging for
+patients with cCR who were offered WW was summarized
+using similar time-to-event. Treatment compliance and ad-
+verse events were summarized by group. Additional analyses
+directly comparing clinical outcomes using the log-rank test
+were conducted. Multivariate Cox regression models were fit
+to the full cohort. All analyses were conducted in R.
+
+RESULTS
+
+From April 12, 2014, to March 30, 2020, 360 patients were
+registered to the trial at 18 centers (Appendix Table A1,
+online only). Of the 324 eligible patients, 158 were
+
+TABLE 1. Baseline Demographics and Clinical Characteristics of the Full Cohort
+Characteristic INCT-CRT Group (n 5 158) CRT-CNCT Group (n 5 166)
+
+Median age, year (IQR) 59 (51-68) 56 (49-67)
+
+Female, No. (%) 55 (35) 64 (39)
+
+Race, No. (%)
+
+White 130 (82.3) 143 (86.1)
+
+Black 10 (6.3) 8 (4.8)
+
+Asian 10 (6.3) 7 (4.2)
+
+Other 3 (1.9) 1 (0.6)
+
+Unknown 5 (3.2) 7 (4.2)
+
+Ethnicity, No. (%)
+
+Hispanic or Latino 7 (4) 11 (7)
+
+Non-Hispanic 151 (96) 154 (93)
+
+Unknown 0 (0) 1 (0.06)
+
+cT classification, No. (%)
+
+cT1-2 11 (7) 21 (13)
+
+cT3 124 (78) 126 (76)
+
+cT4 23 (15) 19 (11)
+
+cN classification, No. (%)
+
+cN-negative 47 (30) 47 (28)
+
+cN-positive 111 (70) 119 (72)
+
+Median tumor distance from anal verge, cm (IQR) 4.3 (3.0-6.3) 4.5 (3.0-6.5)
+
+High-grade tumor, No. (%) 7 (4) 8 (5)
+
+NOTE. Percentages may not total 100 because of rounding. There were no significant differences between the two groups with respect to the baseline
+patient characteristics.
+Abbreviations: cN, clinical nodal classification; CRT-CNCT, chemoradiotherapy followed by consolidation chemotherapy; cT, clinical tumor classification;
+
+INCT-CRT, induction chemotherapy followed by chemoradiotherapy; IQR, interquartile range.
+
+Journal of Clinical Oncology 2549
+
+OPRA Trial
+
+
+
+randomly assigned to the INCT-CRT group and 166 to the
+CRT-CNCT group (Fig 1). Most patients were males and
+had stage III tumors, located at, 5 cm from the anal verge
+on average. The baseline and clinical characteristics were
+well balanced between the groups (Table 1, Appendix Table
+A2, online only). Twelve patients withdrew consent after
+random assignment, before or after starting neoadjuvant
+therapy. Most patients in both groups started the assigned
+treatment (Table 2, Appendix Table A3, online only). The
+proportion of patients receiving the number of prescribed
+cycles of systemic chemotherapy was similar in both
+groups. Overall, more patients received FOLFOX compared
+with CAPEOX, but the proportion of patients receiving either
+was similar in both groups. The median dose of radiation
+was also similar in both groups. The time intervals from the
+start of treatment to restaging and from the end of treatment
+to restaging were similar in both groups. The time interval
+from the end of CRT to tumor restaging was longer in the
+CRT-CNCT group compared with the INCT-CRT group by
+study design (Table 2, Appendix Fig A1).
+
+Six patients (2%), three in each group, died during TNT
+(Fig 1, Table 2), five from treatment-related toxicity and one
+from causes unrelated to treatment. Two patients in the
+INCT-CRT group never had restaging, one because of tumor
+perforation requiring emergency surgery and one because
+
+of disease progression. There was no difference in the rate of
+adverse events between treatment groups (Table 2).
+
+The data for all outcomes were available up to February 10,
+2021. Median follow-up for patients who were alive and
+event-free at the time of analysis was 3 years (interquartile
+range [IQR], 1.84-4.06). The event for the primary end
+point, DFS, occurred in 75 patients, 36 in the INCT-CRT
+group and 39 in the CRT-CNCT group. The 3-year DFS
+rates, 76% (95% CI, 69 to 84) for the INCT-CRT group and
+76% (95% CI, 69 to 83) in the CRT-CNCT group, did not
+differ when compared with the historical 3-year DFS rate of
+75% (Fig 2, Appendix Fig A2A, online only). Therefore, the
+primary end point of the study, an improvement in DFS
+among patients treated with TNT and selective WW com-
+pared with historical controls, was not met. Among the 75
+observed events for DFS, 41 were distant metastasis, 11
+were local recurrence, 10 were persistent disease events,
+and 10 were death from any cause. The rates of local
+recurrence-free survival (94% [95% CI, 89 to 99] for INCT
+and 94% [95% CI, 90 to 98] for CNCT) and distant
+metastasis-free survival (84% [95% CI, 77 to 91] for INCT
+and 82% [95% CI, 75 to 89] for CNCT) were similar in both
+groups (Fig 2). Overall survival is provided, but these data
+will require additional follow-up. Clinical nodal metastasis
+(cN1) on baseline MRI was the only variable associated
+
+TABLE 2. Total Neoadjuvant Therapy Results for the Full Cohort
+Characteristic INCT-CRT Group (n 5 158) CRT-CNCT Group (n 5 166)
+
+Started systemic chemotherapy, No. (%) 156 (99) 156 (94)
+
+Received FOLFOX 117 (74) 116 (70)
+
+Received eight cycles of FOLFOXa 101/117 (86) 97/116 (84)
+
+Received CAPEOX 33 (21) 34 (20)
+
+Received five cycles of CAPEOXa 28/33 (85) 30/34 (88)
+
+Received FOLFOX and CAPEOX 6 (4) 6 (4)
+
+Started radiotherapy, No. (%) 147 (93) 163 (98)
+
+Received concurrent FU or capecitabine 144 (98) 163 (100)
+
+No concurrent chemotherapy 3 (2) 0 (0)
+
+Median radiation dose, cGy (IQR) 5,400 (5,040-5,400) 5,400 (5,040-5,600)
+
+Median time from treatment initiation to restaging, weeks (IQR) 34.9 (32.6-36.5) 34.0 (32.0-37.0)
+
+Median time from treatment completion to restaging, weeks (IQR) 8.0 (6.5-9.4) 7.7 (5.1-9.4)
+
+Median time from completion of chemoradiation to restaging, weeks (IQR) 8.0 (6.5-9.4) 28.5 (26.4-31.4)
+
+Adverse events (grade 31) during TNT, No. (%)b 64 (41) 57 (34)
+
+Grade 3 54 (34) 52 (31)
+
+Grade 4 17 (11) 11 (7)
+
+Grade 5 2 (1) 3 (2)
+
+NOTE. Percentages may not total 100 because of rounding.
+Abbreviations: CAPEOX, capecitabine and oxaliplatin; cGy, centigray; CRT-CNCT, chemoradiotherapy followed by consolidation chemotherapy; FOLFOX,
+
+infusional fluorouracil, leucovorin, and oxaliplatin; FU, fluorouracil; INCT-CRT, induction chemotherapy followed by chemoradiotherapy; IQR, interquartile
+range; TNT, total neoadjuvant therapy.
+
+aPatients who completed the intended cycles of both fluoropyrimidine-based chemotherapy as well as oxaliplatin. 81 cycles of FOLFOX or 51 cycles of
+CAPEOX. Patients who received a mix of FOLFOX and CAPEOX were not considered to have completed the intended treatment course.
+
+bHighest grade of adverse event per patient is reported.
+
+2550 © 2022 by American Society of Clinical Oncology Volume 40, Issue 23
+
+Garcia-Aguilar et al
+
+
+
+with DFS in univariable and multivariable analyses (hazard
+ratio [HR] 2.26; 95% CI, 1.23 to 4.17).
+
+Of 304 patients restaged at the end of TNT, 79 (26%) were
+recommended to undergo TME; 41 of 146 (28%) in the
+INCT-CRT group and 38 of 158 (24%) in the CRT-CNCT
+group. The remaining 225 (74%) patients, 105/146 (71%)
+in the INCT-CRT and 120/158 (76%) in the CRT-CNCT,
+were offered WW (Fig 1). Of the 225 patients initially en-
+tered in the WW protocol, 42/105 (40%) in the INCT-CRT
+group and 33/120 (27%) in the CRT-CNCT group
+
+developed tumor regrowth during follow-up (Figs 1 and 3A).
+All patients diagnosed with tumor regrowth were recom-
+mended for TME. For the intention-to-treat organ preser-
+vation analysis, patients who had local excision, patients
+who refused TME, and patients with TME withheld because
+of distant progression were all censored as having TME.
+Patients who refused TME were also censored as having
+persistent disease for the DFS analysis. The proportion of
+patients who preserved the rectum at 3 years for the
+intention-to-treat population was 53% (95% CI, 45 to 62)
+
+C
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+Lo
+ca
+
+l R
+ec
+
+ur
+re
+
+nc
+e-
+
+Fr
+ee
+
+ S
+ur
+
+vi
+va
+
+l
+
+INCT-CRT   7 events
+
+CRT-CNCT  9 events
+
+0 1 2 3 4 5 6
+
+Time Since Treatment Start (years)
+INCT 158 141 109 74 38 11
+
+166 154 115 88 43 15
+
+Log-rank P = .78
+
+CNCT
+
+D
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+Di
+st
+
+an
+t M
+
+et
+as
+
+ta
+si
+
+s-
+Fr
+
+ee
+ S
+
+ur
+vi
+
+va
+l
+
+Log-rank P = .67
+
+0 1 2 3 4 5 6
+
+Time Since Treatment Start (years)
+INCT 158 137 95 64 33 11
+
+166 148 103 78 38 13
+
+INCT-CRT   22 events
+
+CRT-CNCT  27 events
+
+CNCT
+
+A    
+DF
+
+S
+
+INCT-CRT   36 events
+
+CRT-CNCT  39 events
+
+Log-rank P = .98
+
+0 1 2 3 4 5 6
+
+Time Since Treatment Start (years)
+INCT 158 137 95 63 32 10
+
+166 145 101 75 38 13
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+CNCT
+
+B    
+
+Pr
+op
+
+or
+tio
+
+n 
+Al
+
+iv
+e
+
+Log-rank P = .39
+
+0 1 2 3 4 5 6
+
+Time Since Treatment Start (years)
+INCT 158 141 110 78 42 13
+
+166 154 116 93 44 16
+
+INCT-CRT   15 deaths
+
+CRT-CNCT  12 deaths
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+CNCT
+
+No. at risk: No. at risk:
+
+No. at risk: No. at risk:
+
+FIG 2. Kaplan-Meier estimates of (A) DFS, (B) overall survival, (C) local recurrence-free survival, and (D) distant metastasis-free survival in the
+intention-to-treat population by study group. CRT-CNCT, chemoradiotherapy followed by consolidation chemotherapy; DFS, disease-free survival;
+INCT-CRT, induction chemotherapy followed by chemoradiotherapy.
+
+Journal of Clinical Oncology 2551
+
+OPRA Trial
+
+
+
+for the CRT-CNCT group and 41% (95% CI, 33 to 50) for
+the INCT-CRT group (P 5 .01; Fig 3B and Appendix Fig
+A2B). Clinical T3 (HR 2.05; 1.06 to 3.97) or T4 (HR 2.19;
+1.02 to 4.70) compared with T1 or T2, clinical nodal
+metastasis (HR 1.84; 1.22 to 2.78), and INCT-CRT group
+(HR 1.43; 1.03 to 2.00) were associated with time to TME in
+multivariable Cox regression analysis. The proportion of
+patients who actually preserved the rectum (TME-free
+
+survival) was 60% (95% CI, 52 to 68) in the CRT-CNCT
+group and 47% (95% CI, 39 to 56) in the INCT-CRT group
+(P 5 .02; Fig 3C).
+
+One patient in the INCT-CRT group required emergency
+TME before finishing neoadjuvant therapy. Of the 304
+patients who underwent tumor restaging, 154 patients (79
+at restaging for incomplete response and 75 during WW for
+tumor regrowth) were recommended TME, but only 133
+
+33 events
+
+42 events
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+Re
+
+gr
+ow
+
+th
+
+0 1 2 3 4 5 6
+
+Time Since End of NAT Assessment (years)
+
+INCT
+
+CNCT
+
+105 58 38 25 7 1
+
+120 82 63 27 10 3
+
+Log-rank P = .03
+
+A
+
+INCT-CRT
+
+CRT-CNCT
+
+No. at risk:
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+TM
+E-
+
+Fr
+ee
+
+ S
+ur
+
+vi
+va
+
+l
+
+INCT-CRT
+
+CRT-CNCT
+
+Log-rank P = .02
+
+0 1 2 3 4 5 6
+
+Time Since Treatment Start (years)
+
+INCT
+
+CNCT
+
+158 102 59 38 23 7 1
+
+166 123 85 63 29 12 3
+
+60 events
+
+74 events
+
+C
+
+No. at risk:
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+TM
+E-
+
+Fr
+ee
+
+ S
+ur
+
+vi
+va
+
+l
+
+Log-rank P = .016
+
+0 1 2 3 4 5 6
+
+Time Since Treatment Start (years)
+
+INCT
+
+CNCT
+
+158 99 54 36 21 6 1
+
+166 118 81 59 25 10 2
+
+71 events
+
+85 events
+
+B
+
+INCT-CRT
+
+CRT-CNCT
+
+No. at risk:
+
+FIG 3. Kaplan-Meier estimates of (A) time to regrowth in watch-and-wait patients, (B) TME-free survival by intention to treat, and (C) for patients who
+underwent TME. CRT-CNCT, chemoradiotherapy followed by consolidation chemotherapy; INCT-CRT, induction chemotherapy followed by
+chemoradiotherapy; NAT, neoadjuvant therapy; TME, total mesorectal excision.
+
+2552 © 2022 by American Society of Clinical Oncology Volume 40, Issue 23
+
+Garcia-Aguilar et al
+
+
+
+had TME (71 at restaging for incomplete response and 62
+during WW for tumor regrowth; Fig 1). The DFS rates were
+similar for patients having TME after restaging and for pa-
+tients having TME after regrowth, both for the intention-to-
+treat population and for the patients who underwent TME
+(Fig 4). The median time from the day of restaging to the day
+of TME was 7 (IQR, 3-9.5) weeks in patients recommended
+TME at restaging and 30 (IQR, 20-103) weeks in patients
+recommended TMEafter regrowth. Six patients in each group
+have not reached the first follow-up clinical assessment after
+TME. The numbers of patients having TME at restaging or
+after tumor regrowth who developed local recurrence and
+distant metastasis after surgery, both for the intention-to-treat
+and true TME analyses, are presented in Appendix Table A4
+(online only). The rate of sphincter-saving surgery was higher
+in patients having TME at restaging (39/71, 55%) compared
+with patients having TME after regrowth (27/62, 44%), but
+the difference was not statistically significant (P5 .2). There
+was no statistically significant difference in the rate of
+sphincter-saving surgery between treatment groups. The
+pathologic outcomes for patients having surgery, both local
+excision and TME, are presented in Table 3.
+
+DISCUSSION
+
+For patients with locally advanced rectal cancer, a treat-
+ment approach including selective WW for patients with a
+cCR to TNT provides similar DFS compared with historical
+
+control patients treated with neoadjuvant CRT, TME, and
+intended adjuvant chemotherapy. Although the primary
+end point of 3-year DFS rates in both arms did not reach the
+upper critical value specified by the study design, they were
+in line with historical controls and are within the range
+reported in recent prospective clinical trials.10,11,16-19 We
+also found that many patients treated with TNT, approxi-
+mately half of those receiving CRT-CNCT, achieved a
+sustained cCR and preserved the rectum at 3 years.
+
+The failure to reject the null hypothesis has several potential
+explanations. First are potential differences in patient
+characteristics such as tumor stage and distance from the
+anal verge between the study population and historical
+controls. Second, it is possible that TNT may not improve
+DFS compared with standard CRT, TME, and postoperative
+chemotherapy. The GCR-3 trial, a small phase II study,
+failed to demonstrate a difference in pCR or survival in
+patients with stage II and III rectal adenocarcinoma ran-
+domly assigned to chemotherapy before or after CRT and
+TME.20 By contrast, two recent large studies using different
+TNT regimens reported lower disease-related treatment
+failure or DFS in the experimental arms compared with the
+standard arm of chemoradiation, TME surgery, and post-
+operative chemotherapy.10,11 However, neither study
+showed improved overall survival in the experimental
+compared with the standard arm.10,11 Alternatively, it is
+possible that the WW strategy had a detrimental effect on
+
+A
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+DF
+
+S
+
+TME at restaging
+
+TME at regrowth
+
+Log-rank P = .40
+
+0 1 2 3 4 5 6
+
+Time Since TME (years)
+
+Restaging
+
+Regrowth
+
+69 43 27 13 2 1
+
+61 36 18 7 4 1
+
+17 events
+
+17 events
+
+No. at risk:
+
+B
+
+TME at restaging
+
+TME at regrowth
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+Time Since TME (years)
+
+Log-rank P = .50
+
+17 events
+
+16 events
+
+DF
+S
+
+0 1 2 3 4 5 6
+
+Restaging
+
+Regrowth
+
+64 40 24 12 2 1
+
+51 32 16 5 2 64
+
+No. at risk:
+
+FIG 4. Kaplan-Meier estimates of DFS for (A) patients recommended TME after restaging and after tumor regrowth by intention to treat and (B) patients
+who actually underwent TME. Patients who developed distant metastasis before TME was recommended (three at restaging and six at regrowth) and
+patients in whom TME was not performed because of disease progression found at surgery (one at restaging and two at regrowth) are not included in the
+analysis. Six patients in each group have not reached the first follow-up clinical assessment after TME. DFS, disease-free survival; TME, total mesorectal
+excision.
+
+Journal of Clinical Oncology 2553
+
+OPRA Trial
+
+
+
+patient DFS. A definitive proof of the safety and efficacy of
+organ preservation in rectal adenocarcinoma would require
+a large phase III trial with a noninferiority design, where
+patients achieving a cCR to TNT would be randomly
+assigned to TME or a WW strategy, although such a trial
+would be extremely unlikely to accrue.
+
+We found that close to half of the patients treated with TNT
+achieved a sustained cCR and preserved the rectum. Al-
+though the median follow-up is still relatively short, and
+more patients may develop regrowth and require surgery in
+the future, the time to TME curve in this study and pre-
+viously reported retrospective series suggests that the
+overwhelming majority of cases of regrowth occur during
+the first 2 years after completion of neoadjuvant therapy.6
+
+The organ preservation rate in the OPRA trial was sub-
+stantially higher than the pCR rates reported in recent
+clinical trials for patients with locally advanced rectal ade-
+nocarcinoma treated with TNT and TME.8-12 The explana-
+tion for this is not clear. These variations in tumor response
+could be attributed to differences in patient inclusion criteria
+or treatment plans, but they can also be attributed to the
+long interval from the end of TNT to the assessment of tumor
+response and to offering WW to patients with near-complete
+clinical response. In addition, almost 10% of patients un-
+dergoing TME had a pCR (no residual cancer cells in the
+surgical specimens), further highlighting rectal cancer re-
+sponsiveness to TNT, as well as the difficulty in identifying
+patients with a complete response.
+
+The higher organ preservation rate in patients treated with
+CRT-CNCT compared with INCT-CRT is consistent with the
+results of the CAO/ARO/AIO-12 trial, which reported a higher
+rate of pathologic complete response in patients with rectal
+cancer treated with CRT followed by three cycles of FOLFOX
+and TME compared with patients treated with three cycles of
+FOLFOX followed by CRT and TME.12 Similar to the CAO/
+ARO/AIO-12 trial, the difference in organ preservation in the
+OPRA trial cannot be attributed to differences in total dose of
+radiation or chemotherapy received, in total treatment time,
+or in time intervals from the initiation and from the end of
+neoadjuvant therapy to assessment of tumor response. The
+different time interval from the end of chemoradiation to the
+assessment of response has been considered a potential
+factor contributing to the difference in organ preservation
+between groups. However, the results of the trial are not
+totally consistent with this interpretation, as the proportion of
+patients recommended for WW at restaging plus the pro-
+portion of patients with pCR among those who had surgery
+immediately after restaging did not differ (78% CRT-CNCT v
+75% INCT-CRT). By contrast, the higher rate of tumor
+regrowth in the INCT-CRT group (40%) compared with the
+CRT-CNCT group (27%) suggests that the difference in
+organ preservationmay be due, at least in part, to differences
+in tumor regrowth and not in the proportion of patients
+initially recommended for WW.
+
+A major perceived drawback of the WW strategy is the
+potential risk of tumor spread among patients with an
+
+TABLE 3. Treatments and Pathology Outcomes for the Full Cohort
+Characteristic INCT-CRT Group (n 5 158) CRT-CNCT Group (n 5 166)
+
+Surgery performed, No. (%) 78 (49) 64 (37)
+
+TME 74 (95) 60 (94)
+
+TAE 4 (5) 4 (6)
+
+ypT classification, No. (%)a
+
+T0 6 (8) 6 (9)
+
+Tis 3 (4) 3 (5)
+
+T1 9 (12) 2 (3)
+
+T2 26 (33) 19 (30)
+
+T3 30 (38) 31 (48)
+
+T4 4 (5) 3 (5)
+
+ypN classification, No. (%)b
+
+N-negative 63 (85) 40 (73)
+
+N-positive 11 (15) 16 (27)
+
+Surgical margin status, No. (%)b
+
+R0 67 (91) 53 (88)
+
+R1 7 (9) 7 (12)
+
+NOTE. Percentages may not total 100 because of rounding.
+Abbreviations: CRT-CNCT, chemoradiotherapy followed by consolidation chemotherapy; INCT-CRT, induction chemotherapy followed by
+
+chemoradiotherapy; TAE, transanal excision; TME, total mesorectal excision; ypN, pathologic nodal classification; ypT, pathologic tumor classification.
+aPatients who underwent TME or TAE are reported.
+bOnly patients who underwent TME are reported.
+
+2554 © 2022 by American Society of Clinical Oncology Volume 40, Issue 23
+
+Garcia-Aguilar et al
+
+
+
+apparent complete or near-complete clinical response who
+are initially observed and later develop tumor regrowth. We
+found no significant difference in outcomes among patients
+recommended for TME immediately after restaging com-
+pared with WW patients recommended for TME after tumor
+regrowth. The results were similar in the intention-to-treat
+population and in the patients who actually had TME. Our
+results are consistent with a report from Dr Habr-Gama’s
+group who described no survival detriment in patients who
+had delayed surgery for suspected cCR.21
+
+In conclusion, a treatment strategy including TNT and
+selective WW or TME on the basis of tumor response
+allows organ preservation in almost half of the patients
+with locally advanced rectal adenocarcinoma without an
+apparent adverse impact on oncologic outcomes. Al-
+though the sequence of the CRT and systemic chemo-
+therapy did not affect DFS, delivering CRT before systemic
+chemotherapy appeared to result in a higher rate of organ
+preservation compared with delivering CRT after systemic
+chemotherapy.
+
+AFFILIATIONS
+1Department of Surgery, Colorectal Service, Memorial Sloan Kettering
+Cancer Center, New York, NY
+2Department of Epidemiology and Biostatistics, Memorial Sloan
+Kettering Cancer Center, New York, NY
+3Department of Radiology, Memorial Sloan Kettering Cancer Center, New
+York, NY
+4Department of Medicine, Wilmot Cancer Institute, University of
+Rochester Medical Center, Rochester, NY
+5Division of Colon and Rectal Surgery, Department of Surgery, University
+of South Florida, Tampa, FL
+6Division of General Surgery, Department of Surgery, University of
+Vermont, Burlington, VT
+7Department of Medicine, Comprehensive Cancer Center, University of
+Chicago, Chicago, IL
+8Division of Gastrointestinal and General Surgery, Oregon Health and
+Science University, Portland, OR
+9Department of Colorectal Surgery, Cleveland Clinic, Cleveland, OH
+10Division of Gastrointestinal Oncology, John Muir Cancer Institute, John
+Muir Health, Walnut Creek, CA
+11Division of General Surgery, Department of Surgery, University of
+Virginia, Charlottesville, VA
+12Department of Surgery, Colorectal Service at Bergan Mercy Medical
+Center, Omaha, NE
+13Department of Medicine, Fred Hutch Cancer Center, University of
+Washington, Seattle, WA
+14Department of Surgery, Washington University School of Medicine, St
+Louis, MO
+15Department of Surgery, St Joseph Hospital Orange County, Orange, CA
+16Section of Colon and Rectal Surgery, Department of Surgery, University
+of California, San Francisco, San Francisco, CA
+17Division of Colorectal Surgery, Department of Surgery, Medstar
+Washington Hospital Center, Washington, DC
+18Division of Colon and Rectal Surgery, Department of Surgery, University
+of California, Irvine, Irvine, CA
+19Department of Medicine, Rogel Cancer Center at the University of
+Michigan, Ann Arbor, MI
+20Division of Surgical Oncology, Department of Surgery, University of
+Colorado, Denver, CO
+21Division of Gastrointestinal Surgery, Department of Surgery, University
+of North Carolina, Chapel Hill, NC
+22Division of Colorectal Surgery, Department of Surgery, University of
+Rochester Medical Center, Rochester, NY
+23Department of Medicine, Memorial Sloan Kettering Cancer Center,
+New York, NY
+24Department of Radiation Oncology, Tisch Cancer Institute, Icahn
+School of Medicine at Mount Sinai, New York, NY
+25Department of Radiation Oncology, Memorial Sloan Kettering Cancer
+Center, New York, NY
+
+CORRESPONDING AUTHOR
+Julio Garcia-Aguilar, MD, PhD, Colorectal Service, Department of
+Surgery, Memorial Sloan Kettering Cancer Center, 1275 York Ave, New
+York, NY 10065; Twitter: @DrGarciaAguilar; e-mail: garciaaj@
+mskcc.org.
+
+DISCLAIMER
+The funders of the study had no role in study design, data collection, data
+analysis, data interpretation, or writing of the report.
+
+PRIOR PRESENTATION
+Presented in part at the ASCO Virtual Annual Meeting, May 29-31, 2020.
+
+SUPPORT
+Supported by grants from the National Cancer Institute of the
+United States R01CA182551, P30CA008748, and T32 CA009501.
+
+CLINICAL TRIAL INFORMATION
+NCT02008656
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF
+INTEREST
+Disclosures provided by the authors are available with this article at DOI
+https://doi.org/10.1200/JCO.22.00032.
+
+DATA SHARING STATEMENT
+Upon publication, deidentified participant data will be made available
+with a signed data access agreement after approval of a proposal e-mailed
+to the corresponding author.
+
+AUTHOR CONTRIBUTIONS
+Conception and design: Julio Garcia-Aguilar, Sujata Patil, Marc J. Gollub,
+Jorge Marcet, Peter Cataldo, Daniel O. Herzig, Samuel Oommen, Charles
+M. Friel, Steven Hunt, Brian L. Bello, Philip B. Paty, Martin R. Weiser,
+Garrett M. Nash, Larissa Temple, Andrea Cercek, J. Joshua Smith, Karyn
+A. Goodman, Abraham J. Wu, Leonard B. Saltz
+Administrative support: Meghan Lee, Philip B. Paty
+Provision of study materials or patients: Julio Garcia-Aguilar, Peter Cataldo,
+David Liska, Charles M. Friel, Charles Ternent, Andrew L. Coveler, Anita
+Gregory, John Krauss, Philip B. Paty, Martin R. Weiser, Garrett M. Nash,
+Larissa Temple, Karyn A. Goodman, Leonard B. Saltz
+Collection and assembly of data: Marc J. Gollub, Jin K. Kim, Jonathan B.
+Yuval, Hannah M. Thompson, Floris S. Verheij, Dana M. Omer, Meghan
+Lee, Richard F. Dunne, Jorge Marcet, Peter Cataldo, Blase Polite, Daniel
+O. Herzig, David Liska, Samuel Oommen, Charles Ternent, Andrew L.
+Coveler, Steven Hunt, Anita Gregory, Madhulika G. Varma, Brian L. Bello,
+Joseph C. Carmichael, John Krauss, Ana Gleisner, Philip B. Paty, Martin
+R. Weiser, Emmanouil Pappou, Iris H. Wei, Maria Widmar, Andrea
+
+Journal of Clinical Oncology 2555
+
+OPRA Trial
+
+mailto:@DrGarciaAguilar
+mailto:garciaaj@mskcc.org
+mailto:garciaaj@mskcc.org
+https://www.clinicaltrials.gov/ct2/show/NCT02008656
+https://ascopubs.org/doi/full/10.1200/JCO.22.00032
+
+
+Cercek, Rona Yaeger, J. Joshua Smith, Karyn A. Goodman, Abraham
+J. Wu, Leonard B. Saltz
+Data analysis and interpretation: Julio Garcia-Aguilar, Sujata Patil, Marc
+J. Gollub, Jin K. Kim, Hannah M. Thompson, Floris S. Verheij, Dana M.
+Omer, Richard F. Dunne, JorgeMarcet, Peter Cataldo, Blase Polite, David
+Liska, Samuel Oommen, Andrew L. Coveler, Brian L. Bello, Joseph C.
+Carmichael, Ana Gleisner, Martin R. Weiser, Garrett M. Nash, Emmanouil
+Pappou, José G. Guillem, Maria Widmar, Sabrina Lin, Neil H. Segal,
+
+Andrea Cercek, Rona Yaeger, J. Joshua Smith, Abraham J. Wu, Leonard
+B. Saltz
+Manuscript writing: All authors
+Final approval of manuscript: All authors
+Accountable for all aspects of the work: All authors
+
+ACKNOWLEDGMENT
+Collaborators who made valuable contributions to this study are listed in
+Appendix 1 (online only).
+
+REFERENCES
+1. Benson AB, Venook AP, Al-Hawary MM, et al: NCCN guidelines insights: Rectal cancer, version 6.2020. J Natl Compr Canc Netw 18:806-815, 2020
+
+2. Kang SB, Cho JR, Jeong SY, et al: Quality of life after sphincter preservation surgery or abdominoperineal resection for low rectal cancer (ASPIRE): A long-term
+prospective, multicentre, cohort study. Lancet Reg Health West Pac 6:100087, 2021
+
+3. Peeters KC, van de Velde CJ, Leer JW, et al: Late side effects of short-course preoperative radiotherapy combined with total mesorectal excision for rectal cancer:
+Increased bowel dysfunction in irradiated patients—A Dutch colorectal cancer group study. J Clin Oncol 23:6199-6206, 2005
+
+4. Maas M, Nelemans PJ, Valentini V, et al: Long-term outcome in patients with a pathological complete response after chemoradiation for rectal cancer: A pooled
+analysis of individual patient data. Lancet Oncol 11:835-844, 2010
+
+5. Habr-Gama A, Perez RO, Nadalin W, et al: Operative versus nonoperative treatment for stage 0 distal rectal cancer following chemoradiation therapy: Long-term
+results. Ann Surg 240:711-718, 2004
+
+6. Van der Valk MJM, Hilling DE, Bastiaannet E, et al: Long-term outcomes of clinical complete responders after neoadjuvant treatment for rectal cancer in the
+International Watch & Wait Database (IWWD): An international multicentre registry study. Lancet 391:2537-2545, 2018
+
+7. Appelt AL, Pløen J, Harling H, et al: High-dose chemoradiotherapy and watchful waiting for distal rectal cancer: A prospective observational study. Lancet Oncol
+16:919-927, 2015
+
+8. Cercek A, Roxburgh CSD, Strombom P, et al: Adoption of total neoadjuvant therapy for locally advanced rectal cancer. JAMA Oncol 4:e180071, 2018
+
+9. Garcia-Aguilar J, Chow OS, Smith DD, et al: Effect of adding mFOLFOX6 after neoadjuvant chemoradiation in locally advanced rectal cancer: A multicentre,
+phase 2 trial. Lancet Oncol 16:957-966, 2015
+
+10. Bahadoer RR, Dijkstra EA, van Etten B, et al: Short-course radiotherapy followed by chemotherapy before total mesorectal excision (TME) versus preoperative
+chemoradiotherapy, TME, and optional adjuvant chemotherapy in locally advanced rectal cancer (RAPIDO): A randomised, open-label, phase 3 trial. Lancet
+Oncol 22:29-42, 2021
+
+11. Conroy T, Bosset JF, Etienne PL, et al: Neoadjuvant chemotherapy with FOLFIRINOX and preoperative chemoradiotherapy for patients with locally advanced
+rectal cancer (UNICANCER-PRODIGE 23): A multicentre, randomised, open-label, phase 3 trial. Lancet Oncol 22:702-715, 2021
+
+12. Fokas E, Allgäuer M, Polat B, et al: Randomized phase II trial of chemoradiotherapy plus induction or consolidation chemotherapy as total neoadjuvant therapy
+for locally advanced rectal cancer: CAO/ARO/AIO-12. J Clin Oncol 37:3212-3222, 2019
+
+13. Smith JJ, Chow OS, GollubMJ, et al: Organ preservation in rectal adenocarcinoma: A phase II randomized controlled trial evaluating 3-year disease-free survival
+in patients with locally advanced rectal cancer treated with chemoradiation plus induction or consolidation chemotherapy, and total mesorectal excision or
+nonoperative management. BMC Cancer 15:767, 2015
+
+14. Short MW, Layton MC, Teer BN, et al: Colorectal cancer screening and surveillance. Am Fam Physician 91:93-100, 2015
+
+15. Lawless JE: Statistical Models and Methods for Lifetime Data. New York, NY, John Wiley & Sons, 1982
+
+16. Gérard JP, Azria D, Gourgou-Bourgade S, et al: Clinical outcome of the ACCORD 12/0405 PRODIGE 2 randomized trial in rectal cancer. J Clin Oncol 30:
+4558-4565, 2012
+
+17. Allegra CJ, Yothers G, O’Connell MJ, et al. Neoadjuvant 5-FU or capecitabine plus radiation with or without oxaliplatin in rectal cancer patients: A phase III
+randomized clinical trial. J Natl Cancer Inst 107:djv248, 2015
+
+18. Rödel C, Graeven U, Fietkau R, et al: Oxaliplatin added to fluorouracil-based preoperative chemoradiotherapy and postoperative chemotherapy of locally
+advanced rectal cancer (the German CAO/ARO/AIO-04 study): Final results of the multicentre, open-label, randomised, phase 3 trial. Lancet Oncol 16:
+979-989, 2015
+
+19. Fokas E, Schlenska-Lange A, Polat B, et al: Chemoradiotherapy plus induction or consolidation chemotherapy as total neoadjuvant therapy for patients with
+locally advanced rectal cancer: Long-term results of the CAO/ARO/AIO-12 randomized clinical trial. JAMA Oncol 8:e215445, 2022
+
+20. Fernandez-Martos C, Garcia-Albeniz X, Pericay C, et al: Chemoradiation, surgery and adjuvant chemotherapy versus induction chemotherapy followed by
+chemoradiation and surgery: Long-term results of the Spanish GCR-3 phase II randomized trial. Ann Oncol 26:1722-1728, 2015
+
+21. Habr-Gama A, Perez RO, Proscurshim I, et al: Interval between surgery and neoadjuvant chemoradiation therapy for distal rectal cancer: Does delayed surgery
+have an impact on outcome? Int J Radiat Oncol Biol Phys 71:1181-1188, 2008
+
+n n n
+
+2556 © 2022 by American Society of Clinical Oncology Volume 40, Issue 23
+
+Garcia-Aguilar et al
+
+
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST
+
+Organ Preservation in Patients With Rectal Adenocarcinoma Treated With Total Neoadjuvant Therapy
+
+The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated unless otherwise noted.
+Relationships are self-held unless noted. I5 Immediate Family Member, Inst5My Institution. Relationships may not relate to the subject matter of this manuscript.
+For more information about ASCO’s conflict of interest policy, please refer to www.asco.org/rwc or ascopubs.org/jco/authors/author-center.
+
+Open Payments is a public database containing information reported by companies about payments made to US-licensed physicians (Open Payments).
+
+Julio Garcia-Aguilar
+
+Stock and Other Ownership Interests: Intuitive Surgical
+Consulting or Advisory Role: Medtronic, Intuitive Surgical, Johnson & Johnson
+
+Sujata Patil
+
+Consulting or Advisory Role: ByHeart
+
+Marc J. Gollub
+
+Stock and Other Ownership Interests: Pfizer
+
+Meghan Lee
+
+Employment: ICON Clinical Research
+
+Richard F. Dunne
+
+Consulting or Advisory Role: Exelixis, Helsinn Therapeutics
+
+Jorge Marcet
+
+Consulting or Advisory Role: Baxter, Stryker, Medtronic
+
+Blase Polite
+
+Honoraria: Physicans’ Education Resource, Simon-Kucher and Partners,
+American Journal of Managed Care, HMP, Genzyme
+Consulting or Advisory Role: Cancer Expert Now
+Speakers’ Bureau: Natera
+Travel, Accommodations, Expenses: Tapestry Pharmaceuticals, Institute for
+Clinical and Economic Review
+Open Payments Link: https://openpaymentsdata.cms.gov/physician/1196539
+
+David Liska
+
+Consulting or Advisory Role: Olympus Medical Systems
+
+Charles Ternent
+
+Honoraria: Intuitive Surgical
+Consulting or Advisory Role: Virtual Incisions Inc
+Travel, Accommodations, Expenses: Intuitive Surgical
+
+Andrew L. Coveler
+
+Consulting or Advisory Role: Halozyme, Seattle Genetics, Merrimack, AbbVie
+Research Funding: XBiotech (Inst), Newlink Genetics (Inst), Taiho
+Pharmaceutical (Inst), Immunomedics (Inst), Onconova Therapeutics (Inst),
+Lilly (Inst), Gilead Sciences (Inst), Genentech (Inst), Seattle Genetics (Inst),
+AbGenomics International (Inst), Halozyme (Inst), Novocure (Inst), MedImmune
+(Inst), Amgen (Inst), Actuate Therapeutics (Inst), Surface Oncology (Inst)
+Travel, Accommodations, Expenses: Halozyme, AbbVie
+
+Joseph C. Carmichael
+
+Consulting or Advisory Role: Johnson & Johnson
+Speakers’ Bureau: Johnson & Johnson
+
+John Krauss
+
+Research Funding: Ignyta (Inst), Boston Biomedical (Inst), Boehringer
+Ingelheim (Inst), AbbVie (Inst), ACCRU (Inst), NSABP Foundation (Inst), Amgen
+(Inst), Isofol Medical (Inst), NSABP Foundation (Inst), Novartis (Inst), Hutchison
+MediPharma (Inst), Cardiff Oncology, AstraZeneca/MedImmune (Inst), Tempest
+Therapeutics (Inst), Tempest Therapeutics (Inst), Pfizer (Inst), Alliance for
+Clinical Trials in Oncology (Inst), Daiichi Sankyo/Arqule (Inst), Bristol Myers
+Squibb/Medarex (Inst)
+
+Martin R. Weiser
+
+Consulting or Advisory Role: Precisca
+Research Funding: Clinical Genomics
+Patents, Royalties, Other Intellectual Property: UpToDate Section Editor
+
+Garrett M. Nash
+
+Open Payments Link: https://openpaymentsdata.cms.gov/physician/851428
+
+Emmanouil Pappou
+
+Travel, Accommodations, Expenses: Intuitive Surgical
+
+José G. Guillem
+
+Employment: Intuitive Surgical
+Honoraria: Intuitive Surgical, Myriad Genetics
+Speakers’ Bureau: Intuitive Surgical
+
+Maria Widmar
+
+Employment: BridgeBio (I)
+Stock and Other Ownership Interests: BridgeBio
+
+Neil H. Segal
+
+Consulting or Advisory Role: Roche/Genentech, GlaxoSmithKline, ABL Bio,
+Boehringer Ingelheim, Novartis, Revitope, AstraZeneca
+Research Funding: Bristol Myers Squibb, Pfizer, Roche/Genentech, Merck,
+Immunocore, AstraZeneca, Regeneron (Inst), PureTech (Inst)
+
+Andrea Cercek
+
+Consulting or Advisory Role: Bayer, GlaxoSmithKline, Incyte, Merck, Janssen,
+Seattle Genetics
+Research Funding: Seattle Genetics, Rgenix (Inst), GlaxoSmithKline
+
+Rona Yaeger
+
+Consulting or Advisory Role: Array BioPharma, Natera, Mirati Therapeutics
+Research Funding: Array BioPharma (Inst), Boehringer Ingelheim (Inst), Pfizer
+(Inst), Mirati Therapeutics (Inst)
+
+J. Joshua Smith
+
+Consulting or Advisory Role: Guardant Health
+
+Karyn A. Goodman
+
+Consulting or Advisory Role: RenovoRx, Roche/Genentech, Novartis, Philips
+Healthcare
+
+Abraham J. Wu
+
+Stock and Other Ownership Interests: Simphotek
+Consulting or Advisory Role: AstraZeneca, MORE Health, NanoVi
+Research Funding: CivaTech Oncology
+Travel, Accommodations, Expenses: CivaTech Oncology
+Open Payments Link: https://openpaymentsdata.cms.gov/physician/368691
+
+Leonard B. Saltz
+
+Consulting or Advisory Role: Genor
+Research Funding: Taiho Pharmaceutical
+
+No other potential conflicts of interest were reported.
+
+Journal of Clinical Oncology
+
+OPRA Trial
+
+http://www.asco.org/rwc
+https://ascopubs.org/jco/authors/author-center
+https://openpaymentsdata.cms.gov/
+https://openpaymentsdata.cms.gov/physician/1196539
+https://openpaymentsdata.cms.gov/physician/851428
+https://openpaymentsdata.cms.gov/physician/368691
+
+
+APPENDIX
+R
+
+an
+d
+
+o
+m
+
+ a
+ss
+
+ig
+n
+
+m
+en
+
+t
+
+Induction chemotherapy 
+mFOLFOX6 (8) or CAPEOX4 (5)
+
+INCT-CRT
+
+Rest
+
+Radiation therapy 
+54 Gy
+
+Sensitizing 
+chemotherapy 
+
+FU or capecitabine
+
+Radiation therapy 
+54 Gy
+
+Sensitizing 
+chemotherapy 
+
+FU or capecitabine
+
+Consolidation chemotherapy 
+mFOLFOX6 (8) or CAPEOX4 (5)Rest Rest
+
+Rest
+
+Restaging
+
+DRE
+Endoscopy
+
+MRI
+
+WW
+
+Complete response
+Near-complete response
+
+Surgery
+
+Incomplete response
+
+CRT-CNCT
+
+0 4 8 12 16 20
+
+Time (weeks)
+
+24 28 32 36
+
+FIG A1. Trial schema. CAPEOX, capecitabine and oxaliplatin; CRT-CNCT, chemoradiotherapy followed by consolidation chemotherapy; DRE, digital rectal
+exam; FU, fluorouracil; Gy, gray; INCT-CRT, induction chemotherapy followed by chemoradiotherapy; mFOLFOX,modified infusional fluorouracil, leucovorin,
+and oxaliplatin; MRI, magnetic resonance imaging; WW, watch-and-wait.
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+DF
+S
+
+INCT-CRT
+
+CRT-CNCT
+
+INCT-CRT
+
+CRT-CNCT
+
+Log-rank P = .27
+
+0 1 2 3 4 5 6
+
+Time Since Treatment Start (years)
+
+INCT−CRT
+
+CRT−CNCT
+
+101 88 70 53 32 10
+
+106 97 80 66 38 13
+
+29 events
+
+24 events
+
+A
+
+6
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+TM
+E-
+
+Fr
+ee
+
+ S
+ur
+
+vi
+va
+
+l
+
+Log-rank P = .007
+
+0 1 2 3 4 5
+
+Time Since Treatment Start (years)
+
+INCT−CRT
+
+CRT−CNCT
+
+101 67 42 33 23 7
+
+106 81 67 55 29 12
+
+53 events
+
+38 events
+
+B
+
+No. at risk: No. at risk:
+
+FIG A2. Kaplan-Meier estimates of (A) DFS and (B) TME-free survival in the initial cohort. CRT-CNCT, chemoradiotherapy followed by consolidation
+chemotherapy; DFS, disease-free survival; INCT-CRT, induction chemotherapy followed by chemoradiotherapy; TME, total mesorectal excision.
+
+© 2022 by American Society of Clinical Oncology Volume 40, Issue 23
+
+Garcia-Aguilar et al
+
+
+
+TABLE A1. Accrual and Random Assignment by Participating Institution
+
+Institution
+Patients
+
+Registered
+
+Patients
+Randomly
+Assigned
+
+Assigned to
+INCT-CRT
+
+Assigned to
+CRT-CNCT
+
+Patients
+Restaged
+
+Recommended WW,
+No. (%)
+
+Recommended TME,
+No. (%)
+
+Memorial Sloan
+Kettering Cancer
+Center
+
+84 76 38 38 71 50 (70) 21 (30)
+
+University of
+Rochester
+
+36 35 18 17 34 19 (56) 15 (44)
+
+University of South
+Florida
+
+39 32 15 17 28 19 (68) 9 (32)
+
+University of Vermont 32 31 15 16 29 26 (90) 3 (10)
+
+University of Chicago 33 25 12 13 24 21 (87.5) 3 (12.5)
+
+Oregon Health and
+Science University
+
+19 19 9 10 18 14 (78) 4 (22)
+
+Cleveland Clinic 18 17 8 9 16 12 (75) 4 (25)
+
+John Muir Health 18 17 8 9 17 15 (88) 2 (12)
+
+University of Virginia 15 14 6 8 14 9 (64) 5 (36)
+
+Bergan Mercy Medical
+Center
+
+12 12 6 6 11 9 (82) 2 (18)
+
+University of
+Washington
+
+11 11 5 6 11 9 (82) 2 (18)
+
+Washington University
+in St Louis
+
+10 9 5 4 8 7 (87.5) 1 (12.5)
+
+St Joseph Hospital
+Orange County
+
+6 6 4 2 5 5 (100) 0 (0)
+
+University of California,
+San Francisco
+
+8 6 3 3 6 4 (67) 2 (33)
+
+Washington Hospital
+Center Medstar
+
+8 6 3 3 4 0 (0) 4 (100)
+
+University of California,
+Irvine
+
+6 5 2 3 5 4 (80) 1 (20)
+
+University of Michigan 3 2 1 1 2 1 (50) 1 (50)
+
+University of Colorado 1 1 0 1 1 1 (100) 0 (0)
+
+Total 359 324 158 166 304 225 (75) 79 (25)
+
+Abbreviations: CRT-CNCT, chemoradiotherapy followed by consolidation chemotherapy; INCT-CRT, induction chemotherapy followed by
+chemoradiotherapy; TME, total mesorectal excision; WW, watch-and-wait.
+
+Journal of Clinical Oncology
+
+OPRA Trial
+
+
+
+TABLE A2. Baseline Demographics and Clinical Characteristics of the Initial Cohort
+Characteristic INCT-CRT Group (n 5 101) CRT-CNCT Group (n 5 106)
+
+Median age, year (IQR) 58 (50-66) 57 (49-66)
+
+Female, No. (%) 37 (37) 41 (39)
+
+Race, No. (%)
+
+White 78 (77) 91 (86)
+
+Black 9 (9) 4 (4)
+
+Asian 6 (6) 6 (6)
+
+Other 3 (3) 0 (0)
+
+Unknown 5 (5) 5 (5)
+
+Ethnicity, No. (%)
+
+Hispanic or Latino 5 (5) 8 (8)
+
+Non-Hispanic 96 (95) 98 (92)
+
+cT classification, No. (%)
+
+cT1-2 8 (8) 13 (12)
+
+cT3 78 (77) 82 (77)
+
+cT4 15 (15) 11 (10)
+
+cN classification, No. (%)
+
+cN-negative 29 (29) 30 (28)
+
+cN-positive 72 (71) 76 (72)
+
+Median tumor distance from anal
+verge, cm (IQR)
+
+4.3 (3.0-6.0) 4.0 (3.0-5.9)
+
+High-grade tumor, No. (%) 6 (6) 2 (2)
+
+NOTE. Percentages may not total 100 because of rounding. There were no significant differences between the two groups with respect to the baseline
+patient characteristics.
+Abbreviations: cN, clinical nodal; CRT-CNCT, chemoradiotherapy followed by consolidation chemotherapy; cT, clinical tumor; INCT-CRT, induction
+
+chemotherapy followed by chemoradiotherapy; IQR, interquartile range.
+
+© 2022 by American Society of Clinical Oncology Volume 40, Issue 23
+
+Garcia-Aguilar et al
+
+
+
+TABLE A3. Treatments, Adverse Events, Surgeries, and Pathology Outcomes for the Initial Cohort
+Characteristic INCT-CRT Group (n 5 101) CRT-CNCT Group (n 5 106)
+
+Started systemic chemotherapy, No. (%) 99 (98) 98 (92)
+
+Received FOLFOX 73 (74) 71 (72)
+
+Received 8 cycles of FOLFOXa 64 (88) 60 (85)
+
+Received CAPEOX 22 (22) 24 (24)
+
+Received 5 cycles of CAPEOXa 19 (86) 23 (96)
+
+Received FOLFOX and CAPEOX 4 (4) 3 (3)
+
+Started radiotherapy, No. (%) 93 (92) 104 (98)
+
+Received concurrent FU or capecitabine 92 (99) 104 (100)
+
+No concurrent chemotherapy 1 (1) 0 (0)
+
+Median radiation dose, cGy (IQR) 5,400 (5,000-5,400) 5,400 (5,040-5,600)
+
+Adverse events (grade 31) during
+TNT, No. (%)b
+
+44 (44) 38 (36)
+
+Grade 3 39 (39) 34 (32)
+
+Grade 4 9 (9) 8 (8)
+
+Grade 5 2 (2) 2 (2)
+
+Median time from treatment
+initiation to restaging,
+weeks (IQR)
+
+34.1 (32.3-36.1) 33.4 (31.3-37.0)
+
+Median time from treatment
+completion to restaging,
+weeks (IQR)
+
+7.7 (6.0-8.9) 7.4 (5.1-9.0)
+
+Surgery performed, No. (%) 51 (50) 41 (39)
+
+TME 48 (94) 38 (93)
+
+TAE 3 (6) 3 (7)
+
+ypT classification, No. (%)c
+
+T0 4 (8) 3 (7)
+
+Tis 3 (6) 3 (7)
+
+T1 5 (10) 1 (2)
+
+T2 16 (31) 11 (27)
+
+T3 20 (39) 22 (54)
+
+T4 3 (6) 1 (2)
+
+ypN classification, No. (%)d
+
+N-negative 42 (88) 28 (74)
+
+N-positive 6 (12) 10 (26)
+
+Surgical margin status, No. (%)d
+
+R0 43 (90) 33 (89)
+
+R1 5 (10) 4 (11)
+
+NOTE. Percentages may not total 100 because of rounding.
+Abbreviations: CAPEOX, capecitabine and oxaliplatin; cGy, centigray; CRT-CNCT, chemoradiotherapy followed by consolidation chemotherapy; FOLFOX,
+
+infusional fluorouracil, leucovorin, and oxaliplatin; FU, fluorouracil; INCT-CRT, induction chemotherapy followed by chemoradiotherapy; IQR, interquartile
+range; TAE, transanal excision; TME, total mesorectal excision; TNT, total neoadjuvant therapy; ypN, pathologic nodal; ypT, pathologic tumor.
+
+aPatients who completed the intended cycles of both fluoropyrimidine-based chemotherapy as well as oxaliplatin. 81 cycles of FOLFOX or 51 cycles of
+CAPEOX. Patients who received a mix of FOLFOX and CAPEOX were not considered to have completed the intended treatment course.
+
+bHighest grade of adverse event per patient is reported.
+cPatients who underwent TME or TAE are reported.
+dOnly patients who underwent TME are reported.
+
+Journal of Clinical Oncology
+
+OPRA Trial
+
+
+
+TABLE A4. Comparison of Local and Distant Recurrences in Patients Who Were Recommended TME at Restaging or After Regrowth (ITT) and in Patients
+Who Actually Had TME After Restaging or After Regrowth
+
+Recurrence Type
+
+ITT TME Timing (n 5 154)
+
+TME Recommended at Restaging (n 5 79) TME Recommended After Local Regrowth (n5 75)
+
+INCT-CRT (n 5 41),
+No. (%)
+
+CRT-CNCT (n 5 38),
+No. (%)
+
+INCT-CRT (n 5 42),
+No. (%)
+
+CRT-CNCT (n 5 33),
+No. (%)
+
+Local recurrence, n 5 16 3 (7.3) 4 (10.5) 4 (9.5) 5 (15.2)
+
+Distant recurrence, n 5 36 7 (17) 9 (23.7) 7 (16.7) 7 (21.2)
+
+Both distant and local recurrence, n 5 9a 0 3 (7.9) 3 (7.1) 3 (9.1)
+
+Recurrence Type
+
+Actual TME Timing (n 5 133)
+
+TME Recommended at Restaging (n 5 71) TME Recommended After Local Regrowth (n 5 62)
+
+INCT-CRT (n 5 38),
+No. (%)
+
+CRT-CNCT (n 5 33),
+No. (%)
+
+INCT-CRT (n 5 35),
+No. (%)
+
+CRT-CNCT (n 5 27),
+No. (%)
+
+Local recurrence, n 5 16 3 (7.9) 4 (12.1) 4 (11.4) 5 (18.5)
+
+Distant recurrence, n 5 32 7 (18.4) 8 (24.2) 6 (17.1) 5 (18.5)
+
+Both distant and local recurrence,
+n 5 9a
+
+0 3 (9) 3 (8.6) 3 (11.1)
+
+TME Type
+
+APR, n 5 67 16 (42.1) 16 (48.5) 20 (57.1) 15 (55.6)
+
+LAR, n 5 66 22 (57.9) 17 (51.2) 15 (42.9) 12 (44.4)
+
+Abbreviations: APR, abdominoperineal resection; CRT-CNCT, chemoradiotherapy followed by consolidation chemotherapy; INCT-CRT, induction
+chemotherapy followed by chemoradiotherapy; ITT, intention-to-treat; LAR, low anterior resection; TME, total mesorectal excision.
+
+aThis includes patients who had both a local recurrence and a distant recurrence at any time during their follow-up period.
+
+© 2022 by American Society of Clinical Oncology Volume 40, Issue 23
+
+Garcia-Aguilar et al
+
+
+
+APPENDIX 1.
+The authors would like to acknowledge the following for their contributions to the OPRA trial.
+
+Site Acknowledgments
+
+Memorial Sloan Kettering Cancer
+Center
+
+Karin Avila, MS
+Yuliya Fridman, BA
+Arthur Gelmis, BS
+Li-Xuan Qin, PhD
+Chin-Tung (Tommy) Chen, MS
+Jacqueline Quinn
+Fumiko Egawa
+John Catalano
+Paul Davis
+Edgard Higuera
+Jasleen Singh
+James Moreira
+Matthew Drescher
+Melissa McCarter
+Efsevia Vakiani, MD
+Jinru Shia, MD
+James Harding, MD
+Anna Varghese, MD
+Diane Reidy-Lagunes, MD
+Zsofia Stadler, MD
+David Kelsen, MD
+Nancy Kemeny, MD
+Yelena Janjigian, MD
+Eileen O’Reilly, MD
+David Ilson, MD, PhD
+Ghassan Abou-Alfa, MD
+Geoffrey Ku, MD
+Armin Shahrokni, MD
+Andrew Epstein, MD
+Han Xiao, MD
+Sree Chalasani, MD
+Jessica Yang, MD
+Maliha Nusrat, MD
+Afsheen Iqbal, MD
+Marina Shcherba, DO
+Louise Connell, MD
+Diaz Luis, MD
+Imane El Dika, MD
+Karuna Ganesh, MD
+Danny Khalil, MD
+Steven Maron, MD
+Dhwani Parikh, MD
+Wungki Park, MD
+Nitya Raj, MD
+Juan Manual Schvartzman, PhD
+Kenneth Yu, MD
+Avni Desai, MD
+Stuart Lichtman, MD
+Jahan Aghalar, MD
+Jia Li, MD
+Deaglan McHugh, MD
+Arlyn Apollo, MD
+Pamela Drullinsky, MD
+Zoe Goldberg, MD
+Kenneth Ng, MD
+Tiffany Troso-Sandoval, MD
+Oscar Lahoud, MD
+
+Louise Ligresti, MD
+Ping Gu, MD
+Daniel Danila, MD
+Rui Wang, MD, PhD
+Isabel Preeshagul, DO
+Anuja Kriplani, MD
+Devika Rao, MD
+Janet Cogswell, RN
+Raylene Langish, RN
+Nicole Heinz, RN
+Sherie Mar-Chaim, RN
+Gloria Wasilewski, RN
+Maureen Kennedy, RN
+Geri Arnell, RN
+Irina Konzelmann, APN
+Janice Terlizzi, NP
+Carol Milazzo, NP
+Eileen Jackson, NP
+Shannon Shah, APN
+Eileen Kilgus-Reid, NP
+Catherine Pires, APN
+Aleya Lyn, RN
+Evan McKiernan, RN
+Gail Panton, RN
+Joanna Tortora, RN
+Mary Keogh, RN
+Tashani Townsend, RN
+Ofer Maimran, RN
+Megan Stasi, RN
+Alyssa Iwano, RN
+Jessica Marchisotto, RN
+Jodi Nickel, RN
+Morgan Fillet, RN
+Keith Davidson, RN
+James Fuqua, MD
+Yousef Mazaheri, PhD
+Kristen Zakian, PhD
+Aditi Iyer, MS
+Aditya Apte, PhD
+Daniel Gorovets, MD
+Annemarie Fernandes-
+Shepherd, MD
+
+Justin Mann, MD
+David Guttman, MD
+Jillian Tsai, MD
+Marsha Reyngold, MD
+John Cuaron, MD
+Jung (Julie) Kang, MD, PhD
+Daniel Shasha, MD
+Navek Shaverdian, MD
+Richard Gewanter, MD
+Boris Mueller, MD
+Borys Mychalczak, MD
+Daphna Gelbum, MD
+Melissa Zinovoy, MD
+Michael Bernstein, MD
+Kaled Alektiar, MD
+
+(continued on following page)
+
+Journal of Clinical Oncology
+
+OPRA Trial
+
+
+
+Site Acknowledgments
+
+Ryan Sugarman, MD
+Elizabeth Won, MD
+Parisa Momtaz, MD
+Alice Zervoudakis, MD
+Chung-Han Lee, MD, PhD
+Min Yuen Teo, MD
+Christina DiBenedetto, PA
+Loren Michel, MD
+Azadeh Namakydoust, MD
+Colette Owens, MD
+
+Lior Braunstein, MD
+Atif Khan, MD
+Nancy Lee, MD
+Beryl McCormick, MD
+Paul Romesser, MD
+Yao Yu, MD
+Linda Chen, MD
+Carla Hajj, MD
+Richard Tuli, MD
+Dhwani Parikh, MD
+
+University of Rochester Chris Le Feber
+
+University of Vermont Jesse Moore, MD
+Krista Evans, MD
+Liz Abrecht, MS
+
+University of Chicago Neil Hyman, MD
+
+Oregon Health and Science
+University
+
+Denise Pener
+Andrea Burt
+Kimberly Lerner
+Michael Molgaard
+Kate Rodman
+Alex Marks
+Alison Naylor
+Matthew Crocker
+Erin Taber
+Tasha Gingerich
+Michelle Jin
+Anna Jackson
+Brindha Rajagopalan
+Johnson Vo
+Lei-Ann Greeneltch
+Anne Fahlman
+Gina Vaccaro
+Charles Lopez
+Adel Kardosh
+Emerson Chen
+Exodus Edmerson
+Marcus Curlin
+Caitlin Johnston
+Jeffrey Donovan
+
+Wendy Stitzel
+Timothy Smith
+Kim Lu
+Tsikitis Vassiliki
+Charles Thomas
+John Holland
+Allean Johnson
+Tracy Walker
+Kate McDonald-Buckner
+Kendra Todd
+Sasha Rose
+Dot Kurdyla
+Bailey Ortiz
+Jenna Bucher
+Deirdre Nauman
+Alexandra Schrimp
+Torry Taylor
+Debrah Wong
+Elena Korngold
+Feather Coates
+Susha Pillai
+Lisa Newman
+Kelli Newcom
+Kailey Miller
+Nima Nabavizadeh
+
+Cleveland Clinic Ipek Sapci, MD
+
+John Muir Health Peggy Newsom, RN, BSN, CCRC
+Barry Latner, MD
+Sunil Gandhi, MD
+Lesley Martin, MD
+Jewel Johl, MD
+Daniel Chinn, MD
+Negar Salehomoum, MD
+
+University of Virginia Traci Hedrick, MD
+Erika Ramsdale, MD
+Osama Rahma, MD
+Janowski, Einsley, MD
+Varinder Kaur, MD
+Tri Le, MD
+Karra Lee, PA
+Kelli Reardon, MD
+Karl Sebastian Feuerlein, MD
+Arun Krishnaraj, MD
+
+Timothy Showalter, MD
+Amy Harrigan BS, CCRC
+Jennifer Phillips, RN, CCRC
+Ashley Charles, BSRT, CCRC
+Linda Yeboah, BA, CRC
+Luke Allen, BS, CRC
+
+(continued on following page)
+
+(continued)
+
+© 2022 by American Society of Clinical Oncology Volume 40, Issue 23
+
+Garcia-Aguilar et al
+
+
+
+Site Acknowledgments
+
+Bergan Mercy Medical Center Garnet Blatchford, MD
+Margaret Block, MD
+Timothy Huyck, MD
+Kyle Krehbiel, MD
+Maniamparanipil Shashidharan, MD
+Alan Thorson, MD
+
+Lindsay Taylor, PA-C
+Erin Rogers, BS
+Stacy Severin, RN
+JoAnn Wilde, BSN
+Roksana Zak, MS
+
+University of Washington Alessandro Fichera, MD
+Stacey O’Brien
+Sean Park
+
+Washington University in St Louis Michelle Cusumano, BSN
+
+University of California, San
+Francisco
+
+Tom Hope, MD
+Katherine Van Loon, MD, MPH
+Mekhail Anwar, MD, PhD
+Lillian Jahan, BS
+
+University of California, Irvine Mehraneh D. Jafari, MD
+Steven D. Mills, MD
+Michael J. Stamos, MD
+Alessio Pigazzi, MD, PhD
+
+(continued)
+
+Journal of Clinical Oncology
+
+OPRA Trial
+
+
+	Organ Preservation in Patients With Rectal Adenocarcinoma Treated With Total Neoadjuvant Therapy
+	INTRODUCTION
+	METHODS
+	Study Design
+	Random Assignment
+	Procedures
+	Outcomes
+	Statistical Analysis
+
+	RESULTS
+	DISCUSSION
+	REFERENCES
+	APPENDIXAPPENDIX 1.The authors would like to acknowledge the following for their contributions to the OPRA trial.
+	APPENDIXAPPENDIX 1.
+
+

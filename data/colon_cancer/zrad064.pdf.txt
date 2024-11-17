@@ -1,0 +1,1092 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Short-term outcomes of Early versus conventional adjuvant chemotherapy in stage III colon cancer: randomized clinical trial
+
+
+Short-term outcomes of Early versus conventional 
+adjuvant chemotherapy in stage III colon cancer: 
+randomized clinical trial
+Kyung Ha Lee1 , Soo Yeun Park2, Seung Ho Song2 , Hye Jin Kim2, Jong Gwang Kim3, Byung Woog Kang3,  
+In Kyu Lee4 , Yoon Suk Lee4 , So Hyun Kim5 , Seong Kyu Baek6, Sung Uk Bae6, Gyung Mo Son7, Ki Beom Bae8, 
+Gyu-Seog Choi2 , Jun Seok Park2,* and Ji Yeon Kim1,*
+
+1Department of Surgery, Chungnam National University Hospital, Chungnam National University College of Medicine, Daejeon, Korea
+2Colorectal Cancer Centre, Kyungpook National University Medical Centre, School of Medicine, Kyungpook National University, Daegu, Korea
+3Department of Oncology/Haematology, Kyungpook National University Medical Centre, Kyungpook National University School of Medicine, Daegu, Korea
+4Department of Surgery, Seoul St Mary’s Hospital, College of Medicine, The Catholic University of Korea, Seoul, Korea
+5Division of Colon and Rectum, Department of Surgery, College of Medicine, Yeungnam University, Daegu, Korea
+6Department of Surgery, School of Medicine, Dongsan Medical Centre, Keimyung University, Daegu, Korea
+7Department of Surgery, Busan National University, Busan, Korea
+8Department of Surgery, Busan Paik Hospital, Inje University, Busan, Korea
+
+*Correspondence to: (J.S.P.) Colorectal Cancer Centre, Kyungpook National University Medical Centre, School of Medicine, Kyungpook National University, 807, 
+Hoguk-ro, Buk-gu, Daegu, 41404, Korea (e-mail: parkjs0802@knu.ac.kr); (J.Y.K.) Department of Surgery, Chungnam National University Hospital, Chungnam 
+National University College of Medicine, 282 Munhwa-ro, Jung-gu, Daejeon, 35015, Korea (e-mail: jkim@cnu.ac.kr)
+
+Presented to the ASCO Virtual Annual Meeting, June 2021 (Abstract ID 3598).
+
+Abstract
+
+Background: Evidence is lacking regarding the earliest timing of initiating adjuvant chemotherapy to maximize its efficacy safely. A 
+trial was designed and conducted to evaluate the safety and oncological efficacy of early adjuvant chemotherapy compared with 
+conventional adjuvant chemotherapy. The short-term outcomes are reported here.
+
+Methods: A multicentre, randomized (1 : 1), open-label, phase III trial was conducted comparing early adjuvant chemotherapy with 
+conventional adjuvant chemotherapy in patients with stage III colon cancer. Patients who underwent radical surgery who had 
+stage III colon cancer confirmed by histopathological assessment were screened and randomized into the early adjuvant 
+chemotherapy arm or the conventional adjuvant chemotherapy arm. The primary endpoint was 3-year disease-free survival. The 
+adjuvant chemotherapy with FOLFOX was delivered between postoperative day 10 and 14 in the early adjuvant chemotherapy arm, 
+and between postoperative day 24 and 28 in the conventional adjuvant chemotherapy arm. Toxicity and quality of life were evaluated.
+
+Results: Between 9 September 2011 and 6 March 2020, 443 patients consented to randomization at eight sites. The intention-to-treat 
+population included 423 patients (209 in the early adjuvant chemotherapy arm and 214 in the conventional adjuvant chemotherapy 
+arm), and the safety population included 380 patients (192 in the early adjuvant chemotherapy arm and 188 in the conventional 
+adjuvant chemotherapy arm). There was no statistically significant difference in overall toxicity (28.1 per cent in the early adjuvant 
+chemotherapy arm and 28.2 per cent in the conventional adjuvant chemotherapy arm, P = 0.244), surgical complications, and 
+quality of life between the two arms.
+
+Conclusion: Adjuvant chemotherapy can be safely initiated 2 weeks after surgery with toxicity and quality of life comparable to 
+conventional adjuvant chemotherapy for stage III colon cancer.
+
+Received: February 13, 2023. Revised: April 11, 2023. Accepted: May 01, 2023
+© The Author(s) 2023. Published by Oxford University Press on behalf of BJS Society Ltd. 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which 
+permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+Introduction
+Adjuvant chemotherapy (AC) after radical surgery is the current 
+
+standard treatment for high-risk stage II and III colon cancer with 
+
+a survival benefit due to eradication of micrometastases1–3. 
+
+Initiating AC beyond 8 weeks after surgery is associated with 
+
+worse overall survival (OS) and disease-free survival (DFS)4–13. It 
+
+is recommended that AC is initiated within 8 weeks after surgery; 
+
+however, the earliest time that it can safely be commenced is not 
+
+yet defined.
+Many preclinical studies suggest that surgery due to manipulation 
+
+of the tumour may affect tumour kinetics, facilitate circulation of 
+
+tumour cells, and increase metastatic potential14. A postoperative 
+increase in angiogenesis and oncogenic growth factors in 
+immunocompromised status can potentiate the movement and 
+growth of residual tumour cells15–17. Therefore, theoretically, AC 
+should be initiated as soon as possible after surgery to maximize 
+its efficacy.
+
+Although the negative impact of delaying AC is evident, 
+initiating AC immediately after surgery for colon cancer has 
+been avoided. This is due to concerns that cytotoxic agents can 
+compromise tissue healing of wounds and the anastomosis. 
+Patients need enough time to recover to be able to tolerate 
+cytotoxic therapy safely. However, the postoperative recovery 
+
+BJS Open, 2023, zrad064 
+
+https://doi.org/10.1093/bjsopen/zrad064
+
+Randomized Clinical Trial
+
+https://orcid.org/0000-0002-0035-9000
+https://orcid.org/0000-0003-1490-7757
+https://orcid.org/0000-0001-9074-5214
+https://orcid.org/0000-0002-1849-2774
+https://orcid.org/0000-0002-8625-329X
+https://orcid.org/0000-0001-5476-4610
+mailto:parkjs0802@knu.ac.kr
+mailto:jkim@cnu.ac.kr
+https://creativecommons.org/licenses/by/4.0/
+https://doi.org/10.1093/bjsopen/zrad064
+
+
+interval has been reduced due to minimally invasive surgery and 
+Enhanced Recovery After Surgery (ERAS) protocols. Therefore, 
+more patients should be physiologically able to tolerate AC 
+earlier than in the past.
+
+Most previous studies have focused on how long you can delay 
+AC rather than how early is safe. Therefore, a prospective 
+randomized trial was designed and conducted to evaluate the 
+safety and oncological efficacy of early AC (EAC) compared with 
+conventional AC (CAC). In this study, the short-term outcomes 
+of this trial are reported.
+
+Methods
+Study design and participants
+A multicentre, randomized (1 : 1), open-label, phase III trial was 
+conducted comparing EAC with CAC in patients with stage III 
+colon cancer. Patients were recruited from eight centres in 
+South Korea. All centres were tertiary medical institutes with 
+sub-specialist colorectal surgeons. Patients with stage III colon 
+cancer were screened after surgery to determine whether they 
+met the inclusion criteria: age greater than or equal to 18 years 
+with Eastern Cooperative Oncology Group (ECOG) performance 
+status 0–2; histologically confirmed adenocarcinoma of the 
+colon (tumours greater than 12 cm from the anal verge or above 
+the peritoneal reflection); undergone standard, minimally 
+invasive, curative R0 resection with D3 lymphadenectomy; 
+discharged within 10 days after surgery; stage III based on the 
+Seventh Edition of the AJCC Cancer Staging Manual; fully 
+recovered hepatic, renal, and haematological function, as 
+assessed by serum chemistry with calculated creatinine 
+clearance, liver function test, and full blood cell count; and able 
+to understand and willing to consent. The main exclusion 
+criteria were: rectal cancer; metastatic or radically unresectable 
+disease; stage I or II colon cancer based on the Seventh Edition 
+of the AJCC Cancer Staging Manual; any contraindication for 
+chemotherapy, including age greater than 85 years or life 
+expectancy under 5 years due to non-cancer-related disease; 
+hypersensitivity to treatment component(s); unable to be 
+discharged 10 days after surgery due to any postoperative 
+complications; emergency operation for tumour obstruction or 
+perforation; history or presence of synchronous malignancy; 
+previous chemotherapy; and being pregnant or breastfeeding.
+
+The study was conducted as per the Declaration of Helsinki and 
+the Good Clinical Practice guidelines. The study protocol was 
+approved by the Kyungpook National University Hospital Ethics 
+Committee (version 1.3) on 21 January 2012, and its equivalent 
+in other participating institutions. All participants provided 
+written informed consent before enrolment. Trial oversight 
+was maintained by a combined trial steering committee and a 
+data monitoring committee. This study was registered at 
+ClinicalTrials.gov (NCT01460589).
+
+Randomization and procedure protocol
+The anaesthetic evaluation and patient information regarding the 
+operative procedure were performed according to the local 
+practices of each investigation centre. Radical surgery was 
+performed as per the oncological quality criteria for resection. 
+Preoperative and postoperative data were reported on specific 
+forms. If the histological assessment confirmed stage III disease 
+and the patient met the inclusion criteria, eligible patients were 
+randomly assigned (1 : 1) to the EAC arm or the CAC arm. The 
+randomization sequence was concealed from the investigators, 
+and randomization was performed using a web-based software 
+
+platform (Velos, Fermont, CA, USA) and centrally coordinated by 
+the Clinical Research Coordination Centre of the Kyungpook 
+National University Cancer Centre (Daegu, Korea).
+
+The assigned AC was delivered between postoperative day 
+(POD) 10 and 14 in the EAC arm, and between POD 24 and 28 in 
+the CAC arm. The AC regimen was FOLFOX, which comprised 
+oxaliplatin 85 mg/m2, leucovorin 200 mg/m2, and bolus 
+fluorouracil 400 mg/m2 on day 1, and infusion of fluorouracil 
+2400 mg/m2 over 46 h, every 2 weeks, for a total of 12 cycles. If 
+clinically indicated based on the investigator’s discretion, the 
+doses of chemotherapeutic drugs were reduced by 75 per cent at 
+the start.
+
+Toxicity was evaluated based on Common Terminology Criteria 
+for Adverse Events (CTCAE) 4.0, and dose modifications were 
+based on the most severe adverse events and the investigator’s 
+discretion. Adverse events were monitored during and after the 
+study treatment, and a complete laboratory examination was 
+performed on day 1 of each treatment cycle. For treatment-related 
+adverse events of grade 1, treatment was continued at the total 
+dose. For grade 2, treatment was withheld and restarted after 
+recovery to grade 1. The dose was reduced for grade 3 adverse 
+events and grade 4 stomatitis with a delay in the treatment 
+schedule, if necessary. Treatment was discontinued in the event 
+of any documented disease recurrence, grade 4 or 5 adverse 
+events, or a patient’s refusal.
+
+After completing the protocol treatment, patients were 
+followed up according to a predefined surveillance schedule 
+until recurrence, development of another malignancy, or death. 
+Carcinoembryonic antigen level assessment with a general 
+blood test and abdominopelvic CT scans were performed every 3 
+to 6 months for the first 2 years and every 6 months thereafter. 
+Chest CT scans were performed every 8 to 12 months. A 
+colonoscopy was routinely performed 1 year and 5 years after 
+surgery.
+
+Endpoints
+The primary endpoint was 3-year DFS, defined as the time from 
+the date of the operation to the earliest date of recurrence.
+
+The secondary endpoint was OS, defined as the time from the date 
+of the operation to the date of death due to all causes or the date of 
+the last follow-up, chemotherapy-related adverse events according 
+to CTCAE 4.0, surgical complications during chemotherapy 
+according to the Clavien–Dindo classification, and quality of Life 
+(QoL) assessment according to the European Organization for 
+Research and Treatment of Cancer Quality of Life Questionnaire 
+(EORTC QLQ) C30. The patients completed baseline questionnaires 
+after providing consent and before initiating AC. When patients 
+visited the outpatient clinic, follow-up questionnaires were 
+administered to patients 1, 3, 6, and 12 months after surgery.
+
+The review of case report forms was conducted annually for 
+quality control by the Kyungpook National University Cancer 
+Centre (Daegu, Korea).
+
+Statistics
+The expected 3-year DFS with CAC was 72 per cent based on a 
+literature review9. A 10 per cent gain in 3-year DFS was 
+predicted in the EAC arm compared with the CAC arm (82 versus 
+72 per cent respectively). For a statistical power of 80 per cent 
+for the superiority hypothesis at a one-sided significance level of 
+0.05, the sample size was calculated as 220 patients in each 
+arm, assuming that 14 per cent of patients were lost to 
+follow-up. PASS 11™ software (NCSS, Kaysville, UT, USA) was 
+used to compute the sample size.
+
+2 | BJS Open, 2023, Vol. 7, No. 4
+
+
+
+All randomized patients were defined as the intention-to-treat 
+(ITT) population. Patients with protocol violations, which meant 
+the date of initiating chemotherapy did not meet the protocol, 
+were excluded from the per-protocol population. Safety 
+analyses were performed on the safety population, which meant 
+all patients who received at least one cycle of chemotherapy 
+after randomization. QoL analyses were performed on patients 
+in the safety population who answered QoL questionnaires at 
+baseline and follow-up.
+
+The χ2 test or Fisher’s exact test was used for comparing 
+categorical variables, and Student’s t test or the Mann–Whitney U 
+test was used to compare continuous variables, depending on the 
+distribution. The outcomes of EORTC QLQ C30 were described 
+using means and standard errors of means. Questionnaire 
+responses were collected five times from baseline to 12 months 
+after surgery. Patients who completed at least one questionnaire 
+response after the baseline time point were included in the 
+analysis irrespective of the interval. A mixed model for repeated 
+measures (MMRM) with the assumption of an unconstructed 
+covariance structure for repeated measurements was applied for 
+the analysis. The least-square mean estimates were calculated 
+for post-hoc analysis to compare the two arms at each interval.
+
+Statistical analyses were performed using SPSS® (IBM, Armonk, 
+NY, USA; version 26). All P values were reported as two-sided and 
+results with P < 0.050 were considered statistically significant.
+
+Results
+Patient and disease characteristics
+Between 9 September 2011 and 6 March 6 2020, 443 patients 
+consented to randomization at eight sites; 221 and 222 patients 
+were allocated to the EAC arm and the CAC arm respectively 
+(Fig. 1). After randomization, 20 patients (12 in the EAC arm and 8 
+in the CAC arm) withdrew consent. The ITT population included 
+423 patients (209 in the EAC arm and 214 in the CAC arm).
+
+A total of 43 patients (17 in the EAC arm and 26 in the CAC arm) 
+did not receive treatment as per the study protocol. In the EAC 
+arm, two patients could not initiate AC due to the late surgical 
+complications, and 39 patients (15 in the EAC arm and 24 in the 
+CAC arm) received other regimens for AC, including intravenous 
+fluorouracil/leucovorin (FL), oral capecitabine, and oxaliplatin 
+with oral capecitabine. The safety population included 380 
+patients (192 in the EAC arm and 188 in the CAC arm) because 
+safety data were missing for 2 patients in the CAC arm. The QoL 
+population included 280 patients (148 in the EAC arm and 132 in 
+the CAC arm) because QoL data were missing for 100 patients 
+(44 in the EAC arm and 56 in the CAC arm) among the safety 
+population.
+
+The baseline and pathological characteristics of the ITT 
+population, the safety population, and the QoL population are 
+shown in Table 1. All patient and tumour characteristics were 
+evenly distributed in the two arms in all populations.
+
+Results of adjuvant chemotherapy and toxicity
+The median times from operation to initiating AC were 13 (range 
+4–43) days in the EAC arm and 29 (range 17–53) days in the CAC 
+arm (safety population) (P < 0.001). In the QoL population these 
+were 13 (range 10–14) days in the EAC arm and 28 (range 24–28) 
+days in the CAC arm (P < 0.001) (Table 2). In the safety 
+population, 27 patients (14 per cent) in the EAC arm initiated AC 
+after 14 days (postoperative general weakness in 5 patients, late 
+visit in 12 patients, and delay of the appointment with an 
+oncologist or vascular access in ten patients).
+
+The median number of administered cycles and completeness 
+of chemotherapy, including the rate of completion without dose 
+reduction or delay, the rate of completion with dose reduction 
+or delay, the rate of completion of FL with discontinuation of 
+oxaliplatin, and the rate of discontinuation of chemotherapy, 
+were similar between the two arms. The most common reason 
+for discontinuation of chemotherapy was toxicity in both arms, 
+and five patients in the CAC arm had to discontinue the study 
+
+443 patients randomly assigned
+
+Allocated to EAC arm n = 221
+
+Informed consent withdrawal n = 12
+
+Did not receive study treatment n = 17
+Surgical complication n = 2
+Received other regimen n = 15
+
+Intention-to-treat population n = 209
+
+Safety population (treated) n = 192
+
+Quality-of-life population n = 148
+
+Allocated to CAC arm n = 222
+
+Informed consent withdrawal n = 8
+
+Did not receive study treatment n = 26
+Loss of safety data n = 2
+Received other regimen n = 24
+
+Intention-to-treat population n = 214
+
+Safety population (treated) n = 188
+
+Quality-of-life population n = 132
+
+Fig. 1 Flow diagram of study population 
+
+EAC, early adjuvant chemotherapy; CAC, conventional adjuvant chemotherapy.
+
+Lee et al. | 3
+
+
+
+protocol treatment and change to another chemotherapeutic 
+regimen due to recurrence, compared with no recurrence during 
+AC in the EAC arm.
+
+Although there were two cases of postoperative surgical 
+complications in the EAC arm (one case of anastomotic leakage 
+and one case of anastomotic stricture) compared with none in the 
+
+Table 1 Baseline characteristics
+
+Intention-to-treat population Safety population QoL population
+
+EAC 
+(n = 217)
+
+CAC 
+(n = 221)
+
+P EAC 
+(n = 192)
+
+CAC 
+(n = 188)
+
+P EAC 
+(n = 148)
+
+CAC 
+(n = 132)
+
+P
+
+Age (years), median (range) 61.0 (32–83) 61.0 (28–83) 0.285 60.0 (32–80) 60.0 (28–83) 0.764 60.5 (32–80) 61.5 (28–83) 0.213
+Sex 0.977 0.729 0.089
+
+Male 125 (57.6) 127 (57.5) 110 (57.3) 111 (59.0) 77 (52.0) 82 (62.1)
+Female 92 (42.4) 94 (42.5) 82 (42.7) 77 (41.0) 71 (48.0) 50 (37.9)
+
+ECOG performance status 0.061 0.092 0.367
+0 78 (35.9) 61 (27.6) 74 (38.5) 57 (30.3) 73 (49.3) 58 (43.9)
+1 139 (64.1) 160 (72.4) 118 (61.5) 131 (69.7) 75 (50.7) 74 (56.1)
+
+Primary tumour location 0.313 0.320 0.335
+Ascending colon 44 (20.3) 43 (19.5) 38 (19.8) 31 (16.5) 25 (16.9) 22 (16.7)
+Hepatic flexure 6 (2.8) 14 (6.3) 6 (3.1) 13 (6.9) 5 (3.4) 6 (4.5)
+Transverse colon 9 (4.1) 14 (6.3) 9 (4.7) 13 (6.9) 6 (4.1) 9 (6.8)
+Splenic flexure 6 (2.8) 4 (1.7) 6 (3.1) 3 (1.6) 6 (4.1) 2 (1.5)
+Descending colon 18 (8.3) 10 (4.5) 16 (8.3) 9 (4.8) 13 (8.8) 4 (3.0)
+Sigmoid colon 75 (34.6) 79 (35.7) 68 (35.4) 71 (18.7) 56 (50.9) 54 (40.9)
+Rectosigmoid colon 59 (27.2) 57 (25.8) 49 (25.5) 48 (25.5) 37 (25.0) 35 (26.5)
+
+Histological type 0.072 0.159 0.333
+Adenocarcinoma 143 (60.8) 154 (69.7) 114 (59.4) 125 (66.5) 72 (48.6) 69 (52.3)
+Mucinous adenocarcinoma 84 (38.7) 63 (28.5) 77 (40.1) 59 (31.4) 75 (50.7) 59 (44.7)
+Other 0 (0.0) 2 (0.9) 0 (0.0) 2 (1.1) 0 (0.0) 2 (1.5)
+Not recorded 1 (0.5) 2 (0.9) 1 (0.5) 2 (1.1) 1 (0.7) 2 (1.5)
+
+Stage 0.800 0.698 0.220
+II 13 (6.0) 12 (5.4) 12 (6.3) 10 (5.3) 4 (2.7) 1 (0.8)
+III 204 (94.0) 209 (94.6) 180 (93.8) 178 (94.7) 144 (52.4) 131 (99.2)
+
+Pathological T category 0.673 0.611 0.668
+Tx 0 (0.0) 2 (0.9) 0 (0.0) 2 (1.1) 0 (0.0) 1 (0.8)
+T1 11 (5.1) 9 (4.1) 11 (5.7) 8 (4.3) 9 (6.1) 7 (5.3)
+T2 13 (6.0) 13 (5.9) 12 (6.3) 12 (6.4) 11 (7.4) 9 (6.8)
+T3 150 (69.1) 150 (67.9) 134 (69.8) 128 (68.1) 103 (69.6) 86 (65.2)
+T4 43 (19.8) 47 (21.3) 35 (18.2) 38 (20.2) 25 (16.9) 29 (22.0)
+
+Pathological N category 0.444 0.620 0.399
+N0 13 (6.0) 12 (5.4) 12 (6.3) 10 (5.3) 4 (2.7) 1 (0.8)
+N1 141 (65.0) 156 (70.6) 129 (67.2) 135 (71.8) 101 (68.2) 96 (72.7)
+N2 63 (29.0) 53 (24.0) 51 (26.6) 43 (22.9) 43 (29.1) 35 (26.5)
+
+Values are n (%) unless otherwise indicated. QoL, quality of life; EAC, early adjuvant chemotherapy; CAC, conventional adjuvant chemotherapy; ECOG, Eastern 
+Cooperative Oncology Group.
+
+Table 2 Results of adjuvant chemotherapy
+
+Safety population QoL population
+
+EAC (n = 192) CAC (n = 188) P EAC (n = 148) CAC (n = 132) P
+
+Days from surgery to chemotherapy, median (range) 13 (4–43) 29 (17–53) <0.001 13 (10–14) 28 (24–28) <0.001
+Chemotherapy cycle, median (range) 12 (1–12) 12 (1–12) 1.000 12 (1–12) 12 (5–12) 1.000
+Completeness of treatment 0.870 0.559
+
+Completed without dose reduction or delay 35 (18.2) 38 (20.2) 23 (15.5) 28 (21.2)
+Completed with dose reduction or delay 125 (65.1) 114 (60.6) 94 (63.5) 79 (59.8)
+Completed FL with discontinuation of oxaliplatin 5 (2.6) 9 (4.8) 5 (3.4) 6 (4.5)
+Discontinued 27 (14.1) 27 (14.1) 26 (17.6) 19 (14.4)
+
+Toxicity of chemotherapy, n 16 15 16 12
+Patient refusal, n 7 3 7 3
+Drug allergy, n 3 1 2 0
+Recurrence, n 0 5 0 2
+Vascular port malfunction, n 0 2 0 1
+Others, n 1 1 1 1
+
+Surgical complications during chemotherapy 2 (1.0) 0 (0.0) 0.161 2 (1.4) 0 (0.0) 0.180
+Anastomotic leakage 1 (0.5) 0 (0.0) 1 (0.7) 0 (0.0)
+Anastomotic stricture 1 (0.5) 0 (0.0) 1 (0.7) 0 (0.0)
+
+Values are n (%) unless otherwise indicated. QoL, quality of life; EAC, early adjuvant chemotherapy; CAC, conventional adjuvant chemotherapy; FL, fluorouracil/ 
+leucovorin.
+
+4 | BJS Open, 2023, Vol. 7, No. 4
+
+
+
+CAC arm, there was no statistically significant difference (1.0 per 
+cent in the EAC arm versus 0.0 per cent in the CAC arm, P = 0.870).
+
+The relative dose intensities of oxaliplatin in the two arms were 
+similar and decreased to 80 per cent at the seventh cycle of AC in 
+both arms (Table 3).
+
+Details of toxicity are presented in Table S1. The percentage of 
+patients who experienced grade 3 or higher toxicity was similar 
+(28.1 per cent in the EAC arm and 28.2 per cent in the CAC arm, 
+P = 0.244). There was no difference in the overall or individual 
+toxicity between the two arms, except for alopecia. The rate of 
+grade 1–2 alopecia was higher in the EAC arm (11 per cent versus 
+5 per cent in the CAC arm, P = 0.045), but there was no grade 3 
+alopecia in either arm.
+
+Quality of life
+The QoL data are shown in Table S2 and Fig. 2. There were no 
+differences in overall health, functions, and symptoms between 
+the two arms at any time point. These parameters were 
+significantly improved at 12 months post-surgery compared 
+with baseline in both arms.
+
+Discussion
+Traditionally, AC is initiated between 4 and 8 weeks after radical 
+surgery for colon cancer to achieve the balance between 
+postoperative recovery and therapeutic effect. Although many 
+studies have reported a correlation between poor prognosis and 
+late initiation of AC (more than 8 weeks postoperatively)4–13, 
+there is little research on the efficacy of immediate early 
+initiation of AC. Moreover, the number of patients who began AC 
+before 2 weeks was minimal (less than 0.5 per cent) in most 
+studies. A meta-analysis by Biagi et al.9 demonstrated that both 
+
+Table 3 Relative oxaliplatin dose intensity during each cycle 
+(safety population)
+
+Cycle EAC CAC P
+
+Median 
+dose (mg)
+
+Relative dose 
+intensity (%)*, 
+
+median (range)
+
+Median 
+dose (mg)
+
+Relative dose 
+intensity (%)*, 
+
+median (range)
+
+1 192 100 (70–100) 188 100 (70–100) 1.000
+2 191 100 (70–100) 186 100 (70–100) 1.000
+3 186 100 (70–100) 184 100 (60–100) 1.000
+4 183 100 (60–100) 183 100 (60–100) 1.000
+5 183 100 (60–100) 183 100 (60–100) 1.000
+6 181 100 (50–100) 180 100 (60–100) 1.000
+7 180 80 (50–100) 175 80 (60–100) 0.938
+8 179 80 (50–100) 171 80 (60–100) 0.888
+9 173 80 (50–100) 171 80 (60–100) 0.890
+10 170 80 (60–100) 163 80 (60–100) 0.766
+11 164 80 (50–100) 156 80 (60–100) 0.943
+12 160 80 (50–100) 152 80 (60–100) 0.952
+
+*The ratio of the median of the actual dose to the initial dose that is 
+recommended by guidelines. EAC, early adjuvant chemotherapy; CAC, 
+conventional adjuvant chemotherapy,
+
+PF
+
+RFCF
+
+SF
+
+EF
+
+QL
+
+0
+20
+40
+
+60
+80
+
+100
+
+CAC EAC
+
+FA
+
+0
+
+5
+
+10
+
+15
+
+20
+NV
+
+PA
+
+DY
+
+SLAP
+
+CO
+
+DI
+
+PF
+
+RFCF
+
+SF
+
+EF
+
+QL
+
+0
+20
+40
+
+60
+80
+
+100
+
+FI
+
+FA
+
+NV
+
+PA
+
+DY
+
+SLAP
+
+CO
+
+DI
+
+FI
+
+0
+5
+
+10
+15
+
+30
+25
+20
+
+a  EORTC QLQ C30 FUNCTION (baseline) b  EORTC QLQ C30 FUNCTION (12 months after surgery)
+
+c  EORTC QLQ C30 SYMPTOMS (baseline) d  EORTC QLQ C30 SYMPTOMS (12 months after surgery)
+
+Fig. 2 Comparison of quality of life between the early adjuvant chemotherapy arm and the conventional adjuvant chemotherapy arm 
+
+a EORTC QLQ C30 FUNCTION (baseline). b EORTC QLQ C30 FUNCTION (12 months after surgery). c EORTC QLQ C30 SYMPTOMS (baseline). d EORTC QLQ C30 
+SYMPTOMS (12 months after surgery). EORTC QLQ, European Organization for Research and Treatment of Cancer Quality of Life Questionnaire; CAC, 
+conventional adjuvant chemotherapy; EAC, early adjuvant chemotherapy; QL, overall health; PF, physical functioning; RF, role functioning; EF, emotional 
+functioning; CF, cognitive functioning; SF, social functioning; FA, fatigue; NV, nausea/vomiting; PA, pain; DY, dyspnoea; SL, insomnia; AP, appetite loss; CO, 
+constipation; DI, diarrhoea; FI, financial problem.
+
+Lee et al. | 5
+
+http://academic.oup.com/bjsopen/article-lookup/doi/10.1093/bjsopen/zrad064#supplementary-data
+http://academic.oup.com/bjsopen/article-lookup/doi/10.1093/bjsopen/zrad064#supplementary-data
+
+
+OS and DFS decreased significantly every 4 weeks, and they 
+recommended further validation of the intuitive concept of 
+EAC. Therefore, this study was designed to evaluate the earliest 
+and safest timing of AC to obtain the maximal oncological 
+effect using a prospective randomized method. As a result, it 
+was demonstrated that EAC within 2 weeks was safe and 
+tolerable in most patients, with equal toxicity, completeness of 
+treatment, relative dose intensity of oxaliplatin, and QoL 
+compared with CAC.
+
+In the era of minimally invasive surgery and ERAS, it is 
+necessary to re-evaluate traditional chemotherapy regimens. 
+The traditional concept of AC after a minimum of 4 weeks after 
+surgery was formed several decades ago when open surgery 
+was generally performed for gastrointestinal cancers. This 
+demanded longer hospitalization, recovery time (until returning 
+to oral intake), and wound management. However, minimally 
+invasive surgery for colorectal cancer has now become the 
+standard of care for the majority of patients18–21 with the 
+benefits of faster postoperative recovery and oncologically 
+equivalent outcomes for any stage of cancer compared with 
+open surgery22. Recently, several studies reported that robotic 
+colectomy demonstrated a lower rate of conversion and a 
+shorter hospitalization interval compared with laparoscopic 
+colectomy23,24. Owing to the development of surgical 
+techniques, the concept of ERAS has been introduced globally 
+and has changed traditional postoperative care significantly. 
+Changes throughout the multimodal aspects of perioperative 
+management (including pre-admission counselling, bowel 
+preparation, fluid therapy, nutritional support, prophylaxis 
+against infection and thromboembolism, management during 
+anaesthesia, and postoperative analgesia) have shortened times 
+for return to a normal diet, recovery with less complications, 
+and hospitalization25. Numerous studies have reported that 
+ERAS significantly reduces the length of stay (to within 1 week), 
+as well as complication and readmission rates26–28. Patients 
+recover sooner from the surgical insult compared with patients 
+historically.
+
+Anastomotic leakage, one of the worst complications following 
+colorectal surgery, is usually diagnosed between 3 and 8 days 
+after surgery22, even though the timing of detection can vary 
+according to a patient’s status. Additionally, anastomotic 
+leakage after ileocolic or colocolic anastomosis is relatively 
+uncommon compared with rectal cancer surgery and is usually 
+detected immediately after surgery. Surgical site infection and 
+pulmonary complications are usually reported to be diagnosed 
+about 4 and 10 days postoperatively respectively29. The risk 
+of thromboembolic events for normal patients is known to 
+diminish after ambulation, and pharmacological prophylaxis 
+for normal patients is recommended during admission, 
+generally within 1 week30. Therefore, a minimum of 2 weeks 
+from surgery to the initiation of AC was considered appropriate 
+for EAC.
+
+A potential concern after the early introduction of cytotoxic 
+agents is late anastomotic complications. In this study, two 
+patients in the EAC arm showed leakage on POD 16 and a stricture 
+on POD 18 respectively, and both required surgical intervention. 
+Although it is generally considered that anastomotic healing is 
+completed by POD 10–12, the rate of late anastomotic leakage 
+after general recovery was reported to be 6 to 7.7 per cent in 
+colorectal resection, regardless of the timing of AC31,32. As there 
+was no statistically significant difference in surgical complications 
+between the two arms, it is considered that the early initiation of 
+AC did not increase the rate of surgical complications. However, 
+
+the delay of AC needs to be considered if there is evidence of 
+surgical complications before AC.
+
+There were five cases of recurrence during AC in the CAC arm 
+and no cases in the EAC arm. These findings need to be 
+evaluated further with longer-term follow-up and to investigate 
+if patients with adverse features should be considered for earlier 
+AC.
+
+In the present study, postoperative QoL was investigated 
+to evaluate if a shorter interval between surgery and following 
+AC impairs general condition and daily living according to a 
+patient’s subjective feelings, in addition to surgical 
+complications. AC affects the QoL of patients who undergo 
+colon cancer surgery, not only during AC, but also after its 
+completion33,34. The impaired QoL is mainly related to 
+chemotherapeutic toxicity and its grade during AC35. Iveson 
+et al.34 reported that QoL declined during AC and started 
+recovering 1 month after the last AC. Therefore, QoL was 
+investigated for 1 year after surgery. In the present study, there 
+was no statistically significant difference in QoL and its recovery 
+pattern between the two arms. Both were worst during AC and 
+fully recovered at 12 months after surgery. This study 
+demonstrated that EAC within 2 weeks did not compromise 
+surgical, medical, mental, or functional outcomes.
+
+This study has limitations. The time interval between the 
+two arms according to the study design was only 2 weeks. Due 
+to the short interval between the two arms and various 
+medical and personnel issues, there was an overlap of the 
+time interval. Consequently, interpretation of the results 
+should be made with some caution as 58 patients (25 in the 
+EAC arm and 33 in the CAC arm) were excluded from 
+the safety analyses because of protocol violations. Among 
+them, 15 patients were enrolled in the study by surgeons 
+immediately after recovery from surgery, but all declined to 
+receive chemotherapy after discussions with medical 
+oncologists. Another 40 patients chose a chemotherapy 
+regimen other than FOLFOX. However, the outcomes of 
+variables (chemotherapy dose, compliance, and toxicities) 
+analysed in the safety population were similar when analyses 
+including those patients were performed.
+
+This study was performed in tertiary hospitals with 
+sub-specialist colorectal surgeons, high rates of minimally 
+invasive surgery, and low rates of surgical complications. This 
+might impact the generalizability of the results to other centres 
+nationally or internationally. Early initiation of AC is not 
+appropriate for all patients and may not be appropriate for 
+those who have open surgery, frail patients, or those with 
+postoperative complications.
+
+Funding
+This study was supported by the International Colorectal 
+Research Summit Grant 2015 and sponsored by the Korean 
+Society of Coloproctology; the National Research Foundation of 
+Korea (NRF). A grant was provided by the South Korean 
+government (Ministry of Science and ICT, South Korea) (Grant 
+No. 2021R1A5A2021614).
+
+Acknowledgements
+J.Y.K. and J.S.P. contributed equally to this study as 
+co-corresponding authors. K.H.L. and S.Y.P. contributed equally 
+to this study as co-first authors.
+
+6 | BJS Open, 2023, Vol. 7, No. 4
+
+
+
+Author contributions
+Kyung Ha Lee (Investigation, Resources, Visualization, Writing— 
+original draft, Writing—review & editing), Soo Yeun Park (Data 
+curation, Formal analysis, Investigation, Resources, Software, 
+Validation, Visualization, Writing—original draft), Seung Ho 
+Song (Investigation, Writing—review & editing), Hye Jin Kim 
+(Investigation, Writing—review & editing), Jong Gwang Kim 
+(Investigation, Writing—review & editing), Byung Woog Kang 
+(Investigation, Writing—review & editing), In Kyu Lee 
+(Investigation, Writing—review & editing), Yoon Suk Lee 
+(Investigation, Writing—review & editing), So Hyun Kim 
+(Investigation, Writing—review & editing), Seong Kyu Baek 
+(Investigation, Writing—review & editing), Sung Uk Bae 
+(Investigation, Writing—review & editing), Gyung Mo Son 
+(Investigation, Writing—review & editing), Ki Beom Bae 
+(Investigation, Writing—review & editing), Gyu-Seog Choi 
+(Conceptualization, Funding acquisition, Investigation, 
+Resources, Supervision, Writing—review & editing), Jun Seok 
+Park (Conceptualization, Formal analysis, Funding acquisition, 
+Investigation, Methodology, Project administration, Resources, 
+Supervision, Validation, Visualization, Writing—review & 
+editing), and Ji Yeon Kim (Conceptualization, Investigation, 
+Supervision, Writing—review & editing).
+
+Disclosure
+The authors declare no conflict of interest.
+
+Supplementary material
+Supplementary material is available at BJS Open online.
+
+Data availability
+The data are available upon contact with the authors.
+
+References
+1. O’Connell MJ, Mailliard JA, Kahn MJ, Macdonald JS, Haller DG, 
+
+Mayer RJ et al. Controlled trial of fluorouracil and low-dose 
+leucovorin given for 6 months as postoperative adjuvant 
+therapy for colon cancer. J Clin Oncol 1997;15:246–250
+
+2. Gill S, Loprinzi CL, Sargent DJ, Thomé SD, Alberts SR, Haller DG 
+et al. Pooled analysis of fluorouracil-based adjuvant therapy for 
+stage II and III colon cancer: who benefits and by how much? J 
+Clin Oncol 2004;22:1797–1806
+
+3. André T, Boni C, Navarro M, Tabernero J, Hickish T, Topham C 
+et al. Improved overall survival with oxaliplatin, fluorouracil, 
+and leucovorin as adjuvant treatment in stage II or III colon 
+cancer in the MOSAIC trial. J Clin Oncol 2009;27:3109–3116
+
+4. Bos AC, van Erning FN, van Gestel YR, Creemers GJ, Punt CJ, van 
+Oijen MG et al. Timing of adjuvant chemotherapy and its 
+relation to survival among patients with stage III colon cancer. 
+Eur J Cancer 2015;51:2553–2561
+
+5. Hershman D, Hall MJ, Wang X, Jacobson JS, McBride R, Grann VR 
+et al. Timing of adjuvant chemotherapy initiation after surgery 
+for stage III colon cancer. Cancer 2006;107:2581–2588
+
+6. Czaykowski PM, Gill S, Kennecke HF, Gordon VL, Turner D. 
+Adjuvant chemotherapy for stage III colon cancer: does timing 
+matter? Dis Colon Rectum 2011;54:1082–1089
+
+7. Kim IY, Kim BR, Kim YW. Factors affecting use and delay (≥8 
+weeks) of adjuvant chemotherapy after colorectal cancer 
+
+surgery and the impact of chemotherapy-use and delay on 
+
+oncologic outcomes. PLoS One 2015;10:e0138720
+8. Petrelli F, Zaniboni A, Ghidini A, Ghidini M, Turati L, Pizzo C et al. 
+
+Timing of adjuvant chemotherapy and survival in colorectal, 
+gastric, and pancreatic cancer. A systematic review and 
+meta-analysis. Cancers (Basel) 2019;11:550
+
+9. Biagi JJ, Raphael MJ, Mackillop WJ, Kong W, King WD, Booth CM. 
+Association between time to initiation of adjuvant 
+chemotherapy and survival in colorectal cancer: a systematic 
+review and meta-analysis. JAMA 2011;305:2335–2342
+
+10. Sun Z, Adam MA, Kim J, Nussbaum DP, Benrashid E, Mantyh CR 
+et al. Determining the optimal timing for initiation of adjuvant 
+chemotherapy after resection for stage II and III colon cancer. 
+Dis Colon Rectum 2016;59:87–93
+
+11. Glimelius B, Dahl O, Cedermark B, Jakobsen A, Bentzen SM, 
+Starkhammar H et al. Adjuvant chemotherapy in colorectal 
+cancer: a joint analysis of randomised trials by the Nordic 
+Gastrointestinal Tumour Adjuvant Therapy Group. Acta Oncol 
+2005;44:904–912
+
+12. Chau I, Norman AR, Cunningham D, Tait D, Ross PJ, Iveson T 
+et al. A randomised comparison between 6 months of bolus 
+fluorouracil/leucovorin and 12 weeks of protracted venous 
+infusion fluorouracil as adjuvant treatment in colorectal 
+cancer. Ann Oncol 2005;16:549–557
+
+13. Lima IS, Yasui Y, Scarfe A, Winget M. Association between 
+receipt and timing of adjuvant chemotherapy and survival for 
+patients with stage III colon cancer in Alberta, Canada. Cancer 
+2011;117:3833–3840
+
+14. Gunduz N, Fisher B, Saffer EA. Effect of surgical removal on the 
+growth and kinetics of residual tumor. Cancer Res 1979;39: 
+3861–3865
+
+15. Fidler IJ, Ellis LM. The implications of angiogenesis for the 
+biology and therapy of cancer metastasis. Cell 1994;79:185–188
+
+16. Eggermont AM, Steller EP, Sugarbaker PH. Laparotomy 
+enhances intraperitoneal tumor growth and abrogates the 
+
+antitumor effects of interleukin-2 and lymphokine-activated 
+killer cells. Surgery 1987;102:71–78
+
+17. O’Brien CA, Pollett A, Gallinger S, Dick JE. A human colon cancer 
+cell capable of initiating tumour growth in immunodeficient 
+mice. Nature 2007;445:106–110
+
+18. Guillou PJ, Quirke P, Thorpe H, Walker J, Jayne DG, Smith AM 
+et al. Short-term endpoints of conventional versus 
+laparoscopic-assisted surgery in patients with colorectal 
+cancer (MRC CLASICC trial): multicentre, randomised 
+controlled trial. Lancet 2005;365:1718–1726
+
+19. Jayne DG, Thorpe HC, Copeland J, Quirke P, Brown JM, Guillou PJ. 
+Five-year follow-up of the Medical Research Council CLASICC 
+trial of laparoscopically assisted versus open surgery for 
+colorectal cancer. Br J Surg 2010;97:1638–1645
+
+20. Colon Cancer Laparoscopic or Open Resection Study Group. 
+Laparoscopic surgery versus open surgery for colon cancer: 
+short-term outcomes of a randomised trial. Lancet Oncol 2005; 
+6:477–484
+
+21. Colon Cancer Laparoscopic or Open Resection Study Group. 
+Survival after laparoscopic surgery versus open surgery for 
+colon cancer: long-term outcome of a randomised clinical 
+trial. Lancet Oncol 2009;10:44–52
+
+22. Clinical Outcomes of Surgical Therapy Study Group. A 
+comparison of laparoscopically assisted and open colectomy 
+for colon cancer. N Engl J Med 2004;350:2050–2059
+
+23. Kulaylat AS, Mirkin KA, Puleo FJ, Hollenbeak CS, Messaris E. 
+Robotic versus standard laparoscopic elective colectomy: 
+where are the benefits? J Surg Res 2018;224:72–78
+
+Lee et al. | 7
+
+http://academic.oup.com/bjsopen/article-lookup/doi/10.1093/bjsopen/zrad064#supplementary-data
+
+
+24. Schootman M, Hendren S, Loux T, Ratnapradipa K, Eberth JM, 
+
+Davidson NO. Differences in effectiveness and use of robotic 
+surgery in patients undergoing minimally invasive colectomy. 
+J Gastrointest Surg 2017;21:1296–1303
+
+25. Lassen K, Soop M, Nygren J, Cox PB, Hendry PO, Spies C et al. 
+Consensus review of optimal perioperative care in colorectal 
+surgery: Enhanced Recovery After Surgery (ERAS) Group 
+recommendations. Arch Surg 2009;144:961–969
+
+26. Varadhan KK, Neal KR, Dejong CH, Fearon KC, Ljungqvist O, 
+Lobo DN. The Enhanced Recovery After Surgery (ERAS) 
+pathway for patients undergoing major elective open 
+colorectal surgery: a meta-analysis of randomized controlled 
+trials. Clin Nutr 2010;29:434–440
+
+27. Greco M, Capretti G, Beretta L, Gemma M, Pecorelli N, Braga M. 
+Enhanced recovery program in colorectal surgery: a 
+meta-analysis of randomized controlled trials. World J Surg 
+2014;38:1531–1541
+
+28. Miller TE, Thacker JK, White WD, Mantyh C, Migaly J, Jin J et al. 
+Reduced length of hospital stay in colorectal surgery after 
+implementation of an enhanced recovery protocol. Anesth 
+Analg 2014;118:1052–1061
+
+29. Koedam TWA, Bootsma BT, Deijen CL, van de Brug T, 
+Kazemier G, Cuesta MA et al. Oncological outcomes after 
+anastomotic leakage after surgery for colon or rectal cancer: 
+increased risk of local recurrence. Ann Surg 2021;275: 
+e420–e427
+
+30. Fleming F, Gaertner W, Ternent CA, Finlayson E, Herzig D, 
+
+Paquette IM et al. The American Society of Colon and Rectal 
+Surgeons clinical practice guideline for the prevention of 
+venous thromboembolic disease in colorectal surgery. Dis 
+Colon Rectum 2018;61:14–20
+
+31. Morks AN, Ploeg RJ, Sijbrand Hofker H, Wiggers T, Havenga K. 
+Late anastomotic leakage in colorectal surgery: a significant 
+problem. Colorectal Dis 2013;15:e271–e275
+
+32. Matthiessen P, Lindgren R, Hallböök O, Rutegård J, Sjödahl R; 
+Rectal Cancer Trial on Defunctioning Stoma Study Group. 
+Symptomatic anastomotic leakage diagnosed after hospital 
+discharge following low anterior resection for rectal cancer. 
+Colorectal Dis 2010;12:e82–e87
+
+33. Lewis C, Xun P, He K. Effects of adjuvant chemotherapy on 
+recurrence, survival, and quality of life in stage II colon cancer 
+patients: a 24-month follow-up. Support Care Cancer 2016;24: 
+1463–1471
+
+34. Iveson TJ, Kerr RS, Saunders MP, Cassidy J, Hollander NH, 
+Tabernero J et al. 3 versus 6 months of adjuvant 
+oxaliplatin-fluoropyrimidine combination therapy for 
+colorectal cancer (SCOT): an international, randomised, phase 
+3, non-inferiority trial. Lancet Oncol 2018;19:562–578
+
+35. Boyd KA, Briggs AH, Paul J, Iveson T, Midgely R, Harkin A et al. 
+Analysis of adverse events and quality of life data for an 
+economic evaluation of adjuvant chemotherapy in colorectal 
+cancer: when can we stop collecting? Trials 2011;12(Suppl 1):A41
+
+8 | BJS Open, 2023, Vol. 7, No. 4
+
+
+	Short-term outcomes of Early versus conventional adjuvant chemotherapy in stage III colon cancer: randomized clinical trial
+	Introduction
+	Methods
+	Study design and participants
+	Randomization and procedure protocol
+	Endpoints
+	Statistics
+
+	Results
+	Patient and disease characteristics
+	Results of adjuvant chemotherapy and toxicity
+	Quality of life
+
+	Discussion
+	Funding
+	Acknowledgements
+	Author contributions
+	Disclosure
+	Supplementary material
+	Data availability
+	References
+
+

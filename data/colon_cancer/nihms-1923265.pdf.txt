@@ -1,0 +1,6439 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Preoperative Treatment of Locally Advanced Rectal Cancer
+
+
+Preoperative Treatment of Locally Advanced Rectal Cancer
+
+Deborah Schrag, M.D., M.P.H.,
+
+Qian Shi, Ph.D.,
+
+Martin R. Weiser, M.D.,
+
+Marc J. Gollub, M.D.,
+
+Leonard B. Saltz, M.D.,
+
+Benjamin L. Musher, M.D.,
+
+Joel Goldberg, M.D.,
+
+Tareq Al Baghdadi, M.D.,
+
+Karyn A. Goodman, M.D.,
+
+Robert R. McWilliams, M.D.,
+
+Jeffrey M. Farma, M.D.,
+
+Thomas J. George, M.D.,
+
+Hagen F. Kennecke, M.D.,
+
+Ardaman Shergill, M.D.,
+
+Michael Montemurro, M.D.,
+
+Garth D. Nelson, M.S.,
+
+Brian Colgrove, B.S.,
+
+Vallerie Gordon, M.D.,
+
+Alan P. Venook, M.D.,
+
+Eileen M O’Reilly, M.D.,
+
+Jeffrey A. Meyerhardt, M.D., M.P.H.,
+
+Amylou C. Dueck, Ph.D.,
+
+Ethan Basch, M.D.,
+
+George J. Chang, M.D.,
+
+Harvey J. Mamon, M.D., Ph.D.
+
+The authors’ affiliations are as follows: the Departments of Medicine (D.S., L.B.S., E.M.O.), 
+Surgery (M.R.W.), and Radiology (M.J.G.), Memorial Sloan Kettering Cancer Center, and the 
+Department of Radiation Oncology, Icahn School of Medicine at Mount Sinai (K.A.G.) — both 
+in New York; Alliance Statistics and Data Management Center (Q.S., G.D.N., B.C., A.C.D.) and 
+the Department of Oncology (R.R.M.), Mayo Clinic, Rochester, MN; SWOG Cancer Research 
+Network and the Department of Medicine, Baylor College of Medicine (B.L.M.), and the 
+Department of Colon and Rectal Surgery, M.D. Anderson Cancer Center (G.J.C.) — both in 
+Houston; the Departments of Surgery (J.G.) and Radiation Oncology (H.J.M.), Brigham and 
+
+The authors’ affiliations are listed in the Appendix. Dr. Schrag can be contacted at schragd@mskcc.org or at the Department of 
+Medicine, Memorial Sloan Kettering Cancer Center, 1275 York Ave., New York, NY 10065. 
+
+HHS Public Access
+Author manuscript
+N Engl J Med. Author manuscript; available in PMC 2024 January 27.
+
+Published in final edited form as:
+N Engl J Med. 2023 July 27; 389(4): 322–334. doi:10.1056/NEJMoa2303269.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+Women’s Hospital, and the Department of Medical Oncology, Dana–Farber Cancer Institute 
+(J.A.M.) — both in Boston; IHA Hematology Oncology, Ypsilanti, MI (T.A.B.); ECOG-ACRIN 
+Cancer Research Network and Department of Surgical Oncology, Fox Chase Cancer Center, 
+Philadelphia (J.M.F.); NRG Oncology and the University of Florida Health Cancer Center, 
+Gainesville (T.J.G.); Canadian Cancer Trials Group, Kingston, ON (H.F.K.), and the Department 
+of Medical Oncology and Hematology, CancerCare Manitoba, Winnipeg (V.G.) — both in Canada; 
+Alliance Protocol Office, Chicago (A.S.); the Swiss Group for Clinical Cancer Research, Bern, 
+Switzerland (M.M.); Helen Diller Family Comprehensive Cancer Center, University of California, 
+San Francisco, San Francisco (A.P.V.); and the Department of Medical Oncology and Lineberger 
+Comprehensive Cancer Center, University of North Carolina, Chapel Hill (E.B.).
+
+Abstract
+
+BACKGROUND—Pelvic radiation plus sensitizing chemotherapy with a fluoropyrimidine 
+
+(chemoradiotherapy) before surgery is standard care for locally advanced rectal cancer in 
+
+North America. Whether neoadjuvant chemotherapy with fluorouracil, leucovorin, and oxaliplatin 
+
+(FOLFOX) can be used in lieu of chemoradiotherapy is uncertain.
+
+METHODS—We conducted a multicenter, unblinded, noninferiority, randomized trial of 
+
+neoadjuvant FOLFOX (with chemoradiotherapy given only if the primary tumor decreased in 
+
+size by <20% or if FOLFOX was discontinued because of side effects) as compared with 
+
+chemoradiotherapy. Adults with rectal cancer that had been clinically staged as T2 node-positive, 
+
+T3 node-negative, or T3 node-positive who were candidates for sphincter-sparing surgery were 
+
+eligible to participate. The primary end point was disease-free survival. Noninferiority would be 
+
+claimed if the upper limit of the two-sided 90.2% confidence interval of the hazard ratio for 
+
+disease recurrence or death did not exceed 1.29. Secondary end points included overall survival, 
+
+local recurrence (in a time-to-event analysis), complete pathological resection, complete response, 
+
+and toxic effects.
+
+RESULTS—From June 2012 through December 2018, a total of 1194 patients underwent 
+
+randomization and 1128 started treatment; among those who started treatment, 585 were in 
+
+the FOLFOX group and 543 in the chemoradiotherapy group. At a median follow-up of 58 
+
+months, FOLFOX was noninferior to chemoradiotherapy for disease-free survival (hazard ratio 
+
+for disease recurrence or death, 0.92; 90.2% confidence interval [CI], 0.74 to 1.14; P = 0.005 for 
+
+noninferiority). Five-year disease-free survival was 80.8% (95% CI, 77.9 to 83.7) in the FOLFOX 
+
+group and 78.6% (95% CI, 75.4 to 81.8) in the chemoradiotherapy group. The groups were similar 
+
+with respect to overall survival (hazard ratio for death, 1.04; 95% CI, 0.74 to 1.44) and local 
+
+recurrence (hazard ratio, 1.18; 95% CI, 0.44 to 3.16). In the FOLFOX group, 53 patients (9.1%) 
+
+received preoperative chemoradiotherapy and 8 (1.4%) received postoperative chemoradiotherapy.
+
+CONCLUSIONS—In patients with locally advanced rectal cancer who were eligible 
+
+for sphincter-sparing surgery, preoperative FOLFOX was noninferior to preoperative 
+
+chemoradiotherapy with respect to disease-free survival. (Funded by the National Cancer Institute; 
+
+PROSPECT ClinicalTrials.gov number, NCT01515787.)
+
+Pelvic chemoradiotherapy for locally advanced rectal cancer reduces the risk of disease 
+
+recurrence in the pelvis to less than 10% and has been standard care in North America 
+
+since 1990.1–6 However, it is associated with short-term and long-term toxic effects7–9 that 
+
+Schrag et al. Page 2
+
+N Engl J Med. Author manuscript; available in PMC 2024 January 27.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+http://ClinicalTrials.gov
+https://clinicaltrials.gov/ct2/show/NCT01515787
+
+
+can adversely affect quality of life and physical function.8 In 2004, a randomized trial 
+
+established the superiority of preoperative to postoperative pelvic chemoradiotherapy with 
+
+fluorouracil sensitization.10 Also in 2004, postoperative (adjuvant) chemotherapy with the 
+
+FOLFOX regimen, which combines fluorouracil, leucovorin, and oxaliplatin, was found to 
+
+prolong disease-free survival as compared with fluorouracil alone among patients with stage 
+
+III colon cancer.11 FOLFOX has also been shown to be associated with high response rates 
+
+when administered before chemoradiotherapy.2,12
+
+These findings motivated us to investigate whether neoadjuvant treatment with FOLFOX 
+
+could allow the elimination of chemoradiotherapy without increasing the risk of 
+
+recurrence. In a single-center pilot trial of neoadjuvant FOLFOX in which administration 
+
+of chemoradiotherapy was reserved for patients whose tumors did not respond to 
+
+chemotherapy, we found favorable outcomes, with few patients going on to receive radiation 
+
+and none having local disease recurrence.13 On the basis of these results, we designed 
+
+the PROSPECT trial (Chemotherapy Alone or Chemotherapy Plus Radiation Therapy in 
+
+Treating Patients with Locally Advanced Rectal Cancer Undergoing Surgery) to test the 
+
+hypothesis that neoadjuvant FOLFOX, with chemoradiotherapy reserved for patients whose 
+
+tumors responded poorly or in whom FOLFOX was discontinued because of side effects, 
+
+would be noninferior to neoadjuvant chemoradiotherapy alone in patients with locally 
+
+advanced rectal cancer that was amenable to sphincter-sparing surgery.
+
+Methods
+
+TRIAL DESIGN AND PATIENTS
+
+We conducted a multicenter, unblinded, randomized, noninferiority trial with a seamless 
+
+phase 2–3 design; the trial was sponsored by the Alliance for Clinical Trials in Oncology 
+
+(Alliance, a cooperative research network funded by the National Cancer Institute) and 
+
+was conducted in Canada, Switzerland, and the United States at 264 academic and 
+
+community-based institutions (see the protocol, available with the full text of this article 
+
+at NEJM.org). We recruited patients 18 years of age or older who had previously untreated, 
+
+pathologically confirmed, locally advanced rectal cancer that had been clinically staged as 
+
+T2 node-positive, T3 node-negative, or T3 node-positive (Table S1 in the Supplementary 
+
+Appendix, available at NEJM.org) on the basis of the tumor–node–metastasis system in 
+
+the Cancer Staging Manual of the American Joint Committee on Cancer, 7th edition. 
+
+For a patient to be eligible, the patient’s primary surgeon had to consider neoadjuvant 
+
+pelvic chemoradiotherapy followed by a sphincter-sparing operation as the appropriate 
+
+treatment approach. Participants had to have an Eastern Cooperative Oncology Group 
+
+(ECOG) performance-status score of 0, 1, or 2 (scores range from 0 to 5, with higher scores 
+
+indicating greater disability). Patients with T4 tumors, four or more pelvic lymph nodes with 
+
+a short axis larger than 10 mm, or tumor visible within 3 mm of the radial margin seen on 
+
+baseline pelvic imaging were ineligible. Among the other exclusion criteria were previous 
+
+pelvic radiation therapy, chemotherapy within the previous 5 years, or abnormal laboratory 
+
+measures.
+
+Schrag et al. Page 3
+
+N Engl J Med. Author manuscript; available in PMC 2024 January 27.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+http://NEJM.org
+http://NEJM.org
+
+
+TRIAL OVERSIGHT
+
+The trial was conducted in accordance with the principles of the Declaration of Helsinki and 
+
+the International Council for Harmonisation Good Clinical Practice guidelines. The protocol 
+
+was approved by the institutional review board at each participating institution or by the 
+
+National Cancer Institute (NCI) central institutional review board. All the patients provided 
+
+written informed consent before enrollment. The trial was monitored by the Alliance data 
+
+and safety monitoring board twice per year. In April 2016, the data and safety monitoring 
+
+board determined that the phase 2 data met the criteria for seamlessly proceeding to the 
+
+phase 3 trial. Because fewer recurrences and deaths were noted than had been projected, 
+
+the coprimary end points of disease-free survival and local recurrence (in a time-to-event 
+
+analysis) were modified to disease-free survival alone. The statistical redesign was led by 
+
+an independent statistician who was unaware of the trial data in collaboration with the NCI 
+
+Cancer Therapy Evaluation Program and was approved by the data and safety monitoring 
+
+board in May 2021. The amendments and statistical analysis plan are provided in the 
+
+protocol. The first two authors developed the trial design, and the second author had access 
+
+to the raw data after release and analyzed the data. The authors vouch for the accuracy and 
+
+completeness of the data and for the fidelity of the trial to the protocol. The NCI funded the 
+
+trial and approved the design but had no role in the interpretation of the data.
+
+RANDOMIZATION AND PROCEDURES
+
+Pelvic magnetic resonance imaging (MRI) was recommended at baseline, but contrast-
+
+enhanced computed tomography (CT) of the chest, abdomen, and pelvis plus endorectal 
+
+ultrasonography was an acceptable alternative. After eligibility was confirmed, patients 
+
+underwent randomization in a 1:1 ratio on the basis of a dynamic randomization scheme 
+
+with stratification according to ECOG performance-status score (a score of 0 or 1 vs. 2).
+
+Patients in the FOLFOX group received six cycles of modified FOLFOX614 administered 
+
+intravenously every 2 weeks, followed by restaging with pelvic imaging and rectal 
+
+endoscopy. Patients who were unable to complete at least five cycles of FOLFOX were 
+
+given chemoradiotherapy (with the use of the procedures used in the chemoradiotherapy 
+
+group; see below). Patients whose primary tumor had decreased in size by at least 20% as 
+
+determined by the surgeon on the basis of restaging imaging, proctoscopy, and physical 
+
+examination proceeded to surgery, and those whose primary tumor had decreased in 
+
+size by less than 20% received chemoradiotherapy. Postoperative chemoradiotherapy was 
+
+recommended for patients in the FOLFOX group whose resection was not pathologically 
+
+complete (R0). Postoperative adjuvant chemotherapy with an additional six cycles of 
+
+FOLFOX was suggested but not mandated.
+
+Patients in the chemoradiotherapy group received pelvic radiotherapy with 50.4 Gy 
+
+delivered in 28 fractions, together with sensitizing fluoropyrimidine chemotherapy delivered 
+
+either as a continuous intravenous infusion of fluorouracil at a dose of 225 mg per 
+
+square meter of body-surface area per day or as oral capecitabine at a dose of 825 mg 
+
+per square meter twice daily, 5 days per week on days of radiation therapy, with the 
+
+choice at the discretion of the patient and medical oncologist. Postoperative adjuvant 
+
+chemotherapy with eight cycles of FOLFOX was suggested but not mandated. In both 
+
+Schrag et al. Page 4
+
+N Engl J Med. Author manuscript; available in PMC 2024 January 27.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+treatment groups, the choice between three-dimensional conformal radiotherapy or intensity-
+
+modulated radiotherapy was at the discretion of the radiation oncologist. The surgical 
+
+approach (open resection vs. laparoscopic or robot-assisted) was chosen at the surgeon’s 
+
+discretion.
+
+END POINTS
+
+The primary objective was to determine whether neoadjuvant FOLFOX with selective use of 
+
+chemoradiotherapy would be noninferior to standard neoadjuvant chemoradiotherapy with 
+
+respect to disease-free survival, defined as survival free from disease recurrence or death 
+
+from any cause, assessed in a time-to-event analysis. Data from patients who did not die or 
+
+have disease recurrence were censored at the date of the last disease evaluation.
+
+Secondary end points included overall survival, local recurrence (in a time-to-event 
+
+analysis), R0 resection, pathological complete response, and toxic effects. Overall survival 
+
+was assessed in a time-to-event analysis as survival free from death from any cause. In 
+
+the time-to-event analysis of local recurrence, isolated local recurrences were identified on 
+
+the basis of their location in the pelvis, irrespective of the mode of detection or whether 
+
+they could be surgically resected. R0 resection was identified on the basis of a pathology 
+
+report showing no involvement of proximal, distal, or radial tumor within 1 mm of any 
+
+surgical margin. Pathological complete response was confirmed if the surgical pathology 
+
+report showed no evidence of tumor.
+
+Adverse events were reported by clinicians using the NCI Common Toxicity Criteria and 
+
+Adverse Events (CTCAE), version 4.15 Patients reported their symptoms and adverse events 
+
+with the use of the patient-reported outcomes version of the CTCAE (PRO-CTCAE).16
+
+STATISTICAL ANALYSIS
+
+Noninferiority with respect to the primary end point required a hazard ratio for disease 
+
+recurrence or death with a margin of less than 1.29, corresponding to 5-year disease-
+
+free survival that was 5 percentage points lower in the FOLFOX group than in the 
+
+chemoradiotherapy group. In the original design, the prespecified acceptable maximum 
+
+absolute between-group difference in 3-year disease-free survival was 5 percentage points. 
+
+This noninferiority margin was considered to be clinically important and appropriate by 
+
+more than 50 surgeons and radiation and medical oncologists, as well as by patient 
+
+representatives attending the Alliance Gastrointestinal Oncology Meetings in November 
+
+2010 and May 2011 who participated in interactive polling to establish a noninferiority 
+
+threshold. This margin was maintained with 5-year (instead of 3-year) disease-free survival 
+
+in the revised statistical design. One interim analysis was performed before the major 
+
+revision, and two interim analyses were removed to preserve power with a remaining one-
+
+sided alpha level of 0.049. The revised design required 210 instances of disease recurrence 
+
+or death in order to have 85% power to reject the null hypothesis. Noninferiority of the 
+
+intervention could be claimed if the upper limit of the two-sided 90.2% confidence interval 
+
+of the hazard ratio for disease recurrence or death did not exceed the 1.29 noninferiority 
+
+margin. Hazard ratios and their confidence intervals were estimated with the use of stratified 
+
+Cox proportional-hazards models.
+
+Schrag et al. Page 5
+
+N Engl J Med. Author manuscript; available in PMC 2024 January 27.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+Because noninferiority testing was planned, the analysis of the primary end point was 
+
+based on all the patients who received any dose of treatment (per-protocol population). 
+
+Multivariate analyses were adjusted for age and baseline nodal status (node-positive vs. 
+
+node-negative), given the prognostic importance of these features. Because the statistical 
+
+analysis plan did not include a provision for correcting for multiplicity when conducting 
+
+tests for secondary or other end points, results are reported as point estimates and 95% 
+
+confidence intervals. The widths of the confidence intervals have not been adjusted for 
+
+multiplicity, and therefore the intervals should not be used to infer definitive treatment 
+
+effects for secondary end points. Chi-square and logrank tests were used to compare 
+
+categorical and time-to-event secondary end points, respectively, between the treatment 
+
+groups. Supplemental analyses were based on all the patients who underwent randomization, 
+
+as well as on the per-protocol population that excluded patients who were found to be 
+
+ineligible after randomization. Analyses were conducted with the use of SAS software, 
+
+version 9.4 (SAS Institute).
+
+Results
+
+PATIENTS
+
+From June 2012 through December 2018, a total of 1194 patients with pathologically 
+
+confirmed rectal adenocarcinoma that had been clinically staged as T2 node-positive, T3 
+
+node-negative, or T3 node-positive were randomly assigned to the FOLFOX group (597 
+
+patients) or the chemoradio therapy group (597 patients) at 263 participating institutions. 
+
+After randomization, 66 patients (12 in the FOLFOX group and 54 in the chemoradiotherapy 
+
+group) did not receive any protocol treatment. A total of 1128 patients (585 in the FOLFOX 
+
+group and 543 in the chemoradiotherapy group) began treatment and were included in 
+
+the primary per-protocol analysis (Fig. 1). The pretreatment demographic and clinical 
+
+characteristics of these patients are shown in Table 1. The median follow-up for end points 
+
+was 58 months. The trial database was locked on December 15, 2022, when 227 of the target 
+
+210 events in the analysis of disease-free survival had occurred.
+
+DISEASE-FREE SURVIVAL
+
+FOLFOX with selective use of chemoradiotherapy was found to be noninferior to 
+
+chemoradiotherapy with respect to disease-free survival (hazard ratio for disease recurrence 
+
+or death, 0.92; two-sided 90.2% confidence interval [CI], 0.74 to 1.14; P = 0.005 for 
+
+noninferiority), and an analysis with adjustment for age and clinical nodal status yielded 
+
+consistent results (Fig. 2A and 2B). Five-year disease-free survival was 80.8% (95% 
+
+CI, 77.9 to 83.7) in the FOLFOX group and 78.6% (95% CI, 75.4 to 81.8) in the 
+
+chemoradiotherapy group. Figure S3 shows a comparison of disease-free survival in 
+
+prespecified subgroups of interest. In a supplementary analysis of disease-free survival 
+
+involving all 1194 patients who underwent randomization, the hazard ratio for disease 
+
+recurrence or death was 0.91 (90.2% CI, 0.73 to 1.13; P = 0.004 for noninferiority); 
+
+results were similar for patients in the per-protocol population who were later found to 
+
+be ineligible. The proportional-hazards assumption was not violated (P = 0.30 by the 
+
+Schoenfeld residuals method).
+
+Schrag et al. Page 6
+
+N Engl J Med. Author manuscript; available in PMC 2024 January 27.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+OVERALL SURVIVAL AND LOCAL RECURRENCE
+
+Five-year overall survival was 89.5% in the FOLFOX group and 90.2% in the 
+
+chemoradiotherapy group (hazard ratio for death, 1.04; 95% CI, 0.74 to 1.44) (Fig. 2C). 
+
+Local recurrence occurred in nine patients in the FOLFOX group and seven patients in the 
+
+chemoradiotherapy group; the incidence of local recurrence at 5 years was 1.8% and 1.6%, 
+
+respectively (hazard ratio, 1.18; 95% CI, 0.44 to 3.16) (Fig. 2D).
+
+PATHOLOGICAL AND SURGICAL SECONDARY END POINTS
+
+Surgical and pathological end points are shown in Table 2. In the per-protocol population, 
+
+resection was pathologically complete (R0) in 90.4% of the patients in the FOLFOX 
+
+group and in 91.2% of those in the chemoradiotherapy group. Among the patients in the 
+
+per-protocol population who underwent surgery, the corresponding percentages were 98.9% 
+
+and 97.1%, respectively (Table 2). Among the patients in the per-protocol population who 
+
+underwent surgery, 117 of 535 patients (21.9%) in the FOLFOX group and 124 of 510 
+
+(24.3%) in the chemoradiotherapy group had a complete pathological response.
+
+NEOADJUVANT TREATMENT DURATION AND ADHERENCE
+
+The median time from randomization to surgery was 19.0 weeks (interquartile range, 17.1 
+
+to 21.1) in the FOLFOX group and 15.6 weeks (interquartile range, 14.6 to 17.0) in the 
+
+chemoradiotherapy group (Table 2). In the FOLFOX group, 555 of 585 patients (94.9%) 
+
+received at least five cycles of neoadjuvant therapy (Table S3A) and 53 of 585 (9.1%) 
+
+received neoadjuvant chemoradiotherapy. Eight patients (1.4%) in the FOLFOX group 
+
+received fewer than six cycles of FOLFOX, 38 patients (6.5%) did not meet the clinical 
+
+response threshold of a 20% decrease in primary tumor size, and in 7 cases (1.2% of the 
+
+patients) the treating physician or patient opted for chemoradiotherapy after randomization 
+
+for other reasons. Among the patients who were randomly assigned to the FOLFOX group 
+
+who subsequently received chemoradiotherapy, 52 of 53 (98%) received the full dose of 50.4 
+
+Gy. In the chemoradiotherapy group, 515 of 543 patients (94.8%) completed the full dose of 
+
+50.4 Gy (Table S3B).
+
+POSTOPERATIVE TREATMENT
+
+In the FOLFOX group, 438 of 585 patients (74.9%) received adjuvant chemotherapy; 
+
+348 of these 438 patients (79.5%) received adjuvant FOLFOX for a median of six 
+
+cycles. In the chemoradiotherapy group, 423 of 543 patients (77.9%) received adjuvant 
+
+chemotherapy; 281 of these 423 patients (66.4%) received FOLFOX for a median of 
+
+eight cycles, and an additional 60 patients (14.2%) received postoperative capecitabine 
+
+and oxaliplatin (CAPOX). Ultimately, 61 of 585 patients (10.4%) in the FOLFOX group 
+
+received chemoradiotherapy; 53 patients (9.1%) received it before surgery and 8 (1.4%) 
+
+received it after surgery. The median total duration of treatment (from randomization to the 
+
+last date of postoperative treatment) was 35.6 weeks (interquartile range, 32.9 to 39.3) in the 
+
+FOLFOX group and 37.0 weeks (interquartile range, 34.0 to 40.4) in the chemoradiotherapy 
+
+group (Table S4). Among the patients who underwent resection, 438 of 535 (81.9%) in 
+
+the FOLFOX group and 423 of 510 (82.9%) in the chemoradiotherapy group received any 
+
+postoperative therapy.
+
+Schrag et al. Page 7
+
+N Engl J Med. Author manuscript; available in PMC 2024 January 27.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+SAFETY
+
+Details of clinician-reported toxic effects during neoadjuvant therapy (Table S2A) showed 
+
+a higher incidence of severe (grade ≥3) adverse events in the FOLFOX group than in 
+
+the chemoradiotherapy group (41.0% vs. 22.8%). However, the treatment period was 
+
+twice as long in the FOLFOX group (minimum of 12 weeks, vs. 5.5 weeks in the 
+
+chemoradiotherapy group). Neuropathy was more frequent and severe in the FOLFOX group 
+
+than in the chemoradiotherapy group, and diarrhea was more frequent and severe in the 
+
+chemoradiotherapy group than in the FOLFOX group. In the FOLFOX group, the most 
+
+frequent grade 3 or higher toxic effects of neoadjuvant therapy were neutropenia, pain, and 
+
+hypertension, reported by clinicians for 20.3%, 3.1%, and 2.9% of the patients, respectively. 
+
+In the chemoradiotherapy group, the most frequent grade 3 or higher toxic effects reported 
+
+by clinicians were lymphopenia, diarrhea, and hypertension, in 8.3%, 6.4% and 1.7% of the 
+
+patients, respectively.
+
+Among the patients who received any adjuvant therapy (Table S2B), severe (grade 
+
+≥3) postoperative adverse events occurred in a lower percentage of patients in the 
+
+FOLFOX group than in the chemoradiotherapy group (25.6% vs. 32.6%). The most 
+
+commonly reported postoperative grade 3 or higher toxic effects were neutropenia (in 
+
+3.9% of the patients), diarrhea (in 2.7%), and hyponatremia (in 2.3%) in the FOLFOX 
+
+group and diarrhea (in 5.2%), dehydration (in 4.3%), and lymphopenia (in 4.3%) in 
+
+the chemoradiotherapy group. No unanticipated toxic effects of either FOLFOX or 
+
+chemoradiotherapy were observed.
+
+Discussion
+
+In patients with rectal cancer that had been clinically staged as T2 node-positive, T3 
+
+node-negative, or T3 node-positive who were candidates for sphincter-sparing surgery, 
+
+neoadjuvant FOLFOX and selective use of pelvic chemoradiotherapy was noninferior to the 
+
+current North American standard of neoadjuvant pelvic chemoradiotherapy with respect to 
+
+disease-free survival. Among the patients assigned to receive neoadjuvant FOLFOX, 89.6% 
+
+were ultimately able to avoid receiving chemoradiotherapy. Overall survival was also similar 
+
+with the two treatment strategies.
+
+The percentage of patients free from local recurrence was also similar in the two groups 
+
+and exceeded 98% at 5 years. The major benefit of pelvic radiation therapy that has been 
+
+shown in previous clinical trials is a decrease in the risk of pelvic recurrence.5,6,17,18 The 
+
+very low incidence of local recurrence seen in the FOLFOX group in our trial supports 
+
+the premise underpinning the trial: modern therapies, including staging MRI, chemotherapy 
+
+with oxaliplatin and a fluoropyrimidine, and total mesorectal excision, obviate the need 
+
+for universal application of pelvic radiation. The incidence of local recurrence was even 
+
+lower than that reported in previous trials, most likely because the previous trials, including 
+
+the Neoadjuvant FOLFOX6 Chemotherapy with or without Radiation in Rectal Cancer 
+
+(FOWARC) trial,19 included patients who could not undergo sphincter-sparing surgery or 
+
+who had other high-risk features. In that trial of neoadjuvant therapy, 165 patients were 
+
+randomly assigned to receive FOLFOX and 165 to receive chemoradiotherapy, and 3-year 
+
+disease-free survival was 72.9% and 73.5%, respectively.19
+
+Schrag et al. Page 8
+
+N Engl J Med. Author manuscript; available in PMC 2024 January 27.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+Most trial participants (61.8%) had clinical evidence of enlarged lymph nodes that were 
+
+likely to contain a tumor, and most tumors were in the mid-rectum, with a median distance 
+
+of 8 cm from the anal verge. When the trial was designed in 2011, concern was expressed 
+
+about compromising the low incidence of local recurrence that would be expected to occur 
+
+with administration of neoadjuvant pelvic radiation. Therefore, patients who were thought 
+
+to be at high risk for incomplete resection, such as those with T4 stage disease or low-lying 
+
+tumors, were excluded. Patients with four or more pelvic lymph nodes with a short axis 
+
+measuring more than 10 mm were also excluded, although it is plausible that such patients 
+
+might have the most to gain from neoadjuvant FOLFOX therapy.
+
+Because our trial was launched in 2012, alternative approaches to the treatment of rectal 
+
+cancer have emerged. The Rectal Cancer and Pre-operative Induction Therapy Followed 
+
+by Dedicated Operation (RAPIDO) trial20 evaluated short-course pelvic radiation with 
+
+preoperative CAPOX as compared with chemoradiotherapy and discretionary use of 
+
+postoperative CAPOX. Although treatment for the control groups was similar in the two 
+
+trials, the RAPIDO trial enrolled patients with high-risk tumors (e.g., T4) who were 
+
+excluded from our trial, and differences in eligibility account for the higher incidence of 
+
+recurrence in the RAPIDO trial.20 That trial showed that preoperative short-course radiation 
+
+and chemotherapy were associated with a lower incidence of recurrence than preoperative 
+
+chemoradiotherapy.20 This finding has been attributed to the lower rates of chemotherapy 
+
+use in the chemoradiotherapy group in that trial. The 5-year risk of local recurrence 
+
+was higher with short-course radiation, and this may explain the limited adoption of this 
+
+treatment strategy in North America.21
+
+Although the eligibility criteria used in our trial may limit its generalizability to high-risk 
+
+patients, an analysis of Surveillance Epidemiology and End Results data reveals that patients 
+
+with cancer clinically staged as T2 node-positive, T3 node-negative, or T3 node-positive 
+
+account for more than half the patients with a diagnosis of locally advanced rectal cancer 
+
+in the United States. In our trial, the percentage of patients with a pathological complete 
+
+response was similar in the two groups (21.9% in the FOLFOX group and 24.3% in the 
+
+chemoradiotherapy group), but further research will be necessary to determine whether 
+
+distinctive molecular features predict responsiveness to chemotherapy as compared with 
+
+radiation.
+
+The widespread treatment of average-risk rectal cancer with neoadjuvant 
+
+chemoradiotherapy, which has predominated in North America since publication of the 
+
+German trial in 2004,10 increases the potential for overtreatment. It is plausible that 
+
+the low incidence of recurrence in our trial could have been achieved with up-front 
+
+surgery and selective use of adjuvant chemotherapy or pelvic chemoradiotherapy based on 
+
+surgical pathological assessment. Although our trial shows that it is safe for some patients 
+
+with locally advanced rectal cancer to forgo pelvic radiation, substitution of preoperative 
+
+chemoradiotherapy for preoperative FOLFOX does not reduce the fundamental risk of 
+
+overtreatment.
+
+Because survival and the incidence of recurrence were similar in the two groups, the 
+
+short-term and long-term symptoms reported by patients enrolled in our trial will be 
+
+Schrag et al. Page 9
+
+N Engl J Med. Author manuscript; available in PMC 2024 January 27.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+especially important. The incidence of toxic effects was higher during the 12 weeks of 
+
+preoperative treatment with FOLFOX than during the 6 weeks of preoperative treatment 
+
+with chemoradiotherapy. However, during the postoperative period, this pattern reversed, 
+
+with a higher incidence of toxic effects among patients in the chemoradiotherapy group who 
+
+received more postoperative cycles of FOLFOX. Thus, the differences in the incidence of 
+
+toxic effects reflect the timing of FOLFOX administration. The patients who were enrolled 
+
+in our trial were invited to report their symptoms and quality of life, and these data (not 
+
+reported in this article) may enable patients and physicians to tailor treatment to individual 
+
+risk profiles and preferences.22 Pelvic radiation therapy can cause late complications, 
+
+including pelvic fracture, second cancers,9 and myelosuppression, which may impair a 
+
+patient’s ability to receive chemotherapy in the event of recurrence.23 Longer follow-up is 
+
+required in order to evaluate the magnitude of late effects.
+
+The increasing number of treatment options for locally advanced rectal cancer enables 
+
+customized treatment that is based on tumor-specific features. For example, patients whose 
+
+tumors have high microsatellite instability can have a durable complete response with 
+
+immunotherapy alone.24 These newer approaches, including total neoadjuvant therapy25,26 
+
+with the potential for nonoperative management,27 have not yet been evaluated in phase 3 
+
+trials, but they tailor treatment intensity to recurrence risk and may minimize toxic effects 
+
+and the risk of overtreatment. The findings in this trial have extended the therapeutic 
+
+options by showing the noninferiority of neoadjuvant FOLFOX with selective use of 
+
+chemoradiotherapy to the prevailing standard of neoadjuvant chemoradiotherapy. In this 
+
+trial, neoadjuvant FOLFOX was an effective treatment option for patients with T2 node-
+
+positive, T3 node-negative, or T3 node-positive rectal cancer who were candidates for 
+
+sphincter-sparing surgery.
+
+Supplementary Material
+
+Refer to Web version on PubMed Central for supplementary material.
+
+Acknowledgments
+
+The content of this article is solely the responsibility of the authors and does not necessarily represent the official 
+views of the National Institutes of Health.
+
+Supported by grants from the National Cancer Institute of the National Institutes of Health (U10CA180821, 
+U10CA180882, and UG1CA189823, to the Alliance for Clinical Trials in Oncology; UG1CA232760; 
+UG1CA233180; UG1CA233290; UG1CA233329; UG1CA233373; P30 CA008748; P30CA006516; 
+U10CA180863; CCS#707213, to the Canadian Cancer Trials Group; U10CA180820, to the ECOG-ACRIN Cancer 
+Research Group; U10CA180868, to NRG Oncology; and U10CA180888, to SWOG). The Swiss Group for Clinical 
+Cancer Research provided services in support of the trial participants in Switzerland.
+
+Disclosure forms provided by the authors are available with the full text of this article at NEJM.org.
+
+A data sharing statement provided by the authors is available with the full text of this article at NEJM.org.
+
+We thank Greg Yothers, Ph.D., for statistical support; Jennifer Wind, M.A., and Christine Cronin, B.A., from 
+the Dana-Farber Cancer Institute for project management; Garth Nelson, M.S., Brian Colgrove, B.S., and Deb 
+Papenfus, B.A., from the Alliance Statistics and Data Management Center (Mayo Clinic) for statistical and 
+data-management contributions; the many physicians, advanced practitioners, nurses, study managers, and patient 
+advocates who dedicated effort to the execution of the trial; and, most important, the patients who enrolled in the 
+trial.
+
+Schrag et al. Page 10
+
+N Engl J Med. Author manuscript; available in PMC 2024 January 27.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+http://NEJM.org
+http://NEJM.org
+
+
+References
+
+1. NIH consensus conference: adjuvant therapy for patients with colon and rectal cancer. JAMA 1990; 
+264:1 444–50.
+
+2. Chau I, Brown G, Cunningham D, et al. Neoadjuvant capecitabine and oxaliplatin followed by 
+synchronous chemoradiation and total mesorectal excision in magnetic resonance imaging-defined 
+poor-risk rectal cancer. J Clin Oncol 2006; 24:6 68–74.
+
+3. Douglass HO Jr, Moertel CG, Mayer RJ, et al. Survival after postoperative combination treatment of 
+rectal cancer. N Engl J Med 1986; 315:1 294–5.
+
+4. Krook JE, Moertel CG, Gunderson LL, et al. Effective surgical adjuvant therapy for high-risk rectal 
+carcinoma. N Engl J Med 1991; 324:7 09–15.
+
+5. Peeters KCMJ Marijnen CAM, Nagtegaal ID, et al. The TME trial after a median follow-up of 
+6 years: increased local control but no survival benefit in irradiated patients with resectable rectal 
+carcinoma. Ann Surg 2007; 246: 693–701. [PubMed: 17968156] 
+
+6. Folkesson J, Birgisson H, Pahlman L, Cedermark B, Glimelius B, Gunnarsson U. Swedish Rectal 
+Cancer Trial: long lasting benefits from radiotherapy on survival and local recurrence rate. J Clin 
+Oncol 2005; 23: 5644–50. [PubMed: 16110023] 
+
+7. Wolff HA, Conradi L-C, Beissbarth T, et al. Gender affects acute organ toxicity during 
+radiochemotherapy for rectal cancer: long-term results of the German CAO/ARO/AIO-94 phase 
+III trial. Radiother Oncol 2013; 108:4 8–54.
+
+8. Downing A, Glaser AW, Finan PJ, et al. Functional outcomes and health-related quality of life after 
+curative treatment for rectal cancer: a population-level study in England. Int J Radiat Oncol Biol 
+Phys 2019; 103: 1132–42. [PubMed: 30553942] 
+
+9. Baxter NN, Habermann EB, Tepper JE, Durham SB, Virnig BA. Risk of pelvic fractures in older 
+women following pelvic irradiation. JAMA 2005; 294: 2587–93. [PubMed: 16304072] 
+
+10. Sauer R, Becker H, Hohenberger W, et al. Preoperative versus postoperative chemoradiotherapy for 
+rectal cancer. N Engl J Med 2004; 351: 1731–40. [PubMed: 15496622] 
+
+11. André T, Boni C, Mounedji-Boudiaf L, et al. Oxaliplatin, fluorouracil, and leucovorin as adjuvant 
+treatment for colon cancer. N Engl J Med 2004; 350: 2343–51. [PubMed: 15175436] 
+
+12. Fernández-Martos C, Pericay C, Aparicio J, et al. Phase II, randomized study of concomitant 
+chemoradiotherapy followed by surgery and adjuvant capecitabine plus oxaliplatin (CAPOX) 
+compared with induction CAPOX followed by concomitant chemoradiotherapy and surgery in 
+magnetic resonance imaging-defined, locally advanced rectal cancer: Grupo cancer de recto 3 
+study. J Clin Oncol 2010; 28: 859–65. [PubMed: 20065174] 
+
+13. Schrag D, Weiser MR, Goodman KA, et al. Neoadjuvant chemotherapy without routine use of 
+radiation therapy for patients with locally advanced rectal cancer: a pilot trial. J Clin Oncol 2014; 
+32: 513–8. [PubMed: 24419115] 
+
+14. Goldberg RM, Sargent DJ, Morton RF, et al. A randomized controlled trial of fluorouracil 
+plus leucovorin, irinotecan, and oxaliplatin combinations in patients with previously untreated 
+metastatic colorectal cancer. J Clin Oncol 2004;2 2: 23–30.
+
+15. Cancer Therapy Evaluation Program (CTEP). Common terminology criteria for adverse 
+events (CTCAE) v5.0 (https://ctep.cancer.gov/protocoldevelopment/electronic_applications/
+ctc.htm#ctc_50).
+
+16. National Cancer Institute. What is the PRO-CTCAE measurement system? Overview (https://
+healthcaredelivery.cancer.gov/pro-ctcae/overview.html ).
+
+17. Sauer R, Liersch T, Merkel S, et al. Preoperative versus postoperative chemoradiotherapy for 
+locally advanced rectal cancer: results of the German CAO/ARO/AIO-94 randomized phase III 
+trial after a median follow-up of 11 years. J Clin Oncol 2012; 30:1 926–33.
+
+18. Allegra CJ, Yothers G, O’Connell MJ, et al. Neoadjuvant 5-FU or capecitabine plus radiation with 
+or without oxaliplatin in rectal cancer patients: a phase III randomized clinical trial. J Natl Cancer 
+Inst 2015;1 07(11): djv248.
+
+19. Deng Y, Chi P, Lan P, et al. Neoadjuvant modified FOLFOX6 with or without radiation 
+versus fluorouracil plus radiation for locally advanced rectal cancer: final results of the Chinese 
+FOWARC Trial. J Clin Oncol 2019; 37:3 223–33.
+
+Schrag et al. Page 11
+
+N Engl J Med. Author manuscript; available in PMC 2024 January 27.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+https://ctep.cancer.gov/protocoldevelopment/electronic_applications/ctc.htm#ctc_50
+https://ctep.cancer.gov/protocoldevelopment/electronic_applications/ctc.htm#ctc_50
+https://healthcaredelivery.cancer.gov/pro-ctcae/overview.html
+https://healthcaredelivery.cancer.gov/pro-ctcae/overview.html
+
+
+20. Bahadoer RR, Dijkstra EA, van Etten B, et al. Short-course radiotherapy followed by 
+chemotherapy before total mesorectal excision (TME) versus preoperative chemoradiotherapy, 
+TME, and optional adjuvant chemotherapy in locally advanced rectal cancer (RAPIDO): a 
+randomised, open-label, phase 3 trial. Lancet Oncol 2021; 22:2 9–42.
+
+21. Dijkstra EA, Nilsson PJ, Hospers GAP, et al. Locoregional failure during and after short-course 
+radiotherapy followed by chemotherapy and surgery compared to long-course chemoradiotherapy 
+and surgery — a five-year follow-up of the RAPIDO Trial. Ann Surg 2023 January 20 (Epub 
+ahead of print).
+
+22. Basch E, Dueck AC, Mitchell SA, et al. Patient-reported outcomes during and after treatment for 
+locally advanced rectal cancer in the PROSPECT trial. J Clin Oncol (in press).
+
+23. Bruheim K, Guren MG, Skovlund E, et al. Late side effects and quality of life after radiotherapy 
+for rectal cancer. Int J Radiat Oncol Biol Phys 2010; 76: 1005–11. [PubMed: 19540058] 
+
+24. Cercek A, Lumish M, Sinopoli J, et al. PD-1 blockade in mismatch repair-deficient, locally 
+advanced rectal cancer. N Engl J Med 2022; 386:2 363–76.
+
+25. Cercek A, Roxburgh CSD, Strombom P, et al. Adoption of total neoadjuvant therapy for locally 
+advanced rectal cancer. JAMA Oncol 2018; 4(6): e180071.
+
+26. Rahma OE, Yothers G, Hong TS, et al. Use of total neoadjuvant therapy for locally advanced rectal 
+cancer: initial results from the pembrolizumab arm of a phase 2 randomized clinical trial. JAMA 
+Oncol 2021; 7:1 225–30.
+
+27. Garcia-Aguilar J, Patil S, Gollub MJ, et al. Organ preservation in patients with rectal 
+adenocarcinoma treated with total neoadjuvant therapy. J Clin Oncol 2022; 40:2 546–56. 
+[PubMed: 34985966] 
+
+Schrag et al. Page 12
+
+N Engl J Med. Author manuscript; available in PMC 2024 January 27.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+Figure 1. Enrollment, Randomization, and Follow-up.
+Sites were not required to provide screening logs during the recruitment phase, and therefore 
+
+the number of patients assessed for eligibility is not available. FOLFOX consists of 
+
+fluorouracil, leucovorin, and oxaliplatin; the chemoradiotherapy used in the trial consisted 
+
+of pelvic radiation therapy plus sensitizing chemotherapy with a fluoropyrimidine. Patients 
+
+in the FOLFOX group received six cycles of FOLFOX, with chemoradiotherapy given 
+
+only if the primary tumor decreased in size by less than 20% or if FOLFOX was 
+
+Schrag et al. Page 13
+
+N Engl J Med. Author manuscript; available in PMC 2024 January 27.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+discontinued because of side effects; patients in the chemoradiotherapy group received 
+
+chemoradiotherapy alone.
+
+Schrag et al. Page 14
+
+N Engl J Med. Author manuscript; available in PMC 2024 January 27.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+Figure 2. Noninferiority Margin and Kaplan–Meier Curves for Disease-free Survival, Overall 
+Survival, and Freedom from Local Recurrence.
+In Panel A, the dashed line at a hazard ratio of 1.29 indicates the noninferiority 
+
+margin. Values to the left of 1.29 are those for which FOLFOX with selective use 
+
+of chemoradiotherapy would be considered noninferior to chemoradiotherapy alone with 
+
+respect to disease-free survival. The adjusted hazard ratio was estimated with a multivariable 
+
+Cox model with adjustment for age and nodal status (node-positive vs. node-negative). The 
+
+widths of the confidence intervals in Panels C and D have not been adjusted for multiplicity, 
+
+and therefore these intervals should not be used to infer definitive treatment effects. NI 
+
+denotes noninferiority.
+
+Schrag et al. Page 15
+
+N Engl J Med. Author manuscript; available in PMC 2024 January 27.
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+Schrag et al. Page 16
+
+Ta
+b
+
+le
+ 1
+
+.
+
+D
+em
+
+og
+ra
+
+ph
+ic
+
+ a
+nd
+
+ C
+lin
+
+ic
+al
+
+ C
+ha
+
+ra
+ct
+
+er
+is
+
+tic
+s 
+
+of
+ th
+
+e 
+Pa
+
+tie
+nt
+
+s 
+at
+
+ B
+as
+
+el
+in
+
+e 
+(P
+
+er
+-P
+
+ro
+to
+
+co
+l P
+
+op
+ul
+
+at
+io
+
+n)
+.*
+
+C
+ha
+
+ra
+ct
+
+er
+is
+
+ti
+c
+
+F
+O
+
+L
+F
+
+O
+X
+
+ G
+ro
+
+up
+ (
+
+N
+ =
+
+ 5
+85
+
+)
+C
+
+he
+m
+
+or
+ad
+
+io
+th
+
+er
+ap
+
+y 
+G
+
+ro
+up
+
+ (
+N
+
+ =
+ 5
+
+43
+)
+
+A
+ge
+
+ —
+ y
+
+r
+
+ 
+M
+
+ea
+n
+
+57
+.3
+
+±
+10
+
+.9
+57
+
+.0
+±
+
+11
+.1
+
+ 
+M
+
+ed
+ia
+
+n 
+(r
+
+an
+ge
+
+)
+57
+
+ (
+19
+
+–9
+1)
+
+57
+ (
+
+25
+–8
+
+4)
+
+Se
+x 
+
+—
+ n
+
+o.
+ (
+
+%
+)
+
+ 
+Fe
+
+m
+al
+
+e
+21
+
+6 
+(3
+
+6.
+9)
+
+17
+3 
+
+(3
+1.
+
+9)
+
+ 
+M
+
+al
+e
+
+36
+9 
+
+(6
+3.
+
+1)
+37
+
+0 
+(6
+
+8.
+1)
+
+R
+ac
+
+e 
+—
+
+ n
+o.
+
+ (
+%
+
+)†
+
+ 
+W
+
+hi
+te
+
+49
+2 
+
+(8
+4.
+
+1)
+46
+
+7 
+(8
+
+6.
+0)
+
+ 
+B
+
+la
+ck
+
+32
+ (
+
+5.
+5)
+
+17
+ (
+
+3.
+1)
+
+ 
+A
+
+si
+an
+
+31
+ (
+
+5.
+3)
+
+19
+ (
+
+3.
+5)
+
+ 
+O
+
+th
+er
+
+ o
+r 
+
+no
+t r
+
+ep
+or
+
+te
+d
+
+30
+ (
+
+5.
+1)
+
+40
+ (
+
+7.
+4)
+
+H
+is
+
+pa
+ni
+
+c 
+or
+
+ L
+at
+
+in
+o 
+
+et
+hn
+
+ic
+ g
+
+ro
+up
+
+†
+
+ 
+Y
+
+es
+48
+
+ (
+8.
+
+2)
+48
+
+ (
+8.
+
+8)
+
+ 
+N
+
+o
+51
+
+6 
+(8
+
+8.
+2)
+
+47
+5 
+
+(8
+7.
+
+5)
+
+ 
+U
+
+nk
+no
+
+w
+n 
+
+or
+ n
+
+ot
+ r
+
+ep
+or
+
+te
+d
+
+21
+ (
+
+3.
+6)
+
+20
+ (
+
+3.
+7)
+
+C
+ou
+
+nt
+ry
+
+ o
+f 
+
+re
+si
+
+de
+nc
+
+e 
+—
+
+ n
+o.
+
+ (
+%
+
+)
+
+ 
+C
+
+an
+ad
+
+a
+51
+
+ (
+8.
+
+7)
+45
+
+ (
+8.
+
+3)
+
+ 
+Sw
+
+itz
+er
+
+la
+nd
+
+10
+ (
+
+1.
+7)
+
+9 
+(1
+
+.7
+)
+
+ 
+U
+
+ni
+te
+
+d 
+St
+
+at
+es
+
+52
+4 
+
+(8
+9.
+
+6)
+48
+
+9 
+(9
+
+0.
+1)
+
+B
+od
+
+y-
+m
+
+as
+s 
+
+in
+de
+
+x‡
+
+ 
+M
+
+ea
+n
+
+29
+.3
+
+±
+6.
+
+0
+29
+
+.1
+±
+
+6.
+7
+
+ 
+M
+
+ed
+ia
+
+n 
+(r
+
+an
+ge
+
+)
+28
+
+.4
+ (
+
+14
+.5
+
+–6
+5.
+
+4)
+28
+
+.1
+ (
+
+15
+.8
+
+–8
+1.
+
+4)
+
+ 
+D
+
+is
+tr
+
+ib
+ut
+
+io
+n 
+
+—
+ n
+
+o.
+ (
+
+%
+)
+
+ 
+ 
+
+<
+18
+
+.5
+4 
+
+(0
+.7
+
+)
+6 
+
+(1
+.1
+
+)
+
+ 
+ 
+
+≥1
+8.
+
+5 
+to
+
+ <
+25
+
+12
+7 
+
+(2
+1.
+
+7)
+13
+
+9 
+(2
+
+5.
+6)
+
+ 
+ 
+
+≥2
+5 
+
+to
+ <
+
+30
+22
+
+5 
+(3
+
+8.
+5)
+
+20
+0 
+
+(3
+6.
+
+8)
+
+ 
+ 
+
+≥3
+0
+
+22
+9 
+
+(3
+9.
+
+1)
+19
+
+8 
+(3
+
+6.
+5)
+
+H
+is
+
+to
+ry
+
+ o
+f 
+
+di
+ab
+
+et
+es
+
+ —
+ n
+
+o.
+ (
+
+%
+)
+
+N Engl J Med. Author manuscript; available in PMC 2024 January 27.
+
+
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+Schrag et al. Page 17
+
+C
+ha
+
+ra
+ct
+
+er
+is
+
+ti
+c
+
+F
+O
+
+L
+F
+
+O
+X
+
+ G
+ro
+
+up
+ (
+
+N
+ =
+
+ 5
+85
+
+)
+C
+
+he
+m
+
+or
+ad
+
+io
+th
+
+er
+ap
+
+y 
+G
+
+ro
+up
+
+ (
+N
+
+ =
+ 5
+
+43
+)
+
+ 
+Y
+
+es
+81
+
+ (
+13
+
+.8
+)
+
+83
+ (
+
+15
+.3
+
+)
+
+ 
+N
+
+o
+50
+
+4 
+(8
+
+6.
+2)
+
+46
+0 
+
+(8
+4.
+
+7)
+
+H
+is
+
+to
+ry
+
+ o
+f 
+
+ca
+rd
+
+io
+va
+
+sc
+ul
+
+ar
+ d
+
+is
+ea
+
+se
+ —
+
+ n
+o.
+
+ (
+%
+
+)
+10
+
+6 
+(1
+
+8.
+1)
+
+98
+ (
+
+18
+.0
+
+)
+
+St
+ar
+
+tin
+g 
+
+ne
+oa
+
+dj
+uv
+
+an
+t t
+
+re
+at
+
+m
+en
+
+t —
+ n
+
+o.
+ (
+
+%
+)
+
+47
+9 
+
+(8
+1.
+
+9)
+44
+
+5 
+(8
+
+2.
+0)
+
+H
+ig
+
+he
+st
+
+ e
+du
+
+ca
+tio
+
+n 
+le
+
+ve
+l —
+
+ n
+o.
+
+/to
+ta
+
+l n
+o.
+
+ (
+%
+
+)
+
+ 
+L
+
+es
+s 
+
+th
+an
+
+ h
+ig
+
+h 
+sc
+
+ho
+ol
+
+29
+/5
+
+68
+ (
+
+5.
+1)
+
+29
+/5
+
+31
+ (
+
+5.
+5)
+
+ 
+H
+
+ig
+h 
+
+sc
+ho
+
+ol
+ d
+
+ip
+lo
+
+m
+a 
+
+or
+ G
+
+E
+D
+
+ c
+er
+
+tif
+ic
+
+at
+e
+
+21
+4/
+
+56
+8 
+
+(3
+7.
+
+7)
+20
+
+1/
+53
+
+1 
+(3
+
+7.
+9)
+
+ 
+So
+
+m
+e 
+
+co
+lle
+
+ge
+11
+
+9/
+56
+
+8 
+(2
+
+1.
+0)
+
+10
+2/
+
+53
+1 
+
+(1
+9.
+
+2)
+
+ 
+C
+
+ol
+le
+
+ge
+ d
+
+eg
+re
+
+e 
+or
+
+ h
+ig
+
+he
+r
+
+20
+6/
+
+56
+8 
+
+(3
+6.
+
+3)
+19
+
+9/
+53
+
+1 
+(3
+
+7.
+5)
+
+E
+C
+
+O
+G
+
+ p
+er
+
+fo
+rm
+
+an
+ce
+
+-s
+ta
+
+tu
+s 
+
+sc
+or
+
+e 
+—
+
+ n
+o.
+
+ (
+%
+
+)§
+
+ 
+0 
+
+or
+ 1
+
+58
+2 
+
+(9
+9.
+
+5)
+54
+
+0 
+(9
+
+9.
+4)
+
+ 
+2
+
+3 
+(0
+
+.5
+)
+
+3 
+(0
+
+.6
+)
+
+Pr
+im
+
+ar
+y 
+
+re
+ct
+
+al
+ tu
+
+m
+or
+
+ o
+n 
+
+di
+gi
+
+ta
+l e
+
+xa
+m
+
+in
+at
+
+io
+n 
+
+—
+ n
+
+o.
+/to
+
+ta
+l n
+
+o.
+ (
+
+%
+)
+
+ 
+R
+
+ec
+ta
+
+l t
+um
+
+or
+ n
+
+ot
+ p
+
+al
+pa
+
+bl
+e
+
+29
+0/
+
+58
+0 
+
+(5
+0.
+
+0)
+25
+
+9/
+53
+
+6 
+(4
+
+8.
+3)
+
+ 
+R
+
+ec
+ta
+
+l t
+um
+
+or
+ p
+
+al
+pa
+
+bl
+e
+
+29
+0/
+
+58
+0 
+
+(5
+0.
+
+0)
+27
+
+7/
+53
+
+6 
+(5
+
+1.
+7)
+
+R
+ec
+
+ta
+l t
+
+um
+or
+
+ lo
+ca
+
+tio
+n 
+
+—
+ c
+
+m
+ f
+
+ro
+m
+
+ a
+na
+
+l v
+er
+
+ge
+
+ 
+N
+
+o.
+ o
+
+f 
+pa
+
+tie
+nt
+
+s 
+w
+
+ith
+ d
+
+at
+a
+
+58
+5
+
+54
+2
+
+ 
+M
+
+ea
+n
+
+8.
+6±
+
+2.
+9
+
+8.
+5±
+
+2.
+8
+
+ 
+M
+
+ed
+ia
+
+n 
+(r
+
+an
+ge
+
+)
+8 
+
+(2
+–2
+
+5)
+8 
+
+(2
+–1
+
+8)
+
+R
+ec
+
+ta
+l t
+
+um
+or
+
+ lo
+ca
+
+tio
+n 
+
+—
+ n
+
+o.
+ (
+
+%
+)
+
+ 
+≤5
+
+ c
+m
+
+ f
+ro
+
+m
+ a
+
+na
+l v
+
+er
+ge
+
+83
+ (
+
+14
+.2
+
+)
+90
+
+ (
+16
+
+.6
+)
+
+ 
+>
+
+5 
+to
+
+ ≤
+10
+
+ c
+m
+
+ f
+ro
+
+m
+ a
+
+na
+l v
+
+er
+ge
+
+37
+5 
+
+(6
+4.
+
+1)
+34
+
+4 
+(6
+
+3.
+4)
+
+ 
+>
+
+10
+ c
+
+m
+ f
+
+ro
+m
+
+ a
+na
+
+l v
+er
+
+ge
+12
+
+7 
+(2
+
+1.
+7)
+
+10
+9 
+
+(2
+0.
+
+1)
+
+C
+lin
+
+ic
+al
+
+ s
+ta
+
+ge
+ —
+
+ n
+o.
+
+/to
+ta
+
+l n
+o.
+
+ (
+%
+
+)
+
+ 
+T
+
+2 
+no
+
+de
+ p
+
+os
+iti
+
+ve
+63
+
+/5
+84
+
+ (
+10
+
+.8
+)
+
+38
+/5
+
+43
+ (
+
+7.
+0)
+
+ 
+T
+
+3 
+no
+
+de
+ n
+
+eg
+at
+
+iv
+e
+
+23
+2/
+
+58
+4 
+
+(3
+9.
+
+7)
+19
+
+8/
+54
+
+3 
+(3
+
+6.
+5)
+
+ 
+T
+
+3 
+no
+
+de
+ p
+
+os
+iti
+
+ve
+28
+
+9/
+58
+
+4 
+(4
+
+9.
+5)
+
+30
+7/
+
+54
+3 
+
+(5
+6.
+
+5)
+
+St
+ag
+
+in
+g 
+
+pe
+rf
+
+or
+m
+
+ed
+ w
+
+ith
+ M
+
+R
+I 
+
+—
+ n
+
+o.
+ (
+
+%
+)
+
+ 
+Y
+
+es
+49
+
+4 
+(8
+
+4.
+4)
+
+45
+8 
+
+(8
+4.
+
+3)
+
+ 
+N
+
+o
+91
+
+ (
+15
+
+.6
+)
+
+85
+ (
+
+15
+.7
+
+)
+
+N Engl J Med. Author manuscript; available in PMC 2024 January 27.
+
+
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+Schrag et al. Page 18
+* Pl
+
+us
+–m
+
+in
+us
+
+ v
+al
+
+ue
+s 
+
+ar
+e 
+
+m
+ea
+
+ns
+ ±
+
+SD
+. T
+
+he
+ p
+
+er
+-p
+
+ro
+to
+
+co
+l p
+
+op
+ul
+
+at
+io
+
+n 
+in
+
+cl
+ud
+
+ed
+ a
+
+ll 
+th
+
+e 
+pa
+
+tie
+nt
+
+s 
+w
+
+ho
+ r
+
+ec
+ei
+
+ve
+d 
+
+an
+y 
+
+do
+se
+
+ o
+f 
+
+tr
+ea
+
+tm
+en
+
+t. 
+FO
+
+L
+FO
+
+X
+ c
+
+on
+si
+
+st
+s 
+
+of
+ f
+
+lu
+or
+
+ou
+ra
+
+ci
+l, 
+
+le
+uc
+
+ov
+or
+
+in
+, a
+
+nd
+ o
+
+xa
+lip
+
+la
+tin
+
+; t
+he
+
+ 
+ch
+
+em
+or
+
+ad
+io
+
+th
+er
+
+ap
+y 
+
+us
+ed
+
+ in
+ th
+
+e 
+tr
+
+ia
+l c
+
+on
+si
+
+st
+ed
+
+ o
+f 
+
+pe
+lv
+
+ic
+ r
+
+ad
+ia
+
+tio
+n 
+
+th
+er
+
+ap
+y 
+
+pl
+us
+
+ s
+en
+
+si
+tiz
+
+in
+g 
+
+ch
+em
+
+ot
+he
+
+ra
+py
+
+ w
+ith
+
+ a
+ f
+
+lu
+or
+
+op
+yr
+
+im
+id
+
+in
+e.
+
+ P
+at
+
+ie
+nt
+
+s 
+in
+
+ th
+e 
+
+FO
+L
+
+FO
+X
+
+ g
+ro
+
+up
+ r
+
+ec
+ei
+
+ve
+d 
+
+si
+x 
+
+cy
+cl
+
+es
+ o
+
+f 
+FO
+
+L
+FO
+
+X
+, w
+
+ith
+ 
+
+ch
+em
+
+or
+ad
+
+io
+th
+
+er
+ap
+
+y 
+gi
+
+ve
+n 
+
+on
+ly
+
+ if
+ th
+
+e 
+pr
+
+im
+ar
+
+y 
+tu
+
+m
+or
+
+ d
+ec
+
+re
+as
+
+ed
+ in
+
+ s
+iz
+
+e 
+by
+
+ le
+ss
+
+ th
+an
+
+ 2
+0%
+
+ o
+r 
+
+if
+ F
+
+O
+L
+
+FO
+X
+
+ w
+as
+
+ d
+is
+
+co
+nt
+
+in
+ue
+
+d 
+be
+
+ca
+us
+
+e 
+of
+
+ s
+id
+
+e 
+ef
+
+fe
+ct
+
+s;
+ p
+
+at
+ie
+
+nt
+s 
+
+in
+ th
+
+e 
+ch
+
+em
+or
+
+ad
+io
+
+th
+er
+
+ap
+y 
+
+gr
+ou
+
+p 
+re
+
+ce
+iv
+
+ed
+ 
+
+ch
+em
+
+or
+ad
+
+io
+th
+
+er
+ap
+
+y 
+al
+
+on
+e.
+
+ P
+er
+
+ce
+nt
+
+ag
+es
+
+ m
+ay
+
+ n
+ot
+
+ to
+ta
+
+l 1
+00
+
+ b
+ec
+
+au
+se
+
+ o
+f 
+
+ro
+un
+
+di
+ng
+
+. G
+E
+
+D
+ d
+
+en
+ot
+
+es
+ G
+
+en
+er
+
+al
+ E
+
+du
+ca
+
+tio
+na
+
+l D
+ev
+
+el
+op
+
+m
+en
+
+t.
+
+† R
+ac
+
+e 
+an
+
+d 
+et
+
+hn
+ic
+
+ g
+ro
+
+up
+ w
+
+er
+e 
+
+re
+po
+
+rt
+ed
+
+ b
+y 
+
+th
+e 
+
+pa
+tie
+
+nt
+s.
+
+‡ T
+he
+
+ b
+od
+
+y-
+m
+
+as
+s 
+
+in
+de
+
+x 
+is
+
+ th
+e 
+
+w
+ei
+
+gh
+t i
+
+n 
+ki
+
+lo
+gr
+
+am
+s 
+
+di
+vi
+
+de
+d 
+
+by
+ th
+
+e 
+sq
+
+ua
+re
+
+ o
+f 
+
+th
+e 
+
+he
+ig
+
+ht
+ in
+
+ m
+et
+
+er
+s.
+
+ T
+hr
+
+ee
+ p
+
+at
+ie
+
+nt
+s 
+
+ha
+d 
+
+la
+rg
+
+e 
+va
+
+lu
+es
+
+ (
+>
+
+65
+),
+
+ tw
+o 
+
+as
+ a
+
+ r
+es
+
+ul
+t o
+
+f 
+an
+
+ u
+nu
+
+su
+al
+
+ly
+ s
+
+ho
+rt
+
+ h
+ei
+
+gh
+t (
+
+≤1
+08
+
+ c
+m
+
+) 
+an
+
+d 
+on
+
+e 
+be
+
+ca
+us
+
+e 
+of
+
+ a
+n 
+
+un
+us
+
+ua
+lly
+
+ h
+ig
+
+h 
+w
+
+ei
+gh
+
+t (
+20
+
+5 
+kg
+
+).
+ T
+
+he
+ s
+
+ite
+s 
+
+co
+nf
+
+ir
+m
+
+ed
+ th
+
+at
+ th
+
+es
+e 
+
+da
+ta
+
+ w
+er
+
+e 
+co
+
+rr
+ec
+
+t.
+
+§ E
+as
+
+te
+rn
+
+ C
+oo
+
+pe
+ra
+
+tiv
+e 
+
+O
+nc
+
+ol
+og
+
+y 
+G
+
+ro
+up
+
+ (
+E
+
+C
+O
+
+G
+) 
+
+pe
+rf
+
+or
+m
+
+an
+ce
+
+-s
+ta
+
+tu
+s 
+
+sc
+or
+
+es
+ r
+
+an
+ge
+
+ f
+ro
+
+m
+ 0
+
+ to
+ 5
+
+, w
+ith
+
+ h
+ig
+
+he
+r 
+
+sc
+or
+
+es
+ in
+
+di
+ca
+
+tin
+g 
+
+gr
+ea
+
+te
+r 
+
+di
+sa
+
+bi
+lit
+
+y.
+
+N Engl J Med. Author manuscript; available in PMC 2024 January 27.
+
+
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+Schrag et al. Page 19
+
+Ta
+b
+
+le
+ 2
+
+.
+
+Su
+rg
+
+ic
+al
+
+ a
+nd
+
+ P
+at
+
+ho
+lo
+
+gi
+ca
+
+l S
+ec
+
+on
+da
+
+ry
+ a
+
+nd
+ E
+
+xp
+lo
+
+ra
+to
+
+ry
+ E
+
+nd
+ P
+
+oi
+nt
+
+s 
+in
+
+ P
+at
+
+ie
+nt
+
+s 
+in
+
+ th
+e 
+
+Pe
+r-
+
+Pr
+ot
+
+oc
+ol
+
+ P
+op
+
+ul
+at
+
+io
+n 
+
+W
+ho
+
+ U
+nd
+
+er
+w
+
+en
+t S
+
+ur
+ge
+
+ry
+.
+
+E
+nd
+
+ P
+oi
+
+nt
+F
+
+O
+L
+
+F
+O
+
+X
+ G
+
+ro
+up
+
+ (
+N
+
+ =
+ 5
+
+35
+)
+
+C
+he
+
+m
+or
+
+ad
+io
+
+th
+er
+
+ap
+y 
+
+G
+ro
+
+up
+ (
+
+N
+ =
+
+ 5
+10
+
+)
+
+Se
+co
+
+nd
+ar
+
+y 
+en
+
+d 
+po
+
+in
+ts
+
+C
+om
+
+pl
+et
+
+en
+es
+
+s 
+of
+
+ r
+ec
+
+ta
+l r
+
+es
+ec
+
+tio
+n 
+
+—
+ n
+
+o.
+ (
+
+%
+)*
+
+ 
+R
+
+0
+52
+
+9 
+(9
+
+8.
+9)
+
+49
+5 
+
+(9
+7.
+
+1)
+
+ 
+R
+
+1
+6 
+
+(1
+.1
+
+)
+14
+
+ (
+2.
+
+7)
+
+ 
+R
+
+2
+0
+
+1 
+(0
+
+2)
+
+Pa
+th
+
+ol
+og
+
+ic
+al
+
+ c
+om
+
+pl
+et
+
+e 
+re
+
+sp
+on
+
+se
+ —
+
+ n
+o.
+
+ (
+%
+
+)†
+
+ 
+Y
+
+es
+11
+
+7 
+(2
+
+1.
+9)
+
+12
+4 
+
+(2
+4.
+
+3)
+
+ 
+N
+
+o
+41
+
+8 
+(7
+
+8.
+1)
+
+38
+6 
+
+(7
+5.
+
+7)
+
+O
+th
+
+er
+ s
+
+ur
+gi
+
+ca
+l a
+
+nd
+ p
+
+at
+ho
+
+lo
+gi
+
+ca
+l e
+
+nd
+ p
+
+oi
+nt
+
+s
+
+M
+ed
+
+ia
+n 
+
+tim
+e 
+
+fr
+om
+
+ r
+an
+
+do
+m
+
+iz
+at
+
+io
+n 
+
+to
+ s
+
+ur
+ge
+
+ry
+ (
+
+in
+te
+
+rq
+ua
+
+rt
+ile
+
+ r
+an
+
+ge
+) 
+
+—
+ w
+
+k
+19
+
+.0
+ (
+
+17
+.1
+
+–2
+1.
+
+1)
+15
+
+.6
+ (
+
+14
+.6
+
+–1
+7.
+
+0)
+
+M
+ed
+
+ia
+n 
+
+tim
+e 
+
+fr
+om
+
+ e
+nd
+
+ o
+f 
+
+pr
+eo
+
+pe
+ra
+
+tiv
+e 
+
+th
+er
+
+ap
+y 
+
+to
+ s
+
+ur
+ge
+
+ry
+ (
+
+in
+te
+
+rq
+ua
+
+rt
+ile
+
+ r
+an
+
+ge
+) 
+
+—
+ w
+
+k‡
+4.
+
+6 
+(3
+
+.1
+–6
+
+.3
+)
+
+7.
+7 
+
+(6
+.9
+
+–9
+.0
+
+)
+
+Ty
+pe
+
+ o
+f 
+
+su
+rg
+
+er
+y 
+
+—
+ n
+
+o.
+ (
+
+%
+)
+
+ 
+A
+
+bd
+om
+
+in
+al
+
+ p
+er
+
+in
+ea
+
+l r
+es
+
+ec
+tio
+
+n
+13
+
+ (
+2.
+
+4)
+10
+
+ (
+2.
+
+0)
+
+ 
+L
+
+ow
+ a
+
+nt
+er
+
+io
+r 
+
+re
+se
+
+ct
+io
+
+n
+52
+
+2 
+(9
+
+7.
+6)
+
+50
+0 
+
+(9
+8.
+
+0)
+
+H
+is
+
+to
+lo
+
+gi
+c 
+
+gr
+ad
+
+e 
+—
+
+ n
+o.
+
+/to
+ta
+
+l n
+o.
+
+ (
+%
+
+)§
+
+ 
+G
+
+1 
+or
+
+ G
+2
+
+39
+6/
+
+53
+5 
+
+(7
+4.
+
+0)
+34
+
+4/
+50
+
+4 
+(6
+
+8.
+3)
+
+ 
+G
+
+3 
+or
+
+ G
+4
+
+22
+/5
+
+35
+ (
+
+4.
+1)
+
+27
+/5
+
+04
+ (
+
+5.
+4)
+
+ 
+G
+
+X
+11
+
+7/
+53
+
+5 
+(2
+
+1.
+9)
+
+13
+3/
+
+50
+4 
+
+(2
+6.
+
+4)
+
+R
+ad
+
+ia
+l m
+
+ar
+gi
+
+n 
+ca
+
+te
+go
+
+ry
+ —
+
+ n
+o.
+
+/to
+ta
+
+l n
+o.
+
+ (
+%
+
+)¶
+
+ 
+≤1
+
+ m
+m
+
+6/
+50
+
+9 
+(1
+
+.2
+)
+
+7/
+46
+
+9 
+(1
+
+.5
+)
+
+ 
+>
+
+1 
+m
+
+m
+ b
+
+ut
+ ≤
+
+3 
+m
+
+m
+26
+
+/5
+09
+
+ (
+5.
+
+1)
+31
+
+/4
+69
+
+ (
+6.
+
+6)
+
+ 
+>
+
+3 
+m
+
+m
+47
+
+7/
+50
+
+9 
+(9
+
+3.
+7)
+
+43
+1/
+
+46
+9 
+
+(9
+1.
+
+9)
+
+Pa
+th
+
+ol
+og
+
+ic
+al
+
+ tu
+m
+
+or
+ s
+
+ta
+ge
+
+ a
+ft
+
+er
+ n
+
+eo
+ad
+
+ju
+va
+
+nt
+ th
+
+er
+ap
+
+y 
+—
+
+ n
+o.
+
+/to
+ta
+
+l n
+o.
+
+ (
+%
+
+)
+
+ 
+yp
+
+T
+0
+
+12
+1/
+
+53
+4 
+
+(2
+2.
+
+7)
+12
+
+5/
+50
+
+6 
+(2
+
+4.
+7)
+
+ 
+yp
+
+T
+1
+
+56
+/5
+
+34
+ (
+
+10
+.5
+
+)
+50
+
+/5
+06
+
+ (
+9.
+
+9)
+
+ 
+yp
+
+T
+2
+
+18
+3/
+
+53
+4 
+
+(3
+4.
+
+3)
+15
+
+6/
+50
+
+6 
+(3
+
+0.
+8)
+
+ 
+yp
+
+T
+3
+
+16
+9/
+
+53
+4 
+
+(3
+1.
+
+6)
+17
+
+3/
+50
+
+6 
+(3
+
+4.
+2)
+
+ 
+yp
+
+T
+4
+
+5/
+53
+
+4 
+(0
+
+.9
+)
+
+2/
+50
+
+6 
+(0
+
+.4
+)
+
+N Engl J Med. Author manuscript; available in PMC 2024 January 27.
+
+
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+A
+uthor M
+
+anuscript
+A
+
+uthor M
+anuscript
+
+Schrag et al. Page 20
+
+E
+nd
+
+ P
+oi
+
+nt
+F
+
+O
+L
+
+F
+O
+
+X
+ G
+
+ro
+up
+
+ (
+N
+
+ =
+ 5
+
+35
+)
+
+C
+he
+
+m
+or
+
+ad
+io
+
+th
+er
+
+ap
+y 
+
+G
+ro
+
+up
+ (
+
+N
+ =
+
+ 5
+10
+
+)
+
+Pa
+th
+
+ol
+og
+
+ic
+al
+
+ n
+od
+
+e 
+st
+
+at
+us
+
+ a
+ft
+
+er
+ n
+
+eo
+ad
+
+ju
+va
+
+nt
+ th
+
+er
+ap
+
+y 
+—
+
+ n
+o.
+
+ (
+%
+
+)
+
+ 
+yp
+
+N
+0
+
+40
+0 
+
+(7
+4.
+
+8)
+39
+
+0 
+(7
+
+6.
+5)
+
+ 
+yp
+
+N
+1
+
+10
+8 
+
+(2
+0.
+
+2)
+10
+
+4 
+(2
+
+0.
+4)
+
+ 
+yp
+
+N
+2
+
+27
+ (
+
+5.
+0)
+
+16
+ (
+
+3.
+1)
+
+Pa
+th
+
+ol
+og
+
+ic
+al
+
+ m
+et
+
+as
+ta
+
+tic
+ s
+
+ta
+tu
+
+s 
+—
+
+ n
+o.
+
+/to
+ta
+
+l n
+o.
+
+ (
+%
+
+)
+
+ 
+M
+
+0
+52
+
+0/
+52
+
+1 
+(9
+
+9.
+8)
+
+49
+4/
+
+49
+9 
+
+(9
+9.
+
+0)
+
+ 
+M
+
+1a
+1/
+
+52
+1 
+
+(0
+.2
+
+)
+5/
+
+49
+9 
+
+(1
+.0
+
+)
+
+T
+um
+
+or
+ r
+
+eg
+re
+
+ss
+io
+
+n 
+gr
+
+ad
+e 
+
+—
+ n
+
+o.
+/to
+
+ta
+l n
+
+o.
+ (
+
+%
+)‖
+
+ 
+Pa
+
+th
+ol
+
+og
+ic
+
+al
+ c
+
+om
+pl
+
+et
+e 
+
+re
+sp
+
+on
+se
+
+ o
+r 
+
+gr
+ad
+
+e 
+0
+
+12
+3/
+
+53
+3 
+
+(2
+3.
+
+1)
+12
+
+7/
+51
+
+0 
+(2
+
+4.
+9)
+
+ 
+G
+
+ra
+de
+
+ 1
+16
+
+1/
+53
+
+3 
+(3
+
+0.
+2)
+
+20
+0/
+
+51
+0 
+
+(3
+9.
+
+2)
+
+ 
+G
+
+ra
+de
+
+ 2
+14
+
+6/
+53
+
+3 
+(2
+
+7.
+4)
+
+15
+1/
+
+51
+0 
+
+(2
+9.
+
+6)
+
+ 
+G
+
+ra
+de
+
+ 3
+10
+
+3/
+53
+
+3 
+(1
+
+9.
+3)
+
+32
+/5
+
+10
+ (
+
+6.
+3)
+
+* A
+n 
+
+R
+0 
+
+(c
+om
+
+pl
+et
+
+e)
+ r
+
+es
+ec
+
+tio
+n 
+
+w
+as
+
+ d
+ef
+
+in
+ed
+
+ a
+s 
+
+a 
+su
+
+rg
+ic
+
+al
+ s
+
+pe
+ci
+
+m
+en
+
+ w
+ith
+
+ n
+o 
+
+tu
+m
+
+or
+ id
+
+en
+tif
+
+ie
+d 
+
+w
+ith
+
+in
+ 1
+
+ m
+m
+
+ o
+f 
+
+an
+y 
+
+su
+rg
+
+ic
+al
+
+ m
+ar
+
+gi
+n 
+
+an
+d 
+
+no
+ m
+
+ac
+ro
+
+sc
+op
+
+ic
+ e
+
+vi
+de
+
+nc
+e 
+
+of
+ r
+
+es
+id
+
+ua
+l t
+
+um
+or
+
+.
+
+† Pa
+th
+
+ol
+og
+
+ic
+al
+
+ c
+om
+
+pl
+et
+
+e 
+re
+
+sp
+on
+
+se
+ w
+
+as
+ c
+
+on
+fi
+
+rm
+ed
+
+ if
+ th
+
+e 
+su
+
+rg
+ic
+
+al
+ p
+
+at
+ho
+
+lo
+gy
+
+ r
+ep
+
+or
+t s
+
+ho
+w
+
+ed
+ n
+
+o 
+ev
+
+id
+en
+
+ce
+ o
+
+f 
+tu
+
+m
+or
+
+.
+
+‡ T
+he
+
+ e
+nd
+
+ o
+f 
+
+ne
+oa
+
+dj
+uv
+
+an
+t t
+
+he
+ra
+
+py
+ w
+
+as
+ d
+
+ef
+in
+
+ed
+ a
+
+s 
+th
+
+e 
+st
+
+ar
+t d
+
+at
+e 
+
+of
+ th
+
+e 
+la
+
+st
+ c
+
+yc
+le
+
+ o
+f 
+
+FO
+L
+
+FO
+X
+
+ p
+lu
+
+s 
+2 
+
+w
+ee
+
+ks
+ f
+
+or
+ p
+
+at
+ie
+
+nt
+s 
+
+w
+ho
+
+ r
+ec
+
+ei
+ve
+
+d 
+ne
+
+oa
+dj
+
+uv
+an
+
+t F
+O
+
+L
+FO
+
+X
+ o
+
+nl
+y 
+
+an
+d 
+
+as
+ th
+
+e 
+en
+
+d 
+da
+
+te
+ o
+
+f 
+pr
+
+eo
+pe
+
+ra
+tiv
+
+e 
+ra
+
+di
+at
+
+io
+n 
+
+tr
+ea
+
+tm
+en
+
+t f
+or
+
+ p
+at
+
+ie
+nt
+
+s 
+in
+
+ e
+ith
+
+er
+ g
+
+ro
+up
+
+ w
+ho
+
+ r
+ec
+
+ei
+ve
+
+d 
+ne
+
+oa
+dj
+
+uv
+an
+
+t c
+he
+
+m
+or
+
+ad
+io
+
+th
+er
+
+ap
+y.
+
+§ A
+ h
+
+is
+to
+
+lo
+gi
+
+c 
+gr
+
+ad
+e 
+
+of
+ G
+
+1 
+in
+
+di
+ca
+
+te
+s 
+
+w
+el
+
+l d
+if
+
+fe
+re
+
+nt
+ia
+
+te
+d,
+
+ G
+2 
+
+m
+od
+
+er
+at
+
+el
+y 
+
+di
+ff
+
+er
+en
+
+tia
+te
+
+d,
+ G
+
+3 
+po
+
+or
+ly
+
+ d
+if
+
+fe
+re
+
+nt
+ia
+
+te
+d,
+
+ G
+4 
+
+un
+di
+
+ff
+er
+
+en
+tia
+
+te
+d 
+
+or
+ a
+
+na
+pl
+
+as
+tic
+
+, a
+nd
+
+ G
+X
+
+ n
+ot
+
+ a
+ss
+
+es
+sa
+
+bl
+e.
+
+¶ A
+ m
+
+ar
+gi
+
+n 
+of
+
+ 1
+ m
+
+m
+ o
+
+r 
+le
+
+ss
+ w
+
+as
+ c
+
+on
+si
+
+de
+re
+
+d 
+po
+
+si
+tiv
+
+e 
+in
+
+ a
+cc
+
+or
+da
+
+nc
+e 
+
+w
+ith
+
+ th
+e 
+
+C
+an
+
+ce
+r S
+
+ta
+gi
+
+ng
+ M
+
+an
+ua
+
+l o
+f 
+
+th
+e 
+
+A
+m
+
+er
+ic
+
+an
+ J
+
+oi
+nt
+
+ C
+om
+
+m
+itt
+
+ee
+ o
+
+n 
+C
+
+an
+ce
+
+r, 
+7t
+
+h 
+ed
+
+iti
+on
+
+; g
+re
+
+at
+er
+
+ th
+an
+
+ 1
+ m
+
+m
+ b
+
+ut
+ n
+
+o 
+gr
+
+ea
+te
+
+r 
+th
+
+an
+ 3
+
+ m
+m
+
+ is
+ 
+
+co
+ns
+
+id
+er
+
+ed
+ n
+
+eg
+at
+
+iv
+e 
+
+(b
+ut
+
+ c
+lo
+
+se
+ to
+
+ p
+os
+
+iti
+ve
+
+),
+ a
+
+nd
+ g
+
+re
+at
+
+er
+ th
+
+an
+ 3
+
+ m
+m
+
+ is
+ c
+
+on
+si
+
+de
+re
+
+d 
+ne
+
+ga
+tiv
+
+e.
+
+‖ T
+um
+
+or
+ r
+
+eg
+re
+
+ss
+io
+
+n 
+gr
+
+ad
+es
+
+ r
+an
+
+ge
+ f
+
+ro
+m
+
+ 0
+ to
+
+ 3
+, w
+
+ith
+ h
+
+ig
+he
+
+r 
+gr
+
+ad
+es
+
+ in
+di
+
+ca
+tin
+
+g 
+gr
+
+ea
+te
+
+r 
+de
+
+gr
+ee
+
+s 
+of
+
+ p
+at
+
+ho
+lo
+
+gi
+ca
+
+l r
+es
+
+po
+ns
+
+e.
+
+N Engl J Med. Author manuscript; available in PMC 2024 January 27.
+
+
+	Abstract
+	Methods
+	TRIAL DESIGN AND PATIENTS
+	TRIAL OVERSIGHT
+	RANDOMIZATION AND PROCEDURES
+	END POINTS
+	STATISTICAL ANALYSIS
+
+	Results
+	PATIENTS
+	DISEASE-FREE SURVIVAL
+	OVERALL SURVIVAL AND LOCAL RECURRENCE
+	PATHOLOGICAL AND SURGICAL SECONDARY END POINTS
+	NEOADJUVANT TREATMENT DURATION AND ADHERENCE
+	POSTOPERATIVE TREATMENT
+	SAFETY
+
+	Discussion
+	References
+	Figure 1.
+	Figure 2
+	Table 1.
+	Table 2.
+
